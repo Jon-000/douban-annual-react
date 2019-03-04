@@ -1,29 +1,20 @@
 
 import React from 'react';
 import styled from 'styled-components';
-import { red } from 'ansi-colors';
 
 // interface props {
 //   pageData
 // }
 
-class Top10Page extends React.Component {
+function Top10Page(props) {
 
-  constructor(props) {
-    super(props);
-  }
-
-  render() {
-    const {pageData} = this.props;
-    return (
-      <Container cc="green" bgUrl={pageData.payload.mobile_background_img}>
-
-      </Container>
-    )
-  }
-
-
+  return (
+    <Container cc="green" bgUrl={props.pageData.payload.mobile_background_img}>
+  
+    </Container>
+  )
 }
+
 
 export default Top10Page;
 
@@ -32,5 +23,8 @@ width: 100%;
 height: 100%;
 display: relative;
 background: ${props => props.cc || "red"};
-background-image: url(${props => props.bgUrl})
+background-image: url(${props => props.bgUrl});
+background-size: cover;
+background-position: 50%;
+// z-index: 0;
 `

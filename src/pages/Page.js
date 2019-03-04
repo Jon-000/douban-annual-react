@@ -4,40 +4,41 @@ import styled from 'styled-components';
 import StartPage from './StartPage';
 import Top10Page from './Top10Page';
 
-class Page extends React.Component {
-
-  constructor(props) {
-    super(props);
-  }
-
-  componentDidMount() {
-    this.getOnePage(this.props.PageIndex)
-  }
-
-  getOnePage(n) {
-    this.props.getOnePage(n)
-  }
-  render() {
-    if (this.props.PageData.kind === 0) {
+function Page(props) {
+  console.log('page component')
+  if (props.pageData === undefined) {
+    return (
+      <Container>Loading...</Container>
+    )
+  } else if (props.pageData.kind === 0) {
       return(
-        <StartPage PageData={this.props.PageData}></StartPage>
+        <Container pageIndex={props.pageIndex}>
+          <StartPage pageData={props.pageData}></StartPage>
+        </Container>
       )
-    } else if (this.props.PageData.kind ===1) {
+    } else if (props.pageData.kind ===1) {
       return (
-        <Top10Page pageData={this.props.PageData}></Top10Page>
+        <Container pageIndex={props.pageIndex}>
+          <Top10Page pageData={props.pageData}></Top10Page>
+        </Container>
       )
     } else {
       return (
-        <Container>Nothing</Container>
+        <Container pageIndex={props.pageIndex}>
+          <div>这个类型的模板没写</div>
+        </Container>
       )
     }
-  }
-  
 
 }
 
 export default Page;
 
 const Container = styled.div`
-
+width:100%;
+height:100%;
+position: absolute;
+transform: translate(0, ${
+  props => props.pageIndex * 100
+}%);
 `

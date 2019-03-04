@@ -3,26 +3,19 @@ import React from 'react';
 import styled from 'styled-components';
 
 // interface props {
-//   PageData
+//   pageData
 // }
 
-class StartPage extends React.Component {
-
-  constructor(props) {
-    super(props)
-  }
-
-  render() {
-    return (
-      <Container>
-        <TitleImage src={this.props.PageData.payload.mobile_title_img}></TitleImage>
-        <BgImage style={{backgroundImage: `url(${this.props.PageData.payload.mobile_background_img})`}}></BgImage>
-        <BottomInfo>
-          <Description>{this.props.PageData.payload.description}</Description>
-        </BottomInfo>
-      </Container>
-    )
-  }
+function StartPage(props){
+  return (
+    <Container>
+      <TitleImage src={props.pageData.payload.mobile_title_img}></TitleImage>
+      <BgImage style={{backgroundImage: `url(${props.pageData.payload.mobile_background_img})`}}></BgImage>
+      <BottomInfo>
+        <Description>{props.pageData.payload.description}</Description>
+      </BottomInfo>
+    </Container>
+  )
 }
 
 export default StartPage
@@ -31,6 +24,7 @@ const Container = styled.div`
   width: 100%;
   height: 100%;
   position: relative;
+  background: #000;
 `
 
 const TitleImage = styled.img`
