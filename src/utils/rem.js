@@ -1,5 +1,5 @@
 // 基准大小
-const baseSize = 13
+const baseSize = 10
 // 设置 rem 函数
 function setRem () {
   // 当前页面宽度相对于 750 宽的缩放比例，可根据自己需要修改。

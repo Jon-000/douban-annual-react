@@ -5,13 +5,14 @@ import './App.css';
 import { api_movie2018 } from './services/doubanApi';
 import Pages from './pages/Pages';
 import Page from './pages/Page'
+import Header from './header/Header';
 
 class App extends Component {
 
   constructor(props) {
     super(props);
     this.state = {
-      currentPageIndex: 0,
+      currentPageIndex: 1,
       pages: {},
     }
   }
@@ -71,7 +72,9 @@ class App extends Component {
     return (
       <div className="App">
         <Container>
-          <Header></Header>
+          <HeaderContianer>
+            <Header></Header>
+          </HeaderContianer>
 
           <Pages currentPageIndex={this.state.currentPageIndex}>
             {
@@ -85,8 +88,8 @@ class App extends Component {
             }
           </Pages>
 
-          <ButtonNext onClick={this.buttonNextHandler}>
-            <IconNext></IconNext>
+          <ButtonNext  onClick={this.buttonNextHandler}>
+            <IconNext width="1.6rem" height="1.6rem"></IconNext>
           </ButtonNext>
         </Container>
       </div>
@@ -115,12 +118,11 @@ const Container = styled.div`
   position:relative;
 `
 
-const Header = styled.header`
+const HeaderContianer = styled.header`
 width: 100%;
 height: 3rem;
 position: fixed;
-background: blue;
-opacity: 0.2;
+// background: rgba(0,0,0,.4);
 z-index:2;
 `
 
@@ -128,27 +130,27 @@ const IconNext = styled.div`
 &::before {
   display: block;
   content: '';
-  width: 1.5rem;
-  height: 1.5rem;
+  width: ${props => props.width};
+  height: ${props => props.height};
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADmwAAA5sBPN8HMQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEOSURBVGiB7dfNToNAFIZhuEZsNLGJS/C2NY2LdmFc0tbXDRNPyAwFhflpvjfphjAz5wllQVUppZRSSim1JOAJ+ALegCb1POOAB+AAfAK70E01cOS3C/AcedZgwH6YyXUC6tDNFpINxoMA+Jha8OhZkBQTQFxu/vWBBuhHC7+BLtLsdpbX4WxbP/v9zQHzb4TZKBlmNYTZMDpmdYTZOBoG6DZBmAM2x2yOMAdthomGMAeujomOMAevhkmGMAOEMO2CPdIizCB/xmSDMAMtxmSHMIPNxmSLcM3BZI9wBTBX4AVoi0C48H87nD3XsvhgmyzwZMp4EuMmMOUgXB5MeQjXgHkffmUilFJKKaXU/fQD/JJjbhigL+0AAAAASUVORK5CYII=);
   background-size: contain;
 }
-@media only screen and (max-width: 414px) {
-  width: 1.5rem;
-  height: 1.5rem;
-  }
+// @media only screen and (max-width: 414px) {
+//   width: ${props => props.width};
+//   height: ${props => props.height};
+//   }
 `
 
 const ButtonNext = styled.button`
   position: absolute;
-  bottom: 0.5rem;
+  bottom: 2rem;
   left: 50%;
   transform: translateX(-50%);
   z-index: 3;
   background: transparent;
   border-radius: 50%;
-  width: 1.5rem;
-  height: 1.5rem;
+  width: ${props => props.width};
+  height: ${props => props.height};
   border: none;
   padding: 0;
 

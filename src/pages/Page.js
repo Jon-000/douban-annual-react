@@ -2,7 +2,7 @@
 import React from 'react';
 import styled from 'styled-components';
 import StartPage from './StartPage';
-import Top10Page from './Top10Page';
+import Top10Page from './Top10Page/Top10Page';
 
 function Page(props) {
   console.log('page component')
