@@ -11,6 +11,9 @@ export function BarRating(props) {
     margin,
   } = props;
 
+  // rem 所以减三个
+  const starWidth = `${Number(singleBarHeight.substring(0,singleBarHeight.length-3))+ 0.1}rem`
+
   // if (reverseArray) ratingArray.reverse();
   const levels = ratingArray.length;
 
@@ -18,21 +21,21 @@ export function BarRating(props) {
       <RatingBar width={singleBarWidth} height={singleBarHeight}
         bgColor={"#ffac2d"}
         ratingScore={props.score}
-        style={{marginLeft: "5px"}}
+        style={{marginLeft: ".4rem"}}
         ></RatingBar>
   )
 
   return (
-    <div>
+    <div style={{textAlign: "right", }}>
       {
         ratingArray.map((rating, index )=> {
           let level = index + 1;
           let starArray = []
           for (let i = 1; i <= level; i++) {
-            starArray.push(<StarSVG width={singleBarHeight} height={singleBarHeight} key={'star'+ i + 'in' + index}></StarSVG>)
+            starArray.push(<StarSVG width={starWidth} height={starWidth} key={'star'+ i + 'in' + index}></StarSVG>)
           }
           return (
-            <div style={{textAlign: "right", fontSize: 0, margin: margin}} key={'bar' + index}>
+            <div style={{fontSize: 0, margin: margin}} key={'bar' + index}>
               <div style={{display: "inline-block", height: singleBarHeight}}>{[...starArray]}</div>
               <Bar score={rating} ></Bar>
             </div>

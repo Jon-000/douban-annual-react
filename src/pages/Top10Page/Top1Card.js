@@ -28,18 +28,18 @@ function Top1Card(props) {
         <MainRight>
           <H2>
             <StyledPlayIcon width425="1.6rem" height425="1.6rem"></StyledPlayIcon>
-            <a>{title}</a>
+            <a style={{color: "#fff"}}>{title}</a>
           </H2>
           <div>
             <RatingBand>
-              <span style={{fontSize: "1.1rem", paddingRight: "17px",display: "inline-block", position: "relative"}}>
+              <span style={{fontSize: "1.1rem", lineHeight: "2rem", paddingRight: "1.7rem",display: "inline-block", position: "relative"}}>
                 豆瓣评分
-                <span style={{fontSize: "8px", position: "absolute", top: "0", right: "0"}}>TM</span>
+                <span style={{fontSize: ".8rem", lineHeight: "normal", position: "absolute", top: "0", right: "0"}}>TM</span>
               </span>
             </RatingBand>
             <RatingContainer>
               <RatingSum>
-                <div style={{fontSize: "2.1rem", fontWeight: 500, lineHeight:1.4, textAlign: "center"}}>
+                <div style={{fontSize: "2.1rem", fontWeight: 500, lineHeight:"1.4", textAlign: "center"}}>
                   {rating.toFixed(1)}
                 </div>
                 <SvgLinearGradient id="half-gradient"></SvgLinearGradient>
@@ -50,7 +50,7 @@ function Top1Card(props) {
                 <BarRating ratingArray={rating_stats}
                   singleBarWidth="5.6rem" singleBarHeight="0.4rem" margin=".1rem 0"
                   ></BarRating>
-                <div style={{fontSize: "9px", color: "hsla(0,0%,100%,.6)"}} >{rating_count}人评分</div>
+                <div style={{textAlign: "right", fontSize: ".9rem", lineHeight: "1.3rem", color: "hsla(0,0%,100%,.6)"}} >{rating_count}人评分</div>
               </RatingDetail>
             </RatingContainer>
           </div>
@@ -76,6 +76,7 @@ color: white;
 
 const Title = styled.h1`
 font-size: 1.9rem;
+line-height: 2.8rem;
 font-weight: 700;
 margin: 0 1.2rem;
 padding: 0.8rem 0;
@@ -100,8 +101,8 @@ position: relative;
 `
 const MainRight = styled.div`
 display: block;
-float: left;
-
+display: flex;
+flex-direction: column;
 `
 
 const H2 = styled.h2`
@@ -110,6 +111,7 @@ font-size: 1.7rem;
 font-weight: 400;
 margin: 0;
 vertical-align: middle;
+
 `
 
 export const MovieCover = styled.a`
@@ -159,7 +161,7 @@ const PlayIcon = ({className}) => (
   </svg>
 )
 
-const StyledPlayIcon = styled(PlayIcon)`
+export const StyledPlayIcon = styled(PlayIcon)`
 display: inline-block;
 width: ${props => props.width425};
 height: ${props => props.height425};

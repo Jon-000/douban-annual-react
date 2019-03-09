@@ -30,7 +30,7 @@ export default function StarRating(props) {
   for(let i=1; i<=numOfEmptyStar; i++) {
     // StarComponentArray.push(emptyStar({width: singleStarWidth, height: singleStarHeight}))
     // 上面这种形式如何传入key?
-    StarComponentArray.push(<EmptyStar width={singleStarWidth} height={singleStarHeight} />)
+    StarComponentArray.push(<EmptyStar width={singleStarWidth} height={singleStarHeight} key={'empty' + i} />)
   }
   return (
     <div>

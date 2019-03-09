@@ -60,5 +60,7 @@ z-index: 3;
 
 const Description = styled.div`
   padding: 3.2rem;
+  font-size: 1.3rem;
+  line-height: 2rem;
 `
 

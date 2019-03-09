@@ -17,9 +17,13 @@ export default Pages;
 const Outer = styled.div`
 width: 100%;
 height: 100%;
-overflow: hidden;
+// overflow: hidden;
+// transform: translate(0, 
+//   ${props => (props.tY * -100) || 0}%
+//   );
 `
 const Inner = styled.div`
+background-color: #000;
 width: 100%;
 height: 100%;
 position: relative;

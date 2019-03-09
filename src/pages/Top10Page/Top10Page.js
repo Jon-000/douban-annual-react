@@ -22,7 +22,12 @@ function Top10Page(props) {
             subjects.map((s, index) => {
               if (index === 0 ) return
               return (
-                <StyledTop29Card topN={index + 1} coverUrl={s.cover} width="8rem" key={s.id} />
+                <StyledTop29Card topN={index + 1}
+                  coverUrl={s.cover}
+                  title={s.title}
+                  playable={s.playable}
+                  rating={s.rating.toFixed(1)}
+                  width="8rem" key={s.id} />
               )
             })
           }
@@ -61,8 +66,12 @@ align-items: flex-end;
 const Bottom = styled.div`
 width: 100%;
 overflow: auto;
-background: red;
 display: flex;
+flex-direaction: row;
+ &::-webkit-scrollbar {
+  display: none;
+}
+// background: red;
 `
 const StyledTop29Card = styled(Top29Card)`
 margin-left: 1.5rem;
