@@ -9,6 +9,7 @@ import Header from './header/Header';
 
 class App extends Component {
 
+  
   constructor(props) {
     super(props);
     this.state = {
@@ -22,6 +23,7 @@ class App extends Component {
 
 
   componentDidMount() {
+
     document.body.addEventListener("wheel",this.handleScroll)
     window.addEventListener("hashchange", this.handleHashChange)
 
@@ -61,7 +63,9 @@ class App extends Component {
     this._isScrolling = true;
     if (evt.deltaY > 0) {
       this.setState({
-        currentPageIndex: this.state.currentPageIndex + 1
+        currentPageIndex: 
+          // 检查是否到最后一页
+          this.state.currentPageIndex + 1 > 68 ? 68 : this.state.currentPageIndex + 1
       }, () => {
         this.getPagesAndSaveToState(this.state.currentPageIndex);
 
@@ -74,7 +78,10 @@ class App extends Component {
     } else {
       this.getPagesAndSaveToState(this.state.currentPageIndex);
 
-      this.setState({currentPageIndex: this.state.currentPageIndex - 1},
+      this.setState({currentPageIndex: 
+        // 检查是否到第一页
+        this.state.currentPageIndex - 1 < 0 ? 0 : this.state.currentPageIndex - 1
+        },
         () => {
           setTimeout(() => {
             this._isScrolling = false;
@@ -126,7 +133,7 @@ class App extends Component {
 
   shouldRenderPageIndex = (index) => {
     console.log(`shouldRenderPageIndex ${index}`)
-    const pages_length = 20
+    const pages_length = 68
     const currentPageIndex = index
     const shouldGetIndexArray = [
       currentPageIndex,

@@ -97,10 +97,10 @@ module.exports = function(webpackEnv) {
               },
               stage: 3,
             }),
-            require("postcss-pxtorem")({
-              "rootValue": 32,
-              "propList": ["*"]
-            })
+            // require("postcss-pxtorem")({
+            //   "rootValue": 32,
+            //   "propList": ["*"]
+            // })
           ],
           sourceMap: isEnvProduction ? shouldUseSourceMap : isEnvDevelopment,
         },

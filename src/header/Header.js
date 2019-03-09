@@ -15,6 +15,8 @@ export default function Header(props) {
 
   const onNavLiClick = (index) => {
     window.location.hash = `#${index}`
+    // 重新添加事件handler
+    onBtnMenuClick({showNav: false})
     setShowNav(false)
   }
 
