@@ -1,0 +1,185 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 43,
+    "id": 863,
+    "kind": 4,
+    "kind_cn": "\u4eba\u7269",
+    "kind_str": "person",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(52, 87, 139, .8)",
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3354.jpg",
+      "has_barrage": "on",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3485.jpg",
+      "subject_ids": "1274351, 1054440, 1044872, 1021999, 1000304, 1274261, 1341214, 1103667, 1027182, 1274263",
+      "title": "2018\u6700\u53d7\u5173\u6ce8\u7684\u5bfc\u6f14"
+    },
+    "people": [
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1363134033.35.jpg",
+        "id": "1274351",
+        "name": "\u662f\u679d\u88d5\u548c",
+        "name_en": "Hirokazu Koreeda",
+        "profession": "\u5bfc\u6f14",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1274351/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34602.jpg",
+        "id": "1054440",
+        "name": "\u53f2\u8482\u6587\u00b7\u65af\u76ae\u5c14\u4f2f\u683c",
+        "name_en": "Steven Spielberg",
+        "profession": "\u5236\u7247\u4eba",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1054440/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372326428.67.jpg",
+        "id": "1044872",
+        "name": "\u97e6\u65af\u00b7\u5b89\u5fb7\u68ee",
+        "name_en": "Wes Anderson",
+        "profession": "\u5bfc\u6f14",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1044872/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517818343.94.jpg",
+        "id": "1021999",
+        "name": "\u59dc\u6587",
+        "name_en": "Wen Jiang",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1021999/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1406649730.61.jpg",
+        "id": "1000304",
+        "name": "\u9a6c\u4e01\u00b7\u9ea6\u514b\u5510\u7eb3",
+        "name_en": "Martin McDonagh",
+        "profession": "\u7f16\u5267",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1000304/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p38530.jpg",
+        "id": "1274261",
+        "name": "\u8d3e\u6a1f\u67ef",
+        "name_en": "Zhangke Jia",
+        "profession": "\u5bfc\u6f14",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1274261/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1513848601.01.jpg",
+        "id": "1341214",
+        "name": "\u5ffb\u94b0\u5764",
+        "name_en": "Yukun Xin",
+        "profession": "\u5bfc\u6f14",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1341214/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1362368817.32.jpg",
+        "id": "1103667",
+        "name": "\u674e\u6ca7\u4e1c",
+        "name_en": "Chang-dong Lee",
+        "profession": "\u5236\u7247\u4eba",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1103667/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4294.jpg",
+        "id": "1027182",
+        "name": "\u5409\u5c14\u83ab\u00b7\u5fb7\u5c14\u00b7\u6258\u7f57",
+        "name_en": "Guillermo del Toro",
+        "profession": "\u5236\u7247\u4eba",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1027182/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p45669.jpg",
+        "id": "1274263",
+        "name": "\u5a04\u70e8",
+        "name_en": "Ye Lou",
+        "profession": "\u5bfc\u6f14",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1274263/"
+      }
+    ],
+    "status": 0,
+    "subject": {
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1363134033.35.jpg",
+      "color_scheme": {
+        "_avg_color": [
+          0.06547619047619037,
+          0.1555555555555556,
+          0.7058823529411765
+        ],
+        "_base_color": [
+          0.07407407407407436,
+          0.04639175257731957,
+          0.7607843137254902
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f7c79",
+        "primary_color_light": "a5a19e",
+        "secondary_color": "f9f7f4"
+      },
+      "id": "1274351",
+      "interest": {},
+      "name": "\u662f\u679d\u88d5\u548c",
+      "name_en": "Hirokazu Koreeda",
+      "playable": false,
+      "profession": "\u5bfc\u6f14",
+      "type": "celebrity",
+      "url": "https://movie.douban.com/celebrity/1274351/",
+      "works": [
+        {
+          "id": 27622447,
+          "title": "\u5c0f\u5077\u5bb6\u65cf"
+        },
+        {
+          "id": 25895901,
+          "title": "\u6d77\u8857\u65e5\u8bb0"
+        },
+        {
+          "id": 2222996,
+          "title": "\u6b65\u5c65\u4e0d\u505c"
+        },
+        {
+          "id": 1292337,
+          "title": "\u65e0\u4eba\u77e5\u6653"
+        },
+        {
+          "id": 26694988,
+          "title": "\u6bd4\u6d77\u66f4\u6df1"
+        },
+        {
+          "id": 10571509,
+          "title": "\u5982\u7236\u5982\u5b50"
+        },
+        {
+          "id": 4832288,
+          "title": "\u5947\u8ff9"
+        },
+        {
+          "id": 3534824,
+          "title": "\u7a7a\u6c14\u4eba\u5076"
+        },
+        {
+          "id": 26952153,
+          "title": "\u7b2c\u4e09\u5ea6\u5acc\u7591\u4eba"
+        },
+        {
+          "id": 1306885,
+          "title": "\u5e7b\u4e4b\u5149"
+        }
+      ]
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

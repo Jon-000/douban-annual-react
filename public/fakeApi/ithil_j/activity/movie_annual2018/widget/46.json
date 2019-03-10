@@ -1,0 +1,185 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 80,
+    "id": 877,
+    "kind": 4,
+    "kind_cn": "\u4eba\u7269",
+    "kind_str": "person",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(104, 70, 65, .8)",
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3335.jpg",
+      "has_barrage": "on",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3481.jpg",
+      "subject_ids": "1325862, 1049489, 1009405, 1031931, 1032680, 1356120, 1054435, 1012531, 1056177, 1246859",
+      "title": "2018\u6700\u53d7\u5173\u6ce8\u7684\u5916\u8bed\u7537\u6f14\u5458"
+    },
+    "people": [
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1485256351.47.jpg",
+        "id": "1325862",
+        "name": "\u8482\u83ab\u897f\u00b7\u67f4\u52d2\u6885\u5fb7",
+        "name_en": "Timoth\u00e9e Chalamet",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1325862/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5110.jpg",
+        "id": "1049489",
+        "name": "\u6c64\u59c6\u00b7\u54c8\u8fea",
+        "name_en": "Tom Hardy",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1049489/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41072.jpg",
+        "id": "1009405",
+        "name": "\u672c\u5c3c\u8fea\u514b\u7279\u00b7\u5eb7\u4f2f\u5df4\u5947",
+        "name_en": "Benedict Cumberbatch",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1009405/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13628.jpg",
+        "id": "1031931",
+        "name": "\u963f\u7c73\u5c14\u00b7\u6c57",
+        "name_en": "Aamir Khan",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1031931/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1383308533.62.jpg",
+        "id": "1032680",
+        "name": "\u6cb3\u6b63\u5b87",
+        "name_en": "Jung-woo Ha",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1032680/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516598354.03.jpg",
+        "id": "1356120",
+        "name": "\u8bfa\u4e9a\u00b7\u5c24\u4f69",
+        "name_en": "Noah Jupe",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1356120/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p567.jpg",
+        "id": "1054435",
+        "name": "\u6c64\u59c6\u00b7\u514b\u9c81\u65af",
+        "name_en": "Tom Cruise",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1054435/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p938.jpg",
+        "id": "1012531",
+        "name": "\u745e\u6069\u00b7\u9ad8\u65af\u6797",
+        "name_en": "Ryan Gosling",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1012531/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535945355.97.jpg",
+        "id": "1056177",
+        "name": "\u4e39\u5c3c\u5c14\u00b7\u6234-\u5218\u6613\u65af",
+        "name_en": "Daniel Day-Lewis",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1056177/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1416153279.38.jpg",
+        "id": "1246859",
+        "name": "\u5218\u4e9a\u4ec1",
+        "name_en": "Ah-in Yoo",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1246859/"
+      }
+    ],
+    "status": 0,
+    "subject": {
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1485256351.47.jpg",
+      "color_scheme": {
+        "_avg_color": [
+          0.9382716049382717,
+          0.12499999999999994,
+          0.8470588235294118
+        ],
+        "_base_color": [
+          0.9141414141414141,
+          0.13580246913580246,
+          0.9529411764705882
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f6e77",
+        "primary_color_light": "a58f9a",
+        "secondary_color": "f9f4f7"
+      },
+      "id": "1325862",
+      "interest": {},
+      "name": "\u8482\u83ab\u897f\u00b7\u67f4\u52d2\u6885\u5fb7",
+      "name_en": "Timoth\u00e9e Chalamet",
+      "playable": false,
+      "profession": "\u6f14\u5458",
+      "type": "celebrity",
+      "url": "https://movie.douban.com/celebrity/1325862/",
+      "works": [
+        {
+          "id": 1889243,
+          "title": "\u661f\u9645\u7a7f\u8d8a"
+        },
+        {
+          "id": 26799731,
+          "title": "\u8bf7\u4ee5\u4f60\u7684\u540d\u5b57\u547c\u5524\u6211"
+        },
+        {
+          "id": 26588314,
+          "title": "\u4f2f\u5fb7\u5c0f\u59d0"
+        },
+        {
+          "id": 10429716,
+          "title": "\u56fd\u571f\u5b89\u5168 \u7b2c\u4e8c\u5b63"
+        },
+        {
+          "id": 3059389,
+          "title": "\u6f02\u4eae\u7537\u5b69"
+        },
+        {
+          "id": 25722262,
+          "title": "\u7537\u4eba\u5973\u4eba\u548c\u5b69\u5b50"
+        },
+        {
+          "id": 26730826,
+          "title": "\u654c\u5bf9\u5206\u5b50"
+        },
+        {
+          "id": 27132528,
+          "title": "\u7b2c90\u5c4a\u5965\u65af\u5361\u9881\u5956\u5178\u793c"
+        },
+        {
+          "id": 26615739,
+          "title": "\u708e\u590f\u4e4b\u591c"
+        },
+        {
+          "id": 24722295,
+          "title": "\u71c3\u70e7\u84dd"
+        }
+      ]
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 911,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3492.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3613.jpg",
+      "subject_id": "26752088",
+      "text": "\u4e16\u754c\u4e0a\u53ea\u6709\u4e00\u79cd\u75c5\uff0c \u7a77\u75c5\u3002"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.052083333333333336,
+          0.4050632911392405,
+          0.30980392156862746
+        ],
+        "_base_color": [
+          0.033333333333333326,
+          0.5555555555555556,
+          0.1411764705882353
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4c2a22",
+        "primary_color_light": "723f32",
+        "secondary_color": "f9f5f4"
+      },
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519070834.jpg",
+      "directors": [
+        "\u6587\u7267\u91ce Muye Wen"
+      ],
+      "id": "26752088",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26752088/",
+      "orig_title": "",
+      "playable": true,
+      "rating": 9.0,
+      "rating_count": 1041690,
+      "rating_stats": [
+        0.0035164012326123896,
+        0.0035183211896053527,
+        0.04210369687718995,
+        0.2578310245850493,
+        0.693030556115543
+      ],
+      "title": "\u6211\u4e0d\u662f\u836f\u795e",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26752088/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

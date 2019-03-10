@@ -16,6 +16,8 @@ class App extends Component {
       currentPageIndex: 0,
       pages: {},
       summary: {},
+      innerWidth: 0,
+      innerHeight: 0,
     }
     // 这些状态的改变不应触发生命周期的update阶段,减少不必要的render调用等
     this._isScrolling = false
@@ -23,9 +25,11 @@ class App extends Component {
 
 
   componentDidMount() {
-
     document.body.addEventListener("wheel",this.handleScroll)
     window.addEventListener("hashchange", this.handleHashChange)
+    window.addEventListener('resize', this.updateWindowDimensions);
+
+    this.updateWindowDimensions();
 
     console.log("App Component did mount:")
     // 根据浏览器地址决定currentPageIndex的值,然后获取数据
@@ -53,8 +57,19 @@ class App extends Component {
   }
 
   componentWillUnmount() {
-    document.body.removeEventListener("wheel",this.handleScroll)
+        console.log(this.state.width)
+        document.body.removeEventListener("wheel",this.handleScroll)
     window.removeEventListener("hashchange", this.handleHashChange)
+    window.removeEventListener("resize", this.updateWindowDimensions);
+  }
+
+  updateWindowDimensions = () => {
+    this.setState({ innerWidth: window.innerWidth, innerHeight: window.innerHeight },
+      () => {
+        console.log(this.state.innerWidth)
+        console.log(this.state.innerHeight)
+      }
+      );
   }
 
   handleScroll = (evt) => {
@@ -163,7 +178,7 @@ class App extends Component {
 
   getSummary() {
     api_movie2018
-      .get('')
+      .get('summary.json')
       .then(res => {
         this.setState({summary: {...this.state.summary, ...res.data.res} })
       })
@@ -172,7 +187,7 @@ class App extends Component {
   getOnePage = (n, cb) => {
     console.log(`get onepage ${n}`)
     api_movie2018
-      .get(`/widget/${n}`)
+      .get(`/widget/${n}.json`)
       .then(res => {
         this.setState({pages: {...this.state.pages, [n]:res.data.res}})
       })
@@ -191,14 +206,14 @@ class App extends Component {
     return (
       <div className="App" ref={ref => this.appRef = ref}>
         <Container>
-          <HeaderContianer>
-            <Header
-              menu_infos={this.state.summary.widget_infos}
-              // background_musics={this.state.summary.payload.background_musics}
-              active_index={this.state.currentPageIndex}
-              onBtnMenuClick={this.rmOraddScrollEvtListenerByMenu}
-              ></Header>
-          </HeaderContianer>
+          <Header
+            innerWidth={this.state.innerWidth}
+            height="40px"
+            menu_infos={this.state.summary.widget_infos}
+            // background_musics={this.state.summary.payload.background_musics}
+            active_index={this.state.currentPageIndex}
+            onBtnMenuClick={this.rmOraddScrollEvtListenerByMenu}
+            ></Header>
 
           <Pages currentPageIndex={this.state.currentPageIndex}>
             {
@@ -207,6 +222,7 @@ class App extends Component {
                   key={i}
                   pageIndex={i}
                   pageData={this.state.pages[i]}
+                  innerWidth={this.state.innerWidth}
                   ></Page>
                 ))
             }
@@ -246,13 +262,7 @@ const Container = styled.div`
   position:relative;
 `
 
-const HeaderContianer = styled.div`
-width: 100%;
-height: 4rem;
-position: fixed;
-// background: rgba(0,0,0,.4);
-z-index: 3;
-`
+
 
 const IconNext = styled.div`
 &::before {

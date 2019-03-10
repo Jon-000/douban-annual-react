@@ -1,0 +1,63 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 902,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3786.jpg",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3893.jpg",
+      "subject_id": "26683723",
+      "text": "\u540e\u6765\u7684\u6211\u4eec\u4ec0\u4e48\u90fd\u6709\u4e86\uff0c\u5374\u6ca1\u6709\u4e86\u6211\u4eec\u3002"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.5869565217391305,
+          0.1223404255319149,
+          0.7372549019607844
+        ],
+        "_base_color": [
+          0.5942028985507247,
+          0.10849056603773585,
+          0.8313725490196079
+        ],
+        "is_dark": true,
+        "primary_color_dark": "71777f",
+        "primary_color_light": "939ba5",
+        "secondary_color": "f4f7f9"
+      },
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519994468.jpg",
+      "directors": [
+        "\u5218\u82e5\u82f1 Ren\u00e9 Liu"
+      ],
+      "id": "26683723",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26683723/",
+      "orig_title": "",
+      "playable": true,
+      "rating": 5.9,
+      "rating_count": 247923,
+      "rating_stats": [
+        0.11964601912690634,
+        0.20178039149251986,
+        0.3912303416786664,
+        0.19080117617163395,
+        0.09654207153027351
+      ],
+      "title": "\u540e\u6765\u7684\u6211\u4eec",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26683723/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

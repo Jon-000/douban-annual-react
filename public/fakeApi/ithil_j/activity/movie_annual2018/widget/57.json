@@ -1,0 +1,444 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 33,
+    "id": 870,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3544.jpg",
+      "description": "\u5f53\u534e\u5f69\u4e50\u7ae0\u594f\u54cd\u7684\u65f6\u5019\uff0c\u751f\u547d\u7684\u601d\u7ef4\u5728\u6ca1\u6709\u8d77\u70b9\uff0c\u6ca1\u6709\u7ec8\u70b9\u7684\u5b87\u5b99\u91cc\u6f2b\u6e38\uff0c\u4f38\u5411\u65e0\u9650\u7684\u672a\u77e5\uff0c\u63a2\u7d22\u90a3\u7ec8\u6781\u7684\u610f\u4e49\u3002\u4f1f\u5927\u7684\u7535\u5f71\u4e0d\u673d\uff0c\u4f1f\u5927\u7684Kubrick\u4e0d\u673d\u3002",
+      "has_barrage": "on",
+      "left": "off",
+      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3547.jpg",
+      "subject_ids": "1292226, 1293394, 1293852, 1296697, 1305605, 1295467, 1297996, 1307973, 1298197, 1293219",
+      "title": "2018\u4e0a\u662050\u5468\u5e74\u7684\u7535\u5f71",
+      "user_id": "1275416"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.9285714285714285,
+          0.07142857142857147,
+          0.3843137254901961
+        ],
+        "_base_color": [
+          0.7592592592592592,
+          0.23076923076923084,
+          0.15294117647058825
+        ],
+        "is_dark": true,
+        "primary_color_dark": "443a4c",
+        "primary_color_light": "665872",
+        "secondary_color": "f7f4f9"
+      },
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792189453.jpg",
+      "directors": [
+        "\u65af\u5766\u5229\u00b7\u5e93\u5e03\u91cc\u514b Stanley Kubrick"
+      ],
+      "id": "1292226",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/1292226/",
+      "orig_title": "2001: A Space Odyssey",
+      "playable": true,
+      "rating": 8.7,
+      "rating_count": 130718,
+      "rating_stats": [
+        0.013135145886564972,
+        0.02372282317660919,
+        0.11805566180633119,
+        0.29771722333573036,
+        0.5473691457947643
+      ],
+      "title": "2001\u592a\u7a7a\u6f2b\u6e38",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/1292226/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9285714285714285,
+            0.07142857142857147,
+            0.3843137254901961
+          ],
+          "_base_color": [
+            0.7592592592592592,
+            0.23076923076923084,
+            0.15294117647058825
+          ],
+          "is_dark": true,
+          "primary_color_dark": "443a4c",
+          "primary_color_light": "665872",
+          "secondary_color": "f7f4f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p792189453.jpg",
+        "id": "1292226",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1292226/",
+        "orig_title": "2001: A Space Odyssey",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 130718,
+        "rating_stats": [
+          0.013135145886564972,
+          0.02372282317660919,
+          0.11805566180633119,
+          0.29771722333573036,
+          0.5473691457947643
+        ],
+        "title": "2001\u592a\u7a7a\u6f2b\u6e38",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1292226/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08222222222222225,
+            0.4189944134078212,
+            0.7019607843137254
+          ],
+          "_base_color": [
+            0.08781362007168458,
+            0.41891891891891897,
+            0.8705882352941177
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f664a",
+          "primary_color_light": "a58460",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p792368479.jpg",
+        "id": "1293394",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1293394/",
+        "orig_title": "C'era una volta il West",
+        "playable": true,
+        "rating": 8.6,
+        "rating_count": 24811,
+        "rating_stats": [
+          0.0049171738341864495,
+          0.015194873241707308,
+          0.12853169964934907,
+          0.38938374108258433,
+          0.46197251219217284
+        ],
+        "title": "\u897f\u90e8\u5f80\u4e8b",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1293394/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.4222222222222223,
+            0.1327433628318583,
+            0.44313725490196076
+          ],
+          "_base_color": [
+            0.4166666666666667,
+            0.24615384615384606,
+            0.5098039215686274
+          ],
+          "is_dark": true,
+          "primary_color_dark": "394c43",
+          "primary_color_light": "567264",
+          "secondary_color": "f4f9f7"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1209403924.jpg",
+        "id": "1293852",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1293852/",
+        "orig_title": "Rosemary's Baby",
+        "playable": true,
+        "rating": 8.0,
+        "rating_count": 23817,
+        "rating_stats": [
+          0.007767560985850443,
+          0.023386656589830794,
+          0.2021665197128102,
+          0.49237939287063864,
+          0.27429986984086996
+        ],
+        "title": "\u7f57\u65af\u739b\u4e3d\u7684\u5a74\u513f",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1293852/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0813008130081301,
+            0.7109826589595376,
+            0.6784313725490196
+          ],
+          "_base_color": [
+            0.0520094562647754,
+            0.7921348314606741,
+            0.6980392156862745
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f3a1a",
+          "primary_color_light": "a54b22",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p915141074.jpg",
+        "id": "1296697",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1296697/",
+        "orig_title": "Planet of the Apes",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 22732,
+        "rating_stats": [
+          0.0044430758402252335,
+          0.015836705965159247,
+          0.18616927679042758,
+          0.5009677986978709,
+          0.2925831427063171
+        ],
+        "title": "\u4eba\u733f\u661f\u7403",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1296697/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5272108843537415,
+            0.3202614379084967,
+            0.6
+          ],
+          "_base_color": [
+            0.12757201646090535,
+            0.6923076923076923,
+            0.9176470588235294
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f6a27",
+          "primary_color_light": "a58a33",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1629215272.jpg",
+        "id": "1305605",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1305605/",
+        "orig_title": "Yellow Submarine",
+        "playable": false,
+        "rating": 8.8,
+        "rating_count": 7596,
+        "rating_stats": [
+          0.002764612954186414,
+          0.011848341232227487,
+          0.11058451816745656,
+          0.3353080568720379,
+          0.5394944707740916
+        ],
+        "title": "\u9ec4\u8272\u6f5c\u6c34\u8247",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1305605/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.047619047619047596,
+            0.13592233009708743,
+            0.807843137254902
+          ],
+          "_base_color": [
+            0.08333333333333331,
+            0.5531914893617021,
+            0.1843137254901961
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f5c38",
+          "primary_color_light": "a5774a",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2431798722.jpg",
+        "id": "1295467",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1295467/",
+        "orig_title": "Romeo and Juliet",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 7261,
+        "rating_stats": [
+          0.0022035532295827023,
+          0.0075747142266905385,
+          0.11609971078363862,
+          0.40352568516733234,
+          0.4705963365927558
+        ],
+        "title": "\u7f57\u5bc6\u6b27\u4e0e\u6731\u4e3d\u53f6",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1295467/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.25,
+            0.06896551724137931,
+            0.4549019607843137
+          ],
+          "_base_color": [
+            0.05555555555555569,
+            0.07317073170731715,
+            0.1607843137254902
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4846",
+          "primary_color_light": "726d6a",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2182915725.jpg",
+        "id": "1297996",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1297996/",
+        "orig_title": "Night of the Living Dead",
+        "playable": false,
+        "rating": 7.4,
+        "rating_count": 5571,
+        "rating_stats": [
+          0.009154550350026925,
+          0.041285227068748875,
+          0.36384850116675643,
+          0.4378029079159935,
+          0.14790881349847423
+        ],
+        "title": "\u6d3b\u6b7b\u4eba\u4e4b\u591c",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1297996/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.16666666666666666,
+            0.6299559471365639,
+            0.8901960784313725
+          ],
+          "_base_color": [
+            0.16666666666666666,
+            0.7732793522267206,
+            0.9686274509803922
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7f1c",
+          "primary_color_light": "a5a525",
+          "secondary_color": "f9f9f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1259593702.jpg",
+        "id": "1307973",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1307973/",
+        "orig_title": "If....",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 3231,
+        "rating_stats": [
+          0.004023522129371711,
+          0.013927576601671309,
+          0.19467657072113898,
+          0.5298669142680285,
+          0.2575054162797895
+        ],
+        "title": "\u5982\u679c",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1307973/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.7222222222222232,
+            0.013513513513513592,
+            0.8705882352941177
+          ],
+          "_base_color": [
+            0.8333333333333334,
+            0.07894736842105254,
+            0.14901960784313725
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f757f",
+          "primary_color_light": "a598a5",
+          "secondary_color": "f9f4f9"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2275282118.jpg",
+        "id": "1298197",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1298197/",
+        "orig_title": "Baisers vol\u00e9s",
+        "playable": false,
+        "rating": 7.8,
+        "rating_count": 2918,
+        "rating_stats": [
+          0.0027416038382453737,
+          0.021247429746401644,
+          0.2443454420836189,
+          0.5236463331048663,
+          0.2080191912268677
+        ],
+        "title": "\u5077\u543b",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1298197/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.11111111111111112,
+            0.20270270270270274,
+            0.8705882352941177
+          ],
+          "_base_color": [
+            0.1510416666666667,
+            0.13389121338912133,
+            0.9372549019607843
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7d6e",
+          "primary_color_light": "a5a38f",
+          "secondary_color": "f9f9f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2418457069.jpg",
+        "id": "1293219",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1293219/",
+        "orig_title": "Oliver!",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 2927,
+        "rating_stats": [
+          0.0027331738981892723,
+          0.018790570550051247,
+          0.19303040655961737,
+          0.49914588315681585,
+          0.2862999658353263
+        ],
+        "title": "\u96fe\u90fd\u5b64\u513f",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1293219/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img1.doubanio.com/icon/u1275416-68.jpg",
+      "id": "1275416",
+      "name": "Lan~die",
+      "url": "https://www.douban.com/people/Lan.die/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

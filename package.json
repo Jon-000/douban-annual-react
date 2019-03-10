@@ -71,7 +71,6 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "proxy": "https://movie.douban.com/",
   "jest": {
     "collectCoverageFrom": [
       "src/**/*.{js,jsx,ts,tsx}",

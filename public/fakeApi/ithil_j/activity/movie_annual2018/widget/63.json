@@ -1,0 +1,458 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 70,
+    "id": 874,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(58, 44, 81, .9)",
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3590.jpg",
+      "description": "\u8fd9\u90e8\u96be\u9053\u4e0d\u53eb\u590d\u6d3b\u8005\u8054\u76df\uff1f",
+      "extra": {
+        "showCover": "off"
+      },
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3795.jpg",
+      "subject_ids": "26100958, 26213252, 26667010, 1652592, 26835471, 27089612, 26931786, 26884354, 27087724, 6981153\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+      "title": "2019\u6700\u503c\u5f97\u671f\u5f85\u7684\u5916\u8bed\u7535\u5f71 ",
+      "user_id": "40261761"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.6494252873563219,
+          0.25217391304347825,
+          0.45098039215686275
+        ],
+        "_base_color": [
+          0.6609195402298851,
+          0.3866666666666667,
+          0.29411764705882354
+        ],
+        "is_dark": true,
+        "primary_color_dark": "2e2f4c",
+        "primary_color_light": "464772",
+        "secondary_color": "f4f5f9"
+      },
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541930323.jpg",
+      "directors": [
+        "\u5b89\u4e1c\u5c3c\u00b7\u7f57\u7d20 Anthony Russo",
+        "\u4e54\u00b7\u7f57\u7d20 Joe Russo"
+      ],
+      "id": "26100958",
+      "interest": {},
+      "is_released": false,
+      "m_url": "https://m.douban.com/movie/subject/26100958/",
+      "orig_title": "Avengers: Endgame",
+      "playable": false,
+      "rating": 0,
+      "rating_count": 0,
+      "rating_stats": [
+        0.07532467532467532,
+        0.006493506493506494,
+        0.04155844155844156,
+        0.09350649350649351,
+        0.7831168831168831
+      ],
+      "title": "\u590d\u4ec7\u8005\u8054\u76df4\uff1a\u7ec8\u5c40\u4e4b\u6218",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26100958/",
+      "wish_count": 64794
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6494252873563219,
+            0.25217391304347825,
+            0.45098039215686275
+          ],
+          "_base_color": [
+            0.6609195402298851,
+            0.3866666666666667,
+            0.29411764705882354
+          ],
+          "is_dark": true,
+          "primary_color_dark": "2e2f4c",
+          "primary_color_light": "464772",
+          "secondary_color": "f4f5f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541930323.jpg",
+        "id": "26100958",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/26100958/",
+        "orig_title": "Avengers: Endgame",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.07532467532467532,
+          0.006493506493506494,
+          0.04155844155844156,
+          0.09350649350649351,
+          0.7831168831168831
+        ],
+        "title": "\u590d\u4ec7\u8005\u8054\u76df4\uff1a\u7ec8\u5c40\u4e4b\u6218",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26100958/",
+        "wish_count": 64794
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.963768115942029,
+            0.4070796460176991,
+            0.44313725490196076
+          ],
+          "_base_color": [
+            0.9022988505747126,
+            0.6304347826086957,
+            0.1803921568627451
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c1c38",
+          "primary_color_light": "722a54",
+          "secondary_color": "f9f4f7"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2548870813.jpg",
+        "id": "26213252",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26213252/",
+        "orig_title": "Captain Marvel",
+        "playable": false,
+        "rating": 7.0,
+        "rating_count": 107199,
+        "rating_stats": [
+          0.023330441515312644,
+          0.054674017481506354,
+          0.35474211513167103,
+          0.3873636880941054,
+          0.17988973777740463
+        ],
+        "title": "\u60ca\u5947\u961f\u957f",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26213252/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0068027210884354,
+            0.4049586776859504,
+            0.4745098039215686
+          ],
+          "_base_color": [
+            0.9066666666666666,
+            0.4807692307692308,
+            0.20392156862745098
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c273c",
+          "primary_color_light": "723b5a",
+          "secondary_color": "f9f4f7"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549306702.jpg",
+        "id": "26667010",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/26667010/",
+        "orig_title": "Dark Phoenix",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.10869565217391304,
+          0.0,
+          0.16666666666666666,
+          0.18840579710144928,
+          0.5362318840579711
+        ],
+        "title": "X\u6218\u8b66\uff1a\u9ed1\u51e4\u51f0",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26667010/",
+        "wish_count": 36753
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5850340136054423,
+            0.3426573426573426,
+            0.5607843137254902
+          ],
+          "_base_color": [
+            0.5845771144278608,
+            0.5583333333333332,
+            0.47058823529411764
+          ],
+          "is_dark": true,
+          "primary_color_dark": "385b7f",
+          "primary_color_light": "4976a5",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2544987866.jpg",
+        "id": "1652592",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1652592/",
+        "orig_title": "Alita: Battle Angel",
+        "playable": false,
+        "rating": 7.6,
+        "rating_count": 264225,
+        "rating_stats": [
+          0.02180338726464188,
+          0.04330778692402309,
+          0.25723909546787777,
+          0.41288295959882676,
+          0.2647667707446305
+        ],
+        "title": "\u963f\u4e3d\u5854\uff1a\u6218\u6597\u5929\u4f7f",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1652592/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9722222222222221,
+            0.10344827586206896,
+            0.22745098039215686
+          ],
+          "_base_color": [
+            0.7142857142857143,
+            0.25,
+            0.10980392156862745
+          ],
+          "is_dark": true,
+          "primary_color_dark": "3e394c",
+          "primary_color_light": "5e5672",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2539729395.jpg",
+        "id": "26835471",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/26835471/",
+        "orig_title": "Pok\u00e9mon Detective Pikachu",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.07246376811594203,
+          0.014492753623188406,
+          0.10144927536231885,
+          0.21739130434782608,
+          0.5942028985507246
+        ],
+        "title": "\u5927\u4fa6\u63a2\u76ae\u5361\u4e18",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26835471/",
+        "wish_count": 22769
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.01709401709401709,
+            0.319672131147541,
+            0.47843137254901963
+          ],
+          "_base_color": [
+            0.04166666666666665,
+            0.289855072463768,
+            0.27058823529411763
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3b36",
+          "primary_color_light": "725951",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2532379702.jpg",
+        "id": "27089612",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/27089612/",
+        "orig_title": "A Rainy Day in New York",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.16666666666666666,
+          0.0,
+          0.4166666666666667,
+          0.16666666666666666,
+          0.25
+        ],
+        "title": "\u7ebd\u7ea6\u7684\u4e00\u4e2a\u96e8\u5929",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27089612/",
+        "wish_count": 16808
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9880952380952381,
+            0.5263157894736842,
+            0.5215686274509804
+          ],
+          "_base_color": [
+            0.990530303030303,
+            0.721311475409836,
+            0.47843137254901963
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f2328",
+          "primary_color_light": "a52e34",
+          "secondary_color": "f9f4f5"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2545521425.jpg",
+        "id": "26931786",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/26931786/",
+        "orig_title": "Spider-Man: Far From Home",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.10526315789473684,
+          0.015037593984962405,
+          0.09774436090225563,
+          0.20300751879699247,
+          0.5789473684210527
+        ],
+        "title": "\u8718\u86db\u4fa0\uff1a\u82f1\u96c4\u8fdc\u5f81",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26931786/",
+        "wish_count": 27726
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0784313725490196,
+            0.9392265193370166,
+            0.7098039215686275
+          ],
+          "_base_color": [
+            0.015624999999999981,
+            0.8648648648648648,
+            0.1450980392156863
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f1b11",
+          "primary_color_light": "a52316",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2549135719.jpg",
+        "id": "26884354",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/26884354/",
+        "orig_title": "The Lion King",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.10638297872340426,
+          0.02127659574468085,
+          0.02127659574468085,
+          0.19148936170212766,
+          0.6595744680851063
+        ],
+        "title": "\u72ee\u5b50\u738b",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26884354/",
+        "wish_count": 17004
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9743589743589745,
+            0.06220095693779896,
+            0.8196078431372549
+          ],
+          "_base_color": [
+            0.75,
+            0.00881057268722464,
+            0.8901960784313725
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7e7e7f",
+          "primary_color_light": "a5a4a5",
+          "secondary_color": "f7f4f9"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541065079.jpg",
+        "id": "27087724",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/27087724/",
+        "orig_title": "Once Upon a Time In Hollywood",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.0,
+          0.0,
+          0.09375,
+          0.125,
+          0.78125
+        ],
+        "title": "\u597d\u83b1\u575e\u5f80\u4e8b",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27087724/",
+        "wish_count": 21940
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.1333333333333333,
+            0.3571428571428572,
+            0.49411764705882355
+          ],
+          "_base_color": [
+            0.12146892655367232,
+            0.2587719298245615,
+            0.8941176470588236
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4738",
+          "primary_color_light": "726a55",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511418514.jpg",
+        "id": "6981153",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/6981153/",
+        "orig_title": "The Irishman",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.031914893617021274,
+          0.02127659574468085,
+          0.05319148936170213,
+          0.1595744680851064,
+          0.7340425531914894
+        ],
+        "title": "\u7231\u5c14\u5170\u4eba",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/6981153/",
+        "wish_count": 14145
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u40261761-2.jpg",
+      "id": "40261761",
+      "name": "airi\u2122",
+      "url": "https://www.douban.com/people/airi/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

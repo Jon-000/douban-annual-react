@@ -1,0 +1,186 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 79,
+    "id": 876,
+    "kind": 4,
+    "kind_cn": "\u4eba\u7269",
+    "kind_str": "person",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(128, 79, 90, 0.9)",
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3552.jpg",
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3808.jpg",
+      "subject_ids": "1312976, 1369135, 1027798, 1339442, 1037851, 1041014, 1274224, 1275756, 1362973, 1318720",
+      "title": "2018\u6700\u53d7\u5173\u6ce8\u7684\u534e\u8bed\u5973\u6f14\u5458"
+    },
+    "people": [
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545126001.52.jpg",
+        "id": "1312976",
+        "name": "\u8c2d\u5353",
+        "name_en": "Zhuo Tan",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1312976/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512553794.19.jpg",
+        "id": "1369135",
+        "name": "\u6587\u6dc7",
+        "name_en": "Vicky Chen",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1369135/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53446.jpg",
+        "id": "1027798",
+        "name": "\u5468\u8fc5",
+        "name_en": "Xun Zhou",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1027798/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1526309480.04.jpg",
+        "id": "1339442",
+        "name": "\u6625\u590f",
+        "name_en": "Jessie Li",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1339442/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p12653.jpg",
+        "id": "1037851",
+        "name": "\u5468\u97f5",
+        "name_en": "Yun Zhou",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1037851/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359895311.0.jpg",
+        "id": "1041014",
+        "name": "\u7ae0\u5b50\u6021",
+        "name_en": "Ziyi Zhang",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1041014/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36798.jpg",
+        "id": "1274224",
+        "name": "\u5468\u51ac\u96e8",
+        "name_en": "Dongyu Zhou",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1274224/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1367210981.95.jpg",
+        "id": "1275756",
+        "name": "\u4f5f\u4e3d\u5a05",
+        "name_en": "Liya Tong",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1275756/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1478066140.77.jpg",
+        "id": "1362973",
+        "name": "\u4efb\u7d20\u6c50",
+        "name_en": "Suxi Ren",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1362973/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501237550.08.jpg",
+        "id": "1318720",
+        "name": "\u8f9b\u82b7\u857e",
+        "name_en": "Zhilei Xin",
+        "profession": "\u6f14\u5458",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1318720/"
+      }
+    ],
+    "status": 0,
+    "subject": {
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545126001.52.jpg",
+      "color_scheme": {
+        "_avg_color": [
+          0.07692307692307691,
+          0.24186046511627912,
+          0.8431372549019608
+        ],
+        "_base_color": [
+          0.033333333333333305,
+          0.23437499999999994,
+          0.25098039215686274
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f6761",
+        "primary_color_light": "a5867e",
+        "secondary_color": "f9f5f4"
+      },
+      "id": "1312976",
+      "interest": {},
+      "name": "\u8c2d\u5353",
+      "name_en": "Zhuo Tan",
+      "playable": false,
+      "profession": "\u6f14\u5458",
+      "type": "celebrity",
+      "url": "https://movie.douban.com/celebrity/1312976/",
+      "works": [
+        {
+          "id": 26752088,
+          "title": "\u6211\u4e0d\u662f\u836f\u795e"
+        },
+        {
+          "id": 26647117,
+          "title": "\u66b4\u88c2\u65e0\u58f0"
+        },
+        {
+          "id": 26999852,
+          "title": "\u5ef6\u79a7\u653b\u7565"
+        },
+        {
+          "id": 27615233,
+          "title": "\u4f60\u597d\uff0c\u4e4b\u534e"
+        },
+        {
+          "id": 26284621,
+          "title": "\u8ffd\u51f6\u8005\u4e5f"
+        },
+        {
+          "id": 4135710,
+          "title": "Hello\uff01\u6811\u5148\u751f"
+        },
+        {
+          "id": 3690289,
+          "title": "\u6625\u98ce\u6c89\u9189\u7684\u591c\u665a"
+        },
+        {
+          "id": 25970953,
+          "title": "\u7693\u9567\u4f20"
+        },
+        {
+          "id": 4883425,
+          "title": "\u82b1"
+        },
+        {
+          "id": 10574621,
+          "title": "\u674e\u53ef\u4e50\u5bfb\u4eba\u8bb0"
+        }
+      ]
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 903,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3817.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3818.jpg",
+      "subject_id": "6390825",
+      "text": "\u667a\u8005\u5c06\u5efa\u7acb\u6865\u6881\uff0c\u800c\u611a\u8005\u5219\u5efa\u7acb\u9ad8\u5899\u3002"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.5,
+          0.17999999999999994,
+          0.39215686274509803
+        ],
+        "_base_color": [
+          0.18840579710144922,
+          0.1105769230769231,
+          0.8156862745098039
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4b4c44",
+        "primary_color_light": "717266",
+        "secondary_color": "f9f9f4"
+      },
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512123434.jpg",
+      "directors": [
+        "\u745e\u6069\u00b7\u5e93\u683c\u52d2 Ryan Coogler"
+      ],
+      "id": "6390825",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/6390825/",
+      "orig_title": "Black Panther",
+      "playable": true,
+      "rating": 6.5,
+      "rating_count": 294667,
+      "rating_stats": [
+        0.028316710048970534,
+        0.10375440751763855,
+        0.470344490560531,
+        0.2994940050972793,
+        0.09809038677558057
+      ],
+      "title": "\u9ed1\u8c79",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/6390825/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

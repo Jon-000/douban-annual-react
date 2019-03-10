@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 77,
+    "id": 842,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(73, 61, 102, .85)",
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3735.jpg",
+      "description": "\u53ef\u7231\u3001\u98ce\u8da3\u3001\u611f\u4eba\uff0c\u4e3b\u6d41\u94f6\u5e55\u4e0a\u72ec\u4e00\u65e0\u4e8c\u7684\u51fa\u67dc\u6545\u4e8b\u3002\u5b83\u6ca1\u6709\u8d1f\u9762\u6323\u624e\uff0c\u4e5f\u6ca1\u6709\u5b89\u5229\u8bf4\u6559\uff0c\u800c\u662f\u5e26\u7740\u6c14\u52bf\u5982\u8679\u7684\u9752\u6625\u6c14\u606f\uff0c\u8ba9\u7537\u4e3b\u7684\u4e00\u5c01\u5c01\u4fe1\u548c\u65c1\u767d\u89c1\u8bc1\u6210\u957f\u3002",
+      "has_barrage": "on",
+      "left": "off",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3736.jpg",
+      "subject_ids": "26654498, 26781703, 26979199, 26870023, 30172472, 30159390, 26656655, 11524958, 28461121, 26929023",
+      "title": "2018\u5e74\u5ea6LGBT\u7535\u5f71",
+      "user_id": "3540441"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.959349593495935,
+          0.6612903225806451,
+          0.7294117647058823
+        ],
+        "_base_color": [
+          0.706989247311828,
+          0.6326530612244898,
+          0.3843137254901961
+        ],
+        "is_dark": true,
+        "primary_color_dark": "422e7f",
+        "primary_color_light": "563ca5",
+        "secondary_color": "f6f4f9"
+      },
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523592367.jpg",
+      "directors": [
+        "\u683c\u91cc\u683c\u00b7\u4f2f\u5170\u8482 Greg Berlanti"
+      ],
+      "id": "26654498",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26654498/",
+      "orig_title": "Love, Simon",
+      "playable": false,
+      "rating": 8.3,
+      "rating_count": 116775,
+      "rating_stats": [
+        0.0032541211731963175,
+        0.013350460286876472,
+        0.16923142795975166,
+        0.46670092057375295,
+        0.3474630700064226
+      ],
+      "title": "\u7231\u4f60\uff0c\u897f\u8499",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26654498/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.959349593495935,
+            0.6612903225806451,
+            0.7294117647058823
+          ],
+          "_base_color": [
+            0.706989247311828,
+            0.6326530612244898,
+            0.3843137254901961
+          ],
+          "is_dark": true,
+          "primary_color_dark": "422e7f",
+          "primary_color_light": "563ca5",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523592367.jpg",
+        "id": "26654498",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26654498/",
+        "orig_title": "Love, Simon",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 116775,
+        "rating_stats": [
+          0.0032541211731963175,
+          0.013350460286876472,
+          0.16923142795975166,
+          0.46670092057375295,
+          0.3474630700064226
+        ],
+        "title": "\u7231\u4f60\uff0c\u897f\u8499",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26654498/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.4930555555555556,
+            0.18461538461538451,
+            0.5098039215686274
+          ],
+          "_base_color": [
+            0.5158730158730159,
+            0.24137931034482754,
+            0.6823529411764706
+          ],
+          "is_dark": true,
+          "primary_color_dark": "607c7f",
+          "primary_color_light": "7da1a5",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510209986.jpg",
+        "id": "26781703",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26781703/",
+        "orig_title": "God's Own Country",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 25044,
+        "rating_stats": [
+          0.0033540967896502154,
+          0.013496246605973487,
+          0.16950167704839483,
+          0.4573151253793324,
+          0.3563328541766491
+        ],
+        "title": "\u4e0a\u5e1d\u4e4b\u56fd",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26781703/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9027777777777779,
+            0.08823529411764706,
+            0.5333333333333333
+          ],
+          "_base_color": [
+            0.7878787878787877,
+            0.08661417322834648,
+            0.4980392156862745
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7c747f",
+          "primary_color_light": "a197a5",
+          "secondary_color": "f8f4f9"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2527725378.jpg",
+        "id": "26979199",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26979199/",
+        "orig_title": "Plaire, aimer et courir vite",
+        "playable": false,
+        "rating": 7.8,
+        "rating_count": 12168,
+        "rating_stats": [
+          0.004848783694937541,
+          0.026298487836949377,
+          0.25279421433267585,
+          0.4867685733070348,
+          0.22928994082840237
+        ],
+        "title": "\u559c\u6b22\uff0c\u8f7b\u543b\uff0c\u5feb\u8dd1",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26979199/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08333333333333333,
+            0.18478260869565213,
+            0.7215686274509804
+          ],
+          "_base_color": [
+            0.0813008130081301,
+            0.22777777777777788,
+            0.7058823529411765
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7062",
+          "primary_color_light": "a5927f",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2512189868.jpg",
+        "id": "26870023",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26870023/",
+        "orig_title": "\ud658\uc808\uae30",
+        "playable": false,
+        "rating": 7.6,
+        "rating_count": 3035,
+        "rating_stats": [
+          0.004942339373970346,
+          0.031630971993410216,
+          0.3051070840197694,
+          0.4672158154859967,
+          0.19110378912685339
+        ],
+        "title": "\u6362\u5b63\u671f",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26870023/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.07083333333333332,
+            0.3448275862068966,
+            0.4549019607843137
+          ],
+          "_base_color": [
+            0.07175925925925926,
+            0.33488372093023255,
+            0.8431372549019608
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3d32",
+          "primary_color_light": "725c4c",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516560274.jpg",
+        "id": "30172472",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30172472/",
+        "orig_title": "Gewoon Vrienden",
+        "playable": false,
+        "rating": 7.5,
+        "rating_count": 3853,
+        "rating_stats": [
+          0.008824292758889176,
+          0.04905268621853102,
+          0.34025434726187387,
+          0.3994290163508954,
+          0.20243965740981054
+        ],
+        "title": "\u597d\u670b\u53cb",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30172472/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.061111111111111116,
+            0.3846153846153847,
+            0.611764705882353
+          ],
+          "_base_color": [
+            0.0672043010752688,
+            0.3297872340425532,
+            0.7372549019607844
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f6655",
+          "primary_color_light": "a5856f",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2515187596.jpg",
+        "id": "30159390",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30159390/",
+        "orig_title": "Mario",
+        "playable": false,
+        "rating": 7.3,
+        "rating_count": 6010,
+        "rating_stats": [
+          0.008153078202995009,
+          0.039101497504159734,
+          0.38851913477537436,
+          0.42512479201331116,
+          0.13910149750415973
+        ],
+        "title": "\u6211\u7684\u51a0\u519b\u7537\u53cb",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30159390/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.02910052910052911,
+            0.7078651685393258,
+            0.34901960784313724
+          ],
+          "_base_color": [
+            0.009803921568627453,
+            0.6538461538461539,
+            0.10196078431372549
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c1d1a",
+          "primary_color_light": "722c27",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2425765403.jpg",
+        "id": "26656655",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26656655/",
+        "orig_title": "Freak Show",
+        "playable": false,
+        "rating": 7.4,
+        "rating_count": 3177,
+        "rating_stats": [
+          0.013849543594586088,
+          0.05350960025180988,
+          0.35127478753541075,
+          0.39691532892666037,
+          0.1844507396915329
+        ],
+        "title": "\u602a\u5947\u79c0",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26656655/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.16666666666666666,
+            0.03750000000000005,
+            0.3137254901960784
+          ],
+          "_base_color": [
+            0.5714285714285713,
+            0.12962962962962957,
+            0.21176470588235294
+          ],
+          "is_dark": true,
+          "primary_color_dark": "42484c",
+          "primary_color_light": "636c72",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2510857223.jpg",
+        "id": "11524958",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/11524958/",
+        "orig_title": "The Happy Prince",
+        "playable": false,
+        "rating": 7.2,
+        "rating_count": 3460,
+        "rating_stats": [
+          0.005202312138728324,
+          0.047398843930635835,
+          0.42485549132947975,
+          0.39277456647398845,
+          0.12976878612716763
+        ],
+        "title": "\u5feb\u4e50\u738b\u5b50",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/11524958/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.014367816091954033,
+            0.6744186046511628,
+            0.6745098039215687
+          ],
+          "_base_color": [
+            0.9166666666666666,
+            0.17647058823529413,
+            0.13333333333333333
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f6974",
+          "primary_color_light": "a58897",
+          "secondary_color": "f9f4f7"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512596311.jpg",
+        "id": "28461121",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/28461121/",
+        "orig_title": "Nina",
+        "playable": false,
+        "rating": 7.1,
+        "rating_count": 2147,
+        "rating_stats": [
+          0.01350721937587331,
+          0.06008383791336749,
+          0.44760130414531907,
+          0.35211923614345597,
+          0.12668840242198418
+        ],
+        "title": "\u59ae\u5a1c",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/28461121/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.16666666666666666,
+            0.2222222222222222,
+            0.17647058823529413
+          ],
+          "_base_color": [
+            0.0,
+            0.23076923076923078,
+            0.050980392156862744
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3a3a",
+          "primary_color_light": "725858",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2403100627.jpg",
+        "id": "26929023",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26929023/",
+        "orig_title": "Sue\u00f1o en otro idioma",
+        "playable": false,
+        "rating": 7.4,
+        "rating_count": 1515,
+        "rating_stats": [
+          0.0033003300330033004,
+          0.04950495049504951,
+          0.3590759075907591,
+          0.44752475247524753,
+          0.1405940594059406
+        ],
+        "title": "\u68a6\u5453\u96e8\u6797",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26929023/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u3540441-63.jpg",
+      "id": "3540441",
+      "name": "\u540c\u5fd7\u4ea6\u51e1\u4eba\u4e2d\u6587\u7ad9",
+      "url": "https://www.douban.com/people/3540441/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

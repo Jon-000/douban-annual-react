@@ -1,0 +1,65 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 913,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3376.jpg",
+      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3447.jpg",
+      "subject_id": "30244576",
+      "text": "\u5982\u679c\u8fde\u51fa\u95e8\u770b\u661f\u661f\u90fd\u505a\u4e0d\u5230\uff0c\u90a3\u4e48\u6559\u5979\u4eec\u8ffd\u9010\u661f\u8fb0\u8fd8\u6709\u4ec0\u4e48\u610f\u4e49\uff1f"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.09999999999999994,
+          0.13698630136986292,
+          0.28627450980392155
+        ],
+        "_base_color": [
+          0.0,
+          0.0,
+          0.13333333333333333
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4c4c4c",
+        "primary_color_light": "727272",
+        "secondary_color": "f9f4f4"
+      },
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2525545214.jpg",
+      "directors": [
+        "\u51e1\u59ae\u838e\u00b7\u5361\u65af\u5a01\u5c14 Vanessa Caswill",
+        "Rachna Suri",
+        "Vicky Featherstone"
+      ],
+      "id": "30244576",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/30244576/",
+      "orig_title": "Snatches: Moments from Women's Lives",
+      "playable": false,
+      "rating": 9.2,
+      "rating_count": 5064,
+      "rating_stats": [
+        0.004739336492890996,
+        0.005529225908372828,
+        0.054699842022116904,
+        0.280608214849921,
+        0.6544233807266983
+      ],
+      "title": "\u5979\u8bf4\uff1a\u5973\u6027\u4eba\u751f\u77ac\u95f4",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/30244576/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

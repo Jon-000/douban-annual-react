@@ -1,0 +1,63 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 904,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3759.jpg",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3760.jpg",
+      "subject_id": "26384741",
+      "text": "\u51e0\u4e4e\u6ca1\u6709\u4eba\u4f1a\u53bb\u81ea\u6740\uff0c\u4f46\u51e0\u4e4e\u6240\u6709\u4eba\u90fd\u5728\u81ea\u6211\u6bc1\u706d\u3002"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.6014492753623188,
+          0.46,
+          0.39215686274509803
+        ],
+        "_base_color": [
+          0.6133333333333333,
+          0.625,
+          0.1568627450980392
+        ],
+        "is_dark": true,
+        "primary_color_dark": "1c2b4c",
+        "primary_color_light": "2b4172",
+        "secondary_color": "f4f6f9"
+      },
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516914607.jpg",
+      "directors": [
+        "\u4e9a\u5386\u514b\u65af\u00b7\u52a0\u5170 Alex Garland"
+      ],
+      "id": "26384741",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26384741/",
+      "orig_title": "Annihilation",
+      "playable": true,
+      "rating": 7.1,
+      "rating_count": 232646,
+      "rating_stats": [
+        0.015418274975714175,
+        0.06030191793540401,
+        0.37252735916370794,
+        0.4168178262252521,
+        0.13493462169992176
+      ],
+      "title": "\u6e6e\u706d",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26384741/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

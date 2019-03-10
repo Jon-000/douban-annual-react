@@ -5,6 +5,9 @@ import StartPage from './StartPage';
 import Top10Page from './Top10Page/Top10Page';
 
 function Page(props) {
+  const {
+    innerWidth,
+  } = props;
   console.log('page component')
   if (props.pageData === undefined) {
     return (
@@ -15,13 +18,13 @@ function Page(props) {
   } else if (props.pageData.kind === 0) {
       return(
         <Container id={props.pageIndex} pageIndex={props.pageIndex}>
-          <StartPage pageData={props.pageData}></StartPage>
+          <StartPage pageData={props.pageData} innerWidth={innerWidth}></StartPage>
         </Container>
       )
     } else if (props.pageData.kind ===1) {
       return (
         <Container id={props.pageIndex} pageIndex={props.pageIndex}>
-          <Top10Page pageData={props.pageData}></Top10Page>
+          <Top10Page pageData={props.pageData} innerWidth={innerWidth} ></Top10Page>
         </Container>
       )
     } else {

@@ -1,0 +1,444 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 17,
+    "id": 849,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3596.jpg",
+      "description": "\u5973\u6027\u6b67\u89c6\u5973\u6027\uff0c\u9ed1\u4eba\u6b67\u89c6\u9ed1\u4eba\uff0c\u4e2d\u5e74\u4eba\u6b67\u89c6\u4e2d\u5e74\u4eba\u2026\u2026\u6b67\u89c6\u548c\u81ea\u5df1\u76f8\u540c\u7684\u4eba\u7fa4\uff0c\u624d\u662f\u6700\u53ef\u6015\u7684\u3002",
+      "has_barrage": "on",
+      "left": "off",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3626.jpg",
+      "subject_ids": "30287738, 27176528, 27073245, 30167489, 30183608, 27043672, 30232270, 27119473, 27179561, 26999591\t\t\t\t\t\t",
+      "title": "2018\u8bc4\u5206\u6700\u9ad8\u7684\u77ed\u7247",
+      "user_id": "lingrui1995"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.5833333333333336,
+          0.03773584905660377,
+          0.41568627450980394
+        ],
+        "_base_color": [
+          0.5277777777777778,
+          0.20689655172413793,
+          0.11372549019607843
+        ],
+        "is_dark": true,
+        "primary_color_dark": "3c494c",
+        "primary_color_light": "5b6e72",
+        "secondary_color": "f4f9f9"
+      },
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539437999.jpg",
+      "directors": [
+        "\u6770\u897f\u5361\u00b7\u65af\u7ef4\u5c14 Jessica Swale"
+      ],
+      "id": "30287738",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/30287738/",
+      "orig_title": "Leading Lady Parts",
+      "playable": false,
+      "rating": 8.8,
+      "rating_count": 9576,
+      "rating_stats": [
+        0.0017752715121136173,
+        0.0072055137844611525,
+        0.10202589807852966,
+        0.3995405179615706,
+        0.489452798663325
+      ],
+      "title": "\u5973\u4e3b\u89d2",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/30287738/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5833333333333336,
+            0.03773584905660377,
+            0.41568627450980394
+          ],
+          "_base_color": [
+            0.5277777777777778,
+            0.20689655172413793,
+            0.11372549019607843
+          ],
+          "is_dark": true,
+          "primary_color_dark": "3c494c",
+          "primary_color_light": "5b6e72",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539437999.jpg",
+        "id": "30287738",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30287738/",
+        "orig_title": "Leading Lady Parts",
+        "playable": false,
+        "rating": 8.8,
+        "rating_count": 9576,
+        "rating_stats": [
+          0.0017752715121136173,
+          0.0072055137844611525,
+          0.10202589807852966,
+          0.3995405179615706,
+          0.489452798663325
+        ],
+        "title": "\u5973\u4e3b\u89d2",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30287738/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.22222222222222174,
+            0.013043478260869643,
+            0.9019607843137255
+          ],
+          "_base_color": [
+            0.21428571428571477,
+            0.030567685589519666,
+            0.8980392156862745
+          ],
+          "is_dark": false,
+          "primary_color_dark": "f0f2ea",
+          "primary_color_light": "f0f2ea",
+          "secondary_color": "f8f9f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511549132.jpg",
+        "id": "27176528",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27176528/",
+        "orig_title": "Negative Space",
+        "playable": false,
+        "rating": 8.8,
+        "rating_count": 5434,
+        "rating_stats": [
+          0.0012881854987118145,
+          0.0031284504968715496,
+          0.08851674641148326,
+          0.42749355907250647,
+          0.4795730585204269
+        ],
+        "title": "\u8d1f\u7a7a\u95f4",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27176528/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5833333333333334,
+            0.38620689655172413,
+            0.5686274509803921
+          ],
+          "_base_color": [
+            0.5925925925925926,
+            0.65,
+            0.7058823529411765
+          ],
+          "is_dark": true,
+          "primary_color_dark": "2c517f",
+          "primary_color_light": "3a69a5",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507016491.jpg",
+        "id": "27073245",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27073245/",
+        "orig_title": "Revolting Rhymes",
+        "playable": false,
+        "rating": 8.6,
+        "rating_count": 9996,
+        "rating_stats": [
+          0.001600640256102441,
+          0.00820328131252501,
+          0.11484593837535013,
+          0.4448779511804722,
+          0.4304721888755502
+        ],
+        "title": "\u53cd\u53db\u7684\u7ae5\u8c23",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27073245/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.047619047619047616,
+            0.3684210526315789,
+            0.596078431372549
+          ],
+          "_base_color": [
+            0.05243445692883897,
+            0.4759358288770053,
+            0.7333333333333333
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f5542",
+          "primary_color_light": "a56f56",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2523704707.jpg",
+        "id": "30167489",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30167489/",
+        "orig_title": "Welcome Home",
+        "playable": false,
+        "rating": 8.7,
+        "rating_count": 3849,
+        "rating_stats": [
+          0.0020784619381657575,
+          0.009093270979475189,
+          0.11613406079501169,
+          0.43361912184983115,
+          0.43907508443751625
+        ],
+        "title": "\u6b22\u8fce\u56de\u5bb6",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30167489/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5833333333333334,
+            0.21590909090909094,
+            0.6901960784313725
+          ],
+          "_base_color": [
+            0.5791666666666667,
+            0.22099447513812154,
+            0.7098039215686275
+          ],
+          "is_dark": true,
+          "primary_color_dark": "63727f",
+          "primary_color_light": "8194a5",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522681960.jpg",
+        "id": "30183608",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30183608/",
+        "orig_title": "Ama",
+        "playable": false,
+        "rating": 8.6,
+        "rating_count": 2984,
+        "rating_stats": [
+          0.0020107238605898124,
+          0.00804289544235925,
+          0.1136058981233244,
+          0.4155495978552279,
+          0.46079088471849866
+        ],
+        "title": "\u827e\u739b",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30183608/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6145833333333331,
+            0.08695652173913043,
+            0.7215686274509804
+          ],
+          "_base_color": [
+            0.606060606060606,
+            0.12290502793296078,
+            0.7019607843137254
+          ],
+          "is_dark": true,
+          "primary_color_dark": "6f757f",
+          "primary_color_light": "9198a5",
+          "secondary_color": "f4f6f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2459201111.jpg",
+        "id": "27043672",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27043672/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 8.1,
+        "rating_count": 4621,
+        "rating_stats": [
+          0.004111664141960614,
+          0.010170958666955204,
+          0.14477385847219218,
+          0.4072711534299935,
+          0.4336723652888985
+        ],
+        "title": "\u6e38\u5b50\u541f",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27043672/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.06807511737089202,
+            0.5144927536231884,
+            0.5411764705882353
+          ],
+          "_base_color": [
+            0.06481481481481481,
+            0.6260869565217391,
+            0.45098039215686275
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f4e2f",
+          "primary_color_light": "a5663d",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2524802955.jpg",
+        "id": "30232270",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30232270/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 3723,
+        "rating_stats": [
+          0.010475423045930701,
+          0.0220252484555466,
+          0.17109857641686813,
+          0.46172441579371476,
+          0.33467633628793986
+        ],
+        "title": "\u9a6f\u5154\u8bb0",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30232270/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.012500000000000067,
+            0.1834862385321101,
+            0.8549019607843137
+          ],
+          "_base_color": [
+            0.01851851851851845,
+            0.15319148936170207,
+            0.9215686274509803
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f6e6b",
+          "primary_color_light": "a58f8c",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512813966.jpg",
+        "id": "27119473",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27119473/",
+        "orig_title": "World of Tomorrow Episode Two: The Burden of Other People's Thoughts",
+        "playable": false,
+        "rating": 8.2,
+        "rating_count": 1835,
+        "rating_stats": [
+          0.005449591280653951,
+          0.014168937329700272,
+          0.20272479564032697,
+          0.44959128065395093,
+          0.32806539509536786
+        ],
+        "title": "\u4eca\u5915\u4f55\u59152",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27119473/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.02380952380952382,
+            0.417910447761194,
+            0.2627450980392157
+          ],
+          "_base_color": [
+            0.013888888888888895,
+            0.4444444444444444,
+            0.10588235294117647
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c2d2a",
+          "primary_color_light": "72443f",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512794151.jpg",
+        "id": "27179561",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27179561/",
+        "orig_title": "Garden Party",
+        "playable": false,
+        "rating": 8.1,
+        "rating_count": 3138,
+        "rating_stats": [
+          0.003505417463352454,
+          0.016252390057361378,
+          0.20076481835564053,
+          0.507010834926705,
+          0.27246653919694075
+        ],
+        "title": "\u82b1\u56ed\u6d3e\u5bf9",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27179561/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.3541666666666666,
+            0.03508771929824561,
+            0.8941176470588236
+          ],
+          "_base_color": [
+            0.3888888888888889,
+            0.01287553648068665,
+            0.9137254901960784
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7d7f7e",
+          "primary_color_light": "a3a5a4",
+          "secondary_color": "f4f9f6"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2450467970.jpg",
+        "id": "26999591",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26999591/",
+        "orig_title": "\u3042\u3055\u304c\u304a\u3068\u52a0\u702c\u3055\u3093\u3002",
+        "playable": false,
+        "rating": 7.6,
+        "rating_count": 1689,
+        "rating_stats": [
+          0.010657193605683837,
+          0.0586145648312611,
+          0.30965068087625813,
+          0.3771462403789224,
+          0.24393132030787448
+        ],
+        "title": "\u7275\u725b\u82b1\u4e0e\u52a0\u6fd1\u540c\u5b66",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26999591/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img1.doubanio.com/icon/u63688511-18.jpg",
+      "id": "63688511",
+      "name": "\u51cc\u777f",
+      "url": "https://www.douban.com/people/lingrui1995/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

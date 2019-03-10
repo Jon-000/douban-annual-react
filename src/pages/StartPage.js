@@ -7,10 +7,35 @@ import styled from 'styled-components';
 // }
 
 function StartPage(props){
+  const {
+    innerWidth,
+    pageData
+  } = props;
+
+  let bgUrl
+  if ( innerWidth < 425 ) {
+    bgUrl = pageData.payload.mobile_background_img;
+
+  } else {
+    bgUrl = pageData.payload.mask_img;
+  }
+
+  const BgVideoComponent = () => (
+    <div style={{width: "100%", height: "100%"}}>
+      <video loop autoPlay style={{width: "100%"}}>
+        <source src={pageData.payload.video} type="video/mp4"></source>
+      </video>
+    </div>
+  )
+
   return (
     <Container>
       <TitleImage src={props.pageData.payload.mobile_title_img}></TitleImage>
-      <BgImage style={{backgroundImage: `url(${props.pageData.payload.mobile_background_img})`}}></BgImage>
+      <BgImage style={{backgroundImage: `url(${bgUrl})`}}></BgImage>
+      {
+        innerWidth > 425 ? <BgVideoComponent></BgVideoComponent> : null
+      }
+
       <BottomInfo>
         <Description>{props.pageData.payload.description}</Description>
       </BottomInfo>
@@ -35,7 +60,12 @@ top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 z-index: 2;
-width: 45vh;
+width: 55vh;
+
+  @media only screen and (max-width: 425px) {
+    width: 45vh;
+  }
+
 `
 const BgImage = styled.div`
 position: absolute;

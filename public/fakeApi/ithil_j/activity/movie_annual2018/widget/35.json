@@ -1,0 +1,65 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 915,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3369.jpg",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3405.jpg",
+      "subject_id": "27140017",
+      "text": "\u6709\u5de5\u592b\u7edd\u671b\u7684\u8bdd\uff0c\u8fd8\u4e0d\u5982\u5403\u70b9\u597d\u5403\u7684\u53bb\u7761\u89c9\u5462\u3002"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.11458333333333322,
+          0.14479638009049772,
+          0.8666666666666667
+        ],
+        "_base_color": [
+          0.12500000000000014,
+          0.1021276595744681,
+          0.9215686274509803
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f7c72",
+        "primary_color_light": "a5a194",
+        "secondary_color": "f9f8f4"
+      },
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510604929.jpg",
+      "directors": [
+        "\u51a2\u539f\u4e9a\u7531\u5b50 Ayuko Tsukahara",
+        "\u7af9\u6751\u8c26\u592a\u90ce Kentaro Takemura",
+        "\u6751\u5c3e\u5609\u662d Yoshiaki Murao"
+      ],
+      "id": "27140017",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/27140017/",
+      "orig_title": "\u30a2\u30f3\u30ca\u30c1\u30e5\u30e9\u30eb",
+      "playable": true,
+      "rating": 9.3,
+      "rating_count": 222508,
+      "rating_stats": [
+        0.0017752170708468908,
+        0.002768439786434645,
+        0.036039153648408144,
+        0.24732593884264836,
+        0.712091250651662
+      ],
+      "title": "\u975e\u81ea\u7136\u6b7b\u4ea1",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27140017/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

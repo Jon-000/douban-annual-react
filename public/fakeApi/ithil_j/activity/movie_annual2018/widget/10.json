@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 912,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3725.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3807.jpg",
+      "subject_id": "26611804",
+      "text": "\u4ec7\u6068\u89e3\u51b3\u4e0d\u4e86\u95ee\u9898\uff0c\u4f46\u51b7\u9759\u53ef\u4ee5\uff0c\u601d\u8003\u53ef\u4ee5\uff0c\u8bd5\u8bd5\u5427\u3002"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.9523809523809524,
+          0.13207547169811326,
+          0.20784313725490197
+        ],
+        "_base_color": [
+          0.7916666666666665,
+          0.1081081081081081,
+          0.1450980392156863
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4a444c",
+        "primary_color_light": "6f6672",
+        "secondary_color": "f8f4f9"
+      },
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510081688.jpg",
+      "directors": [
+        "\u9a6c\u4e01\u00b7\u9ea6\u514b\u5510\u7eb3 Martin McDonagh"
+      ],
+      "id": "26611804",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26611804/",
+      "orig_title": "Three Billboards Outside Ebbing, Missouri",
+      "playable": true,
+      "rating": 8.7,
+      "rating_count": 431454,
+      "rating_stats": [
+        0.0030478336045094033,
+        0.00806574976706671,
+        0.09443880460025866,
+        0.42587854093368005,
+        0.46856907109448515
+      ],
+      "title": "\u4e09\u5757\u5e7f\u544a\u724c",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26611804/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

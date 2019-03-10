@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 917,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3632.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3770.jpg",
+      "subject_id": "27172891",
+      "text": "\u4e00\u5934\u5927\u8c61\uff0c\u6bcf\u5929\u5750\u5728\u52a8\u7269\u56ed\u91cc\uff0c\u5b83\u4ed6\u5988\u5c31\u4e00\u76f4\u5750\u90a3\u3002 \u4f60\u771f\u4e0d\u60f3\u53bb\u770b\u770b\uff1f"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.6904761904761904,
+          0.10294117647058819,
+          0.26666666666666666
+        ],
+        "_base_color": [
+          0.6904761904761904,
+          0.10937499999999994,
+          0.25098039215686274
+        ],
+        "is_dark": true,
+        "primary_color_dark": "45444c",
+        "primary_color_light": "676672",
+        "secondary_color": "f5f4f9"
+      },
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511811355.jpg",
+      "directors": [
+        "\u80e1\u8fc1 Qian Hu"
+      ],
+      "id": "27172891",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/27172891/",
+      "orig_title": "",
+      "playable": false,
+      "rating": 8.0,
+      "rating_count": 64385,
+      "rating_stats": [
+        0.015174341849809739,
+        0.028919779451735652,
+        0.16183893764075483,
+        0.42812766948823483,
+        0.36593927156946493
+      ],
+      "title": "\u5927\u8c61\u5e2d\u5730\u800c\u5750",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27172891/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 914,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3384.jpg",
+      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3408.jpg",
+      "subject_id": "26252279",
+      "text": "\u4e0e\u5176\u53d7\u4eba\u559c\u7231\uff0c\u8ba9\u4eba\u5bb3\u6015\u624d\u66f4\u5b89\u5168\u3002"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.29411764705882354,
+          0.19540229885057467,
+          0.3411764705882353
+        ],
+        "_base_color": [
+          0.34126984126984133,
+          0.38181818181818183,
+          0.21568627450980393
+        ],
+        "is_dark": true,
+        "primary_color_dark": "2f4c30",
+        "primary_color_light": "467249",
+        "secondary_color": "f4f9f5"
+      },
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2522826927.jpg",
+      "directors": [
+        "\u8ba9-\u9a6c\u514b\u00b7\u74e6\u96f7 Jean-Marc Vall\u00e9e"
+      ],
+      "id": "26252279",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26252279/",
+      "orig_title": "Sharp Objects",
+      "playable": false,
+      "rating": 8.3,
+      "rating_count": 19413,
+      "rating_stats": [
+        0.006851079173749549,
+        0.020295678153814455,
+        0.14639674444959563,
+        0.45500437850924635,
+        0.371452119713594
+      ],
+      "title": "\u5229\u5668",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26252279/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

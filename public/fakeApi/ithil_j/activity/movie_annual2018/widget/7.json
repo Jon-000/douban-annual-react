@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 879,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3767.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3768.jpg",
+      "subject_id": "27059130",
+      "text": "\u6211\u60f3\u867d\u7136\u73b0\u5728\u662f\u592a\u7a7a\u65f6\u4ee3\uff0c\u4eba\u4eec\u65e9\u5c31\u53ef\u4ee5\u5750\u592a\u7a7a\u8239\u53bb\u6708\u7403\uff0c\u4f46\u6c38\u8fdc\u65e0\u6cd5\u63a2\u7d22\u522b\u4eba\u5185\u5fc3\u7684\u5b87\u5b99\u3002"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.05079365079365078,
+          0.6687898089171975,
+          0.615686274509804
+        ],
+        "_base_color": [
+          0.04342723004694835,
+          0.7888888888888889,
+          0.7058823529411765
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f351a",
+        "primary_color_light": "a54522",
+        "secondary_color": "f9f6f4"
+      },
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505928032.jpg",
+      "directors": [
+        "\u9ec4\u4fe1\u5c27 Hsin-yao Huang"
+      ],
+      "id": "27059130",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/27059130/",
+      "orig_title": "",
+      "playable": false,
+      "rating": 8.7,
+      "rating_count": 156106,
+      "rating_stats": [
+        0.0033502876250752693,
+        0.008737652620655196,
+        0.09519172869716731,
+        0.4432565051951879,
+        0.44946382586191436
+      ],
+      "title": "\u5927\u4f5b\u666e\u62c9\u65af",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27059130/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

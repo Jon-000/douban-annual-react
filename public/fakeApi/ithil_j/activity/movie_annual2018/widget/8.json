@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 47,
+    "id": 837,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(162, 91, 110, .9)",
+      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3338.jpg",
+      "description": "\u5f88\u5c11\u6709\u7535\u5f71\u4e2d\u4f1a\u5c55\u73b0\u8fd9\u6837\u81ea\u7136\u6709\u6d3b\u529b\u6709\u8da3\u5473\u7684\u5bb6\u5ead\uff0c\u8bd7\u610f\u6765\u81ea\u751f\u6d3b\u4e5f\u6765\u81ea\u571f\u58e4\uff0c\u6b4c\u58f0\u7ec4\u6210\u60c5\u7eea\uff0c\u6210\u4e3a\u79c1\u4eba\u5f71\u50cf\u8bb0\u5f55\u4e2d\u6beb\u4e0d\u77eb\u60c5\u53c8\u5f25\u8db3\u73cd\u8d35\u7684\u8bb0\u5fc6\u3002",
+      "has_barrage": "on",
+      "left": "off",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3342.jpg",
+      "subject_ids": "27191492, 27119586, 27191431, 26958485, 26900391, 27193255, 26633257, 30283308, 26845720, 30283179",
+      "title": "2018\u5e74\u5ea6\u6700\u671f\u5f85\u534e\u8bed\u72ec\u7acb\u4f73\u4f5c",
+      "user_id": "2744437"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.9933333333333334,
+          0.33557046979865773,
+          0.5843137254901961
+        ],
+        "_base_color": [
+          0.9970760233918128,
+          0.34337349397590367,
+          0.6509803921568628
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f5354",
+        "primary_color_light": "a56c6d",
+        "secondary_color": "f9f4f4"
+      },
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540578887.jpg",
+      "directors": [
+        "\u9646\u5e86\u5c79 Lu Qing Yi"
+      ],
+      "id": "27191492",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/27191492/",
+      "orig_title": "",
+      "playable": false,
+      "rating": 8.9,
+      "rating_count": 67008,
+      "rating_stats": [
+        0.0030593361986628463,
+        0.007103629417382999,
+        0.06539517669531997,
+        0.3332437917860554,
+        0.5911980659025788
+      ],
+      "title": "\u56db\u4e2a\u6625\u5929",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27191492/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9933333333333334,
+            0.33557046979865773,
+            0.5843137254901961
+          ],
+          "_base_color": [
+            0.9970760233918128,
+            0.34337349397590367,
+            0.6509803921568628
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f5354",
+          "primary_color_light": "a56c6d",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2540578887.jpg",
+        "id": "27191492",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27191492/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 8.9,
+        "rating_count": 67008,
+        "rating_stats": [
+          0.0030593361986628463,
+          0.007103629417382999,
+          0.06539517669531997,
+          0.3332437917860554,
+          0.5911980659025788
+        ],
+        "title": "\u56db\u4e2a\u6625\u5929",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27191492/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5373563218390806,
+            0.3647798742138365,
+            0.6235294117647059
+          ],
+          "_base_color": [
+            0.5525793650793651,
+            0.9081081081081082,
+            0.7254901960784313
+          ],
+          "is_dark": true,
+          "primary_color_dark": "0b5a7f",
+          "primary_color_light": "0f76a5",
+          "secondary_color": "f4f8f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2546961193.jpg",
+        "id": "27119586",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27119586/",
+        "orig_title": "\u8ab0\u5148\u611b\u4e0a\u4ed6\u7684",
+        "playable": false,
+        "rating": 8.6,
+        "rating_count": 130809,
+        "rating_stats": [
+          0.00574119517770184,
+          0.008317470510438884,
+          0.10259997400790466,
+          0.43720233317279394,
+          0.4461390271311607
+        ],
+        "title": "\u8c01\u5148\u7231\u4e0a\u4ed6\u7684",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27119586/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.43650793650793646,
+            0.15909090909090914,
+            0.5176470588235295
+          ],
+          "_base_color": [
+            0.46078431372549017,
+            0.18784530386740342,
+            0.7098039215686275
+          ],
+          "is_dark": true,
+          "primary_color_dark": "677f79",
+          "primary_color_light": "86a59e",
+          "secondary_color": "f4f9f8"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549537782.jpg",
+        "id": "27191431",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27191431/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.9,
+        "rating_count": 4044,
+        "rating_stats": [
+          0.005440158259149357,
+          0.012858555885262116,
+          0.17235410484668645,
+          0.5672601384767557,
+          0.24208704253214638
+        ],
+        "title": "\u8fc7\u6625\u5929",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27191431/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.546099290780142,
+            0.26857142857142857,
+            0.6862745098039216
+          ],
+          "_base_color": [
+            0.5515873015873015,
+            0.6146341463414634,
+            0.803921568627451
+          ],
+          "is_dark": true,
+          "primary_color_dark": "31677f",
+          "primary_color_light": "3f86a5",
+          "secondary_color": "f4f8f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2547959213.jpg",
+        "id": "26958485",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26958485/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.4,
+        "rating_count": 403,
+        "rating_stats": [
+          0.01240694789081886,
+          0.04466501240694789,
+          0.2630272952853598,
+          0.41935483870967744,
+          0.26054590570719605
+        ],
+        "title": "\u9006\u6d41\u5927\u53d4",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26958485/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.055555555555555435,
+            0.05172413793103442,
+            0.4549019607843137
+          ],
+          "_base_color": [
+            0.6333333333333333,
+            0.16129032258064516,
+            0.24313725490196078
+          ],
+          "is_dark": true,
+          "primary_color_dark": "40424c",
+          "primary_color_light": "606372",
+          "secondary_color": "f4f5f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516249700.jpg",
+        "id": "26900391",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26900391/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.5,
+        "rating_count": 854,
+        "rating_stats": [
+          0.0117096018735363,
+          0.04800936768149883,
+          0.23536299765807964,
+          0.5,
+          0.20491803278688525
+        ],
+        "title": "\u5973\u4ed6",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26900391/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6666666666666666,
+            0.03355704697986584,
+            0.5843137254901961
+          ],
+          "_base_color": [
+            0.6481481481481483,
+            0.04265402843601894,
+            0.8274509803921568
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7a7a7f",
+          "primary_color_light": "9e9fa5",
+          "secondary_color": "f4f5f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2526118711.jpg",
+        "id": "27193255",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27193255/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.7,
+        "rating_count": 446,
+        "rating_stats": [
+          0.004484304932735426,
+          0.042600896860986545,
+          0.2600896860986547,
+          0.4798206278026906,
+          0.21300448430493274
+        ],
+        "title": "\u9a6f\u9a6c",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27193255/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.4444444444444444,
+            0.16438356164383552,
+            0.28627450980392155
+          ],
+          "_base_color": [
+            0.4583333333333333,
+            0.018348623853210944,
+            0.8549019607843137
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4b4c4c",
+          "primary_color_light": "707272",
+          "secondary_color": "f4f9f8"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541183610.jpg",
+        "id": "26633257",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26633257/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 6.9,
+        "rating_count": 135124,
+        "rating_stats": [
+          0.1750836268908558,
+          0.11956425209437258,
+          0.2525828128237767,
+          0.2877653118616974,
+          0.16500399632929755
+        ],
+        "title": "\u5730\u7403\u6700\u540e\u7684\u591c\u665a",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26633257/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6388888888888888,
+            0.0408163265306121,
+            0.5764705882352941
+          ],
+          "_base_color": [
+            0.8333333333333334,
+            0.09523809523809523,
+            0.16470588235294117
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f737f",
+          "primary_color_light": "a595a5",
+          "secondary_color": "f9f4f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2531097433.jpg",
+        "id": "30283308",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30283308/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 7.0,
+        "rating_count": 1951,
+        "rating_stats": [
+          0.016914402870322913,
+          0.06817016914402871,
+          0.26960533059969244,
+          0.3567401332649923,
+          0.2885699641209636
+        ],
+        "title": "\u963f\u6d6a\u7684\u8fdc\u65b9",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30283308/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5147058823529411,
+            0.6071428571428571,
+            0.6588235294117647
+          ],
+          "_base_color": [
+            0.47382920110192833,
+            0.6173469387755102,
+            0.7686274509803922
+          ],
+          "is_dark": true,
+          "primary_color_dark": "307f73",
+          "primary_color_light": "3fa595",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520656258.jpg",
+        "id": "26845720",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26845720/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.3,
+        "rating_count": 136,
+        "rating_stats": [
+          0.04411764705882353,
+          0.0661764705882353,
+          0.27941176470588236,
+          0.4117647058823529,
+          0.19852941176470587
+        ],
+        "title": "\u53ea\u6709\u5927\u6d77\u77e5\u9053",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26845720/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.101010101010101,
+            0.5238095238095238,
+            0.49411764705882355
+          ],
+          "_base_color": [
+            0.10465116279069768,
+            0.5408805031446541,
+            0.6235294117647059
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3d23",
+          "primary_color_light": "725b34",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2533084328.jpg",
+        "id": "30283179",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30283179/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.3,
+        "rating_count": 368,
+        "rating_stats": [
+          0.021739130434782608,
+          0.02717391304347826,
+          0.3016304347826087,
+          0.45108695652173914,
+          0.1983695652173913
+        ],
+        "title": "\u649e\u6b7b\u4e86\u4e00\u53ea\u7f8a",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30283179/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u2744437-144.jpg",
+      "id": "2744437",
+      "name": "\u8709\u8763",
+      "url": "https://www.douban.com/people/lephemera/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

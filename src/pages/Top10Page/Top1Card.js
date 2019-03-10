@@ -10,53 +10,98 @@ function Top1Card(props) {
   console.log('Top1Card')
   console.log(props)
   const {
-    payloadTitle, //除了这个是单独传的,下边的都是直接解构传进来的
+    //结构的subject这些
     title,
     rating,
     cover,
     rating_stats,
     rating_count,
+    playable,
+    // 以下是payload的中的
+    payloadTitle,
+    background_color,
+    description,
   } = props
+  let baseFontSize = props.baseFontSize || 10
+
   return (
-    <Container bgColor={props.color_scheme.primary_color_light}>
-      <Title>{payloadTitle}</Title>
-      <CardMain>
-        <MainLeft>
-          <TopLeftNum>1</TopLeftNum>
-          <MovieCover bgUrl={cover}></MovieCover>
-        </MainLeft>
-        <MainRight>
-          <H2>
-            <StyledPlayIcon width425="1.6rem" height425="1.6rem"></StyledPlayIcon>
-            <a style={{color: "#fff"}}>{title}</a>
-          </H2>
-          <div>
-            <RatingBand>
-              <span style={{fontSize: "1.1rem", lineHeight: "2rem", paddingRight: "1.7rem",display: "inline-block", position: "relative"}}>
-                豆瓣评分
-                <span style={{fontSize: ".8rem", lineHeight: "normal", position: "absolute", top: "0", right: "0"}}>TM</span>
-              </span>
-            </RatingBand>
-            <RatingContainer>
-              <RatingSum>
-                <div style={{fontSize: "2.1rem", fontWeight: 500, lineHeight:"1.4", textAlign: "center"}}>
-                  {rating.toFixed(1)}
-                </div>
-                <SvgLinearGradient id="half-gradient"></SvgLinearGradient>
-                <StarRating ratingScore={rating} singleStarWidth=".9rem" singleStarHeight=".9rem"></StarRating>
-              </RatingSum>
-
-              <RatingDetail>
-                <BarRating ratingArray={rating_stats}
-                  singleBarWidth="5.6rem" singleBarHeight="0.4rem" margin=".1rem 0"
-                  ></BarRating>
-                <div style={{textAlign: "right", fontSize: ".9rem", lineHeight: "1.3rem", color: "hsla(0,0%,100%,.6)"}} >{rating_count}人评分</div>
-              </RatingDetail>
-            </RatingContainer>
+    <Container bgColor={background_color} width={`${26 * baseFontSize}px`} >
+      <h1 style={{
+        fontSize: `${1.9 * baseFontSize}px`,
+        lineHeight: `${2.8 * baseFontSize}px`,
+        fontWeight: 700,
+        margin: `0 ${1.2 * baseFontSize}px`,
+        padding: `${.8 * baseFontSize}px 0`,
+        borderBottom: `${.1 * baseFontSize}px solid hsla(0,0%,100%,.25)`
+      }}>{payloadTitle}</h1>
+      <div style={{padding: `${1.56 * baseFontSize}px` }}>
+        <CardMiddle>
+          <div style={{
+            width: `${8 * baseFontSize}px`,
+            height: `${11.4 * baseFontSize}px`,
+            marginRight: `${1 * baseFontSize}px`,
+            float: "left",
+            position: "relative",
+          }}>
+            <TopLeftNum>1</TopLeftNum>
+            <MovieCover bgUrl={cover}></MovieCover>
           </div>
+          <MainRight>
+            <h2 style={{
+              fontSize: `${1.7 * baseFontSize}px`,
+              fontWeight: 400,
+              margin: 0,
+              verticalAlign: "middle",
+            }}>
+              {
+                playable ? 
+                  <StyledPlayIcon width425={`${1.6 * baseFontSize}px`} height425={`${1.6 * baseFontSize}px`} ></StyledPlayIcon>
+                : null
+              }
+              <a style={{ color: "#fff" }}>{title}</a>
+            </h2>
+            <div style={{marginTop: description ? "20px" : null}}>
+              <div style={{
+                margin: `${.8 * baseFontSize}px 0 ${.4 * baseFontSize}px`,
+                color: "hsla(0,0%,100%,.7)",
+              }}>
+                <span style={{ fontSize: `${1.1 * baseFontSize}px`, lineHeight: `${2 * baseFontSize}px`, paddingRight: `${1.7 * baseFontSize}px`, display: "inline-block", position: "relative" }}>
+                  豆瓣评分
+                <span style={{ fontSize: `${.8 * baseFontSize}px`, lineHeight: "normal", position: "absolute", top: "0", right: "0" }}>TM</span>
+                </span>
+              </div>
+              <RatingContainer>
+                <RatingSum>
+                  <div style={{ fontSize: `${2.1 * baseFontSize}px`, fontWeight: 500, lineHeight: "1.4", textAlign: "center" }}>
+                    {rating.toFixed(1)}
+                  </div>
+                  <SvgLinearGradient id="half-gradient"></SvgLinearGradient>
+                  <StarRating ratingScore={rating} singleStarWidth={`${.9 * baseFontSize}px`} singleStarHeight={`${.9 * baseFontSize}px`}></StarRating>
+                </RatingSum>
 
-        </MainRight>
-      </CardMain>
+                <RatingDetail>
+                  <BarRating ratingArray={rating_stats}
+                    singleBarWidth={`${5.6 * baseFontSize}px`} singleBarHeight={`${.4 * baseFontSize}px`} margin={`${.1 * baseFontSize}px 0`}
+                  ></BarRating>
+                  <div style={{ textAlign: "right", fontSize: `${.9 * baseFontSize}px`, lineHeight: `${1.3 * baseFontSize}px`, color: "hsla(0,0%,100%,.6)" }} >{rating_count}人评分</div>
+                </RatingDetail>
+              </RatingContainer>
+            </div>
+
+          </MainRight>
+        </CardMiddle>
+
+        {
+          description ? (
+            <div style={{
+              color: "hsla(0,0%,100%,.6)",
+              marginTop: `16px`,
+              fontSize: `13px`,
+              lineHeight: 1.7,
+            }}>{description}</div>
+          ) : null
+        }
+      </div>
     </Container>
   )
 }
@@ -64,27 +109,25 @@ function Top1Card(props) {
 export default Top1Card;
 
 const Container = styled.div`
-width: 26rem;
-height: 19rem;
-background-color: rgba(114, 63, 50, 0.85);
+box-sizing: border-box;
+width: ${props => props.width};
+height: ${props => props.height};
+background-color: ${props => props.bgColor};
 // background-color: #${props => props.bgColor};
 // opacity:0.85;
-float:right;
 color: white;
 
 `
 
-const Title = styled.h1`
-font-size: 1.9rem;
-line-height: 2.8rem;
-font-weight: 700;
-margin: 0 1.2rem;
-padding: 0.8rem 0;
-border-bottom: 1px solid hsla(0,0%,100%,.25);
-`
-const CardMain = styled.div`
-padding: 1.56rem;
-// overflow: hidden;
+// const Title = styled.h1`
+// font-size: 1.9rem;
+// line-height: 2.8rem;
+// font-weight: 700;
+// margin: 0 1.2rem;
+// padding: 0.8rem 0;
+// border-bottom: 1px solid hsla(0,0%,100%,.25);
+// `
+const CardMiddle = styled.div`
   &::after {
     display: block;
     content: '';
@@ -92,27 +135,26 @@ padding: 1.56rem;
   }
 `
 
-const MainLeft = styled.div`
-width: 8rem;
-height: 11.4rem;
-margin-right: 1rem;
-float: left;
-position: relative;
-`
+// const MainLeft = styled.div`
+// width: 8rem;
+// height: 11.4rem;
+// margin-right: 1rem;
+// float: left;
+// position: relative;
+// `
 const MainRight = styled.div`
 display: block;
 display: flex;
 flex-direction: column;
 `
 
-const H2 = styled.h2`
-// line-height: 1.7rem;
-font-size: 1.7rem;
-font-weight: 400;
-margin: 0;
-vertical-align: middle;
-
-`
+// const H2 = styled.h2`
+// // line-height: 1.7rem;
+// font-size: 1.7rem;
+// font-weight: 400;
+// margin: 0;
+// vertical-align: middle;
+// `
 
 export const MovieCover = styled.a`
 background-image: url(${props => props.bgUrl});
@@ -125,11 +167,10 @@ background-repeat: no-repeat;
 
 `
 
-const RatingBand = styled.div`
-margin: 8px 0 4px;
-color: hsla(0,0%,100%,.7);
-
-`
+// const RatingBand = styled.div`
+// margin: 8px 0 4px;
+// color: hsla(0,0%,100%,.7);
+// `
 
 const RatingContainer = styled.div`
 display: flex;
@@ -155,7 +196,7 @@ const RatingDetail = styled.div`
 
 // `
 
-const PlayIcon = ({className}) => (
+const PlayIcon = ({ className }) => (
   <svg className={className} viewBox="0 0 32 32">
     <path d="M16 0c-8.837 0-16 7.163-16 16s7.163 16 16 16 16-7.163 16-16-7.163-16-16-16zM16 29c-7.18 0-13-5.82-13-13s5.82-13 13-13 13 5.82 13 13-5.82 13-13 13zM12 9l12 7-12 7z"></path>
   </svg>

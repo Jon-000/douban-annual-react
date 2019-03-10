@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 909,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3267.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3493.jpg",
+      "subject_id": "26842702",
+      "text": "\u6ca1\u6709\u773c\u6cea\u8fd9\u4e2a\u8bc1\u636e\uff0c\u5c31\u65e0\u6cd5\u5224\u65ad\u90a3\u662f\u4e0d\u662f\u60b2\u4f24\u7684\u60c5\u7eea\u4e86\u3002"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.8833333333333334,
+          0.13157894736842096,
+          0.2980392156862745
+        ],
+        "_base_color": [
+          0.7424242424242423,
+          0.24999999999999992,
+          0.17254901960784313
+        ],
+        "is_dark": true,
+        "primary_color_dark": "42394c",
+        "primary_color_light": "635672",
+        "secondary_color": "f7f4f9"
+      },
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2520095279.jpg",
+      "directors": [
+        "\u674e\u6ca7\u4e1c Chang-dong Lee"
+      ],
+      "id": "26842702",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26842702/",
+      "orig_title": "\ubc84\ub2dd",
+      "playable": false,
+      "rating": 7.9,
+      "rating_count": 137746,
+      "rating_stats": [
+        0.012769880795086608,
+        0.03194285133506599,
+        0.221204245495332,
+        0.47761096510969464,
+        0.25647205726482075
+      ],
+      "title": "\u71c3\u70e7",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26842702/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

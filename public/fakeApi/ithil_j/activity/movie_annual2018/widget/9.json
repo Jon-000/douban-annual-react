@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 47,
+    "id": 838,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(71, 58, 52, .8)",
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3722.jpg",
+      "description": "\u897f\u90e8\u7247\u5f00\u573a\u4f46\u6253\u7834\u5957\u8def\uff0c\u53cd\u601d\u548c\u60c5\u6000\u5e76\u5b58\uff0c\u6574\u90e8\u7535\u5f71\u4f9d\u7136\u662f\u4e2a\u534e\u4e3d\u4e3d\u7684\u6b4c\u5355\uff0c\u5473\u9053\u8fd8\u662f\u79d1\u6069\u5144\u5f1f\u3002",
+      "has_barrage": "on",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3723.jpg",
+      "subject_ids": "26952704, 27114240, 26951692, 26793852, 1950330, 27608785, 26731376, 26965165, 27615398, 26979007",
+      "title": "2018\u5e74\u5ea6\u51b7\u95e8\u4f73\u7247",
+      "user_id": "3739650"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.013888888888888895,
+          0.6043165467625898,
+          0.5450980392156862
+        ],
+        "_base_color": [
+          0.003787878787878803,
+          0.676923076923077,
+          0.5098039215686274
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f2b29",
+        "primary_color_light": "a53835",
+        "secondary_color": "f9f5f4"
+      },
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539127687.jpg",
+      "directors": [
+        "\u4f0a\u6851\u00b7\u79d1\u6069 Ethan Coen",
+        "\u4e54\u5c14\u00b7\u79d1\u6069 Joel Coen"
+      ],
+      "id": "26952704",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26952704/",
+      "orig_title": "The Ballad of Buster Scruggs",
+      "playable": false,
+      "rating": 8.4,
+      "rating_count": 43093,
+      "rating_stats": [
+        0.002204534379133502,
+        0.008284408140533266,
+        0.12679553523774162,
+        0.5078551040772283,
+        0.3548604181653633
+      ],
+      "title": "\u5df4\u65af\u7279\u00b7\u65af\u514b\u9c81\u683c\u65af\u7684\u6b4c\u8c23",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26952704/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.013888888888888895,
+            0.6043165467625898,
+            0.5450980392156862
+          ],
+          "_base_color": [
+            0.003787878787878803,
+            0.676923076923077,
+            0.5098039215686274
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f2b29",
+          "primary_color_light": "a53835",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539127687.jpg",
+        "id": "26952704",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26952704/",
+        "orig_title": "The Ballad of Buster Scruggs",
+        "playable": false,
+        "rating": 8.4,
+        "rating_count": 43088,
+        "rating_stats": [
+          0.0022047901968065354,
+          0.008285369476420348,
+          0.12681024879316746,
+          0.507844411437059,
+          0.3548551800965466
+        ],
+        "title": "\u5df4\u65af\u7279\u00b7\u65af\u514b\u9c81\u683c\u65af\u7684\u6b4c\u8c23",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26952704/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.12962962962962973,
+            0.0559006211180124,
+            0.6313725490196078
+          ],
+          "_base_color": [
+            0.11111111111111131,
+            0.08823529411764706,
+            0.13333333333333333
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7b74",
+          "primary_color_light": "a5a097",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2516702580.jpg",
+        "id": "27114240",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27114240/",
+        "orig_title": "Der Hauptmann",
+        "playable": false,
+        "rating": 8.5,
+        "rating_count": 15956,
+        "rating_stats": [
+          0.0023815492604662824,
+          0.007081975432439208,
+          0.11431436450238155,
+          0.5085234394585109,
+          0.36769867134620204
+        ],
+        "title": "\u5192\u724c\u4e0a\u5c09",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27114240/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.07103825136612023,
+            0.3144329896907216,
+            0.7607843137254902
+          ],
+          "_base_color": [
+            0.08658008658008658,
+            0.37198067632850246,
+            0.8117647058823529
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f6850",
+          "primary_color_light": "a58868",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522862293.jpg",
+        "id": "26951692",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26951692/",
+        "orig_title": "Monsieur & Madame Adelman",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 13721,
+        "rating_stats": [
+          0.004299978135704395,
+          0.014940601996938998,
+          0.15669411850448217,
+          0.4981415348735515,
+          0.3259237664893229
+        ],
+        "title": "\u963f\u5fb7\u5c14\u66fc\u592b\u5987",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26951692/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.09325396825396826,
+            0.6666666666666667,
+            0.49411764705882355
+          ],
+          "_base_color": [
+            0.09640522875816994,
+            0.6986301369863014,
+            0.5725490196078431
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3517",
+          "primary_color_light": "725022",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511250973.jpg",
+        "id": "26793852",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26793852/",
+        "orig_title": "The Tale",
+        "playable": false,
+        "rating": 8.2,
+        "rating_count": 14490,
+        "rating_stats": [
+          0.004416839199447895,
+          0.011939268461007591,
+          0.15576259489302968,
+          0.5468599033816425,
+          0.2810213940648723
+        ],
+        "title": "\u4fe1\u7b3a\u6545\u4e8b",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26793852/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.14285714285714288,
+            0.05035971223021565,
+            0.5450980392156862
+          ],
+          "_base_color": [
+            0.13095238095238101,
+            0.061946902654867166,
+            0.8862745098039215
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7d77",
+          "primary_color_light": "a5a39b",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2542682004.jpg",
+        "id": "1950330",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1950330/",
+        "orig_title": "Roma",
+        "playable": false,
+        "rating": 8.1,
+        "rating_count": 44316,
+        "rating_stats": [
+          0.005821825074465204,
+          0.021572344074374944,
+          0.18677227186569184,
+          0.4839335680115534,
+          0.3018999909739146
+        ],
+        "title": "\u7f57\u9a6c",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1950330/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.06547619047619054,
+            0.1414141414141415,
+            0.7764705882352941
+          ],
+          "_base_color": [
+            0.10666666666666669,
+            0.10121457489878541,
+            0.9686274509803922
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7a72",
+          "primary_color_light": "a59f94",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535799024.jpg",
+        "id": "27608785",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27608785/",
+        "orig_title": "Das schweigende Klassenzimmer",
+        "playable": false,
+        "rating": 8.4,
+        "rating_count": 8739,
+        "rating_stats": [
+          0.0033184574894152647,
+          0.008696647213640005,
+          0.12610138459778006,
+          0.5242018537590113,
+          0.33768165694015334
+        ],
+        "title": "\u6c89\u9ed8\u7684\u6559\u5ba4",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27608785/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08333333333333336,
+            0.34210526315789475,
+            0.2980392156862745
+          ],
+          "_base_color": [
+            0.08333333333333333,
+            0.16666666666666666,
+            0.09411764705882353
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c463f",
+          "primary_color_light": "72695f",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519715106.jpg",
+        "id": "26731376",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26731376/",
+        "orig_title": "Au revoir l\u00e0-haut",
+        "playable": false,
+        "rating": 8.2,
+        "rating_count": 9544,
+        "rating_stats": [
+          0.003248113998323554,
+          0.014668901927912825,
+          0.19111483654652137,
+          0.4901508801341157,
+          0.3008172673931266
+        ],
+        "title": "\u5929\u4e0a\u518d\u89c1",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26731376/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.07520325203252032,
+            0.7130434782608694,
+            0.45098039215686275
+          ],
+          "_base_color": [
+            0.09586056644880174,
+            0.7116279069767442,
+            0.8431372549019608
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3516",
+          "primary_color_light": "725021",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2502244869.jpg",
+        "id": "26965165",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26965165/",
+        "orig_title": "Professor Marston and the Wonder Women",
+        "playable": false,
+        "rating": 7.9,
+        "rating_count": 14786,
+        "rating_stats": [
+          0.007912890572162858,
+          0.022656567022859463,
+          0.23373461382388747,
+          0.4914784255376708,
+          0.24421750304341944
+        ],
+        "title": "\u9a6c\u65af\u987f\u6559\u6388\u4e0e\u795e\u5947\u5973\u4fa0",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26965165/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08333333333333333,
+            0.24,
+            0.19607843137254902
+          ],
+          "_base_color": [
+            0.08333333333333341,
+            0.2057142857142858,
+            0.6862745098039216
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c443c",
+          "primary_color_light": "72665b",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541555031.jpg",
+        "id": "27615398",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27615398/",
+        "orig_title": "Den skyldige",
+        "playable": false,
+        "rating": 7.6,
+        "rating_count": 15929,
+        "rating_stats": [
+          0.004708393496139118,
+          0.030761504174775568,
+          0.29129261096114006,
+          0.49971749639023166,
+          0.17351999497771362
+        ],
+        "title": "\u7f6a\u4eba",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27615398/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.05263157894736844,
+            0.4691358024691357,
+            0.6352941176470588
+          ],
+          "_base_color": [
+            0.0537037037037037,
+            0.5421686746987951,
+            0.6509803921568628
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f503a",
+          "primary_color_light": "a5684b",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2447442755.jpg",
+        "id": "26979007",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26979007/",
+        "orig_title": "Estiu 1993",
+        "playable": true,
+        "rating": 7.9,
+        "rating_count": 5364,
+        "rating_stats": [
+          0.0050335570469798654,
+          0.01603281133482476,
+          0.21644295302013422,
+          0.5602162565249813,
+          0.2022744220730798
+        ],
+        "title": "\u4e5d\u4e09\u5e74\u590f\u5929",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26979007/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img1.doubanio.com/icon/u3739650-28.jpg",
+      "id": "3739650",
+      "name": "\u5357\u60a0\u4e00",
+      "url": "https://www.douban.com/people/Allan.Vr/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

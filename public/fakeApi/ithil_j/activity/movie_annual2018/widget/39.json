@@ -1,0 +1,63 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 910,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3379.jpg",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3672.jpg",
+      "subject_id": "26753904",
+      "text": "\u53ea\u8981\u4e0d\u627e\u5bf9\u8c61\uff0c\u4e00\u4e2a\u4eba\u7684\u751f\u6d3b\u7b80\u5355\u5f97\u4e0d\u5f97\u4e86\u3002"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.6472663139329806,
+          0.7907949790794979,
+          0.9372549019607843
+        ],
+        "_base_color": [
+          0.7411347517730497,
+          0.39004149377593367,
+          0.9450980392156862
+        ],
+        "is_dark": false,
+        "primary_color_dark": "d7c1f2",
+        "primary_color_light": "d7c1f2",
+        "secondary_color": "f7f4f9"
+      },
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2534046653.jpg",
+      "directors": [
+        "\u51ef\u745e\u00b7\u798f\u6c38 Cary Fukunaga"
+      ],
+      "id": "26753904",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26753904/",
+      "orig_title": "Maniac",
+      "playable": false,
+      "rating": 8.3,
+      "rating_count": 9398,
+      "rating_stats": [
+        0.006597148329431794,
+        0.021919557352628218,
+        0.16045967227069588,
+        0.44637156841881254,
+        0.36465205362843156
+      ],
+      "title": "\u75af\u5b50",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26753904/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 906,
+    "kind": 2,
+    "kind_cn": "\u53f0\u8bcd",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3232.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3769.jpg",
+      "subject_id": "26894602",
+      "text": "\u5230\u90a3\u8fb9\u53bb\u5427\uff0c\u90a3\u8fb9\u98ce\u666f\u66f4\u597d\u3002"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.16666666666666666,
+          0.05,
+          0.1568627450980392
+        ],
+        "_base_color": [
+          0.12121212121212133,
+          0.05913978494623651,
+          0.7294117647058823
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4c4b47",
+        "primary_color_light": "72706b",
+        "secondary_color": "f9f8f4"
+      },
+      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526989708.jpg",
+      "directors": [
+        "\u4fdd\u7f57\u00b7\u5e15\u592b\u5229\u514b\u592b\u65af\u57fa Pawel Pawlikowski"
+      ],
+      "id": "26894602",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26894602/",
+      "orig_title": "Zimna wojna",
+      "playable": false,
+      "rating": 7.8,
+      "rating_count": 16805,
+      "rating_stats": [
+        0.0035108598631359714,
+        0.02445700684320143,
+        0.24730734900327284,
+        0.5170484974709908,
+        0.20767628681939898
+      ],
+      "title": "\u51b7\u6218",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26894602/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

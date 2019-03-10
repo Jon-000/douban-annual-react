@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 38,
+    "id": 850,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(111, 63, 135, .8)",
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3631.jpg",
+      "description": "\u4eceFreddie\u7b2c\u4e00\u6b21\u5728\u94a2\u7434\u4e0a\u8f7b\u8f7b\u6572\u51faBohemian Rhapsody\u7684\u65cb\u5f8b\u5f00\u59cb\uff0c\u6211\u7684\u6cea\u817a\u548c\u6bdb\u5b54\u4fbf\u4f1a\u4e3a\u6bcf\u4e00\u7f15\u719f\u6089\u65cb\u5f8b\u800c\u6536\u7f29\u3002\u800c\u6700\u540eLive Aid\u5982\u4e34\u73b0\u573a\u7684\u51b2\u51fb\u529b\uff0c\u83ab\u540d\u7684\u75db\u82e6\u5377\u7740\u9f13\u70b9\u7684\u72c2\u9a9a\u5c06\u6211\u51fb\u6e83\u5728\u5f71\u9662\u6700\u540e\u4e00\u6392\u7684\u5ea7\u6905\u4e4b\u4e0a\uff0c\u9f13\u819c\u8f70\u9e23\u3002",
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3677.jpg",
+      "subject_ids": "5300054, 26809592, 26791455, 4058933, 3095514, 26640371, 3026559, 26952704, 4920389, 6390825",
+      "title": "2018\u5e74\u5ea6\u7535\u5f71\u539f\u58f0",
+      "user_id": "1237270"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.9810126582278481,
+          0.43888888888888894,
+          0.7058823529411765
+        ],
+        "_base_color": [
+          0.8643790849673203,
+          0.5930232558139534,
+          0.6745098039215687
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f3371",
+        "primary_color_light": "a54393",
+        "secondary_color": "f9f4f8"
+      },
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549558913.jpg",
+      "directors": [
+        "\u5e03\u83b1\u6069\u00b7\u8f9b\u683c Bryan Singer"
+      ],
+      "id": "5300054",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/5300054/",
+      "orig_title": "Bohemian Rhapsody",
+      "playable": false,
+      "rating": 8.6,
+      "rating_count": 108301,
+      "rating_stats": [
+        0.00405351751138032,
+        0.012031283182980766,
+        0.10179038051356866,
+        0.3600613106065503,
+        0.5220635081855199
+      ],
+      "title": "\u6ce2\u897f\u7c73\u4e9a\u72c2\u60f3\u66f2",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/5300054/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9810126582278481,
+            0.43888888888888894,
+            0.7058823529411765
+          ],
+          "_base_color": [
+            0.8643790849673203,
+            0.5930232558139534,
+            0.6745098039215687
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f3371",
+          "primary_color_light": "a54393",
+          "secondary_color": "f9f4f8"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2549558913.jpg",
+        "id": "5300054",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/5300054/",
+        "orig_title": "Bohemian Rhapsody",
+        "playable": false,
+        "rating": 8.6,
+        "rating_count": 108301,
+        "rating_stats": [
+          0.00405351751138032,
+          0.012031283182980766,
+          0.10179038051356866,
+          0.3600613106065503,
+          0.5220635081855199
+        ],
+        "title": "\u6ce2\u897f\u7c73\u4e9a\u72c2\u60f3\u66f2",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/5300054/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08333333333333344,
+            0.12,
+            0.19607843137254902
+          ],
+          "_base_color": [
+            0.16666666666666666,
+            0.057142857142857134,
+            0.13725490196078433
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4c48",
+          "primary_color_light": "72726c",
+          "secondary_color": "f9f9f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2506487968.jpg",
+        "id": "26809592",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26809592/",
+        "orig_title": "Phantom Thread",
+        "playable": true,
+        "rating": 7.5,
+        "rating_count": 62871,
+        "rating_stats": [
+          0.00868444911008255,
+          0.042754211003483325,
+          0.3247602233144057,
+          0.4443543127992238,
+          0.17944680377280464
+        ],
+        "title": "\u9b45\u5f71\u7f1d\u5320",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26809592/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0949820788530466,
+            0.788135593220339,
+            0.4627450980392157
+          ],
+          "_base_color": [
+            0.12333333333333334,
+            0.78125,
+            0.25098039215686274
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3c10",
+          "primary_color_light": "725b19",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518558081.jpg",
+        "id": "26791455",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26791455/",
+        "orig_title": "You Were Never Really Here",
+        "playable": false,
+        "rating": 6.8,
+        "rating_count": 9734,
+        "rating_stats": [
+          0.027224162728580234,
+          0.1002671049928087,
+          0.41514279843846313,
+          0.3556605711937538,
+          0.10170536264639408
+        ],
+        "title": "\u4f60\u4ece\u672a\u5728\u6b64",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26791455/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.11666666666666681,
+            0.05882352941176466,
+            0.6666666666666666
+          ],
+          "_base_color": [
+            0.11111111111111112,
+            0.15384615384615383,
+            0.15294117647058825
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f786b",
+          "primary_color_light": "a59d8c",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541979727.jpg",
+        "id": "4058933",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/4058933/",
+        "orig_title": "A Star Is Born",
+        "playable": false,
+        "rating": 7.1,
+        "rating_count": 45267,
+        "rating_stats": [
+          0.014756886915412994,
+          0.08593456601939603,
+          0.40062297037577044,
+          0.336735370137186,
+          0.16195020655223452
+        ],
+        "title": "\u4e00\u4e2a\u660e\u661f\u7684\u8bde\u751f",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/4058933/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.029761904761904767,
+            0.5490196078431373,
+            0.6
+          ],
+          "_base_color": [
+            0.1074074074074074,
+            0.20642201834862378,
+            0.8549019607843137
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7665",
+          "primary_color_light": "a59983",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2532759044.jpg",
+        "id": "3095514",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3095514/",
+        "orig_title": "Suspiria",
+        "playable": false,
+        "rating": 6.8,
+        "rating_count": 15325,
+        "rating_stats": [
+          0.03758564437194127,
+          0.12450244698205547,
+          0.38936378466557914,
+          0.31882544861337686,
+          0.12972267536704732
+        ],
+        "title": "\u9634\u98ce\u9635\u9635",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3095514/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08095238095238096,
+            0.16826923076923073,
+            0.8156862745098039
+          ],
+          "_base_color": [
+            0.07142857142857145,
+            0.4468085106382979,
+            0.1843137254901961
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f5e46",
+          "primary_color_light": "a57b5b",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2518856022.jpg",
+        "id": "26640371",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26640371/",
+        "orig_title": "Isle of Dogs",
+        "playable": true,
+        "rating": 8.3,
+        "rating_count": 155677,
+        "rating_stats": [
+          0.004380865509998265,
+          0.014954039453483815,
+          0.15915003500838273,
+          0.4772830925570251,
+          0.34423196747111007
+        ],
+        "title": "\u72ac\u4e4b\u5c9b",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26640371/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.7444444444444445,
+            0.3846153846153847,
+            0.15294117647058825
+          ],
+          "_base_color": [
+            0.7619047619047619,
+            0.56,
+            0.09803921568627451
+          ],
+          "is_dark": true,
+          "primary_color_dark": "3a214c",
+          "primary_color_light": "573272",
+          "secondary_color": "f7f4f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2532776305.jpg",
+        "id": "3026559",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3026559/",
+        "orig_title": "First Man",
+        "playable": false,
+        "rating": 7.7,
+        "rating_count": 24795,
+        "rating_stats": [
+          0.004355716878402904,
+          0.02230288364589635,
+          0.2879209518047994,
+          0.5132486388384755,
+          0.1721718088324259
+        ],
+        "title": "\u767b\u6708\u7b2c\u4e00\u4eba",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3026559/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.013888888888888895,
+            0.6043165467625898,
+            0.5450980392156862
+          ],
+          "_base_color": [
+            0.003787878787878803,
+            0.676923076923077,
+            0.5098039215686274
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f2b29",
+          "primary_color_light": "a53835",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2539127687.jpg",
+        "id": "26952704",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26952704/",
+        "orig_title": "The Ballad of Buster Scruggs",
+        "playable": false,
+        "rating": 8.4,
+        "rating_count": 43088,
+        "rating_stats": [
+          0.0022047901968065354,
+          0.008285369476420348,
+          0.12681024879316746,
+          0.507844411437059,
+          0.3548551800965466
+        ],
+        "title": "\u5df4\u65af\u7279\u00b7\u65af\u514b\u9c81\u683c\u65af\u7684\u6b4c\u8c23",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26952704/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6515151515151515,
+            0.34375,
+            0.5019607843137255
+          ],
+          "_base_color": [
+            0.7285714285714285,
+            0.16203703703703698,
+            0.8470588235294118
+          ],
+          "is_dark": true,
+          "primary_color_dark": "726a7f",
+          "primary_color_light": "948aa5",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.jpg",
+        "id": "4920389",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/4920389/",
+        "orig_title": "Ready Player One",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 732961,
+        "rating_stats": [
+          0.0056851592376674885,
+          0.010222917726864048,
+          0.09690283657657092,
+          0.34580557492144876,
+          0.5413835115374488
+        ],
+        "title": "\u5934\u53f7\u73a9\u5bb6",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/4920389/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5,
+            0.17999999999999994,
+            0.39215686274509803
+          ],
+          "_base_color": [
+            0.18840579710144922,
+            0.1105769230769231,
+            0.8156862745098039
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4b4c44",
+          "primary_color_light": "717266",
+          "secondary_color": "f9f9f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512123434.jpg",
+        "id": "6390825",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/6390825/",
+        "orig_title": "Black Panther",
+        "playable": true,
+        "rating": 6.5,
+        "rating_count": 294653,
+        "rating_stats": [
+          0.028314661652859466,
+          0.10375933725432968,
+          0.4703430815230118,
+          0.2994946598201953,
+          0.09808825974960377
+        ],
+        "title": "\u9ed1\u8c79",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/6390825/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u1237270-133.jpg",
+      "id": "1237270",
+      "name": "\u79c1\uff5e\u5ddd\u6d41",
+      "url": "https://www.douban.com/people/1237270/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

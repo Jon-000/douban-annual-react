@@ -12,7 +12,8 @@ export function BarRating(props) {
   } = props;
 
   // rem 所以减三个
-  const starWidth = `${Number(singleBarHeight.substring(0,singleBarHeight.length-3))+ 0.1}rem`
+  // const starWidth = `${Number(singleBarHeight.substring(0,singleBarHeight.length-3))+ 0.1}rem`
+  const starWidth = singleBarHeight
 
   // if (reverseArray) ratingArray.reverse();
   const levels = ratingArray.length;
