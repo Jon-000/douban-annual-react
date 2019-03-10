@@ -21,11 +21,13 @@ class App extends Component {
     }
     // 这些状态的改变不应触发生命周期的update阶段,减少不必要的render调用等
     this._isScrolling = false
+    this.pagesInnerRef = React.createRef();
   }
 
 
   componentDidMount() {
-    document.body.addEventListener("wheel",this.handleScroll)
+    // document.body.addEventListener("wheel",this.handleScroll)
+    this.pagesInnerRef.current.addEventListener("wheel",this.handleScroll)
     window.addEventListener("hashchange", this.handleHashChange)
     window.addEventListener('resize', this.updateWindowDimensions);
 
@@ -57,8 +59,7 @@ class App extends Component {
   }
 
   componentWillUnmount() {
-        console.log(this.state.width)
-        document.body.removeEventListener("wheel",this.handleScroll)
+    this.pagesInnerRef.current.removeEventListener("wheel",this.handleScroll)
     window.removeEventListener("hashchange", this.handleHashChange)
     window.removeEventListener("resize", this.updateWindowDimensions);
   }
@@ -212,10 +213,10 @@ class App extends Component {
             menu_infos={this.state.summary.widget_infos}
             // background_musics={this.state.summary.payload.background_musics}
             active_index={this.state.currentPageIndex}
-            onBtnMenuClick={this.rmOraddScrollEvtListenerByMenu}
+            // onBtnMenuClick={this.rmOraddScrollEvtListenerByMenu}
             ></Header>
 
-          <Pages currentPageIndex={this.state.currentPageIndex}>
+          <Pages currentPageIndex={this.state.currentPageIndex} setRef={this.pagesInnerRef}>
             {
               this.shouldRenderPageIndex(this.state.currentPageIndex).map(i => (
                 <Page

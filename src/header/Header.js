@@ -10,7 +10,7 @@ export default function Header(props) {
     height,
     menu_infos,
     active_index,
-    onBtnMenuClick,
+    // onBtnMenuClick,
     background_musics,
   } = props
   
@@ -20,7 +20,7 @@ export default function Header(props) {
   const onNavLiClick = (index) => {
     window.location.hash = `#${index}`
     // 重新添加事件handler
-    onBtnMenuClick({showNav: false})
+    // onBtnMenuClick({showNav: false})
     setShowNav(false)
   }
 
@@ -41,7 +41,7 @@ export default function Header(props) {
         <button className="btn-menu"
           onClick={() => {
             setShowNav(!showNav);
-            onBtnMenuClick({showNav: true})
+            // onBtnMenuClick({showNav: true})
           }}
           >
           <div className="icon-doulist">
@@ -76,7 +76,7 @@ export default function Header(props) {
           <div className="nav-close">
             <button onClick={() => {
               setShowNav(false)
-              onBtnMenuClick({showNav: false})
+              // onBtnMenuClick({showNav: false})
             }}></button>
           </div>
       </nav>

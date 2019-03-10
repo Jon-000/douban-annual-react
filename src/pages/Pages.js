@@ -4,8 +4,9 @@ import styled from 'styled-components';
 
 function Pages(props) {
   return (
-    <Outer>
-      <Inner tY={props.currentPageIndex}>
+    <Outer >
+      <Inner ref={props.setRef}
+        tY={props.currentPageIndex}>
         {props.children}
       </Inner>
     </Outer>
@@ -17,7 +18,7 @@ export default Pages;
 const Outer = styled.div`
 width: 100%;
 height: 100%;
-// overflow: hidden;
+overflow: hidden;
 // transform: translate(0, 
 //   ${props => (props.tY * -100) || 0}%
 //   );
