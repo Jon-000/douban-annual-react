@@ -22,12 +22,13 @@ class App extends Component {
     // 这些状态的改变不应触发生命周期的update阶段,减少不必要的render调用等
     this._isScrolling = false
     this.pagesInnerRef = React.createRef();
+    this.pagesOuterRef = React.createRef();
   }
 
 
   componentDidMount() {
     // document.body.addEventListener("wheel",this.handleScroll)
-    this.pagesInnerRef.current.addEventListener("wheel",this.handleScroll)
+    this.pagesOuterRef.current.addEventListener("wheel",this.handleWheel)
     window.addEventListener("hashchange", this.handleHashChange)
     window.addEventListener('resize', this.updateWindowDimensions);
 
@@ -59,7 +60,7 @@ class App extends Component {
   }
 
   componentWillUnmount() {
-    this.pagesInnerRef.current.removeEventListener("wheel",this.handleScroll)
+    this.pagesOuterRef.current.removeEventListener("wheel",this.handleWheel)
     window.removeEventListener("hashchange", this.handleHashChange)
     window.removeEventListener("resize", this.updateWindowDimensions);
   }
@@ -73,7 +74,7 @@ class App extends Component {
       );
   }
 
-  handleScroll = (evt) => {
+  handleWheel = (evt) => {
     evt.preventDefault();
     if (this._isScrolling) return;
     this._isScrolling = true;
@@ -216,7 +217,7 @@ class App extends Component {
             // onBtnMenuClick={this.rmOraddScrollEvtListenerByMenu}
             ></Header>
 
-          <Pages currentPageIndex={this.state.currentPageIndex} setRef={this.pagesInnerRef}>
+          <Pages currentPageIndex={this.state.currentPageIndex} setInnerRef={this.pagesInnerRef} setOuterRef={this.pagesOuterRef}>
             {
               this.shouldRenderPageIndex(this.state.currentPageIndex).map(i => (
                 <Page

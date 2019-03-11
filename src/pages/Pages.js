@@ -4,8 +4,8 @@ import styled from 'styled-components';
 
 function Pages(props) {
   return (
-    <Outer >
-      <Inner ref={props.setRef}
+    <Outer ref={props.setOuterRef}>
+      <Inner ref={props.setInnerRef}
         tY={props.currentPageIndex}>
         {props.children}
       </Inner>
