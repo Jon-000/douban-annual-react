@@ -3,6 +3,7 @@ import React from 'react';
 import styled from 'styled-components';
 import StartPage from './StartPage';
 import Top10Page from './Top10Page/Top10Page';
+import DialoguePage from './Dialogue/DialoguePage';
 
 function Page(props) {
   const {
@@ -27,7 +28,14 @@ function Page(props) {
           <Top10Page pageData={props.pageData} innerWidth={innerWidth} ></Top10Page>
         </Container>
       )
-    } else {
+    } else if (props.pageData.kind === 2) {
+      return (
+        <Container id={props.pageIndex} pageIndex={props.pageIndex} >
+          <DialoguePage pageData={props.pageData} innerWidth={innerWidth} ></DialoguePage>
+        </Container>
+      )
+    }
+    else {
       return (
         <Container id={props.pageIndex} pageIndex={props.pageIndex}>
           <div>这个类型的模板没写</div>

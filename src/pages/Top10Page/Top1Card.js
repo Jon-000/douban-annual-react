@@ -6,6 +6,8 @@ import StarRating, { SvgLinearGradient } from '../../common/rating/StarRating';
 import { BarRating } from '../../common/rating/BarRating';
 import TopLeftNum from './TopLeftNum';
 
+import hexToRgbA from '../../utils/hexToRgbA';
+
 function Top1Card(props) {
   console.log('Top1Card')
   console.log(props)
@@ -17,15 +19,21 @@ function Top1Card(props) {
     rating_stats,
     rating_count,
     playable,
+    color_scheme,
     // 以下是payload的中的
     payloadTitle,
     background_color,
     description,
   } = props
+
+  // 把这个当作rem的base font
   let baseFontSize = props.baseFontSize || 10
 
+  // 为了解决部分页面的json的payload中没有background_color这一属性,使用color_schema中的hex作为备选,为了透明度,所以转换为rgba
+  let bgColorRgba = hexToRgbA(`#${color_scheme.primary_color_light}`, .85)
+
   return (
-    <Container bgColor={background_color} width={`${26 * baseFontSize}px`} >
+    <Container bgColor={background_color || bgColorRgba } width={`${26 * baseFontSize}px`} >
       <h1 style={{
         fontSize: `${1.9 * baseFontSize}px`,
         lineHeight: `${2.8 * baseFontSize}px`,
