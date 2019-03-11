@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "仿豆瓣电影2018",
+  "name": "仿豆瓣2018年度电影榜单",
   "icons": [
     {
       "src": "favicon.ico",
