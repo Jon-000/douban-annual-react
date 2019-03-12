@@ -6,7 +6,9 @@ function Pages(props) {
   return (
     <Outer ref={props.setOuterRef}>
       <Inner ref={props.setInnerRef}
-        tY={props.currentPageIndex}>
+        translateY={props.innerTranslateY}
+        transitionTime={props.transitionTime}
+        >
         {props.children}
       </Inner>
     </Outer>
@@ -28,9 +30,9 @@ background-color: #000;
 width: 100%;
 height: 100%;
 position: relative;
-transition: all 2s;
+transition: all ${props => props.transitionTime || "2s"};
 transform: translate(0, 
-  ${props => (props.tY * -100) || 0}%
+  ${props => props.translateY || 0}
   );
 
 `

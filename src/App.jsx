@@ -14,15 +14,18 @@ class App extends Component {
     super(props);
     this.state = {
       currentPageIndex: 0,
+      innerTranslateY: 0,
       pages: {},
       summary: {},
-      innerWidth: 0,
-      innerHeight: 0,
+      innerWidth: window.innerWidth,
+      innerHeight: window.innerHeight,
     }
     // 这些状态的改变不应触发生命周期的update阶段,减少不必要的render调用等
     this._isScrolling = false
+    this._scrollDuration = 2000;
     this.pagesInnerRef = React.createRef();
     this.pagesOuterRef = React.createRef();
+    this._numOfPages = 68;
   }
 
 
@@ -43,15 +46,12 @@ class App extends Component {
       if ( window.location.hash.match(re) !== null ) {
         const numStr = window.location.hash.match(re)[0].substring(1);
         const num = Number(numStr);
-        console.log(num)
-        this.setState({currentPageIndex: num}, () => {
-          console.log('get index from hash route')
-          console.log(
-            this.state.currentPageIndex,
-            this.state.pages
-          )
-          this.getPagesAndSaveToState(this.state.currentPageIndex)
-          })
+        let y = this.calcInnerTranslateY(num)
+        this.getPagesAndSaveToState(num)
+        this.setState({
+          currentPageIndex: num,
+          innerTranslateY: y,
+        })
       }
     }
 
@@ -66,52 +66,22 @@ class App extends Component {
   }
 
   updateWindowDimensions = () => {
-    this.setState({ innerWidth: window.innerWidth, innerHeight: window.innerHeight },
-      () => {
-        console.log(this.state.innerWidth)
-        console.log(this.state.innerHeight)
-      }
-      );
+    this.setState({ innerWidth: window.innerWidth, innerHeight: window.innerHeight },);
   }
 
   handleWheel = (evt) => {
     evt.preventDefault();
-    if (this._isScrolling) return;
-    this._isScrolling = true;
     if (evt.deltaY > 0) {
-      this.setState({
-        currentPageIndex: 
-          // 检查是否到最后一页
-          this.state.currentPageIndex + 1 > 68 ? 68 : this.state.currentPageIndex + 1
-      }, () => {
-        this.getPagesAndSaveToState(this.state.currentPageIndex);
-
-        this.waitScroll(2000)
-        .then(() => {
-          this._isScrolling = false;
-          window.location.hash = `#${this.state.currentPageIndex}`
-        })
-      })
+      this.goToPage(this.state.currentPageIndex + 1)
     } else {
-      this.getPagesAndSaveToState(this.state.currentPageIndex);
-
-      this.setState({currentPageIndex: 
-        // 检查是否到第一页
-        this.state.currentPageIndex - 1 < 0 ? 0 : this.state.currentPageIndex - 1
-        },
-        () => {
-          setTimeout(() => {
-            this._isScrolling = false;
-            window.location.hash = `#${this.state.currentPageIndex}`
-          }, 2000)
-        }
-        )
+      this.goToPage(this.state.currentPageIndex - 1)
     }
   }
 
   handleHashChange = (evt) => {
-    console.log(evt)
-    console.log(window.location.hash)
+    // console.log("handleHashChange",
+    //   evt)
+    
     // 根据浏览器地址决定currentPageIndex的值,然后获取数据
     if (window.location.hash === "" ) {
       this.getPagesAndSaveToState(this.state.currentPageIndex)
@@ -120,15 +90,15 @@ class App extends Component {
       if ( window.location.hash.match(re) !== null ) {
         const numStr = window.location.hash.match(re)[0].substring(1);
         const num = Number(numStr);
-        console.log(num)
-        this.setState({currentPageIndex: num}, () => {
-          console.log('get index from hash route')
-          console.log(
-            this.state.currentPageIndex,
-            this.state.pages
-          )
-          this.getPagesAndSaveToState(this.state.currentPageIndex)
-          })
+        // 得到nextPageIndex = num
+        // console.log(num)
+        this.getPagesAndSaveToState(num)
+        let y = this.calcInnerTranslateY(num)
+        // 与此同时,触发滚动到下一页
+        this.setState({
+          currentPageIndex: num,
+          innerTranslateY: y
+        })
       }
     }
   }
@@ -149,8 +119,7 @@ class App extends Component {
   }
 
   shouldRenderPageIndex = (index) => {
-    console.log(`shouldRenderPageIndex ${index}`)
-    const pages_length = 68
+    const pages_length = this._numOfPages;
     const currentPageIndex = index
     const shouldGetIndexArray = [
       currentPageIndex,
@@ -165,9 +134,6 @@ class App extends Component {
   }
 
   shouldGetPageIndex = (index) => {
-    console.log("5555555555555")
-    console.log(index)
-    console.log(`shouldGetPageIndex ${index}`)
     const tmp = this.shouldRenderPageIndex(index)
       .filter(i => !Object.keys(this.state.pages).includes(String(i)))
     return tmp;
@@ -203,8 +169,7 @@ class App extends Component {
   }
 
   render() {
-    console.log('render...')
-    console.log(this.state.pages)
+    // console.log('render...')
     return (
       <div className="App" ref={ref => this.appRef = ref}>
         <Container>
@@ -217,7 +182,7 @@ class App extends Component {
             // onBtnMenuClick={this.rmOraddScrollEvtListenerByMenu}
             ></Header>
 
-          <Pages currentPageIndex={this.state.currentPageIndex} setInnerRef={this.pagesInnerRef} setOuterRef={this.pagesOuterRef}>
+          <Pages innerTranslateY={this.state.innerTranslateY} setInnerRef={this.pagesInnerRef} setOuterRef={this.pagesOuterRef}>
             {
               this.shouldRenderPageIndex(this.state.currentPageIndex).map(i => (
                 <Page
@@ -238,20 +203,33 @@ class App extends Component {
     );
   }
 
-  buttonNextHandler = () => {
-    this.setState({ currentPageIndex: this.state.currentPageIndex + 1},
-      () => {
-        console.log(
-          `setState successfully, currentpageindex is ${this.state.currentPageIndex} now`
-        )
-        this.getPagesAndSaveToState();
+  calcInnerTranslateY = (nextPageIndex) => {
+     return `${(nextPageIndex * -this.state.innerHeight)}px`
+  }
 
+  goToPage = (pageIndex) => {
+    if (this._isScrolling) return;
+    this._isScrolling = true;
+    let y = this.calcInnerTranslateY(pageIndex)
+    
+    this.getPagesAndSaveToState(pageIndex);
+    this.setState({
+      currentPageIndex: pageIndex,
+      innerTranslateY: y,
+    },
+      () => {
         // 滚动动画完成后,再更新浏览器地址
         setTimeout(() => {
-          window.location.href = `#${this.state.currentPageIndex}`
+          window.location.href = `#${pageIndex}`
+          this._isScrolling = false;
         }, 2000)
       }
-      )
+    )
+  }
+
+  
+  buttonNextHandler = () => {
+    this.goToPage(this.state.currentPageIndex + 1);
   }
 
 }
