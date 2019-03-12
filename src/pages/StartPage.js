@@ -20,20 +20,12 @@ function StartPage(props){
     bgUrl = pageData.payload.mask_img;
   }
 
-  const BgVideoComponent = () => (
-    <div style={{width: "100%", height: "100%"}}>
-      <video loop autoPlay style={{width: "100%"}}>
-        <source src={pageData.payload.video} type="video/mp4"></source>
-      </video>
-    </div>
-  )
-
   return (
     <Container>
       <TitleImage src={props.pageData.payload.mobile_title_img}></TitleImage>
       <BgImage style={{backgroundImage: `url(${bgUrl})`}}></BgImage>
       {
-        innerWidth > 425 ? <BgVideoComponent></BgVideoComponent> : null
+        innerWidth > 425 ? <BgVideoComponent src={pageData.payload.video}></BgVideoComponent> : null
       }
 
       <BottomInfo>
@@ -94,3 +86,37 @@ const Description = styled.div`
   line-height: 2rem;
 `
 
+const BgVideoComponent = (props) => (
+  <BgVideoWrapper>
+    <BgVideo loop autoPlay >
+      <source src={props.src} type="video/mp4"></source>
+    </BgVideo>
+  </BgVideoWrapper>
+)
+
+const BgVideoWrapper = styled.div`
+position: fixed;
+top: 0; 
+right: 0; 
+bottom: 0; 
+left: 0;
+overflow: hidden;
+`
+const BgVideo = styled.video`
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+cursor:pointer;
+
+  @media (min-aspect-ratio: 16/9) {
+    height: 300%; 
+    top: -100%; 
+  }
+
+  @media (max-aspect-ratio: 16/9) {
+    width: 300%; 
+    left: -100%; 
+  }
+`
