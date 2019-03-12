@@ -5,12 +5,20 @@ import styled from 'styled-components';
 function Pages(props) {
   return (
     <Outer ref={props.setOuterRef}>
-      <Inner ref={props.setInnerRef}
-        translateY={props.innerTranslateY}
-        transitionTime={props.transitionTime}
+      <div ref={props.setInnerRef} 
+        style={{
+          backgroundColor: "#000",
+          width: "100%",
+          height: "100%",
+          position: "relative",
+          transition: `transform ${props.transitionTime || "1s"}`,
+          transform: `translate3d(0,${props.innerTranslateY || "0"},0)`,
+        }}
+        // translateY={props.innerTranslateY}
+        // transitionTime={props.transitionTime}
         >
         {props.children}
-      </Inner>
+      </div>
     </Outer>
   )
 }
@@ -31,8 +39,8 @@ width: 100%;
 height: 100%;
 position: relative;
 transition: all ${props => props.transitionTime || "2s"};
-transform: translate(0, 
-  ${props => props.translateY || 0}
-  );
+// transform: translate(0, 
+//   ${props => props.translateY || 0}
+//   );
 
 `

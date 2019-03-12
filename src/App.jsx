@@ -22,10 +22,11 @@ class App extends Component {
     }
     // 这些状态的改变不应触发生命周期的update阶段,减少不必要的render调用等
     this._isScrolling = false
-    this._scrollDuration = 2000;
+    this._scrollDuration = 1000;
     this.pagesInnerRef = React.createRef();
     this.pagesOuterRef = React.createRef();
     this._numOfPages = 68;
+    this._touchstartPoint = null;
   }
 
 
@@ -34,6 +35,11 @@ class App extends Component {
     this.pagesOuterRef.current.addEventListener("wheel",this.handleWheel)
     window.addEventListener("hashchange", this.handleHashChange)
     window.addEventListener('resize', this.updateWindowDimensions);
+
+    this.pagesOuterRef.current.addEventListener("touchstart", this.handleTouchstart, false);
+    this.pagesOuterRef.current.addEventListener("touchend", this.handleTouchend, false);
+    this.pagesOuterRef.current.addEventListener("touchmove", this.handleTouchmove, false);
+    this.pagesOuterRef.current.addEventListener("touchcancel", this.handleTouchcancel, false);
 
     this.updateWindowDimensions();
 
@@ -47,22 +53,101 @@ class App extends Component {
         const numStr = window.location.hash.match(re)[0].substring(1);
         const num = Number(numStr);
         let y = this.calcInnerTranslateY(num)
+        // 获取数据
         this.getPagesAndSaveToState(num)
+        // 滚动
         this.setState({
           currentPageIndex: num,
           innerTranslateY: y,
         })
       }
     }
-
     //获取目录数据
     this.getSummary();
   }
+
+    handleTouchstart = (evt) => {
+      // evt.preventDefault()
+
+      this._touchstartPoint = { clientY: evt.changedTouches[0].clientY,
+        clientX: evt.changedTouches[0].clientX
+      }
+      console.log("handle touchstart",
+        this._touchstartPoint
+      )
+    }
+
+    // MDN: since calling preventDefault() on a touchstart or the first touchmove event of a series prevents the corresponding mouse events from firing, it's common to call preventDefault() on touchmove rather than touchstart. That way, mouse events can still fire and things like links will continue to work. Alternatively, some frameworks have taken to refiring touch events as mouse events for this same purpose. 
+    handleTouchmove = (evt) => {
+      // 啊哈,这句对29滚动很重要啊! 对性能也很有效果
+      if ( 
+        Math.abs((evt.touches[0].clientY - this._touchstartPoint.clientY) / 
+        (evt.touches[0].clientX - this._touchstartPoint.clientX)) < 1
+        ) {
+          return; // 水平方向上不作为
+        }
+      // 垂直方向上
+      evt.preventDefault();
+      // console.log("handle touchmove",
+      //   evt.touches[0].clientY
+      // )
+      let moveY = evt.touches[0].clientY - this._touchstartPoint.clientY
+      let y = this.state.currentPageIndex * -this.state.innerHeight 
+      let innerTranslateY = y + moveY
+      // console.log("touchmove",
+      //   y + moveY)
+      // 绑定touchmove到transform的state,实现可以位移的效果.但在touchend中归位.
+      this.setState({
+        innerTranslateY: `${innerTranslateY}px`
+      }, () => {
+        // console.log("touch innerTranslateY:",
+        //   this.state.innerTranslateY
+        // )
+      })
+    }
+
+    handleTouchend = (evt) => {
+      // console.log("handle touchend",
+      //   evt.touches[0]
+      // )
+      let moveY = evt.changedTouches[0].clientY - this._touchstartPoint.clientY
+      if (moveY < -50) {
+        // y方向位移小于一定负值,则向下翻页
+        this.goToPage(this.state.currentPageIndex + 1)
+      } else if (moveY > 50) {
+        // y方向位移大于一定正值,则向上翻页
+        this.goToPage(this.state.currentPageIndex - 1)
+      }
+      // 其他情况,则在手指离开屏幕时,让touchmove的位移归位
+      let y = this.state.currentPageIndex * -this.state.innerHeight 
+      this.setState({
+        innerTranslateY: `${y}px`
+      }, () => {
+        // console.log("touchend innerTranslateY:",
+        //   this.state.innerTranslateY
+        // )
+      })
+    }
+
+    handleTouchcancel = (evt) => {
+      // console.log("handle touchcancel",
+      //   evt
+      // )
+    }
+    
+    componentDidUpdate(){
+      console.log('App componentDidUpate')
+    }
+    
 
   componentWillUnmount() {
     this.pagesOuterRef.current.removeEventListener("wheel",this.handleWheel)
     window.removeEventListener("hashchange", this.handleHashChange)
     window.removeEventListener("resize", this.updateWindowDimensions);
+    this.pagesOuterRef.current.removeEventListener("touchstart", this.handleTouchstart, false);
+    this.pagesOuterRef.current.removeEventListener("touchend", this.handleTouchend, false);
+    this.pagesOuterRef.current.removeEventListener("touchmove", this.handleTouchmove, false);
+    this.pagesOuterRef.current.removeEventListener("touchcancel", this.handleTouchcancel, false);
   }
 
   updateWindowDimensions = () => {
@@ -103,9 +188,6 @@ class App extends Component {
     }
   }
 
-  componentDidUpdate(){
-    console.log('App componentDidUpate')
-  }
 
   waitScroll(time) {
     return new Promise(
@@ -162,11 +244,6 @@ class App extends Component {
       .then(cb)
   }
 
-  rmOraddScrollEvtListenerByMenu = ({showNav}) => {
-    showNav ? 
-      document.body.removeEventListener("wheel",this.handleScroll)
-    : document.body.addEventListener("wheel",this.handleScroll)
-  }
 
   render() {
     // console.log('render...')
@@ -179,10 +256,13 @@ class App extends Component {
             menu_infos={this.state.summary.widget_infos}
             // background_musics={this.state.summary.payload.background_musics}
             active_index={this.state.currentPageIndex}
-            // onBtnMenuClick={this.rmOraddScrollEvtListenerByMenu}
             ></Header>
 
-          <Pages innerTranslateY={this.state.innerTranslateY} setInnerRef={this.pagesInnerRef} setOuterRef={this.pagesOuterRef}>
+          <Pages
+            transitionTime={`${this._scrollDuration / 1000}s`}
+            innerTranslateY={this.state.innerTranslateY}
+            setInnerRef={this.pagesInnerRef}
+            setOuterRef={this.pagesOuterRef}>
             {
               this.shouldRenderPageIndex(this.state.currentPageIndex).map(i => (
                 <Page
@@ -210,6 +290,7 @@ class App extends Component {
   goToPage = (pageIndex) => {
     if (this._isScrolling) return;
     this._isScrolling = true;
+    if (pageIndex < 0 || pageIndex >= this._numOfPages) return;
     let y = this.calcInnerTranslateY(pageIndex)
     
     this.getPagesAndSaveToState(pageIndex);
@@ -222,7 +303,7 @@ class App extends Component {
         setTimeout(() => {
           window.location.href = `#${pageIndex}`
           this._isScrolling = false;
-        }, 2000)
+        }, this._scrollDuration)
       }
     )
   }
@@ -248,8 +329,8 @@ const IconNext = styled.div`
 &::before {
   display: block;
   content: '';
-  width: ${props => props.width};
-  height: ${props => props.height};
+  width: ${props => props.width || "100%"};
+  height: ${props => props.height || "100%"};
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAADmwAAA5sBPN8HMQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAEOSURBVGiB7dfNToNAFIZhuEZsNLGJS/C2NY2LdmFc0tbXDRNPyAwFhflpvjfphjAz5wllQVUppZRSSim1JOAJ+ALegCb1POOAB+AAfAK70E01cOS3C/AcedZgwH6YyXUC6tDNFpINxoMA+Jha8OhZkBQTQFxu/vWBBuhHC7+BLtLsdpbX4WxbP/v9zQHzb4TZKBlmNYTZMDpmdYTZOBoG6DZBmAM2x2yOMAdthomGMAeujomOMAevhkmGMAOEMO2CPdIizCB/xmSDMAMtxmSHMIPNxmSLcM3BZI9wBTBX4AVoi0C48H87nD3XsvhgmyzwZMp4EuMmMOUgXB5MeQjXgHkffmUilFJKKaXU/fQD/JJjbhigL+0AAAAASUVORK5CYII=);
   background-size: contain;
 }
@@ -261,7 +342,7 @@ const IconNext = styled.div`
 
 const ButtonNext = styled.button`
   position: absolute;
-  bottom: 2rem;
+  bottom: 1rem;
   left: 50%;
   transform: translateX(-50%);
   z-index: 2;
@@ -270,7 +351,7 @@ const ButtonNext = styled.button`
   width: ${props => props.width};
   height: ${props => props.height};
   border: none;
-  padding: 0;
+  padding: 1rem;
 
   &:focus {
     outline: none;

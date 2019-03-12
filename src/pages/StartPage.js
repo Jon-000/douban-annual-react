@@ -12,22 +12,23 @@ function StartPage(props){
     pageData
   } = props;
 
-  let bgUrl
+  let bgUrl,bgMaskUrl
   if ( innerWidth < 425 ) {
+    bgMaskUrl = pageData.payload.mobile_mask_img;
     bgUrl = pageData.payload.mobile_background_img;
-
   } else {
-    bgUrl = pageData.payload.mask_img;
+    bgMaskUrl = pageData.payload.mask_img;
   }
 
   return (
     <Container>
-      <TitleImage src={props.pageData.payload.mobile_title_img}></TitleImage>
-      <BgImage style={{backgroundImage: `url(${bgUrl})`}}></BgImage>
+      <TitleImage src={props.pageData.payload.mobile_title_img} zIndex={3}></TitleImage>
+      <BgImage style={{backgroundImage: `url(${bgMaskUrl})`}} zIndex={2}></BgImage>
       {
-        innerWidth > 425 ? <BgVideoComponent src={pageData.payload.video}></BgVideoComponent> : null
+        innerWidth > 425 ? 
+          <BgVideoComponent src={pageData.payload.video}></BgVideoComponent> : 
+          <BgImage style={{backgroundImage: `url(${bgUrl})`}} zIndex={1}></BgImage>
       }
-
       <BottomInfo>
         <Description>{props.pageData.payload.description}</Description>
       </BottomInfo>
@@ -51,7 +52,7 @@ position: absolute;
 top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
-z-index: 2;
+z-index: ${props => props.zIndex || 1};
 width: 55vh;
 
   @media only screen and (max-width: 425px) {
@@ -68,7 +69,7 @@ right:0;
 background-size: cover;
 background-position: 50%;
 background-repeat: no-repeat;
-z-index: 1;
+z-index: ${props => props.zIndex || 1};
 `
 
 const BottomInfo = styled.div`
