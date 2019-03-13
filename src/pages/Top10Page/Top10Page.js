@@ -55,7 +55,7 @@ function Top10Page(props) {
         <Bottom>
           {
             subjects.map((s, index) => {
-              if (index === 0 ) return
+              if (index === 0 ) return null;
               return (
                 <StyledTop29Card topN={index + 1}
                   coverUrl={s.cover}
@@ -97,13 +97,13 @@ flex-direction: column;
 `
 
 
-const Top = styled.div`
-flex: 1;
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: flex-end;
-`
+// const Top = styled.div`
+// flex: 1;
+// display: flex;
+// flex-direction: column;
+// justify-content: center;
+// align-items: flex-end;
+// `
 const BottomContainer = styled.div`
 width: 100%;
 overflow: hidden;

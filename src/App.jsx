@@ -32,14 +32,17 @@ class App extends Component {
 
   componentDidMount() {
     // document.body.addEventListener("wheel",this.handleScroll)
-    this.pagesOuterRef.current.addEventListener("wheel",this.handleWheel)
+    // this.pagesOuterRef.current.addEventListener("wheel",this.handleWheel)
     window.addEventListener("hashchange", this.handleHashChange)
     window.addEventListener('resize', this.updateWindowDimensions);
 
-    this.pagesOuterRef.current.addEventListener("touchstart", this.handleTouchstart, false);
-    this.pagesOuterRef.current.addEventListener("touchend", this.handleTouchend, false);
-    this.pagesOuterRef.current.addEventListener("touchmove", this.handleTouchmove, false);
-    this.pagesOuterRef.current.addEventListener("touchcancel", this.handleTouchcancel, false);
+    // this.pagesOuterRef.current.addEventListener("touchstart", this.handleTouchstart, false);
+    // passive:true则移动端chrome向下滑动会触发拖拽更新页面,所以必须是false
+    // 而如果用react的onTouchMove绑定,则默认为pasive:true,所以要自己绑定到dom上,并在上下滚动时调用preventDefault
+    // 这里弃用此方法,采用react的onTouchMove结合https://stackoverflow.com/questions/29008194/disabling-androids-chrome-pull-down-to-refresh-feature
+    // this.pagesOuterRef.current.addEventListener("touchmove", this.handleTouchmove, {passive: false}); 
+    // this.pagesOuterRef.current.addEventListener("touchend", this.handleTouchend, false);
+    // this.pagesOuterRef.current.addEventListener("touchcancel", this.handleTouchcancel, false);
 
     this.updateWindowDimensions();
 
@@ -86,7 +89,7 @@ class App extends Component {
           return; // 水平方向上不作为
         }
       // 垂直方向上
-      evt.preventDefault();
+      // evt.preventDefault();
       // console.log("handle touchmove",
       //   evt.touches[0].clientY
       // )
@@ -116,16 +119,17 @@ class App extends Component {
       } else if (moveY > 50) {
         // y方向位移大于一定正值,则向上翻页
         this.goToPage(this.state.currentPageIndex - 1)
+      } else {
+        // 其他情况,则在手指离开屏幕时,让touchmove的位移归位
+        let y = this.state.currentPageIndex * -this.state.innerHeight 
+        this.setState({
+          innerTranslateY: `${y}px`
+        }, () => {
+          // console.log("touchend innerTranslateY:",
+          //   this.state.innerTranslateY
+          // )
+        })
       }
-      // 其他情况,则在手指离开屏幕时,让touchmove的位移归位
-      let y = this.state.currentPageIndex * -this.state.innerHeight 
-      this.setState({
-        innerTranslateY: `${y}px`
-      }, () => {
-        // console.log("touchend innerTranslateY:",
-        //   this.state.innerTranslateY
-        // )
-      })
     }
 
     handleTouchcancel = (evt) => {
@@ -140,13 +144,13 @@ class App extends Component {
     
 
   componentWillUnmount() {
-    this.pagesOuterRef.current.removeEventListener("wheel",this.handleWheel)
+    // this.pagesOuterRef.current.removeEventListener("wheel",this.handleWheel)
     window.removeEventListener("hashchange", this.handleHashChange)
     window.removeEventListener("resize", this.updateWindowDimensions);
-    this.pagesOuterRef.current.removeEventListener("touchstart", this.handleTouchstart, false);
-    this.pagesOuterRef.current.removeEventListener("touchend", this.handleTouchend, false);
-    this.pagesOuterRef.current.removeEventListener("touchmove", this.handleTouchmove, false);
-    this.pagesOuterRef.current.removeEventListener("touchcancel", this.handleTouchcancel, false);
+    // this.pagesOuterRef.current.removeEventListener("touchstart", this.handleTouchstart, false);
+    // this.pagesOuterRef.current.removeEventListener("touchend", this.handleTouchend, false);
+    // this.pagesOuterRef.current.removeEventListener("touchmove", this.handleTouchmove, false);
+    // this.pagesOuterRef.current.removeEventListener("touchcancel", this.handleTouchcancel, false);
   }
 
   updateWindowDimensions = () => {
@@ -259,6 +263,11 @@ class App extends Component {
           <Pages
             transitionTime={`${this._scrollDuration / 1000}s`}
             innerTranslateY={this.state.innerTranslateY}
+            onTouchStart={this.handleTouchstart}
+            onTouchMove={this.handleTouchmove}
+            onTouchEnd={this.handleTouchend}
+            onTouchCancel={this.handleTouchcancel}
+            onWheel={this.handleWheel}
             setInnerRef={this.pagesInnerRef}
             setOuterRef={this.pagesOuterRef}>
             {
@@ -303,6 +312,10 @@ class App extends Component {
         }, this._scrollDuration)
       }
     )
+
+    // 方法二: 其实上边全不需要,只这一句也可以,唯一可能按照需要加个isGoing的状态限制下翻页速度
+    // window.location.href = `#${pageIndex}`
+
   }
 
   

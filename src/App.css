@@ -4,7 +4,11 @@
   background: #000;
 }
 
-
+/* 防止移动端chrome的pull-to-refresh effect  */
+body {
+  position: fixed;
+  overflow: hidden;
+}
 
 
 /* body.noscroll{

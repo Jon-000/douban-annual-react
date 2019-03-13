@@ -23,7 +23,7 @@ export default function Top29Card(props) {
         <MovieCover
           href={movieUrl} target="_blank"
           bgUrl={coverUrl} width={width} height={coverHeight}></MovieCover>
-        <a href={movieUrl} target="_blank">
+        <a href={movieUrl} target="_blank" rel="noopener noreferrer" >
           <div
             style={{boxSizing: "border-box", height: "42px", padding: "4px 5px", fontSize: "12px", lineHeight: "1.6rem", background: "rgba(0,0,0,.5)"}}>
             <span>

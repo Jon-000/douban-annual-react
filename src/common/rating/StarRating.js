@@ -2,8 +2,6 @@
 
 import React from 'react';
 
-import starSVG from './star.svg'
-
 export default function StarRating(props) {
   const {
     singleStarWidth,
@@ -44,10 +42,10 @@ export default function StarRating(props) {
 
 
 // use svg as normal images
-const Star = () => (
-  <span style={{display: "inline-block", width: "40px", height: "40px", background: `url(${starSVG}) 50%/contain no-repeat`}}>  
-  </span>
-)
+// const Star = () => (
+//   <span style={{display: "inline-block", width: "40px", height: "40px", background: `url(${starSVG}) 50%/contain no-repeat`}}>  
+//   </span>
+// )
 
 // use svg
 export const StarSVG = (props) => {

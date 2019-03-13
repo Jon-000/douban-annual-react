@@ -4,7 +4,13 @@ import styled from 'styled-components';
 
 function Pages(props) {
   return (
-    <Outer ref={props.setOuterRef}>
+    <Outer ref={props.setOuterRef}
+      onTouchStart={props.onTouchStart}
+      onTouchMove={props.onTouchMove}
+      onTouchEnd={props.onTouchEnd}
+      onTouchCancel={props.onTouchCancel}
+      onWheel={props.onWheel}
+      >
       <div ref={props.setInnerRef} 
         style={{
           backgroundColor: "#000",
@@ -29,18 +35,15 @@ const Outer = styled.div`
 width: 100%;
 height: 100%;
 overflow: hidden;
-// transform: translate(0, 
-//   ${props => (props.tY * -100) || 0}%
-//   );
 `
-const Inner = styled.div`
-background-color: #000;
-width: 100%;
-height: 100%;
-position: relative;
-transition: all ${props => props.transitionTime || "2s"};
+
+// const Inner = styled.div`
+// background-color: #000;
+// width: 100%;
+// height: 100%;
+// position: relative;
+// transition: all ${props => props.transitionTime || "2s"};
 // transform: translate(0, 
 //   ${props => props.translateY || 0}
 //   );
-
-`
+// `

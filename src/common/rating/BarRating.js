@@ -5,7 +5,6 @@ import {StarSVG} from './StarRating';
 export function BarRating(props) {
   let {
     ratingArray,
-    // reverseArray,
     singleBarWidth,
     singleBarHeight,
     margin,
@@ -14,9 +13,6 @@ export function BarRating(props) {
   // rem 所以减三个
   // const starWidth = `${Number(singleBarHeight.substring(0,singleBarHeight.length-3))+ 0.1}rem`
   const starWidth = singleBarHeight
-
-  // if (reverseArray) ratingArray.reverse();
-  const levels = ratingArray.length;
 
   const Bar = (props) => (
       <RatingBar width={singleBarWidth} height={singleBarHeight}

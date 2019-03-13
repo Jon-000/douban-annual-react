@@ -3,7 +3,7 @@ import React from 'react';
 
 export default function TopLeftNum(props) {
   const {
-    num,
+    // num,
     bgColor,
     color,
   } = props;

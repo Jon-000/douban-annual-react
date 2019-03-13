@@ -1,7 +1,6 @@
 
 import React from 'react';
 import styled from 'styled-components';
-import playSvg from '../../assets/images/play2.svg';
 import StarRating, { SvgLinearGradient } from '../../common/rating/StarRating';
 import { BarRating } from '../../common/rating/BarRating';
 import TopLeftNum from './TopLeftNum';
@@ -66,7 +65,7 @@ function Top1Card(props) {
                   <StyledPlayIcon width425={`${1.6 * baseFontSize}px`} height425={`${1.6 * baseFontSize}px`} ></StyledPlayIcon>
                 : null
               }
-              <a href={movieUrl} target="_blank" style={{ color: "#fff" }}>{title}</a>
+              <a href={movieUrl} target="_blank" rel="noopener noreferrer" style={{ color: "#fff" }}>{title}</a>
             </h2>
             <div style={{marginTop: description ? "20px" : null}}>
               <div style={{
