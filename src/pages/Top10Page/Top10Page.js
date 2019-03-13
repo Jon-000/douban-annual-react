@@ -106,13 +106,18 @@ align-items: flex-end;
 `
 const BottomContainer = styled.div`
 width: 100%;
-max-width: 1024px;
-margin: 0 auto;
 overflow: hidden;
+display: flex;
+justify-content: center;
+
+// max-width: 1024px;
+// margin: 0 auto;
 `
 
 const Bottom = styled.div`
-width: 100%;
+// width: 100%;
+flex: 0 1 1024px;
+
 display: flex;
 flex-direaction: row;
 overflow: auto;
