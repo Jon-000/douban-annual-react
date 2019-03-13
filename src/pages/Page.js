@@ -9,7 +9,7 @@ function Page(props) {
   const {
     innerWidth,
   } = props;
-  console.log('page component')
+  
   if (props.pageData === undefined) {
     return (
       <Container id={props.pageIndex} pageIndex={props.pageIndex}>

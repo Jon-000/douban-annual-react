@@ -43,7 +43,6 @@ class App extends Component {
 
     this.updateWindowDimensions();
 
-    console.log("App Component did mount:")
     // 根据浏览器地址决定currentPageIndex的值,然后获取数据
     if (window.location.hash === "" ) {
       this.getPagesAndSaveToState(this.state.currentPageIndex)
@@ -72,9 +71,9 @@ class App extends Component {
       this._touchstartPoint = { clientY: evt.changedTouches[0].clientY,
         clientX: evt.changedTouches[0].clientX
       }
-      console.log("handle touchstart",
-        this._touchstartPoint
-      )
+      // console.log("handle touchstart",
+      //   this._touchstartPoint
+      // )
     }
 
     // MDN: since calling preventDefault() on a touchstart or the first touchmove event of a series prevents the corresponding mouse events from firing, it's common to call preventDefault() on touchmove rather than touchstart. That way, mouse events can still fire and things like links will continue to work. Alternatively, some frameworks have taken to refiring touch events as mouse events for this same purpose. 
@@ -136,7 +135,7 @@ class App extends Component {
     }
     
     componentDidUpdate(){
-      console.log('App componentDidUpate')
+      // console.log('App componentDidUpate')
     }
     
 
@@ -235,7 +234,7 @@ class App extends Component {
   }
 
   getOnePage = (n, cb) => {
-    console.log(`get onepage ${n}`)
+    // console.log(`get onepage ${n}'s json`)
     api_movie2018
       .get(`/widget/${n}.json`)
       .then(res => {

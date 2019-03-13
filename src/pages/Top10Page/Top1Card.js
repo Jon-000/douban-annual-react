@@ -9,8 +9,7 @@ import TopLeftNum from './TopLeftNum';
 import hexToRgbA from '../../utils/hexToRgbA';
 
 function Top1Card(props) {
-  console.log('Top1Card')
-  console.log(props)
+
   const {
     movieUrl,
     //以下是解构的subject
