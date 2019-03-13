@@ -12,7 +12,8 @@ function Top1Card(props) {
   console.log('Top1Card')
   console.log(props)
   const {
-    //结构的subject这些
+    movieUrl,
+    //以下是解构的subject
     title,
     rating,
     cover,
@@ -52,7 +53,7 @@ function Top1Card(props) {
             position: "relative",
           }}>
             <TopLeftNum>1</TopLeftNum>
-            <MovieCover bgUrl={cover}></MovieCover>
+            <MovieCover bgUrl={cover} href={movieUrl} target="_blank"></MovieCover>
           </div>
           <MainRight>
             <h2 style={{
@@ -66,7 +67,7 @@ function Top1Card(props) {
                   <StyledPlayIcon width425={`${1.6 * baseFontSize}px`} height425={`${1.6 * baseFontSize}px`} ></StyledPlayIcon>
                 : null
               }
-              <a style={{ color: "#fff" }}>{title}</a>
+              <a href={movieUrl} target="_blank" style={{ color: "#fff" }}>{title}</a>
             </h2>
             <div style={{marginTop: description ? "20px" : null}}>
               <div style={{

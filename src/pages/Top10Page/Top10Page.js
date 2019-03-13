@@ -21,7 +21,7 @@ function Top10Page(props) {
     [bgUrl,top29CardWidth, coverHeight] = [pageData.payload.mobile_background_img, "80px", "111px"]
 
   return (
-    <Container cc="green" bgUrl={bgUrl}>
+    <Container cc="#000" bgUrl={bgUrl}>
 
     <div style={{flex: 1, display: "flex", justifyContent: "center"}}>
       <div style={{
@@ -36,15 +36,17 @@ function Top10Page(props) {
             <Top1Card
               payloadTitle={pageData.payload.title}
               background_color={pageData.payload.background_color}
+              movieUrl={props.pageData.subject.m_url}
               {...props.pageData.subject}
               ></Top1Card>
           :
             <Top1Card
               payloadTitle={pageData.payload.title}
               background_color={pageData.payload.background_color}
+              description={pageData.payload.description}
+              movieUrl={pageData.subject.url}
               {...props.pageData.subject}
               baseFontSize={15.9} //414*10/260
-              description={pageData.payload.description}
               ></Top1Card>
         }
       </div>
@@ -62,6 +64,7 @@ function Top10Page(props) {
                   rating={s.rating.toFixed(1)}
                   width={top29CardWidth}
                   coverHeight={coverHeight}
+                  movieUrl={innerWidth > 425 ? s.url : s.m_url}
                   key={s.id} />
                 )
               })
@@ -78,8 +81,8 @@ export default Top10Page;
 const Container = styled.div`
 width: 100%;
 height: 100%;
-padding: 40px 0 50px;
 box-sizing: border-box;
+padding: 40px 0 60px;
 display: relative;
 background: ${props => props.cc || "red"};
 background-image: url(${props => props.bgUrl});
@@ -88,6 +91,9 @@ background-position: 50%;
 // z-index: 0;
 display: flex;
 flex-direction: column;
+ @media only screen and (max-width: 425px) {
+  padding: 40px 0 50px;
+ }
 `
 
 

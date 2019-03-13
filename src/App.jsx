@@ -248,7 +248,6 @@ class App extends Component {
   render() {
     // console.log('render...')
     return (
-      <div className="App" ref={ref => this.appRef = ref}>
         <Container>
           <Header
             innerWidth={this.state.innerWidth}
@@ -279,7 +278,6 @@ class App extends Component {
             <IconNext width="1.6rem" height="1.6rem"></IconNext>
           </ButtonNext>
         </Container>
-      </div>
     );
   }
 
@@ -321,6 +319,7 @@ const Container = styled.div`
   width: 100%;
   height: 100%;
   position:relative;
+  background-color: #000;
 `
 
 
@@ -343,17 +342,23 @@ const IconNext = styled.div`
 const ButtonNext = styled.button`
   position: absolute;
   bottom: 1rem;
-  left: 50%;
-  transform: translateX(-50%);
+  right: 2rem;
   z-index: 2;
   background: transparent;
   border-radius: 50%;
   width: ${props => props.width};
   height: ${props => props.height};
-  border: none;
-  padding: 1rem;
+  border: 1px solid #fff;
+  padding: 1.5rem;
+  background-color: rgba(0,0,0,.2);
 
   &:focus {
     outline: none;
+  }
+
+  @media only screen and (max-width: 425px) {
+    left: 50%;
+    transform: translateX(-50%);
+    border: none;
   }
 `
