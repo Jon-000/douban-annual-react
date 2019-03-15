@@ -10,12 +10,12 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(140, 63, 49, .8)",
-      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3597.jpg",
-      "description": "\u53c8\u89c1\u201c\u803f\u6d69\u201d\uff0c\u5929\u77e5\u9053\u5b81\u6d69\u662f\u6709\u591a\u4e2d\u610f\u8fd9\u4e2a\u540d\u5b57\u3002\u5218\u6148\u6b23+\u5b81\u6d69+\u9ec4\u6e24\uff0c\u6211\u5f88\u4e0d\u4e89\u6c14\u5730\u671f\u5f85\u4e86\u3002",
+      "background_img": "/fakeApi/assets/images/p3597.jpg",
+      "description": "又见“耿浩”，天知道宁浩是有多中意这个名字。刘慈欣+宁浩+黄渤，我很不争气地期待了。",
       "has_barrage": "on",
-      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3674.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3674.jpg",
       "subject_ids": "25986662, 26266893, 26986120, 30163509, 26351864, 26757090, 4840388, 27135473, 26954859, 24743117",
-      "title": "2019\u6700\u503c\u5f97\u671f\u5f85\u7684\u534e\u8bed\u7535\u5f71",
+      "title": "2019最值得期待的华语电影",
       "user_id": "67841629"
     },
     "status": 0,
@@ -36,9 +36,9 @@
         "primary_color_light": "a52817",
         "secondary_color": "f9f5f4"
       },
-      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541901817.jpg",
+      "cover": "/fakeApi/assets/images/p2541901817.jpg",
       "directors": [
-        "\u5b81\u6d69 Hao Ning"
+        "宁浩 Hao Ning"
       ],
       "id": "25986662",
       "interest": {},
@@ -47,15 +47,15 @@
       "orig_title": "",
       "playable": false,
       "rating": 6.4,
-      "rating_count": 359002,
+      "rating_count": 370440,
       "rating_stats": [
-        0.05089386688653545,
-        0.12988507027816001,
-        0.4016607149820892,
-        0.2952741210355374,
-        0.1222862268176779
+        0.05102040816326531,
+        0.13100097181729836,
+        0.40349044379656623,
+        0.29342673577367456,
+        0.12106144044919555
       ],
-      "title": "\u75af\u72c2\u7684\u5916\u661f\u4eba",
+      "title": "疯狂的外星人",
       "type": "movie",
       "url": "https://movie.douban.com/subject/25986662/"
     },
@@ -77,7 +77,7 @@
           "primary_color_light": "a52817",
           "secondary_color": "f9f5f4"
         },
-        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541901817.jpg",
+        "cover": "/fakeApi/assets/images/p2541901817.jpg",
         "id": "25986662",
         "interest": {},
         "is_released": true,
@@ -85,15 +85,15 @@
         "orig_title": "",
         "playable": false,
         "rating": 6.4,
-        "rating_count": 359002,
+        "rating_count": 370440,
         "rating_stats": [
-          0.05089386688653545,
-          0.12988507027816001,
-          0.4016607149820892,
-          0.2952741210355374,
-          0.1222862268176779
+          0.05102040816326531,
+          0.13100097181729836,
+          0.40349044379656623,
+          0.29342673577367456,
+          0.12106144044919555
         ],
-        "title": "\u75af\u72c2\u7684\u5916\u661f\u4eba",
+        "title": "疯狂的外星人",
         "type": "movie",
         "url": "https://movie.douban.com/subject/25986662/"
       },
@@ -114,7 +114,7 @@
           "primary_color_light": "8184a5",
           "secondary_color": "f4f5f9"
         },
-        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2545472803.jpg",
+        "cover": "/fakeApi/assets/images/p2545472803.jpg",
         "id": "26266893",
         "interest": {},
         "is_released": true,
@@ -122,15 +122,15 @@
         "orig_title": "",
         "playable": false,
         "rating": 7.9,
-        "rating_count": 1071024,
+        "rating_count": 1085744,
         "rating_stats": [
-          0.03367151436382378,
-          0.0315819253350065,
-          0.1360483051733668,
-          0.2978336619907677,
-          0.5008645931370352
+          0.03347842585360822,
+          0.031544268262131775,
+          0.13674954685450713,
+          0.29951167125952344,
+          0.49871608777022947
         ],
-        "title": "\u6d41\u6d6a\u5730\u7403",
+        "title": "流浪地球",
         "type": "movie",
         "url": "https://movie.douban.com/subject/26266893/"
       },
@@ -151,7 +151,7 @@
           "primary_color_light": "724025",
           "secondary_color": "f9f6f4"
         },
-        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2436898546.jpg",
+        "cover": "/fakeApi/assets/images/p2436898546.jpg",
         "id": "26986120",
         "interest": {},
         "is_released": false,
@@ -161,16 +161,16 @@
         "rating": 0,
         "rating_count": 0,
         "rating_stats": [
-          0.13953488372093023,
-          0.023255813953488372,
-          0.2558139534883721,
-          0.09302325581395349,
-          0.4883720930232558
+          0.13636363636363635,
+          0.022727272727272728,
+          0.25,
+          0.09090909090909091,
+          0.5
         ],
-        "title": "\u6478\u91d1\u6821\u5c09\u4e4b\u4e5d\u5e7d\u5c06\u519b",
+        "title": "摸金校尉之九幽将军",
         "type": "movie",
         "url": "https://movie.douban.com/subject/26986120/",
-        "wish_count": 31935
+        "wish_count": 32528
       },
       {
         "color_scheme": {
@@ -189,36 +189,36 @@
           "primary_color_light": "a59791",
           "secondary_color": "f9f6f4"
         },
-        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2542973862.jpg",
+        "cover": "/fakeApi/assets/images/p2542973862.jpg",
         "id": "30163509",
         "interest": {},
         "is_released": true,
         "m_url": "https://m.douban.com/movie/subject/30163509/",
         "orig_title": "",
         "playable": false,
-        "rating": 7.0,
-        "rating_count": 390648,
+        "rating": 7,
+        "rating_count": 396923,
         "rating_stats": [
-          0.05347525137719891,
-          0.06863211894083676,
-          0.3065905879461817,
-          0.3941963097212836,
-          0.17710573201449897
+          0.05278101798081744,
+          0.06851454816173413,
+          0.30778765654799545,
+          0.39436112293820214,
+          0.17655565437125084
         ],
-        "title": "\u98de\u9a70\u4eba\u751f",
+        "title": "飞驰人生",
         "type": "movie",
         "url": "https://movie.douban.com/subject/30163509/"
       },
       {
         "color_scheme": {
           "_avg_color": [
-            0.0,
-            0.0,
+            0,
+            0,
             0.13333333333333333
           ],
           "_base_color": [
-            0.0,
-            0.0,
+            0,
+            0,
             0.09019607843137255
           ],
           "is_dark": true,
@@ -226,12 +226,12 @@
           "primary_color_light": "727272",
           "secondary_color": "f9f4f4"
         },
-        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2500366160.jpg",
+        "cover": "/fakeApi/assets/images/p2500366160.jpg",
         "id": "26351864",
         "interest": {},
         "is_released": false,
         "m_url": "https://m.douban.com/movie/subject/26351864/",
-        "orig_title": "\u98a8\u6797\u706b\u5c71",
+        "orig_title": "風林火山",
         "playable": false,
         "rating": 0,
         "rating_count": 0,
@@ -242,10 +242,10 @@
           0.22727272727272727,
           0.45454545454545453
         ],
-        "title": "\u98ce\u6797\u706b\u5c71",
+        "title": "风林火山",
         "type": "movie",
         "url": "https://movie.douban.com/subject/26351864/",
-        "wish_count": 18930
+        "wish_count": 19107
       },
       {
         "color_scheme": {
@@ -264,7 +264,7 @@
           "primary_color_light": "626972",
           "secondary_color": "f4f7f9"
         },
-        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2497606170.jpg",
+        "cover": "/fakeApi/assets/images/p2497606170.jpg",
         "id": "26757090",
         "interest": {},
         "is_released": true,
@@ -280,7 +280,7 @@
           0.23399558498896247,
           0.5187637969094923
         ],
-        "title": "\u5200\u80cc\u85cf\u8eab",
+        "title": "刀背藏身",
         "type": "movie",
         "url": "https://movie.douban.com/subject/26757090/"
       },
@@ -301,7 +301,7 @@
           "primary_color_light": "a5a49e",
           "secondary_color": "f9f8f4"
         },
-        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2541240741.jpg",
+        "cover": "/fakeApi/assets/images/p2541240741.jpg",
         "id": "4840388",
         "interest": {},
         "is_released": true,
@@ -309,15 +309,15 @@
         "orig_title": "",
         "playable": true,
         "rating": 5.8,
-        "rating_count": 163364,
+        "rating_count": 181626,
         "rating_stats": [
-          0.15060233588795574,
-          0.1732266594843417,
-          0.25014078989251,
-          0.1824759432922798,
-          0.24355427144291275
+          0.15108519705328533,
+          0.18021098300904057,
+          0.2553654212502615,
+          0.18113596071047097,
+          0.23220243797694162
         ],
-        "title": "\u65b0\u559c\u5267\u4e4b\u738b",
+        "title": "新喜剧之王",
         "type": "movie",
         "url": "https://movie.douban.com/subject/4840388/"
       },
@@ -338,26 +338,25 @@
           "primary_color_light": "a56c41",
           "secondary_color": "f9f7f4"
         },
-        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2546828235.jpg",
+        "cover": "/fakeApi/assets/images/p2546828235.jpg",
         "id": "27135473",
         "interest": {},
-        "is_released": false,
+        "is_released": true,
         "m_url": "https://m.douban.com/movie/subject/27135473/",
         "orig_title": "",
         "playable": false,
-        "rating": 0,
-        "rating_count": 0,
+        "rating": 6.2,
+        "rating_count": 3190,
         "rating_stats": [
-          0.04807692307692308,
-          0.04807692307692308,
-          0.28846153846153844,
-          0.4391025641025641,
-          0.1762820512820513
+          0.06332288401253919,
+          0.16677115987460814,
+          0.4169278996865204,
+          0.25329153605015675,
+          0.09968652037617555
         ],
-        "title": "\u9633\u53f0\u4e0a",
+        "title": "阳台上",
         "type": "movie",
-        "url": "https://movie.douban.com/subject/27135473/",
-        "wish_count": 28988
+        "url": "https://movie.douban.com/subject/27135473/"
       },
       {
         "color_scheme": {
@@ -376,7 +375,7 @@
           "primary_color_light": "a59c90",
           "secondary_color": "f9f7f4"
         },
-        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514631510.jpg",
+        "cover": "/fakeApi/assets/images/p2514631510.jpg",
         "id": "26954859",
         "interest": {},
         "is_released": false,
@@ -386,16 +385,16 @@
         "rating": 0,
         "rating_count": 0,
         "rating_stats": [
-          0.0,
+          0,
           0.07142857142857142,
           0.35714285714285715,
           0.14285714285714285,
           0.42857142857142855
         ],
-        "title": "\u5170\u5fc3\u5927\u5267\u9662",
+        "title": "兰心大剧院",
         "type": "movie",
         "url": "https://movie.douban.com/subject/26954859/",
-        "wish_count": 15997
+        "wish_count": 16196
       },
       {
         "color_scheme": {
@@ -414,7 +413,7 @@
           "primary_color_light": "2f3e72",
           "secondary_color": "f4f5f9"
         },
-        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2436898494.jpg",
+        "cover": "/fakeApi/assets/images/p2436898494.jpg",
         "id": "24743117",
         "interest": {},
         "is_released": false,
@@ -430,16 +429,16 @@
           0.09333333333333334,
           0.30666666666666664
         ],
-        "title": "\u753b\u76ae\u2162",
+        "title": "画皮Ⅲ",
         "type": "movie",
         "url": "https://movie.douban.com/subject/24743117/",
-        "wish_count": 14494
+        "wish_count": 14824
       }
     ],
     "user": {
       "avatar": "https://img3.doubanio.com/icon/u67841629-4.jpg",
       "id": "67841629",
-      "name": "\u674e\u4e0d\u8a00",
+      "name": "李不言",
       "url": "https://www.douban.com/people/Sylein/"
     }
   },

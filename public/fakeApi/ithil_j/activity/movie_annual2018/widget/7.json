@@ -5,15 +5,15 @@
     "comment_count": 0,
     "id": 879,
     "kind": 2,
-    "kind_cn": "\u53f0\u8bcd",
+    "kind_cn": "台词",
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3767.jpg",
+      "background_img": "/fakeApi/assets/images/p3767.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3768.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3768.jpg",
       "subject_id": "27059130",
-      "text": "\u6211\u60f3\u867d\u7136\u73b0\u5728\u662f\u592a\u7a7a\u65f6\u4ee3\uff0c\u4eba\u4eec\u65e9\u5c31\u53ef\u4ee5\u5750\u592a\u7a7a\u8239\u53bb\u6708\u7403\uff0c\u4f46\u6c38\u8fdc\u65e0\u6cd5\u63a2\u7d22\u522b\u4eba\u5185\u5fc3\u7684\u5b87\u5b99\u3002"
+      "text": "我想虽然现在是太空时代，人们早就可以坐太空船去月球，但永远无法探索别人内心的宇宙。"
     },
     "status": 0,
     "subject": {
@@ -33,9 +33,9 @@
         "primary_color_light": "a54522",
         "secondary_color": "f9f6f4"
       },
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2505928032.jpg",
+      "cover": "/fakeApi/assets/images/p2505928032.jpg",
       "directors": [
-        "\u9ec4\u4fe1\u5c27 Hsin-yao Huang"
+        "黄信尧 Hsin-yao Huang"
       ],
       "id": "27059130",
       "interest": {},
@@ -44,15 +44,15 @@
       "orig_title": "",
       "playable": false,
       "rating": 8.7,
-      "rating_count": 156106,
+      "rating_count": 157530,
       "rating_stats": [
-        0.0033502876250752693,
-        0.008737652620655196,
-        0.09519172869716731,
-        0.4432565051951879,
-        0.44946382586191436
+        0.0033390465308195264,
+        0.00878562813432362,
+        0.09521361010601155,
+        0.44286167714086205,
+        0.44980003808798324
       ],
-      "title": "\u5927\u4f5b\u666e\u62c9\u65af",
+      "title": "大佛普拉斯",
       "type": "movie",
       "url": "https://movie.douban.com/subject/27059130/"
     },

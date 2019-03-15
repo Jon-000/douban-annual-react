@@ -2,10 +2,10 @@
   "r": 0,
   "res": {
     "TYPE": "ActivityPageWidget",
-    "comment_count": 79,
+    "comment_count": 80,
     "id": 876,
     "kind": 4,
-    "kind_cn": "\u4eba\u7269",
+    "kind_cn": "人物",
     "kind_str": "person",
     "page_id": 15,
     "payload": {
@@ -15,96 +15,96 @@
       "left": "on",
       "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3808.jpg",
       "subject_ids": "1312976, 1369135, 1027798, 1339442, 1037851, 1041014, 1274224, 1275756, 1362973, 1318720",
-      "title": "2018\u6700\u53d7\u5173\u6ce8\u7684\u534e\u8bed\u5973\u6f14\u5458"
+      "title": "2018最受关注的华语女演员"
     },
     "people": [
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545126001.52.jpg",
         "id": "1312976",
-        "name": "\u8c2d\u5353",
+        "name": "谭卓",
         "name_en": "Zhuo Tan",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1312976/"
       },
       {
         "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1512553794.19.jpg",
         "id": "1369135",
-        "name": "\u6587\u6dc7",
+        "name": "文淇",
         "name_en": "Vicky Chen",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1369135/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p53446.jpg",
         "id": "1027798",
-        "name": "\u5468\u8fc5",
+        "name": "周迅",
         "name_en": "Xun Zhou",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1027798/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1526309480.04.jpg",
         "id": "1339442",
-        "name": "\u6625\u590f",
+        "name": "春夏",
         "name_en": "Jessie Li",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1339442/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p12653.jpg",
         "id": "1037851",
-        "name": "\u5468\u97f5",
+        "name": "周韵",
         "name_en": "Yun Zhou",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1037851/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1359895311.0.jpg",
         "id": "1041014",
-        "name": "\u7ae0\u5b50\u6021",
+        "name": "章子怡",
         "name_en": "Ziyi Zhang",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1041014/"
       },
       {
         "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p36798.jpg",
         "id": "1274224",
-        "name": "\u5468\u51ac\u96e8",
+        "name": "周冬雨",
         "name_en": "Dongyu Zhou",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1274224/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1367210981.95.jpg",
         "id": "1275756",
-        "name": "\u4f5f\u4e3d\u5a05",
+        "name": "佟丽娅",
         "name_en": "Liya Tong",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1275756/"
       },
       {
         "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1478066140.77.jpg",
         "id": "1362973",
-        "name": "\u4efb\u7d20\u6c50",
+        "name": "任素汐",
         "name_en": "Suxi Ren",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1362973/"
       },
       {
         "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1501237550.08.jpg",
         "id": "1318720",
-        "name": "\u8f9b\u82b7\u857e",
+        "name": "辛芷蕾",
         "name_en": "Zhilei Xin",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1318720/"
       }
@@ -130,52 +130,52 @@
       },
       "id": "1312976",
       "interest": {},
-      "name": "\u8c2d\u5353",
+      "name": "谭卓",
       "name_en": "Zhuo Tan",
       "playable": false,
-      "profession": "\u6f14\u5458",
+      "profession": "演员",
       "type": "celebrity",
       "url": "https://movie.douban.com/celebrity/1312976/",
       "works": [
         {
           "id": 26752088,
-          "title": "\u6211\u4e0d\u662f\u836f\u795e"
+          "title": "我不是药神"
         },
         {
           "id": 26647117,
-          "title": "\u66b4\u88c2\u65e0\u58f0"
+          "title": "暴裂无声"
         },
         {
           "id": 26999852,
-          "title": "\u5ef6\u79a7\u653b\u7565"
+          "title": "延禧攻略"
         },
         {
           "id": 27615233,
-          "title": "\u4f60\u597d\uff0c\u4e4b\u534e"
+          "title": "你好，之华"
         },
         {
           "id": 26284621,
-          "title": "\u8ffd\u51f6\u8005\u4e5f"
+          "title": "追凶者也"
         },
         {
           "id": 4135710,
-          "title": "Hello\uff01\u6811\u5148\u751f"
+          "title": "Hello！树先生"
         },
         {
           "id": 3690289,
-          "title": "\u6625\u98ce\u6c89\u9189\u7684\u591c\u665a"
+          "title": "春风沉醉的夜晚"
         },
         {
           "id": 25970953,
-          "title": "\u7693\u9567\u4f20"
+          "title": "皓镧传"
         },
         {
           "id": 4883425,
-          "title": "\u82b1"
+          "title": "花"
         },
         {
           "id": 10574621,
-          "title": "\u674e\u53ef\u4e50\u5bfb\u4eba\u8bb0"
+          "title": "李可乐寻人记"
         }
       ]
     }

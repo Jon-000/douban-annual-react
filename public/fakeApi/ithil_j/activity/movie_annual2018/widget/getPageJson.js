@@ -13,7 +13,7 @@ const download = function(url, dest, cb) {
   });
 }
 
-for (let i = 0 ; i <= 68; i++) {
+for (let i = 1 ; i <= 68; i++) {
   download(
     `https://movie.douban.com/ithil_j/activity/movie_annual2018/widget/${i}`,
     path.join(__dirname, `${i}.json`),

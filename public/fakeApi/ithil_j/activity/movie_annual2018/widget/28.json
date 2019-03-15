@@ -5,15 +5,15 @@
     "comment_count": 0,
     "id": 917,
     "kind": 2,
-    "kind_cn": "\u53f0\u8bcd",
+    "kind_cn": "台词",
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3632.jpg",
+      "background_img": "/fakeApi/assets/images/p3632.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3770.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3770.jpg",
       "subject_id": "27172891",
-      "text": "\u4e00\u5934\u5927\u8c61\uff0c\u6bcf\u5929\u5750\u5728\u52a8\u7269\u56ed\u91cc\uff0c\u5b83\u4ed6\u5988\u5c31\u4e00\u76f4\u5750\u90a3\u3002 \u4f60\u771f\u4e0d\u60f3\u53bb\u770b\u770b\uff1f"
+      "text": "一头大象，每天坐在动物园里，它他妈就一直坐那。 你真不想去看看？"
     },
     "status": 0,
     "subject": {
@@ -33,9 +33,9 @@
         "primary_color_light": "676672",
         "secondary_color": "f5f4f9"
       },
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511811355.jpg",
+      "cover": "/fakeApi/assets/images/p2511811355.jpg",
       "directors": [
-        "\u80e1\u8fc1 Qian Hu"
+        "胡迁 Qian Hu"
       ],
       "id": "27172891",
       "interest": {},
@@ -43,16 +43,16 @@
       "m_url": "https://m.douban.com/movie/subject/27172891/",
       "orig_title": "",
       "playable": false,
-      "rating": 8.0,
-      "rating_count": 64385,
+      "rating": 8,
+      "rating_count": 65387,
       "rating_stats": [
-        0.015174341849809739,
-        0.028919779451735652,
-        0.16183893764075483,
-        0.42812766948823483,
-        0.36593927156946493
+        0.015232385642405984,
+        0.0291189380152018,
+        0.1621117347484974,
+        0.42843378653249115,
+        0.3651031550614036
       ],
-      "title": "\u5927\u8c61\u5e2d\u5730\u800c\u5750",
+      "title": "大象席地而坐",
       "type": "movie",
       "url": "https://movie.douban.com/subject/27172891/"
     },

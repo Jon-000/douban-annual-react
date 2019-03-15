@@ -5,7 +5,7 @@
     "comment_count": 101,
     "id": 862,
     "kind": 4,
-    "kind_cn": "\u4eba\u7269",
+    "kind_cn": "人物",
     "kind_str": "person",
     "page_id": 15,
     "payload": {
@@ -15,96 +15,96 @@
       "left": "on",
       "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3557.jpg",
       "subject_ids": "1022004, 1016930, 1054453, 1018562, 1048027, 1018667, 1054441, 1274350, 1320978, 1010548",
-      "title": "2018\u6700\u53d7\u5173\u6ce8\u7684\u5916\u8bed\u5973\u6f14\u5458"
+      "title": "2018最受关注的外语女演员"
     },
     "people": [
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p9684.jpg",
         "id": "1022004",
-        "name": "\u897f\u5c14\u838e\u00b7\u7f57\u5357",
+        "name": "西尔莎·罗南",
         "name_en": "Saoirse Ronan",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1022004/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34910.jpg",
         "id": "1016930",
-        "name": "\u77f3\u539f\u91cc\u7f8e",
+        "name": "石原里美",
         "name_en": "Satomi Ishihara",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1016930/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p37050.jpg",
         "id": "1054453",
-        "name": "\u65af\u5609\u4e3d\u00b7\u7ea6\u7ff0\u900a",
+        "name": "斯嘉丽·约翰逊",
         "name_en": "Scarlett Johansson",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1054453/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p7553.jpg",
         "id": "1018562",
-        "name": "\u65b0\u57a3\u7ed3\u8863",
+        "name": "新垣结衣",
         "name_en": "Yui Aragaki",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1018562/"
       },
       {
         "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p10467.jpg",
         "id": "1048027",
-        "name": "\u5b89\u59ae\u00b7\u6d77\u745f\u8587",
+        "name": "安妮·海瑟薇",
         "name_en": "Anne Hathaway",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1048027/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1483767998.76.jpg",
         "id": "1018667",
-        "name": "\u957f\u6cfd\u96c5\u7f8e",
+        "name": "长泽雅美",
         "name_en": "Masami Nagasawa",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1018667/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p46425.jpg",
         "id": "1054441",
-        "name": "\u51ef\u7279\u00b7\u5e03\u5170\u5207\u7279",
+        "name": "凯特·布兰切特",
         "name_en": "Cate Blanchett",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1054441/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1368978530.25.jpg",
         "id": "1274350",
-        "name": "\u5b89\u85e4\u6a31",
-        "name_en": "Sakura And\u00f4",
-        "profession": "\u6f14\u5458",
+        "name": "安藤樱",
+        "name_en": "Sakura Andô",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1274350/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1431174099.11.jpg",
         "id": "1320978",
-        "name": "\u677e\u5188\u8309\u4f18",
+        "name": "松冈茉优",
         "name_en": "Mayu Matsuoka",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1320978/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1436865941.42.jpg",
         "id": "1010548",
-        "name": "\u5f17\u5170\u897f\u65af\u00b7\u9ea6\u514b\u591a\u8499\u5fb7",
+        "name": "弗兰西斯·麦克多蒙德",
         "name_en": "Frances McDormand",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1010548/"
       }
@@ -130,52 +130,52 @@
       },
       "id": "1022004",
       "interest": {},
-      "name": "\u897f\u5c14\u838e\u00b7\u7f57\u5357",
+      "name": "西尔莎·罗南",
       "name_en": "Saoirse Ronan",
       "playable": false,
-      "profession": "\u6f14\u5458",
+      "profession": "演员",
       "type": "celebrity",
       "url": "https://movie.douban.com/celebrity/1022004/",
       "works": [
         {
           "id": 11525673,
-          "title": "\u5e03\u8fbe\u4f69\u65af\u5927\u996d\u5e97"
+          "title": "布达佩斯大饭店"
         },
         {
           "id": 4202302,
-          "title": "\u501f\u4e1c\u897f\u7684\u5c0f\u4eba\u963f\u8389\u57c3\u8482"
+          "title": "借东西的小人阿莉埃蒂"
         },
         {
           "id": 26588314,
-          "title": "\u4f2f\u5fb7\u5c0f\u59d0"
+          "title": "伯德小姐"
         },
         {
           "id": 1950148,
-          "title": "\u8d4e\u7f6a"
+          "title": "赎罪"
         },
         {
           "id": 25837262,
-          "title": "\u81f3\u7231\u68b5\u9ad8\u00b7\u661f\u7a7a\u4e4b\u8c1c"
+          "title": "至爱梵高·星空之谜"
         },
         {
           "id": 1892531,
-          "title": "\u53ef\u7231\u7684\u9aa8\u5934"
+          "title": "可爱的骨头"
         },
         {
           "id": 10741220,
-          "title": "\u5e03\u9c81\u514b\u6797"
+          "title": "布鲁克林"
         },
         {
           "id": 2129042,
-          "title": "\u5fae\u5149\u57ce\u5e02"
+          "title": "微光城市"
         },
         {
           "id": 3156117,
-          "title": "\u6c49\u5a1c"
+          "title": "汉娜"
         },
         {
           "id": 4058964,
-          "title": "\u5bbf\u4e3b"
+          "title": "宿主"
         }
       ]
     }

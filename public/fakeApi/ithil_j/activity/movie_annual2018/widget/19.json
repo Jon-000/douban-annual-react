@@ -5,14 +5,14 @@
     "comment_count": 0,
     "id": 902,
     "kind": 2,
-    "kind_cn": "\u53f0\u8bcd",
+    "kind_cn": "台词",
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3786.jpg",
-      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3893.jpg",
+      "background_img": "/fakeApi/assets/images/p3786.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3893.jpg",
       "subject_id": "26683723",
-      "text": "\u540e\u6765\u7684\u6211\u4eec\u4ec0\u4e48\u90fd\u6709\u4e86\uff0c\u5374\u6ca1\u6709\u4e86\u6211\u4eec\u3002"
+      "text": "后来的我们什么都有了，却没有了我们。"
     },
     "status": 0,
     "subject": {
@@ -32,9 +32,9 @@
         "primary_color_light": "939ba5",
         "secondary_color": "f4f7f9"
       },
-      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2519994468.jpg",
+      "cover": "/fakeApi/assets/images/p2519994468.jpg",
       "directors": [
-        "\u5218\u82e5\u82f1 Ren\u00e9 Liu"
+        "刘若英 René Liu"
       ],
       "id": "26683723",
       "interest": {},
@@ -43,15 +43,15 @@
       "orig_title": "",
       "playable": true,
       "rating": 5.9,
-      "rating_count": 247923,
+      "rating_count": 249382,
       "rating_stats": [
-        0.11964601912690634,
-        0.20178039149251986,
-        0.3912303416786664,
-        0.19080117617163395,
-        0.09654207153027351
+        0.11921068882276989,
+        0.20167453946154895,
+        0.3916802335373042,
+        0.19096807307664546,
+        0.09646646510173149
       ],
-      "title": "\u540e\u6765\u7684\u6211\u4eec",
+      "title": "后来的我们",
       "type": "movie",
       "url": "https://movie.douban.com/subject/26683723/"
     },

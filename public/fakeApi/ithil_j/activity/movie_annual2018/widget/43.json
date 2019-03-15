@@ -2,10 +2,10 @@
   "r": 0,
   "res": {
     "TYPE": "ActivityPageWidget",
-    "comment_count": 137,
+    "comment_count": 138,
     "id": 861,
     "kind": 4,
-    "kind_cn": "\u4eba\u7269",
+    "kind_cn": "人物",
     "kind_str": "person",
     "page_id": 15,
     "payload": {
@@ -15,98 +15,98 @@
       "left": "off",
       "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3558.jpg",
       "show_divider": "on",
-      "show_divider_txt": "\u5f71\u4eba",
+      "show_divider_txt": "影人",
       "subject_ids": "1336305, 1312940, 1077991, 1322072, 1313837, 1274297, 1276085, 1318883, 1274242, 1354775",
-      "title": "2018\u6700\u53d7\u5173\u6ce8\u7684\u534e\u8bed\u7537\u6f14\u5458"
+      "title": "2018最受关注的华语男演员"
     },
     "people": [
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473508881.63.jpg",
         "id": "1336305",
-        "name": "\u5218\u660a\u7136",
+        "name": "刘昊然",
         "name_en": "Haoran Liu",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1336305/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503986232.61.jpg",
         "id": "1312940",
-        "name": "\u96f7\u4f73\u97f3",
+        "name": "雷佳音",
         "name_en": "Jiayin Lei",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1312940/"
       },
       {
         "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1453574419.48.jpg",
         "id": "1077991",
-        "name": "\u5f20\u9707",
+        "name": "张震",
         "name_en": "Chen Chang",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1077991/"
       },
       {
         "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530843126.18.jpg",
         "id": "1322072",
-        "name": "\u7ae0\u5b87",
+        "name": "章宇",
         "name_en": "Yu Zhang",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1322072/"
       },
       {
         "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1496577458.38.jpg",
         "id": "1313837",
-        "name": "\u738b\u4f20\u541b",
+        "name": "王传君",
         "name_en": "Chuanjun Wang",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1313837/"
       },
       {
         "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p43738.jpg",
         "id": "1274297",
-        "name": "\u5f90\u5ce5",
+        "name": "徐峥",
         "name_en": "Zheng Xu",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1274297/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514533436.1.jpg",
         "id": "1276085",
-        "name": "\u5468\u4e00\u56f4",
+        "name": "周一围",
         "name_en": "Yiwei Zhou",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1276085/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545404690.24.jpg",
         "id": "1318883",
-        "name": "\u6731\u4e00\u9f99",
+        "name": "朱一龙",
         "name_en": "Yilong Zhu",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1318883/"
       },
       {
         "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1656.jpg",
         "id": "1274242",
-        "name": "\u9ec4\u6e24",
+        "name": "黄渤",
         "name_en": "Bo Huang",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1274242/"
       },
       {
         "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1523448357.59.jpg",
         "id": "1354775",
-        "name": "\u5f6d\u6631\u7545",
+        "name": "彭昱畅",
         "name_en": "Yuchang Peng",
-        "profession": "\u6f14\u5458",
+        "profession": "演员",
         "type": "celebrity",
         "url": "https://movie.douban.com/celebrity/1354775/"
       }
@@ -132,52 +132,52 @@
       },
       "id": "1336305",
       "interest": {},
-      "name": "\u5218\u660a\u7136",
+      "name": "刘昊然",
       "name_en": "Haoran Liu",
       "playable": false,
-      "profession": "\u6f14\u5458",
+      "profession": "演员",
       "type": "celebrity",
       "url": "https://movie.douban.com/celebrity/1336305/",
       "works": [
         {
           "id": 26698897,
-          "title": "\u5510\u4eba\u8857\u63a2\u68482"
+          "title": "唐人街探案2"
         },
         {
           "id": 5350027,
-          "title": "\u5996\u732b\u4f20"
+          "title": "妖猫传"
         },
         {
           "id": 26311973,
-          "title": "\u5510\u4eba\u8857\u63a2\u6848"
+          "title": "唐人街探案"
         },
         {
           "id": 24736566,
-          "title": "\u5317\u4eac\u7231\u60c5\u6545\u4e8b"
+          "title": "北京爱情故事"
         },
         {
           "id": 26602244,
-          "title": "\u6700\u597d\u7684\u6211\u4eec"
+          "title": "最好的我们"
         },
         {
           "id": 26411410,
-          "title": "\u6df1\u591c\u98df\u5802"
+          "title": "深夜食堂"
         },
         {
           "id": 26021055,
-          "title": "\u6800\u5b50\u82b1\u5f00"
+          "title": "栀子花开"
         },
         {
           "id": 26665065,
-          "title": "\u7405\u740a\u699c\u4e4b\u98ce\u8d77\u957f\u6797"
+          "title": "琅琊榜之风起长林"
         },
         {
           "id": 26389696,
-          "title": "\u5927\u95f9\u5929\u7afa"
+          "title": "大闹天竺"
         },
         {
           "id": 19899707,
-          "title": "\u9a6f\u9f99\u9ad8\u624b3"
+          "title": "驯龙高手3"
         }
       ]
     }

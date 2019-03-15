@@ -5,15 +5,15 @@
     "comment_count": 1,
     "id": 878,
     "kind": 2,
-    "kind_cn": "\u53f0\u8bcd",
+    "kind_cn": "台词",
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3713.jpg",
+      "background_img": "/fakeApi/assets/images/p3713.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3785.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3785.jpg",
       "subject_id": "4920389",
-      "text": "\u8c22\u8c22\u4f60\u73a9\u6211\u7684\u6e38\u620f\u3002"
+      "text": "谢谢你玩我的游戏。"
     },
     "status": 0,
     "subject": {
@@ -33,9 +33,9 @@
         "primary_color_light": "948aa5",
         "secondary_color": "f6f4f9"
       },
-      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.jpg",
+      "cover": "/fakeApi/assets/images/p2516578307.jpg",
       "directors": [
-        "\u53f2\u8482\u6587\u00b7\u65af\u76ae\u5c14\u4f2f\u683c Steven Spielberg"
+        "史蒂文·斯皮尔伯格 Steven Spielberg"
       ],
       "id": "4920389",
       "interest": {},
@@ -44,15 +44,15 @@
       "orig_title": "Ready Player One",
       "playable": true,
       "rating": 8.7,
-      "rating_count": 732953,
+      "rating_count": 737340,
       "rating_stats": [
-        0.005685221289768921,
-        0.010223029307472648,
-        0.09690389424697081,
-        0.3458052562715481,
-        0.5413825988842396
+        0.00566631404779342,
+        0.010227303550600808,
+        0.09697019014294626,
+        0.3459964195622101,
+        0.5411397726964494
       ],
-      "title": "\u5934\u53f7\u73a9\u5bb6",
+      "title": "头号玩家",
       "type": "movie",
       "url": "https://movie.douban.com/subject/4920389/"
     },

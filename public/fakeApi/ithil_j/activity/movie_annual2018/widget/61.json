@@ -5,15 +5,15 @@
     "comment_count": 0,
     "id": 903,
     "kind": 2,
-    "kind_cn": "\u53f0\u8bcd",
+    "kind_cn": "台词",
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3817.jpg",
+      "background_img": "/fakeApi/assets/images/p3817.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3818.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3818.jpg",
       "subject_id": "6390825",
-      "text": "\u667a\u8005\u5c06\u5efa\u7acb\u6865\u6881\uff0c\u800c\u611a\u8005\u5219\u5efa\u7acb\u9ad8\u5899\u3002"
+      "text": "智者将建立桥梁，而愚者则建立高墙。"
     },
     "status": 0,
     "subject": {
@@ -33,9 +33,9 @@
         "primary_color_light": "717266",
         "secondary_color": "f9f9f4"
       },
-      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2512123434.jpg",
+      "cover": "/fakeApi/assets/images/p2512123434.jpg",
       "directors": [
-        "\u745e\u6069\u00b7\u5e93\u683c\u52d2 Ryan Coogler"
+        "瑞恩·库格勒 Ryan Coogler"
       ],
       "id": "6390825",
       "interest": {},
@@ -43,16 +43,16 @@
       "m_url": "https://m.douban.com/movie/subject/6390825/",
       "orig_title": "Black Panther",
       "playable": true,
-      "rating": 6.5,
-      "rating_count": 294667,
+      "rating": 6.4,
+      "rating_count": 296922,
       "rating_stats": [
-        0.028316710048970534,
-        0.10375440751763855,
-        0.470344490560531,
-        0.2994940050972793,
-        0.09809038677558057
+        0.028307097486882076,
+        0.10373431406227898,
+        0.4702649180592883,
+        0.2994995318635871,
+        0.09819413852796358
       ],
-      "title": "\u9ed1\u8c79",
+      "title": "黑豹",
       "type": "movie",
       "url": "https://movie.douban.com/subject/6390825/"
     },

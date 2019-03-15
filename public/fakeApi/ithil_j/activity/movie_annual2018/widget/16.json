@@ -5,15 +5,15 @@
     "comment_count": 0,
     "id": 906,
     "kind": 2,
-    "kind_cn": "\u53f0\u8bcd",
+    "kind_cn": "台词",
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3232.jpg",
+      "background_img": "/fakeApi/assets/images/p3232.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3769.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3769.jpg",
       "subject_id": "26894602",
-      "text": "\u5230\u90a3\u8fb9\u53bb\u5427\uff0c\u90a3\u8fb9\u98ce\u666f\u66f4\u597d\u3002"
+      "text": "到那边去吧，那边风景更好。"
     },
     "status": 0,
     "subject": {
@@ -33,9 +33,9 @@
         "primary_color_light": "72706b",
         "secondary_color": "f9f8f4"
       },
-      "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2526989708.jpg",
+      "cover": "/fakeApi/assets/images/p2526989708.jpg",
       "directors": [
-        "\u4fdd\u7f57\u00b7\u5e15\u592b\u5229\u514b\u592b\u65af\u57fa Pawel Pawlikowski"
+        "保罗·帕夫利克夫斯基 Pawel Pawlikowski"
       ],
       "id": "26894602",
       "interest": {},
@@ -44,15 +44,15 @@
       "orig_title": "Zimna wojna",
       "playable": false,
       "rating": 7.8,
-      "rating_count": 16805,
+      "rating_count": 17066,
       "rating_stats": [
-        0.0035108598631359714,
-        0.02445700684320143,
-        0.24730734900327284,
-        0.5170484974709908,
-        0.20767628681939898
+        0.00351576233446619,
+        0.024375952185632252,
+        0.24774405250205087,
+        0.5166412750498066,
+        0.20772295792804407
       ],
-      "title": "\u51b7\u6218",
+      "title": "冷战",
       "type": "movie",
       "url": "https://movie.douban.com/subject/26894602/"
     },
