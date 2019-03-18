@@ -101,10 +101,6 @@ class App extends Component {
       // 绑定touchmove到transform的state,实现可以位移的效果.但在touchend中归位.
       this.setState({
         innerTranslateY: `${innerTranslateY}px`
-      }, () => {
-        // console.log("touch innerTranslateY:",
-        //   this.state.innerTranslateY
-        // )
       })
     }
 
@@ -115,21 +111,33 @@ class App extends Component {
       let moveY = evt.changedTouches[0].clientY - this._touchstartPoint.clientY
       if (moveY < -50) {
         // y方向位移小于一定负值,则向下翻页
-        this.goToPage(this.state.currentPageIndex + 1)
+        let goToStatus = this.goToPage(this.state.currentPageIndex + 1)
+        if (goToStatus === 0) {
+          // 到达边界,未触发滚动,让touchmove的位移归位
+          this.resetTouchmove()
+        }
       } else if (moveY > 50) {
         // y方向位移大于一定正值,则向上翻页
-        this.goToPage(this.state.currentPageIndex - 1)
+        let goToStatus = this.goToPage(this.state.currentPageIndex - 1)
+        if (goToStatus === 0) {
+          // 到达边界,未触发滚动,让touchmove的位移归位
+          this.resetTouchmove()
+        }
       } else {
         // 其他情况,则在手指离开屏幕时,让touchmove的位移归位
-        let y = this.state.currentPageIndex * -this.state.innerHeight 
-        this.setState({
-          innerTranslateY: `${y}px`
-        }, () => {
-          // console.log("touchend innerTranslateY:",
-          //   this.state.innerTranslateY
-          // )
-        })
+        this.resetTouchmove();
       }
+    }
+
+    resetTouchmove = (evt) => {
+      let y = this.state.currentPageIndex * -this.state.innerHeight 
+      this.setState({
+        innerTranslateY: `${y}px`
+      }, () => {
+        // console.log("touchend innerTranslateY:",
+        //   this.state.innerTranslateY
+        // )
+      })
     }
 
     handleTouchcancel = (evt) => {
@@ -296,7 +304,11 @@ class App extends Component {
   goToPage = (pageIndex) => {
     if (this._isScrolling) return;
     this._isScrolling = true;
-    if (pageIndex < 0 || pageIndex >= this._numOfPages) return;
+    if (pageIndex < 0 || pageIndex > this._numOfPages) {
+      this._isScrolling = false;
+      // 返回零代表到达边界
+      return 0;
+    }
     let y = this.calcInnerTranslateY(pageIndex)
     
     this.getPagesAndSaveToState(pageIndex);
