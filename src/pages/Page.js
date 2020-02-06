@@ -12,54 +12,29 @@ function Page(props) {
   
   if (props.pageData === undefined) {
     return (
-      <Container id={props.pageIndex} pageIndex={props.pageIndex}>
+      <div style={{width: "100%", height: "100%", display: "flex", alignItems: "center", justifyContent:"center", color: "white"}}>
         <span>Loading...</span>
-      </Container>
+      </div>
     )
   } else if (props.pageData.kind === 0) {
       return(
-        <Container id={props.pageIndex} pageIndex={props.pageIndex}>
           <StartPage pageData={props.pageData} innerWidth={innerWidth}></StartPage>
-        </Container>
       )
     } else if (props.pageData.kind ===1) {
       return (
-        <Container id={props.pageIndex} pageIndex={props.pageIndex}>
           <Top10Page pageData={props.pageData} innerWidth={innerWidth} ></Top10Page>
-        </Container>
       )
     } else if (props.pageData.kind === 2) {
       return (
-        <Container id={props.pageIndex} pageIndex={props.pageIndex} >
           <DialoguePage pageData={props.pageData} innerWidth={innerWidth} ></DialoguePage>
-        </Container>
       )
     }
     else {
       return (
-        <Container id={props.pageIndex} pageIndex={props.pageIndex}>
           <div>这个类型的模板没写</div>
-        </Container>
       )
     }
 
 }
 
 export default Page;
-
-const Container = styled.div`
-background-color: black;
-width:100%;
-height:100%;
-position: absolute;
-transform: translate(0, ${
-  props => props.pageIndex * 100
-}%);
-
-// loading是的界面
-background-color: black;
-color: #fff;
-display: flex;
-justify-content: center;
-align-items: center;
-`

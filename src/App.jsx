@@ -1,218 +1,86 @@
-import React, { Component } from 'react';
+import React, { Component, useState, useEffect, useRef, useLayoutEffect } from 'react';
 import styled from 'styled-components';
 import './App.css';
 
 import { api_movie2018 } from './services/doubanApi';
-import Pages from './pages/Pages';
+import Pages, { Slide } from './pages/Pages';
 import Page from './pages/Page'
 import Header from './header/Header';
+import Slides from './pages/Pages';
 
-class App extends Component {
+const App = (props) => {
+  console.log("App run")
+  const _isGoing = useRef(false);
+  console.log(_isGoing.current)
 
-  
-  constructor(props) {
-    super(props);
-    this.state = {
-      currentPageIndex: 0,
-      innerTranslateY: 0,
-      pages: {},
-      summary: {},
-      innerWidth: window.innerWidth,
-      innerHeight: window.innerHeight,
-    }
-    // 这些状态的改变不应触发生命周期的update阶段,减少不必要的render调用等
-    this._isScrolling = false
-    this._scrollDuration = 1000;
-    this.pagesInnerRef = React.createRef();
-    this.pagesOuterRef = React.createRef();
-    this._numOfPages = 68;
-    this._touchstartPoint = null;
-  }
+  const slidesRef = useRef();
+  const _transitionTime = useRef(1000);
 
+  const [menuItems, setMenuItems] = useState([])
+  const [bgAudioList, setBgAudioList] = useState();
 
-  componentDidMount() {
-    // document.body.addEventListener("wheel",this.handleScroll)
-    // this.pagesOuterRef.current.addEventListener("wheel",this.handleWheel)
-    window.addEventListener("hashchange", this.handleHashChange)
-    window.addEventListener('resize', this.updateWindowDimensions);
-
-    // this.pagesOuterRef.current.addEventListener("touchstart", this.handleTouchstart, false);
-    // passive:true则移动端chrome向下滑动会触发拖拽更新页面,所以必须是false
-    // 而如果用react的onTouchMove绑定,则默认为pasive:true,所以要自己绑定到dom上,并在上下滚动时调用preventDefault
-    // 这里弃用此方法,采用react的onTouchMove结合https://stackoverflow.com/questions/29008194/disabling-androids-chrome-pull-down-to-refresh-feature
-    // this.pagesOuterRef.current.addEventListener("touchmove", this.handleTouchmove, {passive: false}); 
-    // this.pagesOuterRef.current.addEventListener("touchend", this.handleTouchend, false);
-    // this.pagesOuterRef.current.addEventListener("touchcancel", this.handleTouchcancel, false);
-
-    this.updateWindowDimensions();
-
-    // 根据浏览器地址决定currentPageIndex的值,然后获取数据
-    if (window.location.hash === "" ) {
-      this.getPagesAndSaveToState(this.state.currentPageIndex)
-    } else {
-      const re = /#[0-9]\d*\b/g;
-      if ( window.location.hash.match(re) !== null ) {
-        const numStr = window.location.hash.match(re)[0].substring(1);
-        const num = Number(numStr);
-        let y = this.calcInnerTranslateY(num)
-        // 获取数据
-        this.getPagesAndSaveToState(num)
-        // 滚动
-        this.setState({
-          currentPageIndex: num,
-          innerTranslateY: y,
-        })
-      }
-    }
+  useEffect(() => {
     //获取目录数据
-    this.getSummary();
-  }
+    getSummary();
+  }, [])
 
-    handleTouchstart = (evt) => {
-      // evt.preventDefault()
-
-      this._touchstartPoint = { clientY: evt.changedTouches[0].clientY,
-        clientX: evt.changedTouches[0].clientX
-      }
-      // console.log("handle touchstart",
-      //   this._touchstartPoint
-      // )
-    }
-
-    // MDN: since calling preventDefault() on a touchstart or the first touchmove event of a series prevents the corresponding mouse events from firing, it's common to call preventDefault() on touchmove rather than touchstart. That way, mouse events can still fire and things like links will continue to work. Alternatively, some frameworks have taken to refiring touch events as mouse events for this same purpose. 
-    handleTouchmove = (evt) => {
-      // 啊哈,这句对29滚动很重要啊! 对性能也很有效果
-      if ( 
-        Math.abs((evt.touches[0].clientY - this._touchstartPoint.clientY) / 
-        (evt.touches[0].clientX - this._touchstartPoint.clientX)) < 1
-        ) {
-          return; // 水平方向上不作为
-        }
-      // 垂直方向上
-      // evt.preventDefault();
-      // console.log("handle touchmove",
-      //   evt.touches[0].clientY
-      // )
-      let moveY = evt.touches[0].clientY - this._touchstartPoint.clientY
-      let y = this.state.currentPageIndex * -this.state.innerHeight 
-      let innerTranslateY = y + moveY
-      // console.log("touchmove",
-      //   y + moveY)
-      // 绑定touchmove到transform的state,实现可以位移的效果.但在touchend中归位.
-      this.setState({
-        innerTranslateY: `${innerTranslateY}px`
+  function getSummary() {
+    api_movie2018
+      .get('summary.json')
+      .then(res => {
+        setMenuItems(res.data.res.widget_infos)
+        setBgAudioList(
+          JSON.parse(res.data.res.payload.background_musics)
+          )
       })
-    }
-
-    handleTouchend = (evt) => {
-      // console.log("handle touchend",
-      //   evt.touches[0]
-      // )
-      let moveY = evt.changedTouches[0].clientY - this._touchstartPoint.clientY
-      if (moveY < -50) {
-        // y方向位移小于一定负值,则向下翻页
-        let goToStatus = this.goToPage(this.state.currentPageIndex + 1)
-        if (goToStatus === 0) {
-          // 到达边界,未触发滚动,让touchmove的位移归位
-          this.resetTouchmove()
-        }
-      } else if (moveY > 50) {
-        // y方向位移大于一定正值,则向上翻页
-        let goToStatus = this.goToPage(this.state.currentPageIndex - 1)
-        if (goToStatus === 0) {
-          // 到达边界,未触发滚动,让touchmove的位移归位
-          this.resetTouchmove()
-        }
-      } else {
-        // 其他情况,则在手指离开屏幕时,让touchmove的位移归位
-        this.resetTouchmove();
-      }
-    }
-
-    resetTouchmove = (evt) => {
-      let y = this.state.currentPageIndex * -this.state.innerHeight 
-      this.setState({
-        innerTranslateY: `${y}px`
-      }, () => {
-        // console.log("touchend innerTranslateY:",
-        //   this.state.innerTranslateY
-        // )
-      })
-    }
-
-    handleTouchcancel = (evt) => {
-      // console.log("handle touchcancel",
-      //   evt
-      // )
-    }
-    
-    componentDidUpdate(){
-      // console.log('App componentDidUpate')
-    }
-    
-
-  componentWillUnmount() {
-    // this.pagesOuterRef.current.removeEventListener("wheel",this.handleWheel)
-    window.removeEventListener("hashchange", this.handleHashChange)
-    window.removeEventListener("resize", this.updateWindowDimensions);
-    // this.pagesOuterRef.current.removeEventListener("touchstart", this.handleTouchstart, false);
-    // this.pagesOuterRef.current.removeEventListener("touchend", this.handleTouchend, false);
-    // this.pagesOuterRef.current.removeEventListener("touchmove", this.handleTouchmove, false);
-    // this.pagesOuterRef.current.removeEventListener("touchcancel", this.handleTouchcancel, false);
   }
 
-  updateWindowDimensions = () => {
-    this.setState({ innerWidth: window.innerWidth, innerHeight: window.innerHeight },);
-  }
-
-  handleWheel = (evt) => {
-    evt.preventDefault();
-    if (evt.deltaY > 0) {
-      this.goToPage(this.state.currentPageIndex + 1)
-    } else {
-      this.goToPage(this.state.currentPageIndex - 1)
+  const getCurrentPageIndexFromWindowLocationHash = () => {
+    // 根据浏览器地址决定currentPageIndex的值
+    const re = /#[0-9]\d*\b/g;
+    if (window.location.hash.match(re) !== null) {
+      const numStr = window.location.hash.match(re)[0].substring(1);
+      const num = Number(numStr);
+      return num
     }
   }
+  const [currentPageIndex, setCurrentPageIndex] = useState(() => {
+    const source1 = getCurrentPageIndexFromWindowLocationHash();
+    const sourceDefault = 0;
+    return source1 || sourceDefault;
+  });
+  const [tempSlideIndex, setTempSlideIndex] = useState();
 
-  handleHashChange = (evt) => {
-    // console.log("handleHashChange",
-    //   evt)
-    
-    // 根据浏览器地址决定currentPageIndex的值,然后获取数据
-    if (window.location.hash === "" ) {
-      this.getPagesAndSaveToState(this.state.currentPageIndex)
-    } else {
-      const re = /#[0-9]\d*\b/g;
-      if ( window.location.hash.match(re) !== null ) {
-        const numStr = window.location.hash.match(re)[0].substring(1);
-        const num = Number(numStr);
-        // 得到nextPageIndex = num
-        // console.log(num)
-        this.getPagesAndSaveToState(num)
-        let y = this.calcInnerTranslateY(num)
-        // 与此同时,触发滚动到下一页
-        this.setState({
-          currentPageIndex: num,
-          innerTranslateY: y
-        })
-      }
+  useEffect(() => {
+    function hashchangeHandler(evt) {
+      console.log("hashchageHandler: ")
+      console.log(getCurrentPageIndexFromWindowLocationHash())
+      setCurrentPageIndex(getCurrentPageIndexFromWindowLocationHash())
     }
-  }
+    window.addEventListener("hashchange", hashchangeHandler, false);
+    return () => {
+      window.removeEventListener("hashchange", hashchangeHandler, false);
+    }
+  }, [])
 
+  // componentWillUnmount() {
+  //   // this.pagesOuterRef.current.removeEventListener("wheel",this.handleWheel)
+  //   window.removeEventListener("hashchange", this.handleHashChange)
+  //   window.removeEventListener("resize", this.updateWindowDimensions);
+  //   // this.pagesOuterRef.current.removeEventListener("touchstart", this.handleTouchstart, false);
+  //   // this.pagesOuterRef.current.removeEventListener("touchend", this.handleTouchend, false);
+  //   // this.pagesOuterRef.current.removeEventListener("touchmove", this.handleTouchmove, false);
+  //   // this.pagesOuterRef.current.removeEventListener("touchcancel", this.handleTouchcancel, false);
+  // }
 
-  waitScroll(time) {
-    return new Promise(
-      (resolve, reject) => {
-        setTimeout(() => {
-          resolve()
-        }, time);
-      },
-    
-    )
-  }
+  // updateWindowDimensions = () => {
+  //   this.setState({ innerWidth: window.innerWidth, innerHeight: window.innerHeight });
+  // }
 
-  shouldRenderPageIndex = (index) => {
-    const pages_length = this._numOfPages;
+  const _numOfPages = 68;
+  const [pages, setPages] = useState({});
+  const shouldRenderPageIndex = (index) => {
+    const pages_length = _numOfPages;
     const currentPageIndex = index
     const shouldGetIndexArray = [
       currentPageIndex,
@@ -221,119 +89,210 @@ class App extends Component {
       currentPageIndex + 2
     ]
 
-    const removeInvalidIndex = 
-      shouldGetIndexArray.filter((i) => i >= 0 && i <= pages_length )
+    const removeInvalidIndex =
+      shouldGetIndexArray.filter((i) => i >= 0 && i <= pages_length)
     return removeInvalidIndex;
   }
 
-  shouldGetPageIndex = (index) => {
-    const tmp = this.shouldRenderPageIndex(index)
-      .filter(i => !Object.keys(this.state.pages).includes(String(i)))
-    return tmp;
+  const shouldGetPageIndex = (index) => {
+    return shouldRenderPageIndex(index)
+      .filter(i => !Object.keys(pages).includes(String(i)))
   }
 
-  getPagesAndSaveToState = (index, cb) => {
-    this.shouldGetPageIndex(index)
-      .forEach(i => this.getOnePage(i, cb))
+  const getPagesAndSaveToState = (index) => {
+    shouldGetPageIndex(index)
+      .forEach(i => getOnePage(i))
   }
 
-  getSummary() {
-    api_movie2018
-      .get('summary.json')
-      .then(res => {
-        this.setState({summary: {...this.state.summary, ...res.data.res} })
-      })
-  }
+  useEffect(() => {
+    getPagesAndSaveToState(currentPageIndex);
+  }, [currentPageIndex])
 
-  getOnePage = (n, cb) => {
+  useEffect(() => {
+    console.log(pages);
+  }, [pages])
+
+
+  const getOnePage = (pageIndex) => {
     // console.log(`get onepage ${n}'s json`)
     api_movie2018
-      .get(`/widget/${n}.json`)
+      .get(`/widget/${pageIndex}.json`)
       .then(res => {
-        this.setState({pages: {...this.state.pages, [n]:res.data.res}})
+        // setState({ pages: { ...this.state.pages, [n]: res.data.res } })
+        setPages((prevState) => {
+          return ({
+            ...prevState,
+            [pageIndex]: res.data.res
+          })
+        })
       })
-      .then(cb)
   }
 
 
-  render() {
-    // console.log('render...')
-    return (
-        <Container>
-          <Header
-            innerWidth={this.state.innerWidth}
-            height="40px"
-            menu_infos={this.state.summary.widget_infos}
-            // background_musics={this.state.summary.payload.background_musics}
-            active_index={this.state.currentPageIndex}
-            ></Header>
 
-          <Pages
-            transitionTime={`${this._scrollDuration / 1000}s`}
-            innerTranslateY={this.state.innerTranslateY}
-            onTouchStart={this.handleTouchstart}
-            onTouchMove={this.handleTouchmove}
-            onTouchEnd={this.handleTouchend}
-            onTouchCancel={this.handleTouchcancel}
-            onWheel={this.handleWheel}
-            setInnerRef={this.pagesInnerRef}
-            setOuterRef={this.pagesOuterRef}>
-            {
-              this.shouldRenderPageIndex(this.state.currentPageIndex).map(i => (
-                <Page
-                  key={i}
-                  pageIndex={i}
-                  pageData={this.state.pages[i]}
-                  innerWidth={this.state.innerWidth}
-                  ></Page>
-                ))
-            }
-          </Pages>
 
-          <ButtonNext onClick={this.buttonNextHandler}>
-            <IconNext width="1.6rem" height="1.6rem"></IconNext>
-          </ButtonNext>
-        </Container>
-    );
-  }
+  const goToPage = (pageIndex) => {
+    console.log(`_isGoing while attempt goToPage ${pageIndex}: `, _isGoing.current)
+    if (_isGoing.current) return;
 
-  calcInnerTranslateY = (nextPageIndex) => {
-     return `${(nextPageIndex * -this.state.innerHeight)}px`
-  }
-
-  goToPage = (pageIndex) => {
-    if (this._isScrolling) return;
-    this._isScrolling = true;
-    if (pageIndex < 0 || pageIndex > this._numOfPages) {
-      this._isScrolling = false;
+    if (pageIndex < 0 || pageIndex > _numOfPages) {
+      _isGoing.current = false;
       // 返回零代表到达边界
       return 0;
     }
-    let y = this.calcInnerTranslateY(pageIndex)
-    
-    this.getPagesAndSaveToState(pageIndex);
-    this.setState({
-      currentPageIndex: pageIndex,
-      innerTranslateY: y,
-    },
-      () => {
-        // 滚动动画完成后,再更新浏览器地址
-        setTimeout(() => {
-          window.location.href = `#${pageIndex}`
-          this._isScrolling = false;
-        }, this._scrollDuration)
-      }
-    )
 
-    // 方法二: 其实上边全不需要,只这一句也可以,唯一可能按照需要加个isGoing的状态限制下翻页速度
-    // window.location.href = `#${pageIndex}`
+    _isGoing.current = true;
+
+    setCurrentPageIndex(pageIndex);
 
   }
 
-  
-  buttonNextHandler = () => {
-    this.goToPage(this.state.currentPageIndex + 1);
+  useEffect(() => {
+    if (_isGoing.current) {
+      setTimeout(() => {
+        window.location.hash = `#${currentPageIndex}`
+
+        _isGoing.current = false;
+      }, _transitionTime.current);
+
+    }
+  }, [_isGoing.current])
+
+
+
+  const buttonNextHandler = () => {
+    goToPage(currentPageIndex + 1);
   }
+
+
+
+  const handleWheel = (evt) => {
+    console.log("_isGoing while handleWheel: ", _isGoing.current)
+    if (_isGoing.current) return;
+    if (evt.deltaY > 0) {
+      goToPage(currentPageIndex + 1)
+    } else {
+      goToPage(currentPageIndex - 1)
+    }
+  }
+
+
+  const _touchStartPoint = useRef(null);
+  const handleTouchStart = (evt) => {
+    // evt.preventDefault()
+    _touchStartPoint.current = {
+      clientY: evt.changedTouches[0].clientY,
+      clientX: evt.changedTouches[0].clientX
+    }
+  }
+
+  // MDN: since calling preventDefault() on a touchstart or the first touchmove event of a series prevents the corresponding mouse events from firing, it's common to call preventDefault() on touchmove rather than touchstart. That way, mouse events can still fire and things like links will continue to work. Alternatively, some frameworks have taken to refiring touch events as mouse events for this same purpose. 
+  const handleTouchMove = (evt) => {
+    // 啊哈,这句对29滚动很重要啊! 对性能也很有效果
+    if (
+      Math.abs((evt.touches[0].clientY - _touchStartPoint.current.clientY) /
+        (evt.touches[0].clientX - _touchStartPoint.current.clientX)) < 1
+    ) {
+      return; // 水平方向上不作为
+    }
+    // 垂直方向上
+    // evt.preventDefault();
+    // console.log("handle touchmove",
+    //   evt.touches[0].clientY
+    // )
+    let moveY = evt.touches[0].clientY - _touchStartPoint.current.clientY
+    let y = moveY / window.innerHeight
+    setTempSlideIndex(currentPageIndex - y)
+  }
+
+  const handleTouchEnd = (evt) => {
+    // console.log("handle touchend",
+    //   evt.touches[0]
+    // )
+    let moveY = evt.changedTouches[0].clientY - _touchStartPoint.current.clientY
+    let y = moveY / window.innerHeight
+    if (y < -0.1) {
+      // y方向位移小于一定负值,则向下翻页
+      // setCurrentPageIndex(p => p + 1)
+      goToPage(currentPageIndex + 1)
+    } else if (y > 0.1) {
+      // y方向位移大于一定正值,则向上翻页
+      // setCurrentPageIndex(p => p - 1)
+      goToPage(currentPageIndex - 1)
+    } else {
+      // 其他情况,则在手指离开屏幕时,让touchmove的位移归位
+      // setCurrentPageIndex(p)
+    }
+    setTempSlideIndex(undefined)
+  }
+
+  // console.log('render...')
+  return (
+    <Container>
+      <Header
+        // innerWidth={this.state.innerWidth}
+        height="40px"
+        menu_infos={menuItems}
+        bgAudioList={bgAudioList}
+      // background_musics={this.state.summary.payload.background_musics}
+      // active_index={slidesRef.current.currentSlideIndex}
+      // onMenuItemClick={MenuItemClickHandler}
+      ></Header>
+      <InfoPanel
+        _isGoing={_isGoing}
+        _numOfPages={_numOfPages}
+        currentPageIndex={currentPageIndex}
+      />
+      {/*<Pages
+        transitionTime={`${this._scrollDuration / 1000}s`}
+        innerTranslateY={this.state.innerTranslateY}
+
+        onTouchCancel={this.handleTouchcancel}
+        onWheel={this.handleWheel}
+        setInnerRef={this.pagesInnerRef}
+        setOuterRef={this.pagesOuterRef}>
+        {
+          this.shouldRenderPageIndex(this.state.currentPageIndex).map(i => (
+            <Page
+              key={i}
+              pageIndex={i}
+              pageData={this.state.pages[i]}
+              innerWidth={this.state.innerWidth}
+            ></Page>
+          ))
+        }
+      </Pages> */}
+      <Slides ref={slidesRef} num={68}
+        currentSlideIndex={currentPageIndex}
+        tempSlideIndex={tempSlideIndex}
+        onWheel={handleWheel} 
+        transitionTime={_transitionTime.current}
+        onTouchStart={handleTouchStart}
+        onTouchMove={handleTouchMove}
+        onTouchEnd={handleTouchEnd}
+      >
+        {
+          shouldRenderPageIndex(currentPageIndex).map(i => (
+            <Slide key={i} index={i}>
+              <Page
+                pageData={pages[i]}
+              // innerWidth={this.state.innerWidth}
+              ></Page>
+            </Slide>
+          ))
+        }
+      </Slides>
+
+      <ButtonNext
+        onClick={buttonNextHandler}
+      >
+        <IconNext width="1.6rem" height="1.6rem"></IconNext>
+      </ButtonNext>
+    </Container>
+  );
+
+
+
 
 }
 
@@ -386,3 +345,20 @@ const ButtonNext = styled.button`
     border: none;
   }
 `
+
+const InfoPanel = ({ _numOfPages, currentPageIndex, _isGoing, children }) => (
+  <div style={{ position: "fixed", width: "100px", height: 50, border: "1px solid red", color: "red", top: "0%", zIndex: 1 }}>
+    <div>
+      React.children.count: {React.Children.count(children)}
+    </div>
+    <div>
+      _numOfPages: {_numOfPages}
+    </div>
+    <div>
+      currentPageIndex: {currentPageIndex}
+    </div>
+    <div>
+      _isGoing: {JSON.stringify(_isGoing)}
+    </div>
+  </div>
+)
