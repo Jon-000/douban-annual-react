@@ -11,7 +11,7 @@ const BgAudio = ({
   audioList
 }) => {
   // const { audioList } = props;
-  console.log(audioList)
+  console.log("BgAudio run")
   if (!audioList) return (<span style={{ color: "#fff" }}>loading</span>);
 
   const [isPlaying, setIsPlaying] = useState(true);
@@ -21,11 +21,11 @@ const BgAudio = ({
   const audioRef = useRef();
 
   useEffect(() => {
-    isPlaying ?
+    if (isPlaying) {
       audioRef.current.play()
-      :
+    } else {
       audioRef.current.pause()
-
+    }
   },[isPlaying])
 
   const onClickHandler = (evt) => {
@@ -70,6 +70,8 @@ const BgAudio = ({
       <audio
         ref={audioRef}
         autoPlay={true}
+        preload="auto"
+        muted={true}
         controls
         onEnded={onEnded}
         style={{ display: "none" }}

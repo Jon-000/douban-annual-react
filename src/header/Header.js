@@ -1,5 +1,5 @@
 
-import React, { useState } from 'react';
+import React, { useState, useContext } from 'react';
 import styled from '@emotion/styled';
 import { css } from "@emotion/core"
 import './Header.scss';
@@ -7,6 +7,8 @@ import menuIcon from './menu_icon.svg';
 import BgAudio from '../components/BgAudio/BgAudio';
 
 export default function Header(props) {
+
+
 
   const {
     innerWidth,
