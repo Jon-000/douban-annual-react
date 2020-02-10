@@ -1,16 +1,33 @@
 
 
-/* @import './reset.css'; */
-
 
 html, body, #root {
   width: 100%;
   height: 100%;
 }
 
+/* douban setting */
+html {
+  font-size: 75%;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,PingFang SC,Hiragino Sans GB,STHeiti,Microsoft Yahei,Wenquanyi Micro Hei,sans-serif;
+}
+
+/* 防止移动端chrome的pull-to-refresh effect  */
 body {
+  position: fixed;
+  overflow: hidden;
   margin: 0;
   padding: 0;
+}
+
+
+/* body.noscroll{
+  position:fixed;
+  overflow:hidden;
+} */
+
+
+body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;

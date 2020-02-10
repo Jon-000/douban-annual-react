@@ -1,5 +1,5 @@
 
-import React, { useState, useEffect, useContext } from 'react';
+import React, { useState, useEffect, useContext, useMemo } from 'react';
 import StartPage from './StartPage';
 import Top10Page from './Top10Page/Top10Page';
 import DialoguePage from './Dialogue/DialoguePage';
@@ -7,39 +7,46 @@ import { api_movie2018 } from '../services/doubanApi';
 import { AppContext } from '../App';
 import Loading from '../common/Loading/Loading';
 
-function Page(props) {
-  const {
-    innerWidth,
-  } = props;
+let _numOfPageRun = 1
+let _numOfPageMemoRun = 1
+const Page = React.memo(
+  (props) => {
+    
+    const {
+      innerWidth,
+      pageData
+    } = props;
+    console.log("Page memo run", _numOfPageMemoRun++)
 
+    // if (pageData === undefined) {
+    //   return (
+    //     <div style={{ width: "100%", height: "100%", display: "flex", alignItems: "center", justifyContent: "center", color: "white" }}>
+    //       <span>Loading...</span>
+    //     </div>
+    //   )
+    // } else 
+    if (pageData.kind === 0) {
+      return (
+        <StartPage pageData={pageData} innerWidth={innerWidth}></StartPage>
+      )
+    } else if (pageData.kind === 1) {
+      return (
+        <Top10Page pageData={pageData} innerWidth={innerWidth} ></Top10Page>
+      )
+    } else if (pageData.kind === 2) {
+      return (
+        <DialoguePage pageData={pageData} innerWidth={innerWidth} ></DialoguePage>
+      )
+    }
+    else {
+      return (
+        <div>这个类型的模板没写</div>
+      )
+    }
 
-  // if (props.pageData === undefined) {
-  //   return (
-  //     <div style={{ width: "100%", height: "100%", display: "flex", alignItems: "center", justifyContent: "center", color: "white" }}>
-  //       <span>Loading...</span>
-  //     </div>
-  //   )
-  // } else 
-  if (props.pageData.kind === 0) {
-    return (
-      <StartPage pageData={props.pageData} innerWidth={innerWidth}></StartPage>
-    )
-  } else if (props.pageData.kind === 1) {
-    return (
-      <Top10Page pageData={props.pageData} innerWidth={innerWidth} ></Top10Page>
-    )
-  } else if (props.pageData.kind === 2) {
-    return (
-      <DialoguePage pageData={props.pageData} innerWidth={innerWidth} ></DialoguePage>
-    )
   }
-  else {
-    return (
-      <div>这个类型的模板没写</div>
-    )
-  }
+)
 
-}
 
 const WidthData = (Page) => {
   return (props) => {

@@ -7,12 +7,14 @@ import playingImage from './playing.gif';
 import stopImage from './stop.gif'
 import Label from '../../common/Label/Label';
 
+let _numOfRun = 1
+
 const BgAudio = ({
   audioList
 }) => {
-  // const { audioList } = props;
-  console.log("BgAudio run")
-  if (!audioList) return (<span style={{ color: "#fff" }}>loading</span>);
+  console.log("BgAudio run", _numOfRun++)
+
+  if (!audioList) return (<span style={{ color: "#fff" }}>loading...</span>);
 
   const [isPlaying, setIsPlaying] = useState(true);
   const [isHover, setIsHover] = useState(false);
@@ -20,15 +22,51 @@ const BgAudio = ({
 
   const audioRef = useRef();
 
+  // ref1: https://developers.google.com/web/updates/2017/06/play-request-was-interrupted
+  // ref2: https://stackoverflow.com/questions/56602005/play-audio-with-react
+  const playAudio = () => {
+    console.log("playAudio run")
+    const promise = audioRef.current.play();
+
+    if (promise !== undefined) {
+      promise.then(_ => {
+        // Autoplay started!
+        console.log("play started")
+      }).catch(error => {
+        // Autoplay was prevented.
+        // Show a "Play" button so that user can start playback.
+        console.log("playAudio failed")
+        console.log(error)
+      });
+    }
+  }
+
+  const _isFirstRun = useRef(true)
   useEffect(() => {
+    console.log("useEffect, isPlaying", isPlaying)
+    // why need this?
+    // both `useEffect(, [isPlaying])` and `useEffect(,[currentAudioIndex])` will execute at the first run of `bgAudio` component 
+    // and both of these two methods call `audioRef.current.play()` and/or `load()` which will raise an `Uncaught (in promise) DOMException`
+    // In fact , `bgAudio` will set two initial state variable at its first run: isPlaying=true, currentAudioIndex=0
+    // isPlaying dependent useEffect is for handle toggle event about play/pause.
+    // currentAudioIndex dependent useEffect is for handle index change event.
+    // so, it feels more reasonable to use currentAudioIndex dependent useEffect to trigger audio.play() when the `bgAudio` component first run.
+
+    if (_isFirstRun.current) {
+      _isFirstRun.current = false;
+      return;
+    }
+
     if (isPlaying) {
-      audioRef.current.play()
+      // audioRef.current.play()
+      playAudio()
     } else {
       audioRef.current.pause()
     }
-  },[isPlaying])
+  }, [isPlaying])
 
   const onClickHandler = (evt) => {
+    console.log("onClickHandler")
     setIsPlaying(p => !p);
   }
 
@@ -43,8 +81,10 @@ const BgAudio = ({
   }
 
   useEffect(() => {
+    console.log("useEffect, currentAudioIndex", currentAudioIndex)
     audioRef.current.load();
-    audioRef.current.play();
+    // audioRef.current.play();
+    playAudio();
   }, [currentAudioIndex])
 
   const InfoOnHover = (isPlaying) => (isPlaying ? "关闭背景音乐" : "播放背景音乐")
@@ -71,7 +111,6 @@ const BgAudio = ({
         ref={audioRef}
         autoPlay={true}
         preload="auto"
-        muted={true}
         controls
         onEnded={onEnded}
         style={{ display: "none" }}

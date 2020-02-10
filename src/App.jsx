@@ -12,14 +12,19 @@ import Slides from './pages/Pages';
 
 export const AppContext = React.createContext(null);
 
-const initialState = { pages: {}, }
+const initialState = { menuItems: [], bgAudioList: [], pages: {}, }
 
 function reducer(state, action) {
   switch (action.type) {
-    case 'FETCH_SUMMARY_SUCCESS':
+    case 'FETCH_MENUITEMS_SUCCESS':
       return {
+        ...state,
         menuItems: action.payload.menuItems
-
+      }
+    case 'FETCH_BGAUDIOLIST_SUCCESS':
+      return {
+        ...state,
+        bgAudioList: action.payload.bgAudioList
       }
     case 'FETCH_PAGE_DATA_SUCCESS':
       return {
@@ -35,8 +40,9 @@ function reducer(state, action) {
   }
 }
 
+let _numOfAppRun = 1
 const App = (props) => {
-  console.log("App run")
+  console.log("App run", _numOfAppRun++)
 
   const [state, dispatch] = useReducer(reducer, initialState)
 
@@ -57,10 +63,15 @@ const App = (props) => {
       .get('summary.json')
       .then(res => {
         // dispatch({
-        //   action: 'FETCH_SUMMARY_SUCCESS', 
+        //   type: 'FETCH_MENUITEMS_SUCCESS', 
         //   payload: {
         //     menuItems: res.data.res.widget_infos,
-        //     audioList: JSON.parse(res.data.res.payload.background_musics)
+        //   }
+        // })
+        // dispatch({
+        //   type: 'FETCH_BGAUDIOLIST_SUCCESS',
+        //   payload: {
+        //     bgAudioList: JSON.parse(res.data.res.payload.background_musics)
         //   }
         // })
         setMenuItems(res.data.res.widget_infos)

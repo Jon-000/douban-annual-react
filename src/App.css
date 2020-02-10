@@ -4,22 +4,3 @@
   background: #000;
 }
 
-/* 防止移动端chrome的pull-to-refresh effect  */
-body {
-  position: fixed;
-  overflow: hidden;
-  font-size: 13px;
-}
-
-
-/* body.noscroll{
-  position:fixed;
-  overflow:hidden;
-} */
-
-
-/* douban setting */
-html {
-  font-size: 75%;
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,PingFang SC,Hiragino Sans GB,STHeiti,Microsoft Yahei,Wenquanyi Micro Hei,sans-serif;
-}
