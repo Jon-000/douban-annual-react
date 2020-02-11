@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 903,
+    "kind": 2,
+    "kind_cn": "台词",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3817.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3818.jpg",
+      "subject_id": "6390825",
+      "text": "智者将建立桥梁，而愚者则建立高墙。"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.5,
+          0.17999999999999994,
+          0.39215686274509803
+        ],
+        "_base_color": [
+          0.18840579710144922,
+          0.1105769230769231,
+          0.8156862745098039
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4b4c44",
+        "primary_color_light": "717266",
+        "secondary_color": "f9f9f4"
+      },
+      "cover": "/fakeApi/assets/images/p2512123434.jpg",
+      "directors": [
+        "瑞恩·库格勒 Ryan Coogler"
+      ],
+      "id": "6390825",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/6390825/",
+      "orig_title": "Black Panther",
+      "playable": true,
+      "rating": 6.4,
+      "rating_count": 296922,
+      "rating_stats": [
+        0.028307097486882076,
+        0.10373431406227898,
+        0.4702649180592883,
+        0.2994995318635871,
+        0.09819413852796358
+      ],
+      "title": "黑豹",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/6390825/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 918,
+    "kind": 2,
+    "kind_cn": "台词",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3517.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3518.jpg",
+      "subject_id": "26990609",
+      "text": "捍卫新闻出版自由的唯一方法，就是出版。"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0,
+          0.041666666666666664,
+          0.18823529411764706
+        ],
+        "_base_color": [
+          0,
+          0,
+          0.07058823529411765
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4c4c4c",
+        "primary_color_light": "727272",
+        "secondary_color": "f9f4f4"
+      },
+      "cover": "/fakeApi/assets/images/p2505577378.jpg",
+      "directors": [
+        "史蒂文·斯皮尔伯格 Steven Spielberg"
+      ],
+      "id": "26990609",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26990609/",
+      "orig_title": "The Post",
+      "playable": false,
+      "rating": 8.2,
+      "rating_count": 66600,
+      "rating_stats": [
+        0.003303303303303303,
+        0.011411411411411412,
+        0.1656906906906907,
+        0.5136936936936937,
+        0.3059009009009009
+      ],
+      "title": "华盛顿邮报",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26990609/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

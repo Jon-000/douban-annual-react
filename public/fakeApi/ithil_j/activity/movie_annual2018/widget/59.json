@@ -1,0 +1,450 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 75,
+    "id": 871,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(128, 108, 77, .9)",
+      "background_img": "/fakeApi/assets/images/p3796.jpg",
+      "description": "老白的微笑，能让人惆怅一年。这是什么样的魅力！这个男人在眼前一点点缓慢蜕变，你憎恨他，你又同情他，关键是你理解他，他心里的黑与绝望我们谁没有过，谁没想过。再见老白，你替我们悲剧，我们才能继续光明。再见老白，再见老白。",
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3805.jpg",
+      "subject_ids": "2373195, 3060542, 3011225, 3268241, 2373267, 3254235, 3077948, 3184572, 3003093, 3193101",
+      "title": "2018开播10周年的剧集",
+      "user_id": "1182135"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.18749999999999992,
+          0.0903954802259887,
+          0.6941176470588235
+        ],
+        "_base_color": [
+          0.12222222222222219,
+          0.14218009478672977,
+          0.8274509803921568
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f7a6d",
+        "primary_color_light": "a59f8e",
+        "secondary_color": "f9f8f4"
+      },
+      "cover": "/fakeApi/assets/images/p2153214457.jpg",
+      "directors": [
+        "亚当·伯恩斯坦 Adam Bernstein",
+        "文斯·吉里根 Vince Gilligan",
+        "翠西亚·布洛克 Tricia Brock",
+        "蒂姆·亨特 Tim Hunter",
+        "Jim McKay",
+        "Bronwen Hughes"
+      ],
+      "id": "2373195",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/2373195/",
+      "orig_title": "Breaking Bad",
+      "playable": true,
+      "rating": 8.9,
+      "rating_count": 116965,
+      "rating_stats": [
+        0.0014790749369469499,
+        0.005540118838968922,
+        0.08466635318257598,
+        0.3626469456675074,
+        0.5456675073740007
+      ],
+      "title": "绝命毒师 第一季",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/2373195/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.18749999999999992,
+            0.0903954802259887,
+            0.6941176470588235
+          ],
+          "_base_color": [
+            0.12222222222222219,
+            0.14218009478672977,
+            0.8274509803921568
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7a6d",
+          "primary_color_light": "a59f8e",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2153214457.jpg",
+        "id": "2373195",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/2373195/",
+        "orig_title": "Breaking Bad",
+        "playable": true,
+        "rating": 8.9,
+        "rating_count": 116965,
+        "rating_stats": [
+          0.0014790749369469499,
+          0.005540118838968922,
+          0.08466635318257598,
+          0.3626469456675074,
+          0.5456675073740007
+        ],
+        "title": "绝命毒师 第一季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/2373195/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.21904761904761916,
+            0.2229299363057325,
+            0.615686274509804
+          ],
+          "_base_color": [
+            0.2074829931972789,
+            0.28823529411764703,
+            0.6666666666666666
+          ],
+          "is_dark": true,
+          "primary_color_dark": "767f5a",
+          "primary_color_light": "9aa575",
+          "secondary_color": "f8f9f4"
+        },
+        "cover": "/fakeApi/assets/images/p2361872922.jpg",
+        "id": "3060542",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3060542/",
+        "orig_title": "夏目友人帳",
+        "playable": true,
+        "rating": 9.3,
+        "rating_count": 103924,
+        "rating_stats": [
+          0.0013182710442246257,
+          0.0035891613101882145,
+          0.05134521381009199,
+          0.23813556060197838,
+          0.7056117932335167
+        ],
+        "title": "夏目友人帐",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3060542/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.8333333333333334,
+            0.013698630136986254,
+            0.8588235294117647
+          ],
+          "_base_color": [
+            0.6666666666666666,
+            0.012765957446808467,
+            0.9215686274509803
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7d7d7f",
+          "primary_color_light": "a3a3a5",
+          "secondary_color": "f4f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2204465583.jpg",
+        "id": "3011225",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3011225/",
+        "orig_title": "ラスト・フレンズ",
+        "playable": false,
+        "rating": 8.4,
+        "rating_count": 80985,
+        "rating_stats": [
+          0.004087176637648947,
+          0.018163857504476136,
+          0.1637093288880657,
+          0.40191393467926156,
+          0.4121257022905476
+        ],
+        "title": "最后的朋友",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3011225/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.625,
+            0.3564356435643565,
+            0.396078431372549
+          ],
+          "_base_color": [
+            0.6228070175438596,
+            0.5507246376811593,
+            0.27058823529411763
+          ],
+          "is_dark": true,
+          "primary_color_dark": "222d4c",
+          "primary_color_light": "334472",
+          "secondary_color": "f4f6f9"
+        },
+        "cover": "/fakeApi/assets/images/p2151642120.jpg",
+        "id": "3268241",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3268241/",
+        "orig_title": "流星の絆",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 45787,
+        "rating_stats": [
+          0.001965623430231288,
+          0.01185926136239544,
+          0.17834756590298556,
+          0.4752003843885819,
+          0.3326271649158058
+        ],
+        "title": "流星之绊",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3268241/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.06250000000000001,
+            0.31007751937984496,
+            0.5058823529411764
+          ],
+          "_base_color": [
+            0.9722222222222222,
+            0.19672131147540983,
+            0.23921568627450981
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f666a",
+          "primary_color_light": "a5858a",
+          "secondary_color": "f9f4f5"
+        },
+        "cover": "/fakeApi/assets/images/p2176633972.jpg",
+        "id": "2373267",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/2373267/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 9.1,
+        "rating_count": 40209,
+        "rating_stats": [
+          0.0024372652888656767,
+          0.00447660971424308,
+          0.07376458006913875,
+          0.32646919843816063,
+          0.5928523464895918
+        ],
+        "title": "闯关东",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/2373267/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.1041666666666667,
+            0.25263157894736843,
+            0.37254901960784315
+          ],
+          "_base_color": [
+            0.10416666666666664,
+            0.19607843137254902,
+            0.8
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c463d",
+          "primary_color_light": "726a5c",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2225680056.jpg",
+        "id": "3254235",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3254235/",
+        "orig_title": "그들이 사는 세상",
+        "playable": false,
+        "rating": 8.2,
+        "rating_count": 31048,
+        "rating_stats": [
+          0.004509147127029116,
+          0.02489693377995362,
+          0.20845143004380315,
+          0.38182813707807267,
+          0.38031435197114144
+        ],
+        "title": "他们生活的世界",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3254235/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.3333333333333333,
+            0.0458015267175572,
+            0.5137254901960784
+          ],
+          "_base_color": [
+            0.5075757575757575,
+            0.27848101265822783,
+            0.30980392156862746
+          ],
+          "is_dark": true,
+          "primary_color_dark": "5b7d7f",
+          "primary_color_light": "77a3a5",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "/fakeApi/assets/images/p2187867314.jpg",
+        "id": "3077948",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3077948/",
+        "orig_title": "Wild China",
+        "playable": true,
+        "rating": 9.3,
+        "rating_count": 30435,
+        "rating_stats": [
+          0.0009528503367833087,
+          0.0021685559388861506,
+          0.03906686380811566,
+          0.24544110399211433,
+          0.7123706259241005
+        ],
+        "title": "美丽中国",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3077948/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.8333333333333334,
+            0.01898734177215201,
+            0.6196078431372549
+          ],
+          "_base_color": [
+            0.603448275862069,
+            0.4677419354838709,
+            0.24313725490196078
+          ],
+          "is_dark": true,
+          "primary_color_dark": "435a7f",
+          "primary_color_light": "5875a5",
+          "secondary_color": "f4f6f9"
+        },
+        "cover": "/fakeApi/assets/images/p2169754831.jpg",
+        "id": "3184572",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3184572/",
+        "orig_title": "コード・ブルー -ドクターヘリ緊急救命-",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 30885,
+        "rating_stats": [
+          0.002557875991581674,
+          0.014246397927796665,
+          0.19057795046138903,
+          0.44034320867735144,
+          0.3522745669418812
+        ],
+        "title": "紧急救命",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3184572/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08333333333333313,
+            0.057416267942583664,
+            0.8196078431372549
+          ],
+          "_base_color": [
+            0.08333333333333309,
+            0.04166666666666664,
+            0.9411764705882353
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7c7a",
+          "primary_color_light": "a5a29e",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2215393901.jpg",
+        "id": "3003093",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3003093/",
+        "orig_title": "おせん",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 29086,
+        "rating_stats": [
+          0.002062848105617823,
+          0.011758234202021592,
+          0.17455133053702812,
+          0.4540672488482431,
+          0.35756033830708933
+        ],
+        "title": "料理仙姬",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3003093/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.15079365079365084,
+            0.19905213270142177,
+            0.8274509803921568
+          ],
+          "_base_color": [
+            0.15990990990990994,
+            0.327433628318584,
+            0.8862745098039215
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7d55",
+          "primary_color_light": "a5a36f",
+          "secondary_color": "f9f9f4"
+        },
+        "cover": "/fakeApi/assets/images/p2549416416.jpg",
+        "id": "3193101",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3193101/",
+        "orig_title": "チーズスイートホーム",
+        "playable": true,
+        "rating": 9,
+        "rating_count": 26619,
+        "rating_stats": [
+          0.0016529546564484016,
+          0.0055223712385889774,
+          0.09414328111499305,
+          0.309140087907134,
+          0.5895413050828355
+        ],
+        "title": "甜甜私房猫",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3193101/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img1.doubanio.com/icon/u1182135-29.jpg",
+      "id": "1182135",
+      "name": "艾小柯",
+      "url": "https://www.douban.com/people/aixiaoke/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

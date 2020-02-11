@@ -1,0 +1,15 @@
+.line-divider {
+  display: flex;
+  margin-bottom: 1rem;
+  align-items: center;
+}
+.line-divider span {
+  margin-right: 0.5rem;
+}
+
+.line-divider hr {
+  flex: 1;
+  border: 0.05rem solid hsla(0, 0%, 100%, 0.2);
+  /* height: ".1rem"; */
+  /* background-color: "hsla(0,0%,100%,.2)"; */
+}

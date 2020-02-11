@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 911,
+    "kind": 2,
+    "kind_cn": "台词",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3492.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3613.jpg",
+      "subject_id": "26752088",
+      "text": "世界上只有一种病， 穷病。"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.052083333333333336,
+          0.4050632911392405,
+          0.30980392156862746
+        ],
+        "_base_color": [
+          0.033333333333333326,
+          0.5555555555555556,
+          0.1411764705882353
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4c2a22",
+        "primary_color_light": "723f32",
+        "secondary_color": "f9f5f4"
+      },
+      "cover": "/fakeApi/assets/images/p2519070834.jpg",
+      "directors": [
+        "文牧野 Muye Wen"
+      ],
+      "id": "26752088",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26752088/",
+      "orig_title": "",
+      "playable": true,
+      "rating": 9,
+      "rating_count": 1048281,
+      "rating_stats": [
+        0.0034981078546687384,
+        0.0035066933389043585,
+        0.04209462920724501,
+        0.25801192619154595,
+        0.6928886434076359
+      ],
+      "title": "我不是药神",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26752088/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 910,
+    "kind": 2,
+    "kind_cn": "台词",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3379.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3672.jpg",
+      "subject_id": "26753904",
+      "text": "只要不找对象，一个人的生活简单得不得了。"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.6472663139329806,
+          0.7907949790794979,
+          0.9372549019607843
+        ],
+        "_base_color": [
+          0.7411347517730497,
+          0.39004149377593367,
+          0.9450980392156862
+        ],
+        "is_dark": false,
+        "primary_color_dark": "d7c1f2",
+        "primary_color_light": "d7c1f2",
+        "secondary_color": "f7f4f9"
+      },
+      "cover": "/fakeApi/assets/images/p2534046653.jpg",
+      "directors": [
+        "凯瑞·福永 Cary Fukunaga"
+      ],
+      "id": "26753904",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26753904/",
+      "orig_title": "Maniac",
+      "playable": false,
+      "rating": 8.3,
+      "rating_count": 9478,
+      "rating_stats": [
+        0.0065414644439755225,
+        0.022156573116691284,
+        0.1607934163325596,
+        0.44534711964549484,
+        0.36516142646127875
+      ],
+      "title": "疯子",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26753904/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

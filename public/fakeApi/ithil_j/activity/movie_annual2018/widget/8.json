@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 47,
+    "id": 837,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(162, 91, 110, .9)",
+      "background_img": "/fakeApi/assets/images/p3338.jpg",
+      "description": "很少有电影中会展现这样自然有活力有趣味的家庭，诗意来自生活也来自土壤，歌声组成情绪，成为私人影像记录中毫不矫情又弥足珍贵的记忆。",
+      "has_barrage": "on",
+      "left": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3342.jpg",
+      "subject_ids": "27191492, 27119586, 27191431, 26958485, 26900391, 27193255, 26633257, 30283308, 26845720, 30283179",
+      "title": "2018年度最期待华语独立佳作",
+      "user_id": "2744437"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.9933333333333334,
+          0.33557046979865773,
+          0.5843137254901961
+        ],
+        "_base_color": [
+          0.9970760233918128,
+          0.34337349397590367,
+          0.6509803921568628
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f5354",
+        "primary_color_light": "a56c6d",
+        "secondary_color": "f9f4f4"
+      },
+      "cover": "/fakeApi/assets/images/p2540578887.jpg",
+      "directors": [
+        "陆庆屹 Lu Qing Yi"
+      ],
+      "id": "27191492",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/27191492/",
+      "orig_title": "",
+      "playable": true,
+      "rating": 8.9,
+      "rating_count": 68178,
+      "rating_stats": [
+        0.003036170025521429,
+        0.007157734166446654,
+        0.0654023291971017,
+        0.33331866584528735,
+        0.5910851007656429
+      ],
+      "title": "四个春天",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27191492/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9933333333333334,
+            0.33557046979865773,
+            0.5843137254901961
+          ],
+          "_base_color": [
+            0.9970760233918128,
+            0.34337349397590367,
+            0.6509803921568628
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f5354",
+          "primary_color_light": "a56c6d",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "/fakeApi/assets/images/p2540578887.jpg",
+        "id": "27191492",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27191492/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 8.9,
+        "rating_count": 68178,
+        "rating_stats": [
+          0.003036170025521429,
+          0.007157734166446654,
+          0.0654023291971017,
+          0.33331866584528735,
+          0.5910851007656429
+        ],
+        "title": "四个春天",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27191492/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5373563218390806,
+            0.3647798742138365,
+            0.6235294117647059
+          ],
+          "_base_color": [
+            0.5525793650793651,
+            0.9081081081081082,
+            0.7254901960784313
+          ],
+          "is_dark": true,
+          "primary_color_dark": "0b5a7f",
+          "primary_color_light": "0f76a5",
+          "secondary_color": "f4f8f9"
+        },
+        "cover": "/fakeApi/assets/images/p2546961193.jpg",
+        "id": "27119586",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27119586/",
+        "orig_title": "誰先愛上他的",
+        "playable": false,
+        "rating": 8.6,
+        "rating_count": 135778,
+        "rating_stats": [
+          0.0056562918882293155,
+          0.008329773601025202,
+          0.10252029047415634,
+          0.4375451104008013,
+          0.44594853363578785
+        ],
+        "title": "谁先爱上他的",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27119586/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.43650793650793646,
+            0.15909090909090914,
+            0.5176470588235295
+          ],
+          "_base_color": [
+            0.46078431372549017,
+            0.18784530386740342,
+            0.7098039215686275
+          ],
+          "is_dark": true,
+          "primary_color_dark": "677f79",
+          "primary_color_light": "86a59e",
+          "secondary_color": "f4f9f8"
+        },
+        "cover": "/fakeApi/assets/images/p2549537782.jpg",
+        "id": "27191431",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27191431/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 8,
+        "rating_count": 12435,
+        "rating_stats": [
+          0.005066344993968637,
+          0.013027744270205066,
+          0.16244471250502612,
+          0.5811821471652594,
+          0.23827905106554081
+        ],
+        "title": "过春天",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27191431/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.546099290780142,
+            0.26857142857142857,
+            0.6862745098039216
+          ],
+          "_base_color": [
+            0.5515873015873015,
+            0.6146341463414634,
+            0.803921568627451
+          ],
+          "is_dark": true,
+          "primary_color_dark": "31677f",
+          "primary_color_light": "3f86a5",
+          "secondary_color": "f4f8f9"
+        },
+        "cover": "/fakeApi/assets/images/p2547959213.jpg",
+        "id": "26958485",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26958485/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.4,
+        "rating_count": 407,
+        "rating_stats": [
+          0.012285012285012284,
+          0.044226044226044224,
+          0.26044226044226043,
+          0.4250614250614251,
+          0.257985257985258
+        ],
+        "title": "逆流大叔",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26958485/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.055555555555555435,
+            0.05172413793103442,
+            0.4549019607843137
+          ],
+          "_base_color": [
+            0.6333333333333333,
+            0.16129032258064516,
+            0.24313725490196078
+          ],
+          "is_dark": true,
+          "primary_color_dark": "40424c",
+          "primary_color_light": "606372",
+          "secondary_color": "f4f5f9"
+        },
+        "cover": "/fakeApi/assets/images/p2516249700.jpg",
+        "id": "26900391",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26900391/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.5,
+        "rating_count": 880,
+        "rating_stats": [
+          0.011363636363636364,
+          0.048863636363636366,
+          0.2340909090909091,
+          0.5,
+          0.2056818181818182
+        ],
+        "title": "女他",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26900391/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6666666666666666,
+            0.03355704697986584,
+            0.5843137254901961
+          ],
+          "_base_color": [
+            0.6481481481481483,
+            0.04265402843601894,
+            0.8274509803921568
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7a7a7f",
+          "primary_color_light": "9e9fa5",
+          "secondary_color": "f4f5f9"
+        },
+        "cover": "/fakeApi/assets/images/p2526118711.jpg",
+        "id": "27193255",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27193255/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.7,
+        "rating_count": 447,
+        "rating_stats": [
+          0.0044742729306487695,
+          0.042505592841163314,
+          0.2595078299776286,
+          0.4809843400447427,
+          0.21252796420581654
+        ],
+        "title": "驯马",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27193255/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.4444444444444444,
+            0.16438356164383552,
+            0.28627450980392155
+          ],
+          "_base_color": [
+            0.4583333333333333,
+            0.018348623853210944,
+            0.8549019607843137
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4b4c4c",
+          "primary_color_light": "707272",
+          "secondary_color": "f4f9f8"
+        },
+        "cover": "/fakeApi/assets/images/p2541183610.jpg",
+        "id": "26633257",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26633257/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 6.9,
+        "rating_count": 137252,
+        "rating_stats": [
+          0.1738408183487308,
+          0.12031154372978171,
+          0.2540436569230321,
+          0.28752222189840587,
+          0.16428175910004955
+        ],
+        "title": "地球最后的夜晚",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26633257/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6388888888888888,
+            0.0408163265306121,
+            0.5764705882352941
+          ],
+          "_base_color": [
+            0.8333333333333334,
+            0.09523809523809523,
+            0.16470588235294117
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f737f",
+          "primary_color_light": "a595a5",
+          "secondary_color": "f9f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2531097433.jpg",
+        "id": "30283308",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30283308/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 7,
+        "rating_count": 1971,
+        "rating_stats": [
+          0.0167427701674277,
+          0.0684931506849315,
+          0.2709284627092846,
+          0.35667174023338405,
+          0.2871638762049721
+        ],
+        "title": "阿浪的远方",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30283308/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5147058823529411,
+            0.6071428571428571,
+            0.6588235294117647
+          ],
+          "_base_color": [
+            0.47382920110192833,
+            0.6173469387755102,
+            0.7686274509803922
+          ],
+          "is_dark": true,
+          "primary_color_dark": "307f73",
+          "primary_color_light": "3fa595",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "/fakeApi/assets/images/p2520656258.jpg",
+        "id": "26845720",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26845720/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.3,
+        "rating_count": 140,
+        "rating_stats": [
+          0.04285714285714286,
+          0.06428571428571428,
+          0.2714285714285714,
+          0.4142857142857143,
+          0.20714285714285716
+        ],
+        "title": "只有大海知道",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26845720/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.059523809523809514,
+            0.4000000000000001,
+            0.27450980392156865
+          ],
+          "_base_color": [
+            0.06862745098039215,
+            0.53125,
+            0.12549019607843137
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3423",
+          "primary_color_light": "724e35",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2550800623.jpg",
+        "id": "30283179",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30283179/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.3,
+        "rating_count": 386,
+        "rating_stats": [
+          0.02072538860103627,
+          0.02849740932642487,
+          0.30310880829015546,
+          0.4481865284974093,
+          0.19948186528497408
+        ],
+        "title": "撞死了一只羊",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30283179/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u2744437-144.jpg",
+      "id": "2744437",
+      "name": "蜉蝣",
+      "url": "https://www.douban.com/people/lephemera/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

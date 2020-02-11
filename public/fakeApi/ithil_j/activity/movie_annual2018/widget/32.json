@@ -1,0 +1,63 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 914,
+    "kind": 2,
+    "kind_cn": "台词",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3384.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3408.jpg",
+      "subject_id": "26252279",
+      "text": "与其受人喜爱，让人害怕才更安全。"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.29411764705882354,
+          0.19540229885057467,
+          0.3411764705882353
+        ],
+        "_base_color": [
+          0.34126984126984133,
+          0.38181818181818183,
+          0.21568627450980393
+        ],
+        "is_dark": true,
+        "primary_color_dark": "2f4c30",
+        "primary_color_light": "467249",
+        "secondary_color": "f4f9f5"
+      },
+      "cover": "/fakeApi/assets/images/p2522826927.jpg",
+      "directors": [
+        "让-马克·瓦雷 Jean-Marc Vallée"
+      ],
+      "id": "26252279",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26252279/",
+      "orig_title": "Sharp Objects",
+      "playable": false,
+      "rating": 8.3,
+      "rating_count": 19625,
+      "rating_stats": [
+        0.006878980891719746,
+        0.020229299363057326,
+        0.14670063694267516,
+        0.45528662420382165,
+        0.3709044585987261
+      ],
+      "title": "利器",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26252279/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

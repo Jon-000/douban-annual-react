@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 32,
+    "id": 848,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(97, 102, 77, .9)",
+      "background_img": "/fakeApi/assets/images/p3763.jpg",
+      "description": "活得越久越能明白，人生是循序渐进，不紧不慢的过程。孜孜不倦地去活，自然会结出丰硕的果。",
+      "has_barrage": "on",
+      "left": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3804.jpg",
+      "subject_ids": "26874505, 30163799, 30263943, 26984189, 30268753, 30167539, 27615467, 30234901, 27012433, 26720946",
+      "title": "2018评分最高的纪录片",
+      "user_id": "yanluohan"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.191358024691358,
+          0.13366336633663362,
+          0.792156862745098
+        ],
+        "_base_color": [
+          0.21568627450980404,
+          0.07589285714285712,
+          0.8784313725490196
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7c7f75",
+        "primary_color_light": "a2a599",
+        "secondary_color": "f8f9f4"
+      },
+      "cover": "/fakeApi/assets/images/p2511465254.jpg",
+      "directors": [
+        "伏原健之 Kenshi Fushihara"
+      ],
+      "id": "26874505",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26874505/",
+      "orig_title": "人生フルーツ",
+      "playable": true,
+      "rating": 9.6,
+      "rating_count": 25510,
+      "rating_stats": [
+        0.0007840062720501764,
+        0.0008232065856526852,
+        0.021403371226969815,
+        0.16487651901215208,
+        0.8121128969031752
+      ],
+      "title": "人生果实",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26874505/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.191358024691358,
+            0.13366336633663362,
+            0.792156862745098
+          ],
+          "_base_color": [
+            0.21568627450980404,
+            0.07589285714285712,
+            0.8784313725490196
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7c7f75",
+          "primary_color_light": "a2a599",
+          "secondary_color": "f8f9f4"
+        },
+        "cover": "/fakeApi/assets/images/p2511465254.jpg",
+        "id": "26874505",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26874505/",
+        "orig_title": "人生フルーツ",
+        "playable": true,
+        "rating": 9.6,
+        "rating_count": 25510,
+        "rating_stats": [
+          0.0007840062720501764,
+          0.0008232065856526852,
+          0.021403371226969815,
+          0.16487651901215208,
+          0.8121128969031752
+        ],
+        "title": "人生果实",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26874505/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5729166666666665,
+            0.13675213675213677,
+            0.4588235294117647
+          ],
+          "_base_color": [
+            0.5701754385964911,
+            0.4523809523809524,
+            0.16470588235294117
+          ],
+          "is_dark": true,
+          "primary_color_dark": "293d4c",
+          "primary_color_light": "3e5c72",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p2518762440.jpg",
+        "id": "30163799",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30163799/",
+        "orig_title": "그날, 바다",
+        "playable": false,
+        "rating": 9.3,
+        "rating_count": 7510,
+        "rating_stats": [
+          0.0009320905459387483,
+          0.002663115845539281,
+          0.0426098535286285,
+          0.2651131824234354,
+          0.688681757656458
+        ],
+        "title": "那天，大海",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30163799/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0,
+            0.11999999999999991,
+            0.49019607843137253
+          ],
+          "_base_color": [
+            0.9907407407407408,
+            0.1636363636363637,
+            0.43137254901960786
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3f40",
+          "primary_color_light": "725f61",
+          "secondary_color": "f9f4f5"
+        },
+        "cover": "/fakeApi/assets/images/p2528968925.jpg",
+        "id": "30263943",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30263943/",
+        "orig_title": "Japan's Secret Shame",
+        "playable": false,
+        "rating": 9.1,
+        "rating_count": 8100,
+        "rating_stats": [
+          0.002962962962962963,
+          0.004320987654320987,
+          0.052592592592592594,
+          0.33555555555555555,
+          0.6045679012345679
+        ],
+        "title": "日本之耻",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30263943/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.3541666666666667,
+            0.23529411764705882,
+            0.26666666666666666
+          ],
+          "_base_color": [
+            0.34375,
+            0.2962962962962963,
+            0.21176470588235294
+          ],
+          "is_dark": true,
+          "primary_color_dark": "354c37",
+          "primary_color_light": "507252",
+          "secondary_color": "f4f9f5"
+        },
+        "cover": "/fakeApi/assets/images/p2503432084.jpg",
+        "id": "26984189",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26984189/",
+        "orig_title": "Ryuichi Sakamoto: CODA",
+        "playable": false,
+        "rating": 8.9,
+        "rating_count": 7510,
+        "rating_stats": [
+          0.0007989347536617843,
+          0.004260985352862849,
+          0.07989347536617843,
+          0.3910785619174434,
+          0.5239680426098535
+        ],
+        "title": "坂本龙一：终曲",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26984189/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0,
+            0.08571428571428581,
+            0.5490196078431373
+          ],
+          "_base_color": [
+            0.7222222222222218,
+            0.013100436681222785,
+            0.8980392156862745
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7e7d7f",
+          "primary_color_light": "a4a3a5",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2527470128.jpg",
+        "id": "30268753",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30268753/",
+        "orig_title": "Strokes of Genius",
+        "playable": false,
+        "rating": 9.1,
+        "rating_count": 2047,
+        "rating_stats": [
+          0.0004885197850512946,
+          0.00537371763556424,
+          0.07034684904738642,
+          0.31167562286272593,
+          0.6121152906692721
+        ],
+        "title": "天才之击",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30268753/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6018518518518517,
+            0.3977900552486188,
+            0.7098039215686275
+          ],
+          "_base_color": [
+            0.5912698412698413,
+            0.4077669902912621,
+            0.807843137254902
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4b637f",
+          "primary_color_light": "6280a5",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p2529106451.jpg",
+        "id": "30167539",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30167539/",
+        "orig_title": "Death Zone: Cleaning Mount Everest",
+        "playable": true,
+        "rating": 9,
+        "rating_count": 3309,
+        "rating_stats": [
+          0.0009066183136899365,
+          0.006346328195829556,
+          0.0794802055001511,
+          0.314596554850408,
+          0.5986702931399214
+        ],
+        "title": "珠峰清道夫",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30167539/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08333333333333304,
+            0.03773584905660377,
+            0.20784313725490197
+          ],
+          "_base_color": [
+            0.11538461538461524,
+            0.06598984771573609,
+            0.7725490196078432
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4a47",
+          "primary_color_light": "72706b",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2511664915.jpg",
+        "id": "27615467",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27615467/",
+        "orig_title": "RBG",
+        "playable": false,
+        "rating": 9,
+        "rating_count": 4490,
+        "rating_stats": [
+          0.0015590200445434299,
+          0.004899777282850779,
+          0.06993318485523385,
+          0.3238307349665924,
+          0.5997772828507795
+        ],
+        "title": "鲁斯·巴德·金斯伯格",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27615467/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9743589743589743,
+            0.18978102189781018,
+            0.5372549019607843
+          ],
+          "_base_color": [
+            0.9444444444444445,
+            0.1956521739130434,
+            0.1803921568627451
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f666e",
+          "primary_color_light": "a58590",
+          "secondary_color": "f9f4f6"
+        },
+        "cover": "/fakeApi/assets/images/p2529130167.jpg",
+        "id": "30234901",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30234901/",
+        "orig_title": "The Bleeding Edge",
+        "playable": false,
+        "rating": 8.9,
+        "rating_count": 2620,
+        "rating_stats": [
+          0.0011450381679389313,
+          0.0053435114503816794,
+          0.07290076335877863,
+          0.39045801526717555,
+          0.5301526717557252
+        ],
+        "title": "尖端医疗的真相",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30234901/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0,
+            0,
+            0.06666666666666667
+          ],
+          "_base_color": [
+            0,
+            0,
+            0.0196078431372549
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4c4c",
+          "primary_color_light": "727272",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "/fakeApi/assets/images/p2515332442.jpg",
+        "id": "27012433",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27012433/",
+        "orig_title": "AlphaGo",
+        "playable": false,
+        "rating": 8.8,
+        "rating_count": 3771,
+        "rating_stats": [
+          0.0015910898965791568,
+          0.005833996287456908,
+          0.081145584725537,
+          0.4033412887828162,
+          0.5080880403076107
+        ],
+        "title": "阿尔法围棋",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27012433/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5,
+            0.2948717948717949,
+            0.3058823529411765
+          ],
+          "_base_color": [
+            0.5161290322580645,
+            0.4189189189189189,
+            0.2901960784313726
+          ],
+          "is_dark": true,
+          "primary_color_dark": "2c494c",
+          "primary_color_light": "426e72",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "/fakeApi/assets/images/p2378019440.jpg",
+        "id": "26720946",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26720946/",
+        "orig_title": "Dancer",
+        "playable": true,
+        "rating": 8.8,
+        "rating_count": 2176,
+        "rating_stats": [
+          0.0013786764705882354,
+          0.004136029411764706,
+          0.10431985294117647,
+          0.40579044117647056,
+          0.484375
+        ],
+        "title": "舞者",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26720946/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img1.doubanio.com/icon/u2856002-39.jpg",
+      "id": "2856002",
+      "name": "颜落寒",
+      "url": "https://www.douban.com/people/yanluohan/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

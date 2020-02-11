@@ -1,0 +1,20 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 921,
+    "kind": 10,
+    "kind_cn": "留言板",
+    "kind_str": "message_board",
+    "page_id": 15,
+    "payload": {
+      "note_url": "https://site.douban.com/doubanfilmawards/widget/notes/18136427/note/700531457/"
+    },
+    "status": 0,
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

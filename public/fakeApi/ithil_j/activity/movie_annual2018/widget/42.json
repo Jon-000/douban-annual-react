@@ -1,0 +1,65 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 913,
+    "kind": 2,
+    "kind_cn": "台词",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3376.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3447.jpg",
+      "subject_id": "30244576",
+      "text": "如果连出门看星星都做不到，那么教她们追逐星辰还有什么意义？"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.09999999999999994,
+          0.13698630136986292,
+          0.28627450980392155
+        ],
+        "_base_color": [
+          0,
+          0,
+          0.13333333333333333
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4c4c4c",
+        "primary_color_light": "727272",
+        "secondary_color": "f9f4f4"
+      },
+      "cover": "/fakeApi/assets/images/p2525545214.jpg",
+      "directors": [
+        "凡妮莎·卡斯威尔 Vanessa Caswill",
+        "Rachna Suri",
+        "Vicky Featherstone"
+      ],
+      "id": "30244576",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/30244576/",
+      "orig_title": "Snatches: Moments from Women's Lives",
+      "playable": false,
+      "rating": 9.2,
+      "rating_count": 5104,
+      "rating_stats": [
+        0.004702194357366771,
+        0.0054858934169279,
+        0.05446708463949843,
+        0.2797805642633229,
+        0.655564263322884
+      ],
+      "title": "她说：女性人生瞬间",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/30244576/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

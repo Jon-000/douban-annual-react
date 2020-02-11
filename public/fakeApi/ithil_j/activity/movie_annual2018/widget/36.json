@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 96,
+    "id": 856,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(110, 85, 74, .8)",
+      "background_img": "/fakeApi/assets/images/p3669.jpg",
+      "description": "哪来这么多神仙下凡啊……",
+      "has_barrage": "on",
+      "left": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3671.jpg",
+      "subject_ids": "30353394, 27617334, 27617683, 30201077, 27602222, 27194980, 30214439, 30201000, 30188120, 27180851",
+      "title": "2018评分最高的大陆电视综艺",
+      "user_id": "craner"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.08156028368794326,
+          0.38842975206611563,
+          0.4745098039215686
+        ],
+        "_base_color": [
+          0.05263157894736844,
+          0.29687499999999994,
+          0.25098039215686274
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4c3c35",
+        "primary_color_light": "725b50",
+        "secondary_color": "f9f6f4"
+      },
+      "cover": "/fakeApi/assets/images/p2537774816.jpg",
+      "directors": [
+        "任洋"
+      ],
+      "id": "30353394",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/30353394/",
+      "orig_title": "",
+      "playable": true,
+      "rating": 9.3,
+      "rating_count": 67160,
+      "rating_stats": [
+        0.003960690887432996,
+        0.0035288862418106017,
+        0.02805241215008934,
+        0.18542287075640262,
+        0.7790351399642644
+      ],
+      "title": "声入人心",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/30353394/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08156028368794326,
+            0.38842975206611563,
+            0.4745098039215686
+          ],
+          "_base_color": [
+            0.05263157894736844,
+            0.29687499999999994,
+            0.25098039215686274
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3c35",
+          "primary_color_light": "725b50",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2537774816.jpg",
+        "id": "30353394",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30353394/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 9.3,
+        "rating_count": 67160,
+        "rating_stats": [
+          0.003960690887432996,
+          0.0035288862418106017,
+          0.02805241215008934,
+          0.18542287075640262,
+          0.7790351399642644
+        ],
+        "title": "声入人心",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30353394/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6757575757575758,
+            0.5555555555555556,
+            0.38823529411764707
+          ],
+          "_base_color": [
+            0.6754385964912281,
+            0.59375,
+            0.3764705882352941
+          ],
+          "is_dark": true,
+          "primary_color_dark": "211f4c",
+          "primary_color_light": "322e72",
+          "secondary_color": "f5f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2513733747.jpg",
+        "id": "27617334",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27617334/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 11660,
+        "rating_stats": [
+          0.008919382504288165,
+          0.011663807890222984,
+          0.060806174957118354,
+          0.22967409948542025,
+          0.6889365351629503
+        ],
+        "title": "经典咏流传",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27617334/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.05092592592592595,
+            0.34951456310679613,
+            0.403921568627451
+          ],
+          "_base_color": [
+            0.08541666666666665,
+            0.36199095022624433,
+            0.8666666666666667
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3e30",
+          "primary_color_light": "725e49",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2510421428.jpg",
+        "id": "27617683",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27617683/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 8.2,
+        "rating_count": 50144,
+        "rating_stats": [
+          0.008694958519463943,
+          0.012244735162731333,
+          0.11245612635609445,
+          0.47309747925973195,
+          0.3935067007019783
+        ],
+        "title": "声临其境 第一季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27617683/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.8194444444444445,
+            0.12,
+            0.39215686274509803
+          ],
+          "_base_color": [
+            0.7575757575757577,
+            0.18333333333333326,
+            0.23529411764705882
+          ],
+          "is_dark": true,
+          "primary_color_dark": "463e4c",
+          "primary_color_light": "695d72",
+          "secondary_color": "f7f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2528267653.jpg",
+        "id": "30201077",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30201077/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 13322,
+        "rating_stats": [
+          0.04488815493169194,
+          0.02807386278336586,
+          0.12115298003302807,
+          0.31549316919381476,
+          0.49039183305809936
+        ],
+        "title": "这！就是灌篮",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30201077/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.16176470588235284,
+            0.22972972972972974,
+            0.5803921568627451
+          ],
+          "_base_color": [
+            0.06666666666666672,
+            0.07317073170731708,
+            0.803921568627451
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7976",
+          "primary_color_light": "a59e99",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2520109024.jpg",
+        "id": "27602222",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27602222/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 40973,
+        "rating_stats": [
+          0.01581529299782784,
+          0.014936665609059624,
+          0.13406389573621652,
+          0.4602787201327704,
+          0.37490542552412565
+        ],
+        "title": "向往的生活 第二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27602222/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.012578616352201255,
+            0.363013698630137,
+            0.5725490196078431
+          ],
+          "_base_color": [
+            0.8571428571428571,
+            0.159090909090909,
+            0.17254901960784313
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f6b7c",
+          "primary_color_light": "a58ba1",
+          "secondary_color": "f9f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2520462368.jpg",
+        "id": "27194980",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27194980/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 7.6,
+        "rating_count": 34855,
+        "rating_stats": [
+          0.03858843781380003,
+          0.05468368957108019,
+          0.20206570076029265,
+          0.2675656290345718,
+          0.43709654282025534
+        ],
+        "title": "极限挑战 第四季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27194980/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5833333333333334,
+            0.16393442622950818,
+            0.47843137254901963
+          ],
+          "_base_color": [
+            0.5750000000000001,
+            0.34782608695652173,
+            0.45098039215686275
+          ],
+          "is_dark": true,
+          "primary_color_dark": "31404c",
+          "primary_color_light": "4a6072",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p2533842667.jpg",
+        "id": "30214439",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30214439/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 6.8,
+        "rating_count": 22588,
+        "rating_stats": [
+          0.033690455108907384,
+          0.057508411545953604,
+          0.30914644944218167,
+          0.34558172480963345,
+          0.2540729590933239
+        ],
+        "title": "我就是演员",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30214439/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.770833333333333,
+            0.048192771084337345,
+            0.6509803921568628
+          ],
+          "_base_color": [
+            0.6999999999999998,
+            0.09090909090909093,
+            0.6470588235294118
+          ],
+          "is_dark": true,
+          "primary_color_dark": "76737f",
+          "primary_color_light": "9996a5",
+          "secondary_color": "f5f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2527543485.jpg",
+        "id": "30201000",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30201000/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 7,
+        "rating_count": 29677,
+        "rating_stats": [
+          0.04569194999494558,
+          0.07622064224820568,
+          0.24200559355730025,
+          0.3403982882366816,
+          0.29568352596286684
+        ],
+        "title": "幻乐之城",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30201000/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9637681159420292,
+            0.14743589743589744,
+            0.611764705882353
+          ],
+          "_base_color": [
+            0.7619047619047619,
+            0.04761904761904746,
+            0.5764705882352941
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7c797f",
+          "primary_color_light": "a29da5",
+          "secondary_color": "f7f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2527167540.jpg",
+        "id": "30188120",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30188120/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 6.6,
+        "rating_count": 27022,
+        "rating_stats": [
+          0.06294870845977352,
+          0.07453186292650434,
+          0.3044556287469469,
+          0.3073421656428096,
+          0.25072163422396565
+        ],
+        "title": "中餐厅 第二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30188120/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.06944444444444443,
+            0.4067796610169491,
+            0.23137254901960785
+          ],
+          "_base_color": [
+            0.020833333333333332,
+            0.34782608695652173,
+            0.09019607843137255
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3531",
+          "primary_color_light": "724f4a",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2510165437.jpg",
+        "id": "27180851",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27180851/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 6.6,
+        "rating_count": 14626,
+        "rating_stats": [
+          0.03678380965404075,
+          0.0852591275810201,
+          0.41043347463421304,
+          0.31355121017366333,
+          0.15397237795706276
+        ],
+        "title": "歌手2018",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27180851/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img1.doubanio.com/icon/u52618754-28.jpg",
+      "id": "52618754",
+      "name": "Mr.Craner",
+      "url": "https://www.douban.com/people/craner/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

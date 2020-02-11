@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 909,
+    "kind": 2,
+    "kind_cn": "台词",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3267.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3493.jpg",
+      "subject_id": "26842702",
+      "text": "没有眼泪这个证据，就无法判断那是不是悲伤的情绪了。"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.8833333333333334,
+          0.13157894736842096,
+          0.2980392156862745
+        ],
+        "_base_color": [
+          0.7424242424242423,
+          0.24999999999999992,
+          0.17254901960784313
+        ],
+        "is_dark": true,
+        "primary_color_dark": "42394c",
+        "primary_color_light": "635672",
+        "secondary_color": "f7f4f9"
+      },
+      "cover": "/fakeApi/assets/images/p2520095279.jpg",
+      "directors": [
+        "李沧东 Chang-dong Lee"
+      ],
+      "id": "26842702",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26842702/",
+      "orig_title": "버닝",
+      "playable": false,
+      "rating": 7.9,
+      "rating_count": 138865,
+      "rating_stats": [
+        0.01277499729953552,
+        0.0319374932488388,
+        0.2212148489540201,
+        0.47762935224858677,
+        0.25644330824901884
+      ],
+      "title": "燃烧",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26842702/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

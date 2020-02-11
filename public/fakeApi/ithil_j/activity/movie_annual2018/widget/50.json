@@ -1,0 +1,115 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 238,
+    "id": 864,
+    "kind": 19,
+    "kind_cn": "逝者",
+    "kind_str": "the_fallen",
+    "page_id": 15,
+    "payload": {
+      "description": "你瞧这些白云聚了又散，散了又聚，人生离合，亦复如斯。",
+      "has_barrage": "on",
+      "ids": "1035651, 1041380, 1013888, 1053561, 1014853, 1046343, 1275118, 1019677, 1094656",
+      "title": "2018|离开我们的人"
+    },
+    "people": [
+      {
+        "age": "77岁",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p374.jpg",
+        "id": "1035651",
+        "name": "贝纳尔多·贝托鲁奇",
+        "name_en": "Bernardo Bertolucci",
+        "profession": "导演",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1035651/"
+      },
+      {
+        "age": "82岁",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1405375262.09.jpg",
+        "id": "1041380",
+        "name": "高畑勋",
+        "name_en": "Isao Takahata",
+        "profession": "导演",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1041380/"
+      },
+      {
+        "age": "95岁",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p2315.jpg",
+        "id": "1013888",
+        "name": "斯坦·李",
+        "name_en": "Stan Lee",
+        "profession": "编剧",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1013888/"
+      },
+      {
+        "age": "86岁",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p37577.jpg",
+        "id": "1053561",
+        "name": "米洛斯·福尔曼",
+        "name_en": "Miloš Forman",
+        "profession": "导演",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1053561/"
+      },
+      {
+        "age": "75岁",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1537090880.33.jpg",
+        "id": "1014853",
+        "name": "树木希林",
+        "name_en": "Kirin Kiki",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1014853/"
+      },
+      {
+        "age": "55岁",
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p27437.jpg",
+        "id": "1046343",
+        "name": "蓝洁瑛",
+        "name_en": "Kit Ying Lam",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1046343/"
+      },
+      {
+        "age": "88岁",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p9815.jpg",
+        "id": "1275118",
+        "name": "朱旭",
+        "name_en": "Xu Zhu",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1275118/"
+      },
+      {
+        "age": "94岁",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p3196.jpg",
+        "id": "1019677",
+        "name": "金庸",
+        "name_en": "Louis Cha",
+        "profession": "编剧",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1019677/"
+      },
+      {
+        "age": "100岁",
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1544617998.35.jpg",
+        "id": "1094656",
+        "name": "桥本忍",
+        "name_en": "Shinobu Hashimoto",
+        "profession": "编剧",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1094656/"
+      }
+    ],
+    "status": 0,
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 904,
+    "kind": 2,
+    "kind_cn": "台词",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3759.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3760.jpg",
+      "subject_id": "26384741",
+      "text": "几乎没有人会去自杀，但几乎所有人都在自我毁灭。"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.6014492753623188,
+          0.46,
+          0.39215686274509803
+        ],
+        "_base_color": [
+          0.6133333333333333,
+          0.625,
+          0.1568627450980392
+        ],
+        "is_dark": true,
+        "primary_color_dark": "1c2b4c",
+        "primary_color_light": "2b4172",
+        "secondary_color": "f4f6f9"
+      },
+      "cover": "/fakeApi/assets/images/p2516914607.jpg",
+      "directors": [
+        "亚历克斯·加兰 Alex Garland"
+      ],
+      "id": "26384741",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26384741/",
+      "orig_title": "Annihilation",
+      "playable": true,
+      "rating": 7.1,
+      "rating_count": 233676,
+      "rating_stats": [
+        0.015405946695424434,
+        0.06030572245331142,
+        0.37261849740666564,
+        0.4168207261336209,
+        0.1348491073109776
+      ],
+      "title": "湮灭",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26384741/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

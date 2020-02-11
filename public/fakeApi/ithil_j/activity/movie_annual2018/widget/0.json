@@ -1,0 +1,26 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 776,
+    "kind": 0,
+    "kind_cn": "\u5f00\u7bc7",
+    "kind_str": "start_page",
+    "page_id": 15,
+    "payload": {
+      "description": "\u57fa\u4e8e2018\u5e74\u4f60\u548c\u4e07\u5343\u8c46\u74e3\u7528\u6237\u7684\u7535\u5f71\u6807\u8bb0\u6570\u636e\uff0c\u6392\u540d\u4f9d\u636e\u8bc4\u5206\u3001\u4eba\u6570\u548c\u65f6\u95f4\u7efc\u5408\u8003\u8651\uff08\u7edf\u8ba1\u622a\u81f32018-12-15\uff09",
+      "mask_img": "/fakeApi/assets/images/p3472.jpg",
+      "mobile_background_img": "/fakeApi/assets/images/p3534.jpg",
+      "mobile_mask_img": "/fakeApi/assets/images/p3473.jpg",
+      "mobile_title_img": "/fakeApi/assets/images/p3738.jpg",
+      "title_img": "/fakeApi/assets/images/p3738.jpg",
+      "video": "/fakeApi/assets/video/mp4ieannual2018.mp4"
+    },
+    "status": 0,
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

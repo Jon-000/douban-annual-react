@@ -1,0 +1,443 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 64,
+    "id": 846,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3757.jpg",
+      "description": "电影的形式不单只是噱头，更像是潜移默化的透露着社交网络和流媒体对我们生活造成无处不在利与弊。当我们跟着John Cho一路抽丝剥茧地看到真相，心里不禁寒蝉，原来我们和父母有时真的是这世上最熟悉的陌生人。",
+      "has_barrage": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3758.jpg",
+      "subject_ids": "27615441, 26725678, 26369884, 30201003, 26961821, 27621727, 26721644, 27012731, 27188152, 26997663",
+      "title": "2018评分最高的恐怖/惊悚片",
+      "user_id": "35790692"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.5925925925925926,
+          0.46956521739130436,
+          0.45098039215686275
+        ],
+        "_base_color": [
+          0.6016260162601625,
+          0.7192982456140351,
+          0.2235294117647059
+        ],
+        "is_dark": true,
+        "primary_color_dark": "152a4c",
+        "primary_color_light": "204072",
+        "secondary_color": "f4f6f9"
+      },
+      "cover": "/fakeApi/assets/images/p2542848758.jpg",
+      "directors": [
+        "阿尼什·查甘蒂 Aneesh Chaganty"
+      ],
+      "id": "27615441",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/27615441/",
+      "orig_title": "Searching",
+      "playable": true,
+      "rating": 8.6,
+      "rating_count": 246389,
+      "rating_stats": [
+        0.0016518594580115183,
+        0.00522344747533372,
+        0.09318191964738685,
+        0.45564128268713294,
+        0.444301490732135
+      ],
+      "title": "网络谜踪",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27615441/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5925925925925926,
+            0.46956521739130436,
+            0.45098039215686275
+          ],
+          "_base_color": [
+            0.6016260162601625,
+            0.7192982456140351,
+            0.2235294117647059
+          ],
+          "is_dark": true,
+          "primary_color_dark": "152a4c",
+          "primary_color_light": "204072",
+          "secondary_color": "f4f6f9"
+        },
+        "cover": "/fakeApi/assets/images/p2542848758.jpg",
+        "id": "27615441",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27615441/",
+        "orig_title": "Searching",
+        "playable": true,
+        "rating": 8.6,
+        "rating_count": 246389,
+        "rating_stats": [
+          0.0016518594580115183,
+          0.00522344747533372,
+          0.09318191964738685,
+          0.45564128268713294,
+          0.444301490732135
+        ],
+        "title": "网络谜踪",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27615441/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5606060606060606,
+            0.6179775280898876,
+            0.34901960784313724
+          ],
+          "_base_color": [
+            0.5633333333333334,
+            0.7042253521126761,
+            0.2784313725490196
+          ],
+          "is_dark": true,
+          "primary_color_dark": "16384c",
+          "primary_color_light": "215472",
+          "secondary_color": "f4f8f9"
+        },
+        "cover": "/fakeApi/assets/images/p2525020357.jpg",
+        "id": "26725678",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26725678/",
+        "orig_title": "Unfriended: Dark Web",
+        "playable": true,
+        "rating": 7.9,
+        "rating_count": 96123,
+        "rating_stats": [
+          0.008145813176867139,
+          0.026871820480009988,
+          0.22771865214360767,
+          0.5041353266127774,
+          0.23312838758673782
+        ],
+        "title": "解除好友2：暗网",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26725678/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.05555555555555556,
+            0.19672131147540983,
+            0.47843137254901963
+          ],
+          "_base_color": [
+            0.08333333333333344,
+            0.10526315789473692,
+            0.7450980392156863
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4844",
+          "primary_color_light": "726c66",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2543305779.jpg",
+        "id": "26369884",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26369884/",
+        "orig_title": "The House That Jack Built",
+        "playable": false,
+        "rating": 7.3,
+        "rating_count": 29270,
+        "rating_stats": [
+          0.041168431841475915,
+          0.06822685343354971,
+          0.28773488213187565,
+          0.40823368636829516,
+          0.19463614622480355
+        ],
+        "title": "此房是我造",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26369884/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.018518518518518583,
+            0.16981132075471703,
+            0.41568627450980394
+          ],
+          "_base_color": [
+            0.04519774011299436,
+            0.2836538461538461,
+            0.8156862745098039
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3c36",
+          "primary_color_light": "725b52",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2533613106.jpg",
+        "id": "30201003",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30201003/",
+        "orig_title": "Boarding School",
+        "playable": false,
+        "rating": 7.3,
+        "rating_count": 31802,
+        "rating_stats": [
+          0.01047103955726055,
+          0.05455631721275391,
+          0.3535941135777624,
+          0.4250990503741903,
+          0.15627947927803282
+        ],
+        "title": "寄宿学校",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30201003/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08666666666666667,
+            0.46296296296296297,
+            0.21176470588235294
+          ],
+          "_base_color": [
+            0.07407407407407407,
+            0.5625,
+            0.12549019607843137
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3421",
+          "primary_color_light": "724e32",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2456908524.jpg",
+        "id": "26961821",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26961821/",
+        "orig_title": "El secreto de Marrowbone",
+        "playable": true,
+        "rating": 7.3,
+        "rating_count": 7826,
+        "rating_stats": [
+          0.009072323025811398,
+          0.042678251980577564,
+          0.38027089189879887,
+          0.43112701252236135,
+          0.1368515205724508
+        ],
+        "title": "马柔本宅秘事",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26961821/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5,
+            0.08333333333333323,
+            0.1411764705882353
+          ],
+          "_base_color": [
+            0.5,
+            0.125,
+            0.12549019607843137
+          ],
+          "is_dark": true,
+          "primary_color_dark": "424c4c",
+          "primary_color_light": "647272",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "/fakeApi/assets/images/p2518865763.jpg",
+        "id": "27621727",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27621727/",
+        "orig_title": "Hereditary",
+        "playable": false,
+        "rating": 7.1,
+        "rating_count": 72414,
+        "rating_stats": [
+          0.026417543568923136,
+          0.07618692518021378,
+          0.36407324550501285,
+          0.3902145993868589,
+          0.14310768635899135
+        ],
+        "title": "遗传厄运",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27621727/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5625,
+            0.0851063829787234,
+            0.3686274509803922
+          ],
+          "_base_color": [
+            0.5416666666666666,
+            0.25,
+            0.06274509803921569
+          ],
+          "is_dark": true,
+          "primary_color_dark": "39474c",
+          "primary_color_light": "566b72",
+          "secondary_color": "f4f8f9"
+        },
+        "cover": "/fakeApi/assets/images/p2513009586.jpg",
+        "id": "26721644",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26721644/",
+        "orig_title": "Ghost Stories",
+        "playable": false,
+        "rating": 7.1,
+        "rating_count": 14692,
+        "rating_stats": [
+          0.010549959161448408,
+          0.0581949360196025,
+          0.4140348488973591,
+          0.4113122787911789,
+          0.10590797713041111
+        ],
+        "title": "鬼故事",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26721644/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9607843137254902,
+            0.14285714285714282,
+            0.4666666666666667
+          ],
+          "_base_color": [
+            0.9509803921568626,
+            0.08457711442786069,
+            0.788235294117647
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4647",
+          "primary_color_light": "72696b",
+          "secondary_color": "f9f4f6"
+        },
+        "cover": "/fakeApi/assets/images/p2514997577.jpg",
+        "id": "27012731",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27012731/",
+        "orig_title": "Ghostland",
+        "playable": false,
+        "rating": 6.9,
+        "rating_count": 11282,
+        "rating_stats": [
+          0.020563729835135613,
+          0.09404360928913313,
+          0.4122496011345506,
+          0.3502925013295515,
+          0.12285055841162915
+        ],
+        "title": "噩梦娃娃屋",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27012731/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.06250000000000007,
+            0.13333333333333333,
+            0.23529411764705882
+          ],
+          "_base_color": [
+            0,
+            0,
+            0.10980392156862745
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4c4c",
+          "primary_color_light": "727272",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "/fakeApi/assets/images/p2532529059.jpg",
+        "id": "27188152",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27188152/",
+        "orig_title": "Aterrados",
+        "playable": false,
+        "rating": 6.7,
+        "rating_count": 7000,
+        "rating_stats": [
+          0.027142857142857142,
+          0.11128571428571428,
+          0.43314285714285716,
+          0.3242857142857143,
+          0.10414285714285715
+        ],
+        "title": "诡怪疑云",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27188152/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.010989010989011005,
+            0.8425925925925927,
+            0.4235294117647059
+          ],
+          "_base_color": [
+            0.009708737864077685,
+            0.865546218487395,
+            0.4666666666666667
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c0e0a",
+          "primary_color_light": "72150f",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2518852413.jpg",
+        "id": "26997663",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26997663/",
+        "orig_title": "A Quiet Place",
+        "playable": true,
+        "rating": 6.3,
+        "rating_count": 191095,
+        "rating_stats": [
+          0.045694549831235776,
+          0.15112901959758235,
+          0.4702530155158429,
+          0.261796488657474,
+          0.07112692639786494
+        ],
+        "title": "寂静之地",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26997663/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u35790692-21.jpg",
+      "id": "35790692",
+      "name": "饮歌",
+      "url": "https://www.douban.com/people/35790692/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}
