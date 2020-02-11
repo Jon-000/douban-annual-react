@@ -1,17 +1,34 @@
+@import-normalize; /* bring in normalize.css styles */
 
+/* rest of app styles */
 
-
-html, body, #root {
+html,
+body,
+#root {
   width: 100%;
   height: 100%;
+  margin: 0;
+  padding: 0;
 }
 
-/* douban setting */
+
 html {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen-Sans, Ubuntu, Cantarell, Helvetica Neue,
+    PingFang SC, Hiragino Sans GB, STHeiti, Microsoft Yahei, Wenquanyi Micro Hei, sans-serif;
   font-size: 75%;
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,PingFang SC,Hiragino Sans GB,STHeiti,Microsoft Yahei,Wenquanyi Micro Hei,sans-serif;
 }
+@media only screen and (max-width: 320px) {
+  html {
+    font-size: 60%;
+  }
+};
+@media only screen and (max-width: 375px)  {
+  html {
+    font-size: 70%;
+  }
+};
 
+  
 /* 防止移动端chrome的pull-to-refresh effect  */
 body {
   position: fixed;
@@ -20,25 +37,11 @@ body {
   padding: 0;
 }
 
-
 /* body.noscroll{
   position:fixed;
   overflow:hidden;
 } */
 
-
-body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
 
 /* Reset `button` and button-style `input` default styles */
 input[type="submit"],
@@ -65,15 +68,14 @@ button::-moz-focus-inner {
     padding: 0;
 }
 
-/* Make `a` like a button */
-[role="button"] {
-    color: inherit;
-    cursor: default;
-    display: inline-block;
-    text-align: center;
-    text-decoration: none;
-    white-space: pre;
-    -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
+
+/* custom */
+a {
+  color: #7e8c8d;
+  text-decoration: none;
+  -webkit-backface-visibility: hidden;
+}
+
+li {
+  list-style: none;
 }
