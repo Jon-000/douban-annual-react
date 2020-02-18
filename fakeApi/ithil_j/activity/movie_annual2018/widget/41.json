@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(54, 71, 81, 0.8)",
-      "background_img": "/fakeApi/assets/images/p3357.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3357.jpg",
       "description": "从动物身上，我们照见了人类原始的兽性，即便是所谓「文明」，也并非是智人的独特产物。",
       "has_barrage": "on",
       "left": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3446.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3446.jpg",
       "subject_ids": "27182707, 27620913, 27620616, 27182720, 30156039, 27186602, 30151530, 26955451, 30244576, 26692442",
       "title": "2018评分最高的纪录剧集",
       "user_id": "172680115"
@@ -37,7 +37,7 @@
         "primary_color_light": "2b5372",
         "secondary_color": "f4f7f9"
       },
-      "cover": "/fakeApi/assets/images/p2537688397.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2537688397.jpg",
       "directors": [
         "斯蒂芬·莫斯 Stephen Moss"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "2b5372",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2537688397.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2537688397.jpg",
         "id": "27182707",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "f2e1cf",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2529397321.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2529397321.jpg",
         "id": "27620913",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "725c2b",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2515345924.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515345924.jpg",
         "id": "27620616",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "5181a5",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2508653411.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2508653411.jpg",
         "id": "27182720",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "799ea5",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2541649132.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2541649132.jpg",
         "id": "30156039",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "4e7ba5",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2516431363.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2516431363.jpg",
         "id": "27186602",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "a2a3a5",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2539266159.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2539266159.jpg",
         "id": "30151530",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "284f72",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2523480904.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2523480904.jpg",
         "id": "26955451",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "727272",
           "secondary_color": "f9f4f4"
         },
-        "cover": "/fakeApi/assets/images/p2525545214.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2525545214.jpg",
         "id": "30244576",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "72422a",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2518733754.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518733754.jpg",
         "id": "26692442",
         "interest": {},
         "is_released": true,

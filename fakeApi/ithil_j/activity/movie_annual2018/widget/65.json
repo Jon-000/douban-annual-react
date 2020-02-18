@@ -9,9 +9,9 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3588.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3588.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3589.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3589.jpg",
       "subject_id": "26787574",
       "text": "善良一点，因为每个人都在与人生苦战。"
     },
@@ -33,7 +33,7 @@
         "primary_color_light": "a59778",
         "secondary_color": "f9f8f4"
       },
-      "cover": "/fakeApi/assets/images/p2507709428.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2507709428.jpg",
       "directors": [
         "斯蒂芬·卓博斯基 Stephen Chbosky"
       ],

@@ -9,9 +9,9 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3267.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3267.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3493.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3493.jpg",
       "subject_id": "26842702",
       "text": "没有眼泪这个证据，就无法判断那是不是悲伤的情绪了。"
     },
@@ -33,7 +33,7 @@
         "primary_color_light": "635672",
         "secondary_color": "f7f4f9"
       },
-      "cover": "/fakeApi/assets/images/p2520095279.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2520095279.jpg",
       "directors": [
         "李沧东 Chang-dong Lee"
       ],

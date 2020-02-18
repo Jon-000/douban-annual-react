@@ -10,10 +10,10 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(160, 154, 122, .8)",
-      "background_img": "/fakeApi/assets/images/p3783.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3783.jpg",
       "description": "龙猫真像童年时的一场梦，长大之后似乎忘记了，突然看见它毛茸茸的身躯，就想起了所有的奢望。这大概就是我们得以在孤独中相互告慰的东西吧。",
       "has_barrage": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3806.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3806.jpg",
       "subject_ids": "1291560, 1291828, 1293318, 1291870, 1306505, 1300960, 1304624, 1292697, 1291859, 1432972",
       "title": "2018上映30周年的电影",
       "user_id": "62675594"
@@ -36,7 +36,7 @@
         "primary_color_light": "a59f7f",
         "secondary_color": "f9f9f4"
       },
-      "cover": "/fakeApi/assets/images/p2540924496.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2540924496.jpg",
       "directors": [
         "宫崎骏 Hayao Miyazaki"
       ],
@@ -77,7 +77,7 @@
           "primary_color_light": "a59f7f",
           "secondary_color": "f9f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2540924496.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2540924496.jpg",
         "id": "1291560",
         "interest": {},
         "is_released": true,
@@ -114,7 +114,7 @@
           "primary_color_light": "a5948c",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p1910901025.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1910901025.jpg",
         "id": "1291828",
         "interest": {},
         "is_released": true,
@@ -151,7 +151,7 @@
           "primary_color_light": "723f33",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2237136718.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2237136718.jpg",
         "id": "1293318",
         "interest": {},
         "is_released": true,
@@ -188,7 +188,7 @@
           "primary_color_light": "726646",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p942376281.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p942376281.jpg",
         "id": "1291870",
         "interest": {},
         "is_released": true,
@@ -225,7 +225,7 @@
           "primary_color_light": "a51b0f",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2536679956.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2536679956.jpg",
         "id": "1306505",
         "interest": {},
         "is_released": true,
@@ -262,7 +262,7 @@
           "primary_color_light": "0c4372",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p455722535.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p455722535.jpg",
         "id": "1300960",
         "interest": {},
         "is_released": true,
@@ -299,7 +299,7 @@
           "primary_color_light": "723245",
           "secondary_color": "f9f4f6"
         },
-        "cover": "/fakeApi/assets/images/p2530885114.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2530885114.jpg",
         "id": "1304624",
         "interest": {},
         "is_released": true,
@@ -336,7 +336,7 @@
           "primary_color_light": "726e69",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p1617429340.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1617429340.jpg",
         "id": "1292697",
         "interest": {},
         "is_released": true,
@@ -373,7 +373,7 @@
           "primary_color_light": "6c6972",
           "secondary_color": "f6f4f9"
         },
-        "cover": "/fakeApi/assets/images/p1910915447.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1910915447.jpg",
         "id": "1291859",
         "interest": {},
         "is_released": true,
@@ -410,7 +410,7 @@
           "primary_color_light": "a59f95",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2196346882.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2196346882.jpg",
         "id": "1432972",
         "interest": {},
         "is_released": true,

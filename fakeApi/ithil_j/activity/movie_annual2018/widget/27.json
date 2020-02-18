@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(111, 63, 135, .8)",
-      "background_img": "/fakeApi/assets/images/p3631.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3631.jpg",
       "description": "从Freddie第一次在钢琴上轻轻敲出Bohemian Rhapsody的旋律开始，我的泪腺和毛孔便会为每一缕熟悉旋律而收缩。而最后Live Aid如临现场的冲击力，莫名的痛苦卷着鼓点的狂骚将我击溃在影院最后一排的座椅之上，鼓膜轰鸣。",
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3677.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3677.jpg",
       "subject_ids": "5300054, 26809592, 26791455, 4058933, 3095514, 26640371, 3026559, 26952704, 4920389, 6390825",
       "title": "2018年度电影原声",
       "user_id": "1237270"
@@ -37,7 +37,7 @@
         "primary_color_light": "8514a5",
         "secondary_color": "f8f4f9"
       },
-      "cover": "/fakeApi/assets/images/p2550797099.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2550797099.jpg",
       "directors": [
         "布莱恩·辛格 Bryan Singer"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "8514a5",
           "secondary_color": "f8f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2550797099.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2550797099.jpg",
         "id": "5300054",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "72726c",
           "secondary_color": "f9f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2506487968.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2506487968.jpg",
         "id": "26809592",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "725b19",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2518558081.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518558081.jpg",
         "id": "26791455",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "a59d8c",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2541979727.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2541979727.jpg",
         "id": "4058933",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "a59983",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2532759044.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2532759044.jpg",
         "id": "3095514",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "a57b5b",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2518856022.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518856022.jpg",
         "id": "26640371",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "573272",
           "secondary_color": "f7f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2532776305.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2532776305.jpg",
         "id": "3026559",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "a53835",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2539127687.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2539127687.jpg",
         "id": "26952704",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "948aa5",
           "secondary_color": "f6f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2516578307.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2516578307.jpg",
         "id": "4920389",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "717266",
           "secondary_color": "f9f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2512123434.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2512123434.jpg",
         "id": "6390825",
         "interest": {},
         "is_released": true,

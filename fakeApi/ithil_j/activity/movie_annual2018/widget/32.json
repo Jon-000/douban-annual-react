@@ -9,8 +9,8 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3384.jpg",
-      "mobile_background_img": "/fakeApi/assets/images/p3408.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3384.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3408.jpg",
       "subject_id": "26252279",
       "text": "与其受人喜爱，让人害怕才更安全。"
     },
@@ -32,7 +32,7 @@
         "primary_color_light": "467249",
         "secondary_color": "f4f9f5"
       },
-      "cover": "/fakeApi/assets/images/p2522826927.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2522826927.jpg",
       "directors": [
         "让-马克·瓦雷 Jean-Marc Vallée"
       ],

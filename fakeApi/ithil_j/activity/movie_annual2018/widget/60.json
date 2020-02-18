@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(110, 45, 64, .9)",
-      "background_img": "/fakeApi/assets/images/p3657.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3657.jpg",
       "description": "让我们青春作伴 活的潇潇洒洒",
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3660.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3660.jpg",
       "subject_ids": "1786739, 1863923, 1304397, 1465035, 2190934, 1424406, 3904560, 1464838, 1830581, 2147055\t\t\t\t\t\t\t\t\t",
       "title": "2018开播20周年的剧集",
       "user_id": "1318822"
@@ -37,7 +37,7 @@
         "primary_color_light": "a59e9e",
         "secondary_color": "f9f4f5"
       },
-      "cover": "/fakeApi/assets/images/p2370846705.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2370846705.jpg",
       "directors": [
         "孙树培 Sun Shupei"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "a59e9e",
           "secondary_color": "f9f4f5"
         },
-        "cover": "/fakeApi/assets/images/p2370846705.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2370846705.jpg",
         "id": "1786739",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "a58978",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p1527781618.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1527781618.jpg",
         "id": "1863923",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "563972",
           "secondary_color": "f7f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2501608626.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2501608626.jpg",
         "id": "1304397",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "a59fa4",
           "secondary_color": "f9f4f8"
         },
-        "cover": "/fakeApi/assets/images/p2257397685.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2257397685.jpg",
         "id": "1465035",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "a5763c",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2233668756.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2233668756.jpg",
         "id": "2190934",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "72594f",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2011424828.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2011424828.jpg",
         "id": "1424406",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "724e2a",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p1226587532.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1226587532.jpg",
         "id": "3904560",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "724e41",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p1999558868.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1999558868.jpg",
         "id": "1464838",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "a59d86",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2540178639.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2540178639.jpg",
         "id": "1830581",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "a53351",
           "secondary_color": "f9f4f6"
         },
-        "cover": "/fakeApi/assets/images/p2455124190.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2455124190.jpg",
         "id": "2147055",
         "interest": {},
         "is_released": true,

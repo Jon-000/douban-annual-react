@@ -9,11 +9,11 @@
     "kind_str": "top10",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3634.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3634.jpg",
       "description": "想起了生命中许多决定性的瞬间，以及走散了的那些朋友。",
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3680.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3680.jpg",
       "subject_ids": "28427782, 26985973, 26869686, 26997983, 30145148, 27038857, 27016554, 27163287, 26915602, 26252279",
       "title": "2018评分最高的英美剧(新剧)",
       "user_id": "Eleutheria"
@@ -36,7 +36,7 @@
         "primary_color_light": "726a41",
         "secondary_color": "f9f9f4"
       },
-      "cover": "/fakeApi/assets/images/p2538458633.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2538458633.jpg",
       "directors": [
         "萨维里奥·科斯坦佐 Saverio Costanzo"
       ],
@@ -77,7 +77,7 @@
           "primary_color_light": "726a41",
           "secondary_color": "f9f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2538458633.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2538458633.jpg",
         "id": "28427782",
         "interest": {},
         "is_released": true,
@@ -114,7 +114,7 @@
           "primary_color_light": "686e72",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2518519566.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518519566.jpg",
         "id": "26985973",
         "interest": {},
         "is_released": true,
@@ -151,7 +151,7 @@
           "primary_color_light": "a57548",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2528450871.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2528450871.jpg",
         "id": "26869686",
         "interest": {},
         "is_released": true,
@@ -188,7 +188,7 @@
           "primary_color_light": "552a72",
           "secondary_color": "f7f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2527300725.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2527300725.jpg",
         "id": "26997983",
         "interest": {},
         "is_released": true,
@@ -225,7 +225,7 @@
           "primary_color_light": "a59049",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2513751998.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2513751998.jpg",
         "id": "30145148",
         "interest": {},
         "is_released": true,
@@ -262,7 +262,7 @@
           "primary_color_light": "72423f",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2522870728.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2522870728.jpg",
         "id": "27038857",
         "interest": {},
         "is_released": true,
@@ -299,7 +299,7 @@
           "primary_color_light": "296472",
           "secondary_color": "f4f8f9"
         },
-        "cover": "/fakeApi/assets/images/p2534588882.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2534588882.jpg",
         "id": "27016554",
         "interest": {},
         "is_released": true,
@@ -336,7 +336,7 @@
           "primary_color_light": "72665f",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2532513937.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2532513937.jpg",
         "id": "27163287",
         "interest": {},
         "is_released": true,
@@ -373,7 +373,7 @@
           "primary_color_light": "725147",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2517103319.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2517103319.jpg",
         "id": "26915602",
         "interest": {},
         "is_released": true,
@@ -410,7 +410,7 @@
           "primary_color_light": "467249",
           "secondary_color": "f4f9f5"
         },
-        "cover": "/fakeApi/assets/images/p2522826927.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2522826927.jpg",
         "id": "26252279",
         "interest": {},
         "is_released": true,

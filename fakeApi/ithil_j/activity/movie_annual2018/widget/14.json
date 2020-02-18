@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(129, 153, 148, .8)",
-      "background_img": "/fakeApi/assets/images/p3733.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3733.jpg",
       "description": "拉扎罗无疑是本世纪最伟大的银幕形象之一，他对世间一切都不清楚不明白，但却从不困惑不迷惘。他的淳朴成为他蠢笨的罪证，却又如镜子一般照出旁人的丑恶。",
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3734.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3734.jpg",
       "subject_ids": "27072795, 26781703, 26346327, 3036465, 27098888, 26872545, 26894602, 26979199, 26610229, 30162520",
       "title": "2018评分最高的欧洲电影",
       "user_id": "duduxiongzhifu"
@@ -37,7 +37,7 @@
         "primary_color_light": "84a59e",
         "secondary_color": "f4f9f8"
       },
-      "cover": "/fakeApi/assets/images/p2521583093.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2521583093.jpg",
       "directors": [
         "爱丽丝·洛尔瓦彻 Alice Rohrwacher"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "84a59e",
           "secondary_color": "f4f9f8"
         },
-        "cover": "/fakeApi/assets/images/p2521583093.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2521583093.jpg",
         "id": "27072795",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "7da1a5",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2510209986.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2510209986.jpg",
         "id": "26781703",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "72696c",
           "secondary_color": "f9f4f6"
         },
-        "cover": "/fakeApi/assets/images/p2544510784.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2544510784.jpg",
         "id": "26346327",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "96a5a0",
           "secondary_color": "f4f9f8"
         },
-        "cover": "/fakeApi/assets/images/p2513341534.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2513341534.jpg",
         "id": "3036465",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "a57755",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2505204599.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2505204599.jpg",
         "id": "27098888",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "a5a5a5",
           "secondary_color": "f9f4f4"
         },
-        "cover": "/fakeApi/assets/images/p2512322320.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2512322320.jpg",
         "id": "26872545",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "72706b",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2526989708.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2526989708.jpg",
         "id": "26894602",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "a197a5",
           "secondary_color": "f8f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2527725378.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2527725378.jpg",
         "id": "26979199",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "a57340",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2495377597.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2495377597.jpg",
         "id": "26610229",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "725e57",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2524209517.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2524209517.jpg",
         "id": "30162520",
         "interest": {},
         "is_released": true,

@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(84, 84, 63, .8)",
-      "background_img": "/fakeApi/assets/images/p3731.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3731.jpg",
       "description": "如果说爱你，还打你，那一定是说谎；如果爱你，就会像安藤樱一样紧紧抱住你。",
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3732.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3732.jpg",
       "subject_ids": " 27622447,30234315,27147739, 27040737, 26784898, 27108740, 26992114, 27102505, 26742730, 26972275",
       "title": "2018评分最高的日本电影",
       "user_id": "gegejing"
@@ -37,7 +37,7 @@
         "primary_color_light": "a59e91",
         "secondary_color": "f9f8f4"
       },
-      "cover": "/fakeApi/assets/images/p2530599636.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2530599636.jpg",
       "directors": [
         "是枝裕和 Hirokazu Koreeda"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "a59e91",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2530599636.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2530599636.jpg",
         "id": "27622447",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "a57b21",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2541824676.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2541824676.jpg",
         "id": "30234315",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "726f67",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2515102554.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515102554.jpg",
         "id": "27147739",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "a57641",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2503849067.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2503849067.jpg",
         "id": "27040737",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "a5a29e",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2507984247.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2507984247.jpg",
         "id": "26784898",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "a59683",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2515706733.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515706733.jpg",
         "id": "27108740",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "726863",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2514406992.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2514406992.jpg",
         "id": "26992114",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "6372a5",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2511323383.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2511323383.jpg",
         "id": "27102505",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "514572",
           "secondary_color": "f6f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2511434383.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2511434383.jpg",
         "id": "26742730",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "a58f85",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2515437624.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515437624.jpg",
         "id": "26972275",
         "interest": {},
         "is_released": true,

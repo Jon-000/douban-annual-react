@@ -9,9 +9,9 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3434.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3434.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3815.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3815.jpg",
       "subject_id": "27622447",
       "text": "子女是没法选择父母的，所以自己选择的羁绊更牢靠吧。"
     },
@@ -33,7 +33,7 @@
         "primary_color_light": "a59e91",
         "secondary_color": "f9f8f4"
       },
-      "cover": "/fakeApi/assets/images/p2530599636.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2530599636.jpg",
       "directors": [
         "是枝裕和 Hirokazu Koreeda"
       ],

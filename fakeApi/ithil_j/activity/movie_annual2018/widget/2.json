@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(67, 57, 94, .8)",
-      "background_img": "/fakeApi/assets/images/p3765.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3765.jpg",
       "description": "斯皮尔伯格把他对电影的梦想、热心、爱与情怀，浓缩到这部片子，通过极具年代感的经典电影和角色，又并茂高科技的现代游戏闯关，他拿手的、专注的、想诉说的都在这里给影迷情倾盆呈现。",
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3809.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3809.jpg",
       "show_divider": "off",
       "subject_ids": "4920389, 26611804, 27622447, 26787574, 27072795, 27615441, 26654498, 26683421, 26336252, 26990609",
       "title": "2018评分最高的外语电影",
@@ -38,7 +38,7 @@
         "primary_color_light": "948aa5",
         "secondary_color": "f6f4f9"
       },
-      "cover": "/fakeApi/assets/images/p2516578307.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2516578307.jpg",
       "directors": [
         "史蒂文·斯皮尔伯格 Steven Spielberg"
       ],
@@ -79,7 +79,7 @@
           "primary_color_light": "948aa5",
           "secondary_color": "f6f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2516578307.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2516578307.jpg",
         "id": "4920389",
         "interest": {},
         "is_released": true,
@@ -116,7 +116,7 @@
           "primary_color_light": "6f6672",
           "secondary_color": "f8f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2510081688.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2510081688.jpg",
         "id": "26611804",
         "interest": {},
         "is_released": true,
@@ -153,7 +153,7 @@
           "primary_color_light": "a59e91",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2530599636.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2530599636.jpg",
         "id": "27622447",
         "interest": {},
         "is_released": true,
@@ -190,7 +190,7 @@
           "primary_color_light": "a59778",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2507709428.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2507709428.jpg",
         "id": "26787574",
         "interest": {},
         "is_released": true,
@@ -227,7 +227,7 @@
           "primary_color_light": "84a59e",
           "secondary_color": "f4f9f8"
         },
-        "cover": "/fakeApi/assets/images/p2521583093.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2521583093.jpg",
         "id": "27072795",
         "interest": {},
         "is_released": true,
@@ -264,7 +264,7 @@
           "primary_color_light": "204072",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2542848758.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2542848758.jpg",
         "id": "27615441",
         "interest": {},
         "is_released": true,
@@ -301,7 +301,7 @@
           "primary_color_light": "563ca5",
           "secondary_color": "f6f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2523592367.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2523592367.jpg",
         "id": "26654498",
         "interest": {},
         "is_released": true,
@@ -338,7 +338,7 @@
           "primary_color_light": "72665b",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2528281606.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2528281606.jpg",
         "id": "26683421",
         "interest": {},
         "is_released": true,
@@ -375,7 +375,7 @@
           "primary_color_light": "824aa5",
           "secondary_color": "f7f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2529365085.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2529365085.jpg",
         "id": "26336252",
         "interest": {},
         "is_released": true,
@@ -412,7 +412,7 @@
           "primary_color_light": "727272",
           "secondary_color": "f9f4f4"
         },
-        "cover": "/fakeApi/assets/images/p2505577378.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2505577378.jpg",
         "id": "26990609",
         "interest": {},
         "is_released": true,

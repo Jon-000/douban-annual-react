@@ -9,9 +9,9 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3630.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3630.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3802.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3802.jpg",
       "subject_id": "20438964",
       "text": "上网第一条原则，不要看评论！"
     },
@@ -33,7 +33,7 @@
         "primary_color_light": "224fa5",
         "secondary_color": "f4f6f9"
       },
-      "cover": "/fakeApi/assets/images/p2537667301.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2537667301.jpg",
       "directors": [
         "菲尔·约翰斯顿 Phil Johnston",
         "瑞奇·摩尔 Rich Moore"

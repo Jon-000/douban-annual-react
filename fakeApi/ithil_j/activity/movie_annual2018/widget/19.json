@@ -9,8 +9,8 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3786.jpg",
-      "mobile_background_img": "/fakeApi/assets/images/p3893.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3786.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3893.jpg",
       "subject_id": "26683723",
       "text": "后来的我们什么都有了，却没有了我们。"
     },
@@ -32,7 +32,7 @@
         "primary_color_light": "939ba5",
         "secondary_color": "f4f7f9"
       },
-      "cover": "/fakeApi/assets/images/p2519994468.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2519994468.jpg",
       "directors": [
         "刘若英 René Liu"
       ],

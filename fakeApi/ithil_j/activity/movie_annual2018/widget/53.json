@@ -9,11 +9,11 @@
     "kind_str": "top10",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3782.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3782.jpg",
       "description": "浪漫得一塌糊涂，像废墟中开出的花，像牵手散步的下午，像世上所有伟大的爱情。",
       "has_barrage": "on",
       "left": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3803.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3803.jpg",
       "show_divider": "off",
       "subject_ids": "2131459, 1485260, 2209573, 1851857, 2149806, 1783457, 2268359, 2213597, 3313801, 1432146",
       "title": "2018上映10周年的电影",
@@ -37,7 +37,7 @@
         "primary_color_light": "175ba5",
         "secondary_color": "f4f7f9"
       },
-      "cover": "/fakeApi/assets/images/p1461851991.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p1461851991.jpg",
       "directors": [
         "安德鲁·斯坦顿 Andrew Stanton"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "175ba5",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p1461851991.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1461851991.jpg",
         "id": "2131459",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "724833",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2192535722.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2192535722.jpg",
         "id": "1485260",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "725142",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2434249040.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2434249040.jpg",
         "id": "2209573",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "244d72",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p462657443.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p462657443.jpg",
         "id": "1851857",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "a5868a",
           "secondary_color": "f9f4f5"
         },
-        "cover": "/fakeApi/assets/images/p594972928.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p594972928.jpg",
         "id": "2149806",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "a54d2f",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p1597238857.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1597238857.jpg",
         "id": "1783457",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "725b52",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p1869729517.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1869729517.jpg",
         "id": "2268359",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "a59b93",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p1140984198.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1140984198.jpg",
         "id": "2213597",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "98a3a5",
           "secondary_color": "f4f8f9"
         },
-        "cover": "/fakeApi/assets/images/p484918648.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p484918648.jpg",
         "id": "3313801",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "72553f",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p725871004.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p725871004.jpg",
         "id": "1432146",
         "interest": {},
         "is_released": true,

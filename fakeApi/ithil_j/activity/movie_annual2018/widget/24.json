@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(97, 102, 77, .9)",
-      "background_img": "/fakeApi/assets/images/p3763.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3763.jpg",
       "description": "活得越久越能明白，人生是循序渐进，不紧不慢的过程。孜孜不倦地去活，自然会结出丰硕的果。",
       "has_barrage": "on",
       "left": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3804.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3804.jpg",
       "subject_ids": "26874505, 30163799, 30263943, 26984189, 30268753, 30167539, 27615467, 30234901, 27012433, 26720946",
       "title": "2018评分最高的纪录片",
       "user_id": "yanluohan"
@@ -37,7 +37,7 @@
         "primary_color_light": "a2a599",
         "secondary_color": "f8f9f4"
       },
-      "cover": "/fakeApi/assets/images/p2511465254.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2511465254.jpg",
       "directors": [
         "伏原健之 Kenshi Fushihara"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "a2a599",
           "secondary_color": "f8f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2511465254.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2511465254.jpg",
         "id": "26874505",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "3e5c72",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2518762440.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518762440.jpg",
         "id": "30163799",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "725f61",
           "secondary_color": "f9f4f5"
         },
-        "cover": "/fakeApi/assets/images/p2528968925.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2528968925.jpg",
         "id": "30263943",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "507252",
           "secondary_color": "f4f9f5"
         },
-        "cover": "/fakeApi/assets/images/p2503432084.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2503432084.jpg",
         "id": "26984189",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "a4a3a5",
           "secondary_color": "f6f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2527470128.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2527470128.jpg",
         "id": "30268753",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "6280a5",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2529106451.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2529106451.jpg",
         "id": "30167539",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "72706b",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2511664915.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2511664915.jpg",
         "id": "27615467",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "a58590",
           "secondary_color": "f9f4f6"
         },
-        "cover": "/fakeApi/assets/images/p2529130167.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2529130167.jpg",
         "id": "30234901",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "727272",
           "secondary_color": "f9f4f4"
         },
-        "cover": "/fakeApi/assets/images/p2515332442.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515332442.jpg",
         "id": "27012433",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "426e72",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2378019440.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2378019440.jpg",
         "id": "26720946",
         "interest": {},
         "is_released": true,

@@ -9,9 +9,9 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3767.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3767.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3768.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3768.jpg",
       "subject_id": "27059130",
       "text": "我想虽然现在是太空时代，人们早就可以坐太空船去月球，但永远无法探索别人内心的宇宙。"
     },
@@ -33,7 +33,7 @@
         "primary_color_light": "a54522",
         "secondary_color": "f9f6f4"
       },
-      "cover": "/fakeApi/assets/images/p2505928032.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2505928032.jpg",
       "directors": [
         "黄信尧 Hsin-yao Huang"
       ],

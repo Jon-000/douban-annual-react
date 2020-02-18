@@ -10,14 +10,14 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(58, 44, 81, .9)",
-      "background_img": "/fakeApi/assets/images/p3590.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3590.jpg",
       "description": "这部难道不叫复活者联盟？",
       "extra": {
         "showCover": "off"
       },
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3795.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3795.jpg",
       "subject_ids": "26100958, 26213252, 26667010, 1652592, 26835471, 27089612, 26931786, 26884354, 27087724, 6981153\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
       "title": "2019最值得期待的外语电影 ",
       "user_id": "40261761"
@@ -40,7 +40,7 @@
         "primary_color_light": "542472",
         "secondary_color": "f7f4f9"
       },
-      "cover": "/fakeApi/assets/images/p2550789013.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2550789013.jpg",
       "directors": [
         "安东尼·罗素 Anthony Russo",
         "乔·罗素 Joe Russo"
@@ -83,7 +83,7 @@
           "primary_color_light": "542472",
           "secondary_color": "f7f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2550789013.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2550789013.jpg",
         "id": "26100958",
         "interest": {},
         "is_released": false,
@@ -121,7 +121,7 @@
           "primary_color_light": "722a54",
           "secondary_color": "f9f4f7"
         },
-        "cover": "/fakeApi/assets/images/p2548870813.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2548870813.jpg",
         "id": "26213252",
         "interest": {},
         "is_released": true,
@@ -158,7 +158,7 @@
           "primary_color_light": "723b5a",
           "secondary_color": "f9f4f7"
         },
-        "cover": "/fakeApi/assets/images/p2549306702.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2549306702.jpg",
         "id": "26667010",
         "interest": {},
         "is_released": false,
@@ -196,7 +196,7 @@
           "primary_color_light": "4976a5",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2544987866.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2544987866.jpg",
         "id": "1652592",
         "interest": {},
         "is_released": true,
@@ -233,7 +233,7 @@
           "primary_color_light": "5e5672",
           "secondary_color": "f6f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2539729395.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2539729395.jpg",
         "id": "26835471",
         "interest": {},
         "is_released": false,
@@ -271,7 +271,7 @@
           "primary_color_light": "725951",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2532379702.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2532379702.jpg",
         "id": "27089612",
         "interest": {},
         "is_released": false,
@@ -309,7 +309,7 @@
           "primary_color_light": "a52e34",
           "secondary_color": "f9f4f5"
         },
-        "cover": "/fakeApi/assets/images/p2545521425.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2545521425.jpg",
         "id": "26931786",
         "interest": {},
         "is_released": false,
@@ -347,7 +347,7 @@
           "primary_color_light": "a52316",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2549135719.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2549135719.jpg",
         "id": "26884354",
         "interest": {},
         "is_released": false,
@@ -385,7 +385,7 @@
           "primary_color_light": "a5a4a5",
           "secondary_color": "f7f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2541065079.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2541065079.jpg",
         "id": "27087724",
         "interest": {},
         "is_released": false,
@@ -423,7 +423,7 @@
           "primary_color_light": "726a55",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2511418514.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2511418514.jpg",
         "id": "6981153",
         "interest": {},
         "is_released": false,

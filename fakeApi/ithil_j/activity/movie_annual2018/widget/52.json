@@ -9,9 +9,9 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3492.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3492.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3613.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3613.jpg",
       "subject_id": "26752088",
       "text": "世界上只有一种病， 穷病。"
     },
@@ -33,7 +33,7 @@
         "primary_color_light": "723f32",
         "secondary_color": "f9f5f4"
       },
-      "cover": "/fakeApi/assets/images/p2519070834.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2519070834.jpg",
       "directors": [
         "文牧野 Muye Wen"
       ],

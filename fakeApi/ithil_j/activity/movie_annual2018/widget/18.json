@@ -10,10 +10,10 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(73, 61, 102, .85)",
-      "background_img": "/fakeApi/assets/images/p3751.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3751.jpg",
       "description": "永远年轻，永远热泪盈眶，并不是钢铁摇滚直男的专利。",
       "has_barrage": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3752.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3752.jpg",
       "subject_ids": "26654498, 27018285, 26781703, 26951692, 3036465, 26965165, 6874741, 26972258, 26809592, 26752852",
       "title": "2018评分最高的爱情片",
       "user_id": "pigbigleg"
@@ -36,7 +36,7 @@
         "primary_color_light": "563ca5",
         "secondary_color": "f6f4f9"
       },
-      "cover": "/fakeApi/assets/images/p2523592367.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2523592367.jpg",
       "directors": [
         "格里格·伯兰蒂 Greg Berlanti"
       ],
@@ -77,7 +77,7 @@
           "primary_color_light": "563ca5",
           "secondary_color": "f6f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2523592367.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2523592367.jpg",
         "id": "26654498",
         "interest": {},
         "is_released": true,
@@ -114,7 +114,7 @@
           "primary_color_light": "a58f8c",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2515516851.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515516851.jpg",
         "id": "27018285",
         "interest": {},
         "is_released": true,
@@ -151,7 +151,7 @@
           "primary_color_light": "7da1a5",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2510209986.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2510209986.jpg",
         "id": "26781703",
         "interest": {},
         "is_released": true,
@@ -188,7 +188,7 @@
           "primary_color_light": "a58868",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2522862293.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2522862293.jpg",
         "id": "26951692",
         "interest": {},
         "is_released": true,
@@ -225,7 +225,7 @@
           "primary_color_light": "96a5a0",
           "secondary_color": "f4f9f8"
         },
-        "cover": "/fakeApi/assets/images/p2513341534.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2513341534.jpg",
         "id": "3036465",
         "interest": {},
         "is_released": true,
@@ -262,7 +262,7 @@
           "primary_color_light": "725021",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2502244869.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2502244869.jpg",
         "id": "26965165",
         "interest": {},
         "is_released": true,
@@ -299,7 +299,7 @@
           "primary_color_light": "724a22",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2507572275.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2507572275.jpg",
         "id": "6874741",
         "interest": {},
         "is_released": true,
@@ -336,7 +336,7 @@
           "primary_color_light": "5e7266",
           "secondary_color": "f4f9f6"
         },
-        "cover": "/fakeApi/assets/images/p2533283770.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2533283770.jpg",
         "id": "26972258",
         "interest": {},
         "is_released": true,
@@ -373,7 +373,7 @@
           "primary_color_light": "72726c",
           "secondary_color": "f9f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2506487968.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2506487968.jpg",
         "id": "26809592",
         "interest": {},
         "is_released": true,
@@ -410,7 +410,7 @@
           "primary_color_light": "165172",
           "secondary_color": "f4f8f9"
         },
-        "cover": "/fakeApi/assets/images/p2515650989.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515650989.jpg",
         "id": "26752852",
         "interest": {},
         "is_released": true,

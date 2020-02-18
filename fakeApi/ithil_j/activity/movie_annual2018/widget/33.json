@@ -10,10 +10,10 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(145, 144, 125, .8)",
-      "background_img": "/fakeApi/assets/images/p3775.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3775.jpg",
       "description": "这才叫职场剧，大家一心一意专注工作，顺便穿插人际关系与暗生情愫，这才叫大女主剧，女主靠自己的能力与专业折服他人，而不是一堆老中青帅哥围着女主转，各种给女主开挂",
       "has_barrage": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3776.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3776.jpg",
       "subject_ids": "27140017, 30183785, 30232260, 27065652, 30156023, 27605548, 30271241, 27192250, 30203507, 30290917",
       "title": "2018评分最高的日剧",
       "user_id": "koiwai0908"
@@ -36,7 +36,7 @@
         "primary_color_light": "a5a194",
         "secondary_color": "f9f8f4"
       },
-      "cover": "/fakeApi/assets/images/p2510604929.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2510604929.jpg",
       "directors": [
         "冢原亚由子 Ayuko Tsukahara",
         "竹村谦太郎 Kentaro Takemura",
@@ -79,7 +79,7 @@
           "primary_color_light": "a5a194",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2510604929.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2510604929.jpg",
         "id": "27140017",
         "interest": {},
         "is_released": true,
@@ -116,7 +116,7 @@
           "primary_color_light": "a58c83",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2543113206.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2543113206.jpg",
         "id": "30183785",
         "interest": {},
         "is_released": true,
@@ -153,7 +153,7 @@
           "primary_color_light": "72645c",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2529175001.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2529175001.jpg",
         "id": "30232260",
         "interest": {},
         "is_released": true,
@@ -190,7 +190,7 @@
           "primary_color_light": "344972",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2516911346.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2516911346.jpg",
         "id": "27065652",
         "interest": {},
         "is_released": true,
@@ -227,7 +227,7 @@
           "primary_color_light": "4a5272",
           "secondary_color": "f4f5f9"
         },
-        "cover": "/fakeApi/assets/images/p2518060958.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518060958.jpg",
         "id": "30156023",
         "interest": {},
         "is_released": true,
@@ -264,7 +264,7 @@
           "primary_color_light": "721435",
           "secondary_color": "f9f4f6"
         },
-        "cover": "/fakeApi/assets/images/p2518837167.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518837167.jpg",
         "id": "27605548",
         "interest": {},
         "is_released": true,
@@ -301,7 +301,7 @@
           "primary_color_light": "726047",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2530451877.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2530451877.jpg",
         "id": "30271241",
         "interest": {},
         "is_released": true,
@@ -338,7 +338,7 @@
           "primary_color_light": "a50d46",
           "secondary_color": "f9f4f6"
         },
-        "cover": "/fakeApi/assets/images/p2507992198.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2507992198.jpg",
         "id": "27192250",
         "interest": {},
         "is_released": true,
@@ -375,7 +375,7 @@
           "primary_color_light": "344a72",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2533771593.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2533771593.jpg",
         "id": "30203507",
         "interest": {},
         "is_released": true,
@@ -412,7 +412,7 @@
           "primary_color_light": "72523b",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2537556934.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2537556934.jpg",
         "id": "30290917",
         "interest": {},
         "is_released": true,

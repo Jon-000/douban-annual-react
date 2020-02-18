@@ -9,9 +9,9 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3517.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3517.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3518.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3518.jpg",
       "subject_id": "26990609",
       "text": "捍卫新闻出版自由的唯一方法，就是出版。"
     },
@@ -33,7 +33,7 @@
         "primary_color_light": "727272",
         "secondary_color": "f9f4f4"
       },
-      "cover": "/fakeApi/assets/images/p2505577378.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2505577378.jpg",
       "directors": [
         "史蒂文·斯皮尔伯格 Steven Spielberg"
       ],

@@ -9,9 +9,9 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3817.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3817.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3818.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3818.jpg",
       "subject_id": "6390825",
       "text": "智者将建立桥梁，而愚者则建立高墙。"
     },
@@ -33,7 +33,7 @@
         "primary_color_light": "717266",
         "secondary_color": "f9f9f4"
       },
-      "cover": "/fakeApi/assets/images/p2512123434.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2512123434.jpg",
       "directors": [
         "瑞恩·库格勒 Ryan Coogler"
       ],
