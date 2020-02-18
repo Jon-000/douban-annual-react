@@ -128,7 +128,7 @@ height: 180px;
 `
 
 const StyledTop29Card = styled(Top29Card)`
-margin-left: 2.2rem;
+margin-left: 22px;
   &:first-of-type {
     margin-left: 0;
   }

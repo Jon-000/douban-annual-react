@@ -53,6 +53,18 @@ const App = (props) => {
       })
   }
 
+  const [innerWidth, setInnerWidth] = useState(window.innerWidth)
+
+  useEffect(() => {
+    const updateWindowDimensions = () => {
+      setInnerWidth(window.innerWidth)
+    }
+    window.addEventListener('resize', updateWindowDimensions);
+    return () => {
+      window.removeEventListener('resize', updateWindowDimensions);   
+    }
+  })
+
   return (
     // <AppContext.Provider value={{ state, dispatch }} >
 
@@ -60,7 +72,7 @@ const App = (props) => {
         {
           isHeaderDataLoaded ? (
             <Header
-              // innerWidth={this.state.innerWidth}
+              innerWidth={innerWidth}
               height="40px"
               menu_infos={menuItems}
               bgAudioList={bgAudioList}
@@ -70,7 +82,9 @@ const App = (props) => {
           ) : null
         }
 
-        <Pages menuItems={menuItems}></Pages>
+        <Pages 
+          innerWidth={innerWidth}
+          menuItems={menuItems}></Pages>
 
       </Container>
     // </AppContext.Provider>

@@ -4,7 +4,7 @@ import styled from '@emotion/styled';
 import './Header.scss';
 import menuIcon from './menu_icon.svg';
 import BgAudio from '../bgAudio/BgAudio';
-import LineDivider from '../../common/LineDivider/LineDivider';
+import LineDivider from '../common/LineDivider/LineDivider';
 
 let _numOfHeaderRun = 1
 const Header = React.memo(
@@ -121,6 +121,7 @@ function Loading(props) {
 export default Header;
 
 const HeaderContianer = styled.div`
+font-size: 1.3rem;
 width: 100%;
 height: ${props => props.height || "40px"};
 position: fixed;

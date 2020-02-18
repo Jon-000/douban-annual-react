@@ -2,7 +2,7 @@
 import React, { useRef } from 'react';
 import { MovieCover, StyledPlayIcon } from './Top1Card';
 import TopLeftNum from './TopLeftNum';
-import { EllipsisText } from "../../../common/Ellipsis/Ellipsis";
+import { EllipsisText } from "../../common/Ellipsis/Ellipsis";
 
 export default function Top29Card(props) {
   const {
