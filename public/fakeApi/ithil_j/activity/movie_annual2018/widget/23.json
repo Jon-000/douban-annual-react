@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(156, 119, 90, .8)",
-      "background_img": "/fakeApi/assets/images/p3761.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3761.jpg",
       "description": "韦斯·安德森对日本文化的熟稔程度令人咋舌，影片的视听语言更在无比闪耀的配乐下推向极致。这不是一篇关乎人与动物情感的小阙，而更像是一幅探索心脏瓣膜究竟有多纤薄，如何揉碎在触碰间的诗篇。",
       "has_barrage": "on",
       "left": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3762.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3762.jpg",
       "subject_ids": "26640371, 20438964, 26346327, 27042405, 26359235, 25849049, 26944582, 26649604, 25846857, 26954003",
       "title": "2018评分最高的动画片",
       "user_id": "1591741"
@@ -37,7 +37,7 @@
         "primary_color_light": "a57b5b",
         "secondary_color": "f9f7f4"
       },
-      "cover": "/fakeApi/assets/images/p2518856022.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2518856022.jpg",
       "directors": [
         "韦斯·安德森 Wes Anderson"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "a57b5b",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2518856022.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518856022.jpg",
         "id": "26640371",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "224fa5",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2537667301.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2537667301.jpg",
         "id": "20438964",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "72696c",
           "secondary_color": "f9f4f6"
         },
-        "cover": "/fakeApi/assets/images/p2544510784.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2544510784.jpg",
         "id": "26346327",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "a59f93",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2515632084.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515632084.jpg",
         "id": "27042405",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "9396a5",
           "secondary_color": "f4f5f9"
         },
-        "cover": "/fakeApi/assets/images/p2523016274.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2523016274.jpg",
         "id": "26359235",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "a52315",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2522880251.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2522880251.jpg",
         "id": "25849049",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "214ca5",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2535550507.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2535550507.jpg",
         "id": "26944582",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "8aa55f",
           "secondary_color": "f7f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2515434674.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515434674.jpg",
         "id": "26649604",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "a51814",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2510825300.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2510825300.jpg",
         "id": "25846857",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "5f6472",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2508258043.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2508258043.jpg",
         "id": "26954003",
         "interest": {},
         "is_released": true,

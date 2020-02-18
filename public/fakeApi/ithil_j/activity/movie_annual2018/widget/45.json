@@ -9,9 +9,9 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3355.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3355.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3800.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3800.jpg",
       "subject_id": "27113517",
       "text": "世上最可怕不是眼前的刑罚，而是那无爱的未来。"
     },
@@ -33,7 +33,7 @@
         "primary_color_light": "627243",
         "secondary_color": "f8f9f4"
       },
-      "cover": "/fakeApi/assets/images/p2518132366.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2518132366.jpg",
       "directors": [
         "杨雅喆 Ya-che Yang"
       ],

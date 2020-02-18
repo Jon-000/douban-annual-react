@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(140, 148, 148, .8)",
-      "background_img": "/fakeApi/assets/images/p3633.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3633.jpg",
       "description": "喜欢这种时代大发展，大变革期间的故事。普通人在时代洪流的夹裹中改变命运，有种催人奋进的力量。精良认真的制作，演员精湛的演技很好的还原了时代风貌。",
       "has_barrage": "on",
       "left": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3679.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3679.jpg",
       "show_divider": "on",
       "show_divider_txt": "剧集/综艺",
       "subject_ids": "26797690, 26761328, 27041389, 26828285, 26920281, 27119802, 27083735, 27029233, 27005229, 25812730",
@@ -39,7 +39,7 @@
         "primary_color_light": "9aa0a5",
         "secondary_color": "f4f7f9"
       },
-      "cover": "/fakeApi/assets/images/p2541093820.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2541093820.jpg",
       "directors": [
         "孔笙 Sheng Kong",
         "黄伟 Wai Wong"
@@ -81,7 +81,7 @@
           "primary_color_light": "9aa0a5",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2541093820.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2541093820.jpg",
         "id": "26797690",
         "interest": {},
         "is_released": true,
@@ -118,7 +118,7 @@
           "primary_color_light": "72532c",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2530496815.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2530496815.jpg",
         "id": "26761328",
         "interest": {},
         "is_released": true,
@@ -155,7 +155,7 @@
           "primary_color_light": "a198a5",
           "secondary_color": "f8f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2519897011.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2519897011.jpg",
         "id": "27041389",
         "interest": {},
         "is_released": true,
@@ -192,7 +192,7 @@
           "primary_color_light": "725f56",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2509782433.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2509782433.jpg",
         "id": "26828285",
         "interest": {},
         "is_released": true,
@@ -229,7 +229,7 @@
           "primary_color_light": "a599a1",
           "secondary_color": "f9f4f8"
         },
-        "cover": "/fakeApi/assets/images/p2529398939.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2529398939.jpg",
         "id": "26920281",
         "interest": {},
         "is_released": true,
@@ -266,7 +266,7 @@
           "primary_color_light": "72684b",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2533751482.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2533751482.jpg",
         "id": "27119802",
         "interest": {},
         "is_released": true,
@@ -303,7 +303,7 @@
           "primary_color_light": "1c5772",
           "secondary_color": "f4f8f9"
         },
-        "cover": "/fakeApi/assets/images/p2523431150.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2523431150.jpg",
         "id": "27083735",
         "interest": {},
         "is_released": true,
@@ -340,7 +340,7 @@
           "primary_color_light": "5d6a72",
           "secondary_color": "f4f8f9"
         },
-        "cover": "/fakeApi/assets/images/p2523333620.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2523333620.jpg",
         "id": "27029233",
         "interest": {},
         "is_released": true,
@@ -377,7 +377,7 @@
           "primary_color_light": "a59081",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2496175262.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2496175262.jpg",
         "id": "27005229",
         "interest": {},
         "is_released": true,
@@ -414,7 +414,7 @@
           "primary_color_light": "a53924",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2460165077.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2460165077.jpg",
         "id": "25812730",
         "interest": {},
         "is_released": true,

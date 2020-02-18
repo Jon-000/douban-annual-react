@@ -9,8 +9,8 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3376.jpg",
-      "mobile_background_img": "/fakeApi/assets/images/p3447.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3376.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3447.jpg",
       "subject_id": "30244576",
       "text": "如果连出门看星星都做不到，那么教她们追逐星辰还有什么意义？"
     },
@@ -32,7 +32,7 @@
         "primary_color_light": "727272",
         "secondary_color": "f9f4f4"
       },
-      "cover": "/fakeApi/assets/images/p2525545214.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2525545214.jpg",
       "directors": [
         "凡妮莎·卡斯威尔 Vanessa Caswill",
         "Rachna Suri",

@@ -9,9 +9,9 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3713.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3713.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3785.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3785.jpg",
       "subject_id": "4920389",
       "text": "谢谢你玩我的游戏。"
     },
@@ -33,7 +33,7 @@
         "primary_color_light": "948aa5",
         "secondary_color": "f6f4f9"
       },
-      "cover": "/fakeApi/assets/images/p2516578307.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2516578307.jpg",
       "directors": [
         "史蒂文·斯皮尔伯格 Steven Spielberg"
       ],

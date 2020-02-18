@@ -9,10 +9,10 @@
     "kind_str": "top10",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3728.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3728.jpg",
       "description": "剧情张力十足的冷战风格间谍战，不动神色、冷静克制却又招招致命，时代感的还原和剧情的严谨度都是《密探》之后的韩影最佳，而90年代初北京和平壤的美术设计都让人拍手叫绝。",
       "has_barrage": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3730.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3730.jpg",
       "subject_ids": "26683421, 27018285, 26863778, 26842702, 27017288, 11584016, 27621192, 26980827, 27003543, 26877492",
       "title": "2018评分最高的韩国电影",
       "user_id": "reave"
@@ -35,7 +35,7 @@
         "primary_color_light": "72665b",
         "secondary_color": "f9f7f4"
       },
-      "cover": "/fakeApi/assets/images/p2528281606.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2528281606.jpg",
       "directors": [
         "尹钟彬 Jong-bin Yoon"
       ],
@@ -76,7 +76,7 @@
           "primary_color_light": "72665b",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2528281606.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2528281606.jpg",
         "id": "26683421",
         "interest": {},
         "is_released": true,
@@ -113,7 +113,7 @@
           "primary_color_light": "a58f8c",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2515516851.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515516851.jpg",
         "id": "27018285",
         "interest": {},
         "is_released": true,
@@ -150,7 +150,7 @@
           "primary_color_light": "72544f",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2505050710.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2505050710.jpg",
         "id": "26863778",
         "interest": {},
         "is_released": true,
@@ -187,7 +187,7 @@
           "primary_color_light": "635672",
           "secondary_color": "f7f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2520095279.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2520095279.jpg",
         "id": "26842702",
         "interest": {},
         "is_released": true,
@@ -224,7 +224,7 @@
           "primary_color_light": "695e72",
           "secondary_color": "f7f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2513982852.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2513982852.jpg",
         "id": "27017288",
         "interest": {},
         "is_released": true,
@@ -261,7 +261,7 @@
           "primary_color_light": "6d7272",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2500130777.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2500130777.jpg",
         "id": "11584016",
         "interest": {},
         "is_released": true,
@@ -298,7 +298,7 @@
           "primary_color_light": "a5a090",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2510047589.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2510047589.jpg",
         "id": "27621192",
         "interest": {},
         "is_released": true,
@@ -335,7 +335,7 @@
           "primary_color_light": "716fa5",
           "secondary_color": "f5f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2508367896.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2508367896.jpg",
         "id": "26980827",
         "interest": {},
         "is_released": true,
@@ -372,7 +372,7 @@
           "primary_color_light": "625672",
           "secondary_color": "f7f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2527205786.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2527205786.jpg",
         "id": "27003543",
         "interest": {},
         "is_released": true,
@@ -409,7 +409,7 @@
           "primary_color_light": "725f52",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2512152196.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2512152196.jpg",
         "id": "26877492",
         "interest": {},
         "is_released": true,

@@ -9,11 +9,11 @@
     "kind_str": "top10",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3381.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3381.jpg",
       "description": "每次更新都是值得庆祝的节日。它已经变成我的信仰，融入我的生活。愈挫愈勇，策马扬鞭。",
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3410.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3410.jpg",
       "subject_ids": "27194302, 27077785, 26997533, 26961208, 27001001, 27055699, 27007669, 27036735, 26887174, 27016555",
       "title": "2018评分最高的英美剧(非新剧)",
       "user_id": "72719769"
@@ -36,7 +36,7 @@
         "primary_color_light": "a56366",
         "secondary_color": "f9f4f5"
       },
-      "cover": "/fakeApi/assets/images/p2529096681.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2529096681.jpg",
       "directors": [
         "马克·米罗 Mark Mylod",
         "伊恩·B·麦克唐纳 Iain B. MacDonald",
@@ -79,7 +79,7 @@
           "primary_color_light": "a56366",
           "secondary_color": "f9f4f5"
         },
-        "cover": "/fakeApi/assets/images/p2529096681.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2529096681.jpg",
         "id": "27194302",
         "interest": {},
         "is_released": true,
@@ -116,7 +116,7 @@
           "primary_color_light": "726e6a",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2526785183.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2526785183.jpg",
         "id": "27077785",
         "interest": {},
         "is_released": true,
@@ -153,7 +153,7 @@
           "primary_color_light": "721004",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2515458639.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515458639.jpg",
         "id": "26997533",
         "interest": {},
         "is_released": true,
@@ -190,7 +190,7 @@
           "primary_color_light": "a5834e",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2511066066.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2511066066.jpg",
         "id": "26961208",
         "interest": {},
         "is_released": true,
@@ -227,7 +227,7 @@
           "primary_color_light": "a5996b",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2535085957.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2535085957.jpg",
         "id": "27001001",
         "interest": {},
         "is_released": true,
@@ -264,7 +264,7 @@
           "primary_color_light": "f2edeb",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2518967240.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518967240.jpg",
         "id": "27055699",
         "interest": {},
         "is_released": true,
@@ -301,7 +301,7 @@
           "primary_color_light": "a57862",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2515774558.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515774558.jpg",
         "id": "27007669",
         "interest": {},
         "is_released": true,
@@ -338,7 +338,7 @@
           "primary_color_light": "724b48",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2520829721.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2520829721.jpg",
         "id": "27036735",
         "interest": {},
         "is_released": true,
@@ -375,7 +375,7 @@
           "primary_color_light": "a0a0a5",
           "secondary_color": "f4f5f9"
         },
-        "cover": "/fakeApi/assets/images/p2517077652.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2517077652.jpg",
         "id": "26887174",
         "interest": {},
         "is_released": true,
@@ -412,7 +412,7 @@
           "primary_color_light": "575c72",
           "secondary_color": "f4f5f9"
         },
-        "cover": "/fakeApi/assets/images/p2540377118.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2540377118.jpg",
         "id": "27016555",
         "interest": {},
         "is_released": true,

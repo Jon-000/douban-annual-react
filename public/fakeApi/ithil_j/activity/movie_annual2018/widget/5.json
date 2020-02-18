@@ -10,14 +10,14 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(121, 92, 78, .8)",
-      "background_img": "/fakeApi/assets/images/p3715.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3715.jpg",
       "description": "也曾经想成为看起来很酷的人，最后还是想做回自己。",
       "extra": {
         "showCover": "off"
       },
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3717.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3717.jpg",
       "subject_ids": "26588314, 26588308, 27113517, 27059130, 11584016, 26842702, 26654269, 26945085, 26654498, 26725678",
       "title": "2018最受关注的非院线电影",
       "user_id": "2762059"
@@ -40,7 +40,7 @@
         "primary_color_light": "a5a19e",
         "secondary_color": "f9f6f4"
       },
-      "cover": "/fakeApi/assets/images/p2505925363.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2505925363.jpg",
       "directors": [
         "格蕾塔·葛韦格 Greta Gerwig"
       ],
@@ -81,7 +81,7 @@
           "primary_color_light": "a5a19e",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2505925363.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2505925363.jpg",
         "id": "26588314",
         "interest": {},
         "is_released": true,
@@ -118,7 +118,7 @@
           "primary_color_light": "a59b8a",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2545479945.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2545479945.jpg",
         "id": "26588308",
         "interest": {},
         "is_released": true,
@@ -155,7 +155,7 @@
           "primary_color_light": "627243",
           "secondary_color": "f8f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2518132366.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518132366.jpg",
         "id": "27113517",
         "interest": {},
         "is_released": true,
@@ -192,7 +192,7 @@
           "primary_color_light": "a54522",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2505928032.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2505928032.jpg",
         "id": "27059130",
         "interest": {},
         "is_released": true,
@@ -229,7 +229,7 @@
           "primary_color_light": "6d7272",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2500130777.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2500130777.jpg",
         "id": "11584016",
         "interest": {},
         "is_released": true,
@@ -266,7 +266,7 @@
           "primary_color_light": "635672",
           "secondary_color": "f7f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2520095279.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2520095279.jpg",
         "id": "26842702",
         "interest": {},
         "is_released": true,
@@ -303,7 +303,7 @@
           "primary_color_light": "a50606",
           "secondary_color": "f9f4f4"
         },
-        "cover": "/fakeApi/assets/images/p2508259902.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2508259902.jpg",
         "id": "26654269",
         "interest": {},
         "is_released": true,
@@ -340,7 +340,7 @@
           "primary_color_light": "616672",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2513360824.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2513360824.jpg",
         "id": "26945085",
         "interest": {},
         "is_released": true,
@@ -377,7 +377,7 @@
           "primary_color_light": "563ca5",
           "secondary_color": "f6f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2523592367.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2523592367.jpg",
         "id": "26654498",
         "interest": {},
         "is_released": true,
@@ -414,7 +414,7 @@
           "primary_color_light": "215472",
           "secondary_color": "f4f8f9"
         },
-        "cover": "/fakeApi/assets/images/p2525020357.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2525020357.jpg",
         "id": "26725678",
         "interest": {},
         "is_released": true,

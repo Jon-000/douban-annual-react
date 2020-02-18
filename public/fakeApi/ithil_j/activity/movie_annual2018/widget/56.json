@@ -9,11 +9,11 @@
     "kind_str": "top10",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3508.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3508.jpg",
       "description": "个人最喜欢的一部阿加莎·克里斯蒂小说，电影改编得也非常成功。高潮迭起的三重浪，每死一个受害者都把悬疑推高一丈，最后以酣畅淋漓的集中推理一次性解开谜团，看得过瘾极了！",
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3509.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3509.jpg",
       "subject_ids": "1302100, 1296693, 1292403, 1299265, 1300916, 1498658, 1297268, 1299586, 1293232, 1308456",
       "title": "2018上映40周年的电影",
       "user_id": "3540441"
@@ -36,7 +36,7 @@
         "primary_color_light": "725c36",
         "secondary_color": "f9f8f4"
       },
-      "cover": "/fakeApi/assets/images/p2366278130.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2366278130.jpg",
       "directors": [
         "约翰·古勒米 John Guillermin"
       ],
@@ -77,7 +77,7 @@
           "primary_color_light": "725c36",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2366278130.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2366278130.jpg",
         "id": "1302100",
         "interest": {},
         "is_released": true,
@@ -114,7 +114,7 @@
           "primary_color_light": "a55448",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p1387691770.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1387691770.jpg",
         "id": "1296693",
         "interest": {},
         "is_released": true,
@@ -151,7 +151,7 @@
           "primary_color_light": "726767",
           "secondary_color": "f9f4f4"
         },
-        "cover": "/fakeApi/assets/images/p1611118474.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1611118474.jpg",
         "id": "1292403",
         "interest": {},
         "is_released": true,
@@ -188,7 +188,7 @@
           "primary_color_light": "a5a5a3",
           "secondary_color": "f9f9f4"
         },
-        "cover": "/fakeApi/assets/images/p750794965.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p750794965.jpg",
         "id": "1299265",
         "interest": {},
         "is_released": true,
@@ -225,7 +225,7 @@
           "primary_color_light": "726e64",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p726824081.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p726824081.jpg",
         "id": "1300916",
         "interest": {},
         "is_released": true,
@@ -262,7 +262,7 @@
           "primary_color_light": "725946",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p1748545302.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1748545302.jpg",
         "id": "1498658",
         "interest": {},
         "is_released": true,
@@ -299,7 +299,7 @@
           "primary_color_light": "a53d2a",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2034707962.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2034707962.jpg",
         "id": "1297268",
         "interest": {},
         "is_released": true,
@@ -336,7 +336,7 @@
           "primary_color_light": "724343",
           "secondary_color": "f9f4f4"
         },
-        "cover": "/fakeApi/assets/images/p2177127286.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2177127286.jpg",
         "id": "1299586",
         "interest": {},
         "is_released": true,
@@ -373,7 +373,7 @@
           "primary_color_light": "a58741",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p1612319404.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1612319404.jpg",
         "id": "1293232",
         "interest": {},
         "is_released": true,
@@ -410,7 +410,7 @@
           "primary_color_light": "725d2a",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p1213955155.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p1213955155.jpg",
         "id": "1308456",
         "interest": {},
         "is_released": true,

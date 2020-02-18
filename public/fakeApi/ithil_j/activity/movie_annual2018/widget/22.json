@@ -9,8 +9,8 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3759.jpg",
-      "mobile_background_img": "/fakeApi/assets/images/p3760.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3759.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3760.jpg",
       "subject_id": "26384741",
       "text": "几乎没有人会去自杀，但几乎所有人都在自我毁灭。"
     },
@@ -32,7 +32,7 @@
         "primary_color_light": "2b4172",
         "secondary_color": "f4f6f9"
       },
-      "cover": "/fakeApi/assets/images/p2516914607.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2516914607.jpg",
       "directors": [
         "亚历克斯·加兰 Alex Garland"
       ],

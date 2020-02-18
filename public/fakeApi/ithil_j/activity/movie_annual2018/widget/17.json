@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(80, 40, 23, .9)",
-      "background_img": "/fakeApi/assets/images/p3740.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3740.jpg",
       "description": "剧作标准朴素，具有一定批判性的同时也找到了尺度上的分寸，在伦理道德与社会制度的冲突之间传递人性之善，不仅对电影产业有益，也具备社会关怀的价值，当下环境太缺这种作品了。",
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3741.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3741.jpg",
       "subject_ids": "26752088, 27059130, 30234315, 26952704, 27110296, 25944886, 26588308, 30140571, 27050259, 26985127",
       "title": "2018评分最高的喜剧片",
       "user_id": "christopherlin"
@@ -37,7 +37,7 @@
         "primary_color_light": "723f32",
         "secondary_color": "f9f5f4"
       },
-      "cover": "/fakeApi/assets/images/p2519070834.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2519070834.jpg",
       "directors": [
         "文牧野 Muye Wen"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "723f32",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2519070834.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2519070834.jpg",
         "id": "26752088",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "a54522",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2505928032.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2505928032.jpg",
         "id": "27059130",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "a57b21",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2541824676.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2541824676.jpg",
         "id": "30234315",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "a53835",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2539127687.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2539127687.jpg",
         "id": "26952704",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "a58064",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2539661066.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2539661066.jpg",
         "id": "27110296",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "336f72",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2498866082.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2498866082.jpg",
         "id": "25944886",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "a59b8a",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2545479945.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2545479945.jpg",
         "id": "26588308",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "66a59d",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2535365481.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2535365481.jpg",
         "id": "30140571",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "487da5",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2528272481.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2528272481.jpg",
         "id": "27050259",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "7ea59a",
           "secondary_color": "f4f9f8"
         },
-        "cover": "/fakeApi/assets/images/p2529571873.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2529571873.jpg",
         "id": "26985127",
         "interest": {},
         "is_released": true,

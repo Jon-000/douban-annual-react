@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(128, 108, 77, .9)",
-      "background_img": "/fakeApi/assets/images/p3796.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3796.jpg",
       "description": "老白的微笑，能让人惆怅一年。这是什么样的魅力！这个男人在眼前一点点缓慢蜕变，你憎恨他，你又同情他，关键是你理解他，他心里的黑与绝望我们谁没有过，谁没想过。再见老白，你替我们悲剧，我们才能继续光明。再见老白，再见老白。",
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3805.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3805.jpg",
       "subject_ids": "2373195, 3060542, 3011225, 3268241, 2373267, 3254235, 3077948, 3184572, 3003093, 3193101",
       "title": "2018开播10周年的剧集",
       "user_id": "1182135"
@@ -37,7 +37,7 @@
         "primary_color_light": "a59f8e",
         "secondary_color": "f9f8f4"
       },
-      "cover": "/fakeApi/assets/images/p2153214457.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2153214457.jpg",
       "directors": [
         "亚当·伯恩斯坦 Adam Bernstein",
         "文斯·吉里根 Vince Gilligan",
@@ -83,7 +83,7 @@
           "primary_color_light": "a59f8e",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2153214457.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2153214457.jpg",
         "id": "2373195",
         "interest": {},
         "is_released": true,
@@ -120,7 +120,7 @@
           "primary_color_light": "9aa575",
           "secondary_color": "f8f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2361872922.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2361872922.jpg",
         "id": "3060542",
         "interest": {},
         "is_released": true,
@@ -157,7 +157,7 @@
           "primary_color_light": "a3a3a5",
           "secondary_color": "f4f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2204465583.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2204465583.jpg",
         "id": "3011225",
         "interest": {},
         "is_released": true,
@@ -194,7 +194,7 @@
           "primary_color_light": "334472",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2151642120.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2151642120.jpg",
         "id": "3268241",
         "interest": {},
         "is_released": true,
@@ -231,7 +231,7 @@
           "primary_color_light": "a5858a",
           "secondary_color": "f9f4f5"
         },
-        "cover": "/fakeApi/assets/images/p2176633972.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2176633972.jpg",
         "id": "2373267",
         "interest": {},
         "is_released": true,
@@ -268,7 +268,7 @@
           "primary_color_light": "726a5c",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2225680056.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2225680056.jpg",
         "id": "3254235",
         "interest": {},
         "is_released": true,
@@ -305,7 +305,7 @@
           "primary_color_light": "77a3a5",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2187867314.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2187867314.jpg",
         "id": "3077948",
         "interest": {},
         "is_released": true,
@@ -342,7 +342,7 @@
           "primary_color_light": "5875a5",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2169754831.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2169754831.jpg",
         "id": "3184572",
         "interest": {},
         "is_released": true,
@@ -379,7 +379,7 @@
           "primary_color_light": "a5a29e",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2215393901.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2215393901.jpg",
         "id": "3003093",
         "interest": {},
         "is_released": true,
@@ -416,7 +416,7 @@
           "primary_color_light": "a5a36f",
           "secondary_color": "f9f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2549416416.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2549416416.jpg",
         "id": "3193101",
         "interest": {},
         "is_released": true,

@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(51, 65, 59, .9)",
-      "background_img": "/fakeApi/assets/images/p3363.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3363.jpg",
       "description": "没有生硬突兀的大道理，空镜没有无病呻吟的字幕和旁白，大多数时间都只是向远方凝视着地球上的阳光、草木、云雾和生命，就像我看节目的时候一样。",
       "has_barrage": "on",
       "left": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3494.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3494.jpg",
       "subject_ids": "30304024, 30337114, 27180210, 30329046, 27199901, 30192003, 30253587, 30228909, 30290642, 30215848",
       "title": "2018评分最高的大陆网络综艺",
       "user_id": "whateverlmj"
@@ -37,7 +37,7 @@
         "primary_color_light": "6d725a",
         "secondary_color": "f8f9f4"
       },
-      "cover": "/fakeApi/assets/images/p2533929218.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2533929218.jpg",
       "directors": [
         "赵琦 Qi Zhao"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "6d725a",
           "secondary_color": "f8f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2533929218.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2533929218.jpg",
         "id": "30304024",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "722a1b",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2536542410.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2536542410.jpg",
         "id": "30337114",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "6532a5",
           "secondary_color": "f7f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2511866530.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2511866530.jpg",
         "id": "27180210",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "9ba59f",
           "secondary_color": "f4f9f7"
         },
-        "cover": "/fakeApi/assets/images/p2538816286.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2538816286.jpg",
         "id": "30329046",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "634272",
           "secondary_color": "f8f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2509502927.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2509502927.jpg",
         "id": "27199901",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "3044a5",
           "secondary_color": "f4f5f9"
         },
-        "cover": "/fakeApi/assets/images/p2518862854.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518862854.jpg",
         "id": "30192003",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "a5a083",
           "secondary_color": "f9f9f4"
         },
-        "cover": "/fakeApi/assets/images/p2527749695.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2527749695.jpg",
         "id": "30253587",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "4e60a5",
           "secondary_color": "f4f5f9"
         },
-        "cover": "/fakeApi/assets/images/p2534020405.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2534020405.jpg",
         "id": "30228909",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "a59e96",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2534713930.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2534713930.jpg",
         "id": "30290642",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "9f8aa5",
           "secondary_color": "f8f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2532685065.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2532685065.jpg",
         "id": "30215848",
         "interest": {},
         "is_released": true,

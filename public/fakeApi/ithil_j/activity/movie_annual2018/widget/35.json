@@ -9,8 +9,8 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3369.jpg",
-      "mobile_background_img": "/fakeApi/assets/images/p3405.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3369.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3405.jpg",
       "subject_id": "27140017",
       "text": "有工夫绝望的话，还不如吃点好吃的去睡觉呢。"
     },
@@ -32,7 +32,7 @@
         "primary_color_light": "a5a194",
         "secondary_color": "f9f8f4"
       },
-      "cover": "/fakeApi/assets/images/p2510604929.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2510604929.jpg",
       "directors": [
         "冢原亚由子 Ayuko Tsukahara",
         "竹村谦太郎 Kentaro Takemura",

@@ -9,10 +9,10 @@
     "kind_str": "top10",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3757.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3757.jpg",
       "description": "电影的形式不单只是噱头，更像是潜移默化的透露着社交网络和流媒体对我们生活造成无处不在利与弊。当我们跟着John Cho一路抽丝剥茧地看到真相，心里不禁寒蝉，原来我们和父母有时真的是这世上最熟悉的陌生人。",
       "has_barrage": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3758.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3758.jpg",
       "subject_ids": "27615441, 26725678, 26369884, 30201003, 26961821, 27621727, 26721644, 27012731, 27188152, 26997663",
       "title": "2018评分最高的恐怖/惊悚片",
       "user_id": "35790692"
@@ -35,7 +35,7 @@
         "primary_color_light": "204072",
         "secondary_color": "f4f6f9"
       },
-      "cover": "/fakeApi/assets/images/p2542848758.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2542848758.jpg",
       "directors": [
         "阿尼什·查甘蒂 Aneesh Chaganty"
       ],
@@ -76,7 +76,7 @@
           "primary_color_light": "204072",
           "secondary_color": "f4f6f9"
         },
-        "cover": "/fakeApi/assets/images/p2542848758.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2542848758.jpg",
         "id": "27615441",
         "interest": {},
         "is_released": true,
@@ -113,7 +113,7 @@
           "primary_color_light": "215472",
           "secondary_color": "f4f8f9"
         },
-        "cover": "/fakeApi/assets/images/p2525020357.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2525020357.jpg",
         "id": "26725678",
         "interest": {},
         "is_released": true,
@@ -150,7 +150,7 @@
           "primary_color_light": "726c66",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2543305779.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2543305779.jpg",
         "id": "26369884",
         "interest": {},
         "is_released": true,
@@ -187,7 +187,7 @@
           "primary_color_light": "725b52",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2533613106.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2533613106.jpg",
         "id": "30201003",
         "interest": {},
         "is_released": true,
@@ -224,7 +224,7 @@
           "primary_color_light": "724e32",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2456908524.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2456908524.jpg",
         "id": "26961821",
         "interest": {},
         "is_released": true,
@@ -261,7 +261,7 @@
           "primary_color_light": "647272",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2518865763.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518865763.jpg",
         "id": "27621727",
         "interest": {},
         "is_released": true,
@@ -298,7 +298,7 @@
           "primary_color_light": "566b72",
           "secondary_color": "f4f8f9"
         },
-        "cover": "/fakeApi/assets/images/p2513009586.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2513009586.jpg",
         "id": "26721644",
         "interest": {},
         "is_released": true,
@@ -335,7 +335,7 @@
           "primary_color_light": "72696b",
           "secondary_color": "f9f4f6"
         },
-        "cover": "/fakeApi/assets/images/p2514997577.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2514997577.jpg",
         "id": "27012731",
         "interest": {},
         "is_released": true,
@@ -372,7 +372,7 @@
           "primary_color_light": "727272",
           "secondary_color": "f9f4f4"
         },
-        "cover": "/fakeApi/assets/images/p2532529059.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2532529059.jpg",
         "id": "27188152",
         "interest": {},
         "is_released": true,
@@ -409,7 +409,7 @@
           "primary_color_light": "72150f",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2518852413.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2518852413.jpg",
         "id": "26997663",
         "interest": {},
         "is_released": true,

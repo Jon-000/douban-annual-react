@@ -81,7 +81,7 @@ const Header = React.memo(
                             <LineDivider text={i.show_divider_txt} />) : null
                         }
                         <div>
-                          <a href={`/#${index}`} onClick={() => handleItemClick(index)}>{i.title}</a>
+                          <a href={`#${index}`} onClick={() => handleItemClick(index)}>{i.title}</a>
                           {/* <a onClick={() => handleItemClick(index)}>{i.title}</a> */}
                         </div>
                       </li>

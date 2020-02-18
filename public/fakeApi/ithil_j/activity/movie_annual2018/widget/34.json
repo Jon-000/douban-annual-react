@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(149, 131, 99, .8)",
-      "background_img": "/fakeApi/assets/images/p3778.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3778.jpg",
       "description": "被这个世界欺负了，只要家人不知道，就能够假装拥有全世界；被家人背叛了，只求全世界不知道，就能够假装拥有家人。",
       "has_barrage": "on",
       "left": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3777.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3777.jpg",
       "subject_ids": "27602137, 27068596, 27622822, 27059183, 27603684, 27603700, 27592573, 30181455, 30269039, 30145638",
       "title": "2018评分最高的韩剧",
       "user_id": "139990953"
@@ -37,7 +37,7 @@
         "primary_color_light": "726247",
         "secondary_color": "f9f8f4"
       },
-      "cover": "/fakeApi/assets/images/p2520568437.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2520568437.jpg",
       "directors": [
         "金元锡 Won-seok Kim"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "726247",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2520568437.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2520568437.jpg",
         "id": "27602137",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "3c6ba5",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2515089349.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515089349.jpg",
         "id": "27068596",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "a5957c",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2521727980.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2521727980.jpg",
         "id": "27622822",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "a59487",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2529390244.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2529390244.jpg",
         "id": "27059183",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "6888a5",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2511460205.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2511460205.jpg",
         "id": "27603684",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "a57f5a",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2540984728.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2540984728.jpg",
         "id": "27603700",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "6d7272",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2527232718.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2527232718.jpg",
         "id": "27592573",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "3f4872",
           "secondary_color": "f4f5f9"
         },
-        "cover": "/fakeApi/assets/images/p2522763238.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2522763238.jpg",
         "id": "30181455",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "a56461",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2534573970.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2534573970.jpg",
         "id": "30269039",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "72230b",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2531860054.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2531860054.jpg",
         "id": "30145638",
         "interest": {},
         "is_released": true,

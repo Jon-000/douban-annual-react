@@ -10,11 +10,11 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(73, 61, 102, .85)",
-      "background_img": "/fakeApi/assets/images/p3735.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3735.jpg",
       "description": "可爱、风趣、感人，主流银幕上独一无二的出柜故事。它没有负面挣扎，也没有安利说教，而是带着气势如虹的青春气息，让男主的一封封信和旁白见证成长。",
       "has_barrage": "on",
       "left": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3736.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3736.jpg",
       "subject_ids": "26654498, 26781703, 26979199, 26870023, 30172472, 30159390, 26656655, 11524958, 28461121, 26929023",
       "title": "2018年度LGBT电影",
       "user_id": "3540441"
@@ -37,7 +37,7 @@
         "primary_color_light": "563ca5",
         "secondary_color": "f6f4f9"
       },
-      "cover": "/fakeApi/assets/images/p2523592367.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2523592367.jpg",
       "directors": [
         "格里格·伯兰蒂 Greg Berlanti"
       ],
@@ -78,7 +78,7 @@
           "primary_color_light": "563ca5",
           "secondary_color": "f6f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2523592367.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2523592367.jpg",
         "id": "26654498",
         "interest": {},
         "is_released": true,
@@ -115,7 +115,7 @@
           "primary_color_light": "7da1a5",
           "secondary_color": "f4f9f9"
         },
-        "cover": "/fakeApi/assets/images/p2510209986.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2510209986.jpg",
         "id": "26781703",
         "interest": {},
         "is_released": true,
@@ -152,7 +152,7 @@
           "primary_color_light": "a197a5",
           "secondary_color": "f8f4f9"
         },
-        "cover": "/fakeApi/assets/images/p2527725378.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2527725378.jpg",
         "id": "26979199",
         "interest": {},
         "is_released": true,
@@ -189,7 +189,7 @@
           "primary_color_light": "a5927f",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2512189868.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2512189868.jpg",
         "id": "26870023",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "725c4c",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2516560274.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2516560274.jpg",
         "id": "30172472",
         "interest": {},
         "is_released": true,
@@ -263,7 +263,7 @@
           "primary_color_light": "a5856f",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2515187596.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2515187596.jpg",
         "id": "30159390",
         "interest": {},
         "is_released": true,
@@ -300,7 +300,7 @@
           "primary_color_light": "722c27",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2425765403.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2425765403.jpg",
         "id": "26656655",
         "interest": {},
         "is_released": true,
@@ -337,7 +337,7 @@
           "primary_color_light": "636c72",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2510857223.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2510857223.jpg",
         "id": "11524958",
         "interest": {},
         "is_released": true,
@@ -374,7 +374,7 @@
           "primary_color_light": "a58897",
           "secondary_color": "f9f4f7"
         },
-        "cover": "/fakeApi/assets/images/p2512596311.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2512596311.jpg",
         "id": "28461121",
         "interest": {},
         "is_released": true,
@@ -411,7 +411,7 @@
           "primary_color_light": "725858",
           "secondary_color": "f9f4f4"
         },
-        "cover": "/fakeApi/assets/images/p2403100627.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2403100627.jpg",
         "id": "26929023",
         "interest": {},
         "is_released": true,

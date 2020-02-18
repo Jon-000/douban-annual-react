@@ -2,6 +2,7 @@
 const fs = require("fs");
 const path = require("path");
 
+const gh_pages_repository_name = 'douban-annual-react'
 
 // 遍历通过getPageJSon.js下载的68个json文件,更改每个json文件url
 // 0.json手动改过了所以不处理
@@ -13,6 +14,7 @@ for (let i=68; i>0; i--) {
   rs.on("data", (chunk) => {
     buf += chunk.toString(); // when data is read, stash it in a string buffer
   })
+  // eslint-disable-next-line no-loop-func
   rs.on("end", () => {
     let obj = JSON.parse(buf);
 
@@ -22,17 +24,17 @@ for (let i=68; i>0; i--) {
         break;
       case 1:
         // 更新
-        obj.res.payload.background_img = `/fakeApi/assets/images/${getFileName(obj.res.payload.background_img)}`
-        obj.res.payload.mobile_background_img = `/fakeApi/assets/images/${getFileName(obj.res.payload.mobile_background_img)}`
-        obj.res.subject.cover = `/fakeApi/assets/images/${getFileName(obj.res.subject.cover)}`
+        obj.res.payload.background_img = `/${gh_pages_repository_name}/fakeApi/assets/images/${getFileName(obj.res.payload.background_img)}`
+        obj.res.payload.mobile_background_img = `/${gh_pages_repository_name}/fakeApi/assets/images/${getFileName(obj.res.payload.mobile_background_img)}`
+        obj.res.subject.cover = `/${gh_pages_repository_name}/fakeApi/assets/images/${getFileName(obj.res.subject.cover)}`
         obj.res.subjects.forEach(subj => {
-          subj.cover = `/fakeApi/assets/images/${getFileName(subj.cover)}`
+          subj.cover = `/${gh_pages_repository_name}/fakeApi/assets/images/${getFileName(subj.cover)}`
         });
         break;
       case 2:
-        obj.res.payload.background_img = `/fakeApi/assets/images/${getFileName(obj.res.payload.background_img)}`
-        obj.res.payload.mobile_background_img = `/fakeApi/assets/images/${getFileName(obj.res.payload.mobile_background_img)}`
-        obj.res.subject.cover = `/fakeApi/assets/images/${getFileName(obj.res.subject.cover)}`
+        obj.res.payload.background_img = `/${gh_pages_repository_name}/fakeApi/assets/images/${getFileName(obj.res.payload.background_img)}`
+        obj.res.payload.mobile_background_img = `/${gh_pages_repository_name}/fakeApi/assets/images/${getFileName(obj.res.payload.mobile_background_img)}`
+        obj.res.subject.cover = `/${gh_pages_repository_name}/fakeApi/assets/images/${getFileName(obj.res.subject.cover)}`
         break;
     
       default:

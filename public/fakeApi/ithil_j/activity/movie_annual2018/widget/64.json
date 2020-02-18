@@ -10,10 +10,10 @@
     "page_id": 15,
     "payload": {
       "background_color": "rgba(140, 63, 49, .8)",
-      "background_img": "/fakeApi/assets/images/p3597.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3597.jpg",
       "description": "又见“耿浩”，天知道宁浩是有多中意这个名字。刘慈欣+宁浩+黄渤，我很不争气地期待了。",
       "has_barrage": "on",
-      "mobile_background_img": "/fakeApi/assets/images/p3674.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3674.jpg",
       "subject_ids": "25986662, 26266893, 26986120, 30163509, 26351864, 26757090, 4840388, 27135473, 26954859, 24743117",
       "title": "2019最值得期待的华语电影",
       "user_id": "67841629"
@@ -36,7 +36,7 @@
         "primary_color_light": "a52817",
         "secondary_color": "f9f5f4"
       },
-      "cover": "/fakeApi/assets/images/p2541901817.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2541901817.jpg",
       "directors": [
         "宁浩 Hao Ning"
       ],
@@ -77,7 +77,7 @@
           "primary_color_light": "a52817",
           "secondary_color": "f9f5f4"
         },
-        "cover": "/fakeApi/assets/images/p2541901817.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2541901817.jpg",
         "id": "25986662",
         "interest": {},
         "is_released": true,
@@ -114,7 +114,7 @@
           "primary_color_light": "8184a5",
           "secondary_color": "f4f5f9"
         },
-        "cover": "/fakeApi/assets/images/p2545472803.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2545472803.jpg",
         "id": "26266893",
         "interest": {},
         "is_released": true,
@@ -151,7 +151,7 @@
           "primary_color_light": "724025",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2436898546.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2436898546.jpg",
         "id": "26986120",
         "interest": {},
         "is_released": false,
@@ -189,7 +189,7 @@
           "primary_color_light": "a59791",
           "secondary_color": "f9f6f4"
         },
-        "cover": "/fakeApi/assets/images/p2542973862.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2542973862.jpg",
         "id": "30163509",
         "interest": {},
         "is_released": true,
@@ -226,7 +226,7 @@
           "primary_color_light": "727272",
           "secondary_color": "f9f4f4"
         },
-        "cover": "/fakeApi/assets/images/p2500366160.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2500366160.jpg",
         "id": "26351864",
         "interest": {},
         "is_released": false,
@@ -264,7 +264,7 @@
           "primary_color_light": "626972",
           "secondary_color": "f4f7f9"
         },
-        "cover": "/fakeApi/assets/images/p2497606170.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2497606170.jpg",
         "id": "26757090",
         "interest": {},
         "is_released": true,
@@ -301,7 +301,7 @@
           "primary_color_light": "a5a49e",
           "secondary_color": "f9f8f4"
         },
-        "cover": "/fakeApi/assets/images/p2541240741.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2541240741.jpg",
         "id": "4840388",
         "interest": {},
         "is_released": true,
@@ -338,7 +338,7 @@
           "primary_color_light": "a56c41",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2546828235.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2546828235.jpg",
         "id": "27135473",
         "interest": {},
         "is_released": true,
@@ -375,7 +375,7 @@
           "primary_color_light": "a59c90",
           "secondary_color": "f9f7f4"
         },
-        "cover": "/fakeApi/assets/images/p2514631510.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2514631510.jpg",
         "id": "26954859",
         "interest": {},
         "is_released": false,
@@ -413,7 +413,7 @@
           "primary_color_light": "2f3e72",
           "secondary_color": "f4f5f9"
         },
-        "cover": "/fakeApi/assets/images/p2436898494.jpg",
+        "cover": "/douban-annual-react/fakeApi/assets/images/p2436898494.jpg",
         "id": "24743117",
         "interest": {},
         "is_released": false,

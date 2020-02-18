@@ -9,9 +9,9 @@
     "kind_str": "dialogue",
     "page_id": 15,
     "payload": {
-      "background_img": "/fakeApi/assets/images/p3232.jpg",
+      "background_img": "/douban-annual-react/fakeApi/assets/images/p3232.jpg",
       "has_barrage": "off",
-      "mobile_background_img": "/fakeApi/assets/images/p3769.jpg",
+      "mobile_background_img": "/douban-annual-react/fakeApi/assets/images/p3769.jpg",
       "subject_id": "26894602",
       "text": "到那边去吧，那边风景更好。"
     },
@@ -33,7 +33,7 @@
         "primary_color_light": "72706b",
         "secondary_color": "f9f8f4"
       },
-      "cover": "/fakeApi/assets/images/p2526989708.jpg",
+      "cover": "/douban-annual-react/fakeApi/assets/images/p2526989708.jpg",
       "directors": [
         "保罗·帕夫利克夫斯基 Pawel Pawlikowski"
       ],
