@@ -1,0 +1,455 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 79,
+    "id": 873,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(175, 113, 73, .9)",
+      "background_img": "/fakeApi/assets/images/p3573.jpg",
+      "description": "我私心希望他没死，但也恳求，不要烂，不要败掉我对他们的好感。",
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3574.jpg",
+      "show_divider": "on",
+      "show_divider_txt": "期待",
+      "subject_ids": "27625457, 26584183, 27140256, 27008551, 26849758, 25853071, 26738112, 27119156, 26675617, 27166039",
+      "title": "2019最值得期待的剧集",
+      "user_id": "134059091"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.0634920634920635,
+          0.4516129032258064,
+          0.7294117647058823
+        ],
+        "_base_color": [
+          0.06957928802588996,
+          0.569060773480663,
+          0.7098039215686275
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f5536",
+        "primary_color_light": "a56e47",
+        "secondary_color": "f9f6f4"
+      },
+      "cover": "/fakeApi/assets/images/p2526763572.jpg",
+      "directors": [],
+      "id": "27625457",
+      "interest": {},
+      "is_released": false,
+      "m_url": "https://m.douban.com/movie/subject/27625457/",
+      "orig_title": "The End of the F***ing World",
+      "playable": false,
+      "rating": 0,
+      "rating_count": 0,
+      "rating_stats": [
+        0.006711409395973154,
+        0.010067114093959731,
+        0.06375838926174497,
+        0.24161073825503357,
+        0.6778523489932886
+      ],
+      "title": "去他*的世界 第二季",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27625457/",
+      "wish_count": 41656
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0634920634920635,
+            0.4516129032258064,
+            0.7294117647058823
+          ],
+          "_base_color": [
+            0.06957928802588996,
+            0.569060773480663,
+            0.7098039215686275
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f5536",
+          "primary_color_light": "a56e47",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2526763572.jpg",
+        "id": "27625457",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/27625457/",
+        "orig_title": "The End of the F***ing World",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.006711409395973154,
+          0.010067114093959731,
+          0.06375838926174497,
+          0.24161073825503357,
+          0.6778523489932886
+        ],
+        "title": "去他*的世界 第二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27625457/",
+        "wish_count": 41656
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5238095238095238,
+            0.16279069767441867,
+            0.16862745098039217
+          ],
+          "_base_color": [
+            0.5416666666666666,
+            0.2,
+            0.1568627450980392
+          ],
+          "is_dark": true,
+          "primary_color_dark": "3d484c",
+          "primary_color_light": "5b6d72",
+          "secondary_color": "f4f8f9"
+        },
+        "cover": "/fakeApi/assets/images/p2541425718.jpg",
+        "id": "26584183",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/26584183/",
+        "orig_title": "Game of Thrones",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.019206145966709345,
+          0.005121638924455826,
+          0.029449423815621,
+          0.09603072983354674,
+          0.8501920614596671
+        ],
+        "title": "权力的游戏 第八季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26584183/",
+        "wish_count": 103384
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.7000000000000001,
+            0.10638297872340433,
+            0.1843137254901961
+          ],
+          "_base_color": [
+            0.5952380952380952,
+            0.21875,
+            0.12549019607843137
+          ],
+          "is_dark": true,
+          "primary_color_dark": "3b424c",
+          "primary_color_light": "596472",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p2519969936.jpg",
+        "id": "27140256",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/27140256/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.006968641114982578,
+          0.006968641114982578,
+          0.020905923344947737,
+          0.12195121951219512,
+          0.8432055749128919
+        ],
+        "title": "白夜追凶2",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27140256/",
+        "wish_count": 25305
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9814814814814815,
+            0.04166666666666665,
+            0.8470588235294118
+          ],
+          "_base_color": [
+            0.9950980392156863,
+            0.68,
+            0.19607843137254902
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f282b",
+          "primary_color_light": "a53538",
+          "secondary_color": "f9f4f5"
+        },
+        "cover": "/fakeApi/assets/images/p2508007553.jpg",
+        "id": "27008551",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/27008551/",
+        "orig_title": "Mindhunter",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0,
+          0,
+          0.0967741935483871,
+          0.3225806451612903,
+          0.5806451612903226
+        ],
+        "title": "心灵猎人 第二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27008551/",
+        "wish_count": 13666
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08095238095238096,
+            0.5932203389830508,
+            0.23137254901960785
+          ],
+          "_base_color": [
+            0.06481481481481481,
+            0.6666666666666666,
+            0.10588235294117647
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c2d19",
+          "primary_color_light": "724426",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2502583969.jpg",
+        "id": "26849758",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/26849758/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.1276595744680851,
+          0.0425531914893617,
+          0.09219858156028368,
+          0.22695035460992907,
+          0.5106382978723404
+        ],
+        "title": "长安十二时辰",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26849758/",
+        "wish_count": 12845
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.3518518518518518,
+            0.06521739130434781,
+            0.5411764705882353
+          ],
+          "_base_color": [
+            0.287878787878788,
+            0.09090909090909083,
+            0.4745098039215686
+          ],
+          "is_dark": true,
+          "primary_color_dark": "777f73",
+          "primary_color_light": "9aa596",
+          "secondary_color": "f6f9f4"
+        },
+        "cover": "/fakeApi/assets/images/p2511676769.jpg",
+        "id": "25853071",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/25853071/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.18181818181818182,
+          0.09090909090909091,
+          0.07954545454545454,
+          0.11363636363636363,
+          0.5340909090909091
+        ],
+        "title": "庆余年",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/25853071/",
+        "wish_count": 10208
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.4583333333333333,
+            0.13333333333333333,
+            0.23529411764705882
+          ],
+          "_base_color": [
+            0.5666666666666668,
+            0.4545454545454546,
+            0.12941176470588237
+          ],
+          "is_dark": true,
+          "primary_color_dark": "293e4c",
+          "primary_color_light": "3e5d72",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p2516154368.jpg",
+        "id": "26738112",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/26738112/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.11764705882352941,
+          0.029411764705882353,
+          0.06862745098039216,
+          0.1568627450980392,
+          0.6274509803921569
+        ],
+        "title": "九州缥缈录",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26738112/",
+        "wish_count": 8449
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9880952380952381,
+            0.4117647058823529,
+            0.13333333333333333
+          ],
+          "_base_color": [
+            0.8888888888888888,
+            0.3333333333333333,
+            0.07058823529411765
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3344",
+          "primary_color_light": "724c66",
+          "secondary_color": "f9f4f8"
+        },
+        "cover": "/fakeApi/assets/images/p2544278925.jpg",
+        "id": "27119156",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/27119156/",
+        "orig_title": "Stranger Things",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.017543859649122806,
+          0,
+          0.08771929824561403,
+          0.21052631578947367,
+          0.6842105263157895
+        ],
+        "title": "怪奇物语 第三季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27119156/",
+        "wish_count": 7811
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.25,
+            0.23300970873786406,
+            0.403921568627451
+          ],
+          "_base_color": [
+            0.15646258503401353,
+            0.2378640776699029,
+            0.807843137254902
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4b3a",
+          "primary_color_light": "727157",
+          "secondary_color": "f9f9f4"
+        },
+        "cover": "/fakeApi/assets/images/p2499602397.jpg",
+        "id": "26675617",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26675617/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 6.8,
+        "rating_count": 35468,
+        "rating_stats": [
+          0.0238242923198376,
+          0.0759557911356716,
+          0.32102176609901883,
+          0.35175369347017027,
+          0.2274444569753017
+        ],
+        "title": "古董局中局",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26675617/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.26666666666666683,
+            0.03937007874015745,
+            0.4980392156862745
+          ],
+          "_base_color": [
+            0.5370370370370371,
+            0.10465116279069779,
+            0.33725490196078434
+          ],
+          "is_dark": true,
+          "primary_color_dark": "444a4c",
+          "primary_color_light": "667072",
+          "secondary_color": "f4f8f9"
+        },
+        "cover": "/fakeApi/assets/images/p2539700592.jpg",
+        "id": "27166039",
+        "interest": {},
+        "is_released": false,
+        "m_url": "https://m.douban.com/movie/subject/27166039/",
+        "orig_title": "Rick and Morty",
+        "playable": false,
+        "rating": 0,
+        "rating_count": 0,
+        "rating_stats": [
+          0.005,
+          0.005,
+          0.005,
+          0.05,
+          0.935
+        ],
+        "title": "瑞克和莫蒂 第四季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27166039/",
+        "wish_count": 10854
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u134059091-2.jpg",
+      "id": "134059091",
+      "name": "疯人院的秘密",
+      "url": "https://www.douban.com/people/134059091/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 138,
+    "id": 861,
+    "kind": 4,
+    "kind_cn": "人物",
+    "kind_str": "person",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(96, 70, 48, 0.8)",
+      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3358.jpg",
+      "has_barrage": "on",
+      "left": "off",
+      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3558.jpg",
+      "show_divider": "on",
+      "show_divider_txt": "影人",
+      "subject_ids": "1336305, 1312940, 1077991, 1322072, 1313837, 1274297, 1276085, 1318883, 1274242, 1354775",
+      "title": "2018最受关注的华语男演员"
+    },
+    "people": [
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473508881.63.jpg",
+        "id": "1336305",
+        "name": "刘昊然",
+        "name_en": "Haoran Liu",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1336305/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1503986232.61.jpg",
+        "id": "1312940",
+        "name": "雷佳音",
+        "name_en": "Jiayin Lei",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1312940/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1453574419.48.jpg",
+        "id": "1077991",
+        "name": "张震",
+        "name_en": "Chen Chang",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1077991/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1530843126.18.jpg",
+        "id": "1322072",
+        "name": "章宇",
+        "name_en": "Yu Zhang",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1322072/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1496577458.38.jpg",
+        "id": "1313837",
+        "name": "王传君",
+        "name_en": "Chuanjun Wang",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1313837/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p43738.jpg",
+        "id": "1274297",
+        "name": "徐峥",
+        "name_en": "Zheng Xu",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1274297/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1514533436.1.jpg",
+        "id": "1276085",
+        "name": "周一围",
+        "name_en": "Yiwei Zhou",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1276085/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1545404690.24.jpg",
+        "id": "1318883",
+        "name": "朱一龙",
+        "name_en": "Yilong Zhu",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1318883/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1656.jpg",
+        "id": "1274242",
+        "name": "黄渤",
+        "name_en": "Bo Huang",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1274242/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1523448357.59.jpg",
+        "id": "1354775",
+        "name": "彭昱畅",
+        "name_en": "Yuchang Peng",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1354775/"
+      }
+    ],
+    "status": 0,
+    "subject": {
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1473508881.63.jpg",
+      "color_scheme": {
+        "_avg_color": [
+          0.9572072072072072,
+          0.3718592964824121,
+          0.7803921568627451
+        ],
+        "_base_color": [
+          0.5898345153664302,
+          0.6778846153846154,
+          0.8156862745098039
+        ],
+        "is_dark": true,
+        "primary_color_dark": "29507f",
+        "primary_color_light": "3569a5",
+        "secondary_color": "f4f7f9"
+      },
+      "id": "1336305",
+      "interest": {},
+      "name": "刘昊然",
+      "name_en": "Haoran Liu",
+      "playable": false,
+      "profession": "演员",
+      "type": "celebrity",
+      "url": "https://movie.douban.com/celebrity/1336305/",
+      "works": [
+        {
+          "id": 26698897,
+          "title": "唐人街探案2"
+        },
+        {
+          "id": 5350027,
+          "title": "妖猫传"
+        },
+        {
+          "id": 26311973,
+          "title": "唐人街探案"
+        },
+        {
+          "id": 24736566,
+          "title": "北京爱情故事"
+        },
+        {
+          "id": 26602244,
+          "title": "最好的我们"
+        },
+        {
+          "id": 26411410,
+          "title": "深夜食堂"
+        },
+        {
+          "id": 26021055,
+          "title": "栀子花开"
+        },
+        {
+          "id": 26665065,
+          "title": "琅琊榜之风起长林"
+        },
+        {
+          "id": 26389696,
+          "title": "大闹天竺"
+        },
+        {
+          "id": 19899707,
+          "title": "驯龙高手3"
+        }
+      ]
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

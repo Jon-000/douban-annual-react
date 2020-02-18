@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 93,
+    "id": 859,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(103, 46, 40, .9)",
+      "background_img": "/fakeApi/assets/images/p3546.jpg",
+      "description": "你好，绿谷少年！再见，欧尔麦特。下一个就是你！",
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3548.jpg",
+      "subject_ids": "27160633, 27149382, 26946411, 30259908, 28514091, 27015848, 27624762, 27157760, 26997470, 26805209",
+      "title": "2018评分最高的动画剧集",
+      "user_id": "147058486"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.08695652173913042,
+          0.19327731092436978,
+          0.4666666666666667
+        ],
+        "_base_color": [
+          0.10632183908045982,
+          0.2566371681415929,
+          0.8862745098039215
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4c4538",
+        "primary_color_light": "726855",
+        "secondary_color": "f9f8f4"
+      },
+      "cover": "/fakeApi/assets/images/p2534074859.jpg",
+      "directors": [
+        "长崎健司 Kenji Nagasaki"
+      ],
+      "id": "27160633",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/27160633/",
+      "orig_title": "僕のヒーローアカデミア 第3期",
+      "playable": true,
+      "rating": 9.3,
+      "rating_count": 15738,
+      "rating_stats": [
+        0.00546448087431694,
+        0.007497776083365103,
+        0.05242089210827297,
+        0.22747490151226332,
+        0.7071419494217817
+      ],
+      "title": "我的英雄学院 第3季",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27160633/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08695652173913042,
+            0.19327731092436978,
+            0.4666666666666667
+          ],
+          "_base_color": [
+            0.10632183908045982,
+            0.2566371681415929,
+            0.8862745098039215
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4538",
+          "primary_color_light": "726855",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2534074859.jpg",
+        "id": "27160633",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27160633/",
+        "orig_title": "僕のヒーローアカデミア 第3期",
+        "playable": true,
+        "rating": 9.3,
+        "rating_count": 15738,
+        "rating_stats": [
+          0.00546448087431694,
+          0.007497776083365103,
+          0.05242089210827297,
+          0.22747490151226332,
+          0.7071419494217817
+        ],
+        "title": "我的英雄学院 第3季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27160633/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.8333333333333334,
+            0.07462686567164184,
+            0.2627450980392157
+          ],
+          "_base_color": [
+            0.7142857142857143,
+            0.14583333333333326,
+            0.18823529411764706
+          ],
+          "is_dark": true,
+          "primary_color_dark": "44414c",
+          "primary_color_light": "666272",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2533371004.jpg",
+        "id": "27149382",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27149382/",
+        "orig_title": "BoJack Horseman",
+        "playable": false,
+        "rating": 9.3,
+        "rating_count": 10909,
+        "rating_stats": [
+          0.0008250068750572921,
+          0.002933357777981483,
+          0.04574204785039875,
+          0.261068842240352,
+          0.6894307452562105
+        ],
+        "title": "马男波杰克 第五季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27149382/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.4351851851851851,
+            0.12413793103448272,
+            0.5686274509803921
+          ],
+          "_base_color": [
+            0.47154471544715443,
+            0.3014705882352941,
+            0.5333333333333333
+          ],
+          "is_dark": true,
+          "primary_color_dark": "597f78",
+          "primary_color_light": "73a59d",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "/fakeApi/assets/images/p2506713014.jpg",
+        "id": "26946411",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26946411/",
+        "orig_title": "斉木楠雄のΨ難 第2期",
+        "playable": true,
+        "rating": 9.3,
+        "rating_count": 18311,
+        "rating_stats": [
+          0.0018021954016711266,
+          0.004805854404456337,
+          0.052591338539675604,
+          0.24149418382393098,
+          0.699306427830266
+        ],
+        "title": "齐木楠雄的灾难 第二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26946411/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9621212121212122,
+            0.09734513274336275,
+            0.8862745098039215
+          ],
+          "_base_color": [
+            0.9545454545454544,
+            0.046610169491525494,
+            0.9254901960784314
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f797b",
+          "primary_color_light": "a59ea0",
+          "secondary_color": "f9f4f6"
+        },
+        "cover": "/fakeApi/assets/images/p2526548383.jpg",
+        "id": "30259908",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30259908/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 9,
+        "rating_count": 19690,
+        "rating_stats": [
+          0.004012188928390046,
+          0.006449974606399188,
+          0.0606399187404774,
+          0.2484509903504317,
+          0.6804469273743017
+        ],
+        "title": "请吃红小豆吧！",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30259908/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.09999999999999994,
+            0.09999999999999992,
+            0.7843137254901961
+          ],
+          "_base_color": [
+            0.12121212121212117,
+            0.10000000000000002,
+            0.8627450980392157
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7c72",
+          "primary_color_light": "a5a195",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2525361579.jpg",
+        "id": "28514091",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/28514091/",
+        "orig_title": "はたらく細胞",
+        "playable": true,
+        "rating": 9,
+        "rating_count": 41893,
+        "rating_stats": [
+          0.003676031795287996,
+          0.008450099061895783,
+          0.08469195330962213,
+          0.3209366719977084,
+          0.5822452438354856
+        ],
+        "title": "工作细胞",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/28514091/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.525,
+            0.17857142857142858,
+            0.4392156862745098
+          ],
+          "_base_color": [
+            0.4855072463768116,
+            0.1013215859030836,
+            0.8901960784313725
+          ],
+          "is_dark": true,
+          "primary_color_dark": "444c4b",
+          "primary_color_light": "677271",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "/fakeApi/assets/images/p2523153760.jpg",
+        "id": "27015848",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27015848/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 8.9,
+        "rating_count": 49472,
+        "rating_stats": [
+          0.018454883570504527,
+          0.010025873221216041,
+          0.05021021992238034,
+          0.2264917529107374,
+          0.6948172703751617
+        ],
+        "title": "魔道祖师",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27015848/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9310344827586207,
+            0.2213740458015266,
+            0.5137254901960784
+          ],
+          "_base_color": [
+            0.7204301075268816,
+            0.3369565217391304,
+            0.3607843137254902
+          ],
+          "is_dark": true,
+          "primary_color_dark": "62547f",
+          "primary_color_light": "7f6da5",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2522418171.jpg",
+        "id": "27624762",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27624762/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 8.9,
+        "rating_count": 30292,
+        "rating_stats": [
+          0.005810114881816981,
+          0.007295655618645187,
+          0.0541397068532946,
+          0.25155156476957613,
+          0.6812029578766671
+        ],
+        "title": "刺客伍六七",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27624762/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.013333333333333327,
+            0.2873563218390805,
+            0.3411764705882353
+          ],
+          "_base_color": [
+            0.016460905349794237,
+            0.4378378378378378,
+            0.7254901960784313
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c2e2b",
+          "primary_color_light": "724540",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2520316571.jpg",
+        "id": "27157760",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27157760/",
+        "orig_title": "メガロボクス",
+        "playable": true,
+        "rating": 8.8,
+        "rating_count": 14712,
+        "rating_stats": [
+          0.005641653072321914,
+          0.017060902664491572,
+          0.11181348558999456,
+          0.3076400217509516,
+          0.5578439369222403
+        ],
+        "title": "MEGALO BOX",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27157760/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9791666666666667,
+            0.6896551724137931,
+            0.22745098039215686
+          ],
+          "_base_color": [
+            0.962962962962963,
+            0.72,
+            0.09803921568627451
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c1521",
+          "primary_color_light": "722032",
+          "secondary_color": "f9f4f6"
+        },
+        "cover": "/fakeApi/assets/images/p2447081903.jpg",
+        "id": "26997470",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26997470/",
+        "orig_title": "DEVILMAN crybaby",
+        "playable": false,
+        "rating": 8.8,
+        "rating_count": 21536,
+        "rating_stats": [
+          0.005897102526002972,
+          0.016576894502228826,
+          0.1012258543833581,
+          0.3534082466567608,
+          0.5228919019316494
+        ],
+        "title": "恶魔人 Crybaby",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26997470/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.532051282051282,
+            0.36619718309859156,
+            0.8352941176470589
+          ],
+          "_base_color": [
+            0.5130718954248366,
+            0.21074380165289253,
+            0.9490196078431372
+          ],
+          "is_dark": true,
+          "primary_color_dark": "647d7f",
+          "primary_color_light": "82a3a5",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "/fakeApi/assets/images/p2508746540.jpg",
+        "id": "26805209",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26805209/",
+        "orig_title": "ヴァイオレット・エヴァーガーデン",
+        "playable": true,
+        "rating": 8.6,
+        "rating_count": 20912,
+        "rating_stats": [
+          0.01664116296863045,
+          0.026683244070390206,
+          0.12806044376434583,
+          0.2934200459066565,
+          0.535195103289977
+        ],
+        "title": "紫罗兰永恒花园",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26805209/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img1.doubanio.com/icon/u147058486-9.jpg",
+      "id": "147058486",
+      "name": "芝麻凛",
+      "url": "https://www.douban.com/people/147058486/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

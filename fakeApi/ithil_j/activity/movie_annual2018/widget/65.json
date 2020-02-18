@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 905,
+    "kind": 2,
+    "kind_cn": "台词",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3588.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3589.jpg",
+      "subject_id": "26787574",
+      "text": "善良一点，因为每个人都在与人生苦战。"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.10360360360360356,
+          0.23270440251572325,
+          0.6235294117647059
+        ],
+        "_base_color": [
+          0.11437908496732026,
+          0.27419354838709675,
+          0.7294117647058823
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f745c",
+        "primary_color_light": "a59778",
+        "secondary_color": "f9f8f4"
+      },
+      "cover": "/fakeApi/assets/images/p2507709428.jpg",
+      "directors": [
+        "斯蒂芬·卓博斯基 Stephen Chbosky"
+      ],
+      "id": "26787574",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26787574/",
+      "orig_title": "Wonder",
+      "playable": true,
+      "rating": 8.6,
+      "rating_count": 277710,
+      "rating_stats": [
+        0.0013683338734651255,
+        0.005138453782722985,
+        0.089053329012279,
+        0.40250261063699544,
+        0.5019372726945375
+      ],
+      "title": "奇迹男孩",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26787574/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

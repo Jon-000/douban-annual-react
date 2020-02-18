@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 25,
+    "id": 860,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(54, 71, 81, 0.8)",
+      "background_img": "/fakeApi/assets/images/p3357.jpg",
+      "description": "从动物身上，我们照见了人类原始的兽性，即便是所谓「文明」，也并非是智人的独特产物。",
+      "has_barrage": "on",
+      "left": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3446.jpg",
+      "subject_ids": "27182707, 27620913, 27620616, 27182720, 30156039, 27186602, 30151530, 26955451, 30244576, 26692442",
+      "title": "2018评分最高的纪录剧集",
+      "user_id": "172680115"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.5694444444444445,
+          0.2790697674418605,
+          0.16862745098039217
+        ],
+        "_base_color": [
+          0.5740740740740741,
+          0.6206896551724138,
+          0.11372549019607843
+        ],
+        "is_dark": true,
+        "primary_color_dark": "1d374c",
+        "primary_color_light": "2b5372",
+        "secondary_color": "f4f7f9"
+      },
+      "cover": "/fakeApi/assets/images/p2537688397.jpg",
+      "directors": [
+        "斯蒂芬·莫斯 Stephen Moss"
+      ],
+      "id": "27182707",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/27182707/",
+      "orig_title": "Dynasties",
+      "playable": true,
+      "rating": 9.6,
+      "rating_count": 22052,
+      "rating_stats": [
+        0.001269726101940867,
+        0.0012243787411572646,
+        0.01949936513694903,
+        0.14746961726827498,
+        0.8305369127516778
+      ],
+      "title": "王朝",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27182707/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5694444444444445,
+            0.2790697674418605,
+            0.16862745098039217
+          ],
+          "_base_color": [
+            0.5740740740740741,
+            0.6206896551724138,
+            0.11372549019607843
+          ],
+          "is_dark": true,
+          "primary_color_dark": "1d374c",
+          "primary_color_light": "2b5372",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p2537688397.jpg",
+        "id": "27182707",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27182707/",
+        "orig_title": "Dynasties",
+        "playable": true,
+        "rating": 9.6,
+        "rating_count": 22052,
+        "rating_stats": [
+          0.001269726101940867,
+          0.0012243787411572646,
+          0.01949936513694903,
+          0.14746961726827498,
+          0.8305369127516778
+        ],
+        "title": "王朝",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27182707/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5555555555555557,
+            0.16810344827586207,
+            0.9098039215686274
+          ],
+          "_base_color": [
+            0.08585858585858586,
+            0.1422413793103448,
+            0.9098039215686274
+          ],
+          "is_dark": false,
+          "primary_color_dark": "f2e1cf",
+          "primary_color_light": "f2e1cf",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2529397321.jpg",
+        "id": "27620913",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27620913/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 9.5,
+        "rating_count": 6237,
+        "rating_stats": [
+          0.005130671797338464,
+          0.001763668430335097,
+          0.023729357062690398,
+          0.14975148308481642,
+          0.8196248196248196
+        ],
+        "title": "如果国宝会说话 第二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27620913/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.10666666666666669,
+            0.5,
+            0.39215686274509803
+          ],
+          "_base_color": [
+            0.1150793650793651,
+            0.6176470588235294,
+            0.26666666666666666
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3d1d",
+          "primary_color_light": "725c2b",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2515345924.jpg",
+        "id": "27620616",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27620616/",
+        "orig_title": "Big Cats",
+        "playable": true,
+        "rating": 9.5,
+        "rating_count": 14612,
+        "rating_stats": [
+          0.0006159321105940323,
+          0.0016424856282507528,
+          0.03558718861209965,
+          0.2001779359430605,
+          0.7619764577059951
+        ],
+        "title": "大猫",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27620616/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.572463768115942,
+            0.4539473684210526,
+            0.596078431372549
+          ],
+          "_base_color": [
+            0.5717299578059071,
+            0.5096774193548387,
+            0.6078431372549019
+          ],
+          "is_dark": true,
+          "primary_color_dark": "3e637f",
+          "primary_color_light": "5181a5",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p2508653411.jpg",
+        "id": "27182720",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27182720/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 9.4,
+        "rating_count": 11187,
+        "rating_stats": [
+          0.002145347278090641,
+          0.0027710735675337446,
+          0.029856082953428086,
+          0.1750245821042281,
+          0.7902029140967194
+        ],
+        "title": "如果国宝会说话 第一季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27182720/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5190476190476191,
+            0.2317880794701987,
+            0.592156862745098
+          ],
+          "_base_color": [
+            0.5266666666666667,
+            0.267379679144385,
+            0.7333333333333333
+          ],
+          "is_dark": true,
+          "primary_color_dark": "5d7a7f",
+          "primary_color_light": "799ea5",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "/fakeApi/assets/images/p2541649132.jpg",
+        "id": "30156039",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30156039/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 9.1,
+        "rating_count": 78100,
+        "rating_stats": [
+          0.0024583866837387964,
+          0.003969270166453265,
+          0.04672215108834827,
+          0.247797695262484,
+          0.6990524967989756
+        ],
+        "title": "风味人间",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30156039/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.8999999999999998,
+            0.049751243781094495,
+            0.788235294117647
+          ],
+          "_base_color": [
+            0.5817610062893083,
+            0.5247524752475248,
+            0.396078431372549
+          ],
+          "is_dark": true,
+          "primary_color_dark": "3c5e7f",
+          "primary_color_light": "4e7ba5",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p2516431363.jpg",
+        "id": "27186602",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27186602/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 9.3,
+        "rating_count": 4985,
+        "rating_stats": [
+          0.002407221664994985,
+          0.0014042126379137413,
+          0.027683049147442327,
+          0.20802407221664995,
+          0.760481444332999
+        ],
+        "title": "生命时速·紧急救护120",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27186602/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6190476190476192,
+            0.044585987261146515,
+            0.615686274509804
+          ],
+          "_base_color": [
+            0.6250000000000003,
+            0.02116402116402124,
+            0.7411764705882353
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7c7d7f",
+          "primary_color_light": "a2a3a5",
+          "secondary_color": "f4f6f9"
+        },
+        "cover": "/fakeApi/assets/images/p2539266159.jpg",
+        "id": "30151530",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30151530/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 9.3,
+        "rating_count": 13521,
+        "rating_stats": [
+          0.0012573034538865468,
+          0.0017750166407810074,
+          0.030692996080171585,
+          0.1959174617262037,
+          0.7703572220989572
+        ],
+        "title": "西南联大",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30151530/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.578125,
+            0.47761194029850745,
+            0.2627450980392157
+          ],
+          "_base_color": [
+            0.5802469135802469,
+            0.6428571428571429,
+            0.16470588235294117
+          ],
+          "is_dark": true,
+          "primary_color_dark": "1b344c",
+          "primary_color_light": "284f72",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p2523480904.jpg",
+        "id": "26955451",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26955451/",
+        "orig_title": "James Cameron's Story of Science Fiction",
+        "playable": false,
+        "rating": 9.2,
+        "rating_count": 6975,
+        "rating_stats": [
+          0.003154121863799283,
+          0.006164874551971326,
+          0.0617921146953405,
+          0.26551971326164875,
+          0.6633691756272402
+        ],
+        "title": "詹姆斯·卡梅隆的科幻故事",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26955451/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.09999999999999994,
+            0.13698630136986292,
+            0.28627450980392155
+          ],
+          "_base_color": [
+            0,
+            0,
+            0.13333333333333333
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4c4c",
+          "primary_color_light": "727272",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "/fakeApi/assets/images/p2525545214.jpg",
+        "id": "30244576",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30244576/",
+        "orig_title": "Snatches: Moments from Women's Lives",
+        "playable": false,
+        "rating": 9.2,
+        "rating_count": 5104,
+        "rating_stats": [
+          0.004702194357366771,
+          0.0054858934169279,
+          0.05446708463949843,
+          0.2797805642633229,
+          0.655564263322884
+        ],
+        "title": "她说：女性人生瞬间",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30244576/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.1011904761904762,
+            0.4375,
+            0.25098039215686274
+          ],
+          "_base_color": [
+            0.05555555555555556,
+            0.631578947368421,
+            0.7450980392156863
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c2c1c",
+          "primary_color_light": "72422a",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2518733754.jpg",
+        "id": "26692442",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26692442/",
+        "orig_title": "Civilisations",
+        "playable": true,
+        "rating": 9.1,
+        "rating_count": 4486,
+        "rating_stats": [
+          0.0073562193490860454,
+          0.009362460989745877,
+          0.06576014266607222,
+          0.26148016049933126,
+          0.6560410164957646
+        ],
+        "title": "文明",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26692442/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u172680115-3.jpg",
+      "id": "172680115",
+      "name": "Zucchini",
+      "url": "https://www.douban.com/people/172680115/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

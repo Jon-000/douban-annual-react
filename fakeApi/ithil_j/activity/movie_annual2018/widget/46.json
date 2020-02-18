@@ -1,0 +1,185 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 80,
+    "id": 877,
+    "kind": 4,
+    "kind_cn": "人物",
+    "kind_str": "person",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(104, 70, 65, .8)",
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3335.jpg",
+      "has_barrage": "on",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3481.jpg",
+      "subject_ids": "1325862, 1049489, 1009405, 1031931, 1032680, 1356120, 1054435, 1012531, 1056177, 1246859",
+      "title": "2018最受关注的外语男演员"
+    },
+    "people": [
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1485256351.47.jpg",
+        "id": "1325862",
+        "name": "蒂莫西·柴勒梅德",
+        "name_en": "Timothée Chalamet",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1325862/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p5110.jpg",
+        "id": "1049489",
+        "name": "汤姆·哈迪",
+        "name_en": "Tom Hardy",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1049489/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p41072.jpg",
+        "id": "1009405",
+        "name": "本尼迪克特·康伯巴奇",
+        "name_en": "Benedict Cumberbatch",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1009405/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p13628.jpg",
+        "id": "1031931",
+        "name": "阿米尔·汗",
+        "name_en": "Aamir Khan",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1031931/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1383308533.62.jpg",
+        "id": "1032680",
+        "name": "河正宇",
+        "name_en": "Jung-woo Ha",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1032680/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1516598354.03.jpg",
+        "id": "1356120",
+        "name": "诺亚·尤佩",
+        "name_en": "Noah Jupe",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1356120/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p567.jpg",
+        "id": "1054435",
+        "name": "汤姆·克鲁斯",
+        "name_en": "Tom Cruise",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1054435/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p938.jpg",
+        "id": "1012531",
+        "name": "瑞恩·高斯林",
+        "name_en": "Ryan Gosling",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1012531/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1535945355.97.jpg",
+        "id": "1056177",
+        "name": "丹尼尔·戴-刘易斯",
+        "name_en": "Daniel Day-Lewis",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1056177/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1416153279.38.jpg",
+        "id": "1246859",
+        "name": "刘亚仁",
+        "name_en": "Ah-in Yoo",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1246859/"
+      }
+    ],
+    "status": 0,
+    "subject": {
+      "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1485256351.47.jpg",
+      "color_scheme": {
+        "_avg_color": [
+          0.9382716049382717,
+          0.12499999999999994,
+          0.8470588235294118
+        ],
+        "_base_color": [
+          0.9141414141414141,
+          0.13580246913580246,
+          0.9529411764705882
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f6e77",
+        "primary_color_light": "a58f9a",
+        "secondary_color": "f9f4f7"
+      },
+      "id": "1325862",
+      "interest": {},
+      "name": "蒂莫西·柴勒梅德",
+      "name_en": "Timothée Chalamet",
+      "playable": false,
+      "profession": "演员",
+      "type": "celebrity",
+      "url": "https://movie.douban.com/celebrity/1325862/",
+      "works": [
+        {
+          "id": 1889243,
+          "title": "星际穿越"
+        },
+        {
+          "id": 26799731,
+          "title": "请以你的名字呼唤我"
+        },
+        {
+          "id": 26588314,
+          "title": "伯德小姐"
+        },
+        {
+          "id": 10429716,
+          "title": "国土安全 第二季"
+        },
+        {
+          "id": 3059389,
+          "title": "漂亮男孩"
+        },
+        {
+          "id": 25722262,
+          "title": "男人女人和孩子"
+        },
+        {
+          "id": 26730826,
+          "title": "敌对分子"
+        },
+        {
+          "id": 27132528,
+          "title": "第90届奥斯卡颁奖典礼"
+        },
+        {
+          "id": 26615739,
+          "title": "炎夏之夜"
+        },
+        {
+          "id": 24722295,
+          "title": "燃烧蓝"
+        }
+      ]
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

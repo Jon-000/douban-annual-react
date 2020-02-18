@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 47,
+    "id": 838,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(71, 58, 52, .8)",
+      "background_img": "/fakeApi/assets/images/p3722.jpg",
+      "description": "西部片开场但打破套路，反思和情怀并存，整部电影依然是个华丽丽的歌单，味道还是科恩兄弟。",
+      "has_barrage": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3723.jpg",
+      "subject_ids": "26952704, 27114240, 26951692, 26793852, 1950330, 27608785, 26731376, 26965165, 27615398, 26979007",
+      "title": "2018年度冷门佳片",
+      "user_id": "3739650"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.013888888888888895,
+          0.6043165467625898,
+          0.5450980392156862
+        ],
+        "_base_color": [
+          0.003787878787878803,
+          0.676923076923077,
+          0.5098039215686274
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f2b29",
+        "primary_color_light": "a53835",
+        "secondary_color": "f9f5f4"
+      },
+      "cover": "/fakeApi/assets/images/p2539127687.jpg",
+      "directors": [
+        "伊桑·科恩 Ethan Coen",
+        "乔尔·科恩 Joel Coen"
+      ],
+      "id": "26952704",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26952704/",
+      "orig_title": "The Ballad of Buster Scruggs",
+      "playable": false,
+      "rating": 8.4,
+      "rating_count": 44329,
+      "rating_stats": [
+        0.0022333009993458007,
+        0.00832412190665253,
+        0.12659884048816802,
+        0.5069818854474497,
+        0.3558618511583839
+      ],
+      "title": "巴斯特·斯克鲁格斯的歌谣",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26952704/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.013888888888888895,
+            0.6043165467625898,
+            0.5450980392156862
+          ],
+          "_base_color": [
+            0.003787878787878803,
+            0.676923076923077,
+            0.5098039215686274
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f2b29",
+          "primary_color_light": "a53835",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2539127687.jpg",
+        "id": "26952704",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26952704/",
+        "orig_title": "The Ballad of Buster Scruggs",
+        "playable": false,
+        "rating": 8.4,
+        "rating_count": 44330,
+        "rating_stats": [
+          0.0022332506203473945,
+          0.008323934130385744,
+          0.1265959846605008,
+          0.506993006993007,
+          0.35585382359575907
+        ],
+        "title": "巴斯特·斯克鲁格斯的歌谣",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26952704/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.12962962962962973,
+            0.0559006211180124,
+            0.6313725490196078
+          ],
+          "_base_color": [
+            0.11111111111111131,
+            0.08823529411764706,
+            0.13333333333333333
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7b74",
+          "primary_color_light": "a5a097",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2516702580.jpg",
+        "id": "27114240",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27114240/",
+        "orig_title": "Der Hauptmann",
+        "playable": false,
+        "rating": 8.5,
+        "rating_count": 16278,
+        "rating_stats": [
+          0.0023344391202850473,
+          0.007003317360855142,
+          0.11383462341811033,
+          0.5082934021378548,
+          0.3685342179628947
+        ],
+        "title": "冒牌上尉",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27114240/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.07103825136612023,
+            0.3144329896907216,
+            0.7607843137254902
+          ],
+          "_base_color": [
+            0.08658008658008658,
+            0.37198067632850246,
+            0.8117647058823529
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f6850",
+          "primary_color_light": "a58868",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2522862293.jpg",
+        "id": "26951692",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26951692/",
+        "orig_title": "Monsieur & Madame Adelman",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 13875,
+        "rating_stats": [
+          0.004324324324324324,
+          0.014918918918918918,
+          0.15675675675675677,
+          0.4972972972972973,
+          0.3267027027027027
+        ],
+        "title": "阿德尔曼夫妇",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26951692/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.09325396825396826,
+            0.6666666666666667,
+            0.49411764705882355
+          ],
+          "_base_color": [
+            0.09640522875816994,
+            0.6986301369863014,
+            0.5725490196078431
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3517",
+          "primary_color_light": "725022",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2511250973.jpg",
+        "id": "26793852",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26793852/",
+        "orig_title": "The Tale",
+        "playable": false,
+        "rating": 8.2,
+        "rating_count": 14608,
+        "rating_stats": [
+          0.004381161007667032,
+          0.011842825848849945,
+          0.1562842278203724,
+          0.5471659364731654,
+          0.2803258488499452
+        ],
+        "title": "信笺故事",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26793852/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.14285714285714288,
+            0.05035971223021565,
+            0.5450980392156862
+          ],
+          "_base_color": [
+            0.13095238095238101,
+            0.061946902654867166,
+            0.8862745098039215
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7d77",
+          "primary_color_light": "a5a39b",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2542682004.jpg",
+        "id": "1950330",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1950330/",
+        "orig_title": "Roma",
+        "playable": false,
+        "rating": 8.1,
+        "rating_count": 46025,
+        "rating_stats": [
+          0.005866376969038566,
+          0.02144486692015209,
+          0.1872026072786529,
+          0.48393264530146657,
+          0.3015535035306898
+        ],
+        "title": "罗马",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1950330/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.06547619047619054,
+            0.1414141414141415,
+            0.7764705882352941
+          ],
+          "_base_color": [
+            0.10666666666666669,
+            0.10121457489878541,
+            0.9686274509803922
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7a72",
+          "primary_color_light": "a59f94",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2535799024.jpg",
+        "id": "27608785",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27608785/",
+        "orig_title": "Das schweigende Klassenzimmer",
+        "playable": false,
+        "rating": 8.4,
+        "rating_count": 8911,
+        "rating_stats": [
+          0.003366625519021434,
+          0.008528784648187633,
+          0.12591179441140163,
+          0.5251935809673437,
+          0.33699921445404557
+        ],
+        "title": "沉默的教室",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27608785/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08333333333333336,
+            0.34210526315789475,
+            0.2980392156862745
+          ],
+          "_base_color": [
+            0.08333333333333333,
+            0.16666666666666666,
+            0.09411764705882353
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c463f",
+          "primary_color_light": "72695f",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2519715106.jpg",
+        "id": "26731376",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26731376/",
+        "orig_title": "Au revoir là-haut",
+        "playable": false,
+        "rating": 8.2,
+        "rating_count": 9626,
+        "rating_stats": [
+          0.0033243299397465197,
+          0.01485559941824226,
+          0.19073343029295659,
+          0.49002701018076045,
+          0.3010596301682942
+        ],
+        "title": "天上再见",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26731376/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.07520325203252032,
+            0.7130434782608694,
+            0.45098039215686275
+          ],
+          "_base_color": [
+            0.09586056644880174,
+            0.7116279069767442,
+            0.8431372549019608
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3516",
+          "primary_color_light": "725021",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2502244869.jpg",
+        "id": "26965165",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26965165/",
+        "orig_title": "Professor Marston and the Wonder Women",
+        "playable": false,
+        "rating": 7.9,
+        "rating_count": 14874,
+        "rating_stats": [
+          0.007866075030254134,
+          0.022589753933037516,
+          0.23403254000268925,
+          0.491327148043566,
+          0.24418448299045314
+        ],
+        "title": "马斯顿教授与神奇女侠",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26965165/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08333333333333333,
+            0.24,
+            0.19607843137254902
+          ],
+          "_base_color": [
+            0.08333333333333341,
+            0.2057142857142858,
+            0.6862745098039216
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c443c",
+          "primary_color_light": "72665b",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2541555031.jpg",
+        "id": "27615398",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27615398/",
+        "orig_title": "Den skyldige",
+        "playable": false,
+        "rating": 7.6,
+        "rating_count": 16119,
+        "rating_stats": [
+          0.004652894100130281,
+          0.030709101060859854,
+          0.29133320925615735,
+          0.49965878776599043,
+          0.1736460078168621
+        ],
+        "title": "罪人",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27615398/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.05263157894736844,
+            0.4691358024691357,
+            0.6352941176470588
+          ],
+          "_base_color": [
+            0.0537037037037037,
+            0.5421686746987951,
+            0.6509803921568628
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f503a",
+          "primary_color_light": "a5684b",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2447442755.jpg",
+        "id": "26979007",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26979007/",
+        "orig_title": "Estiu 1993",
+        "playable": true,
+        "rating": 7.9,
+        "rating_count": 5427,
+        "rating_stats": [
+          0.004975124378109453,
+          0.016399484061175605,
+          0.2154044591855537,
+          0.5612677353970886,
+          0.2019531969780726
+        ],
+        "title": "九三年夏天",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26979007/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u3739650-30.jpg",
+      "id": "3739650",
+      "name": "南悠一",
+      "url": "https://www.douban.com/people/Allan.Vr/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 917,
+    "kind": 2,
+    "kind_cn": "台词",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3632.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3770.jpg",
+      "subject_id": "27172891",
+      "text": "一头大象，每天坐在动物园里，它他妈就一直坐那。 你真不想去看看？"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.6904761904761904,
+          0.10294117647058819,
+          0.26666666666666666
+        ],
+        "_base_color": [
+          0.6904761904761904,
+          0.10937499999999994,
+          0.25098039215686274
+        ],
+        "is_dark": true,
+        "primary_color_dark": "45444c",
+        "primary_color_light": "676672",
+        "secondary_color": "f5f4f9"
+      },
+      "cover": "/fakeApi/assets/images/p2511811355.jpg",
+      "directors": [
+        "胡迁 Qian Hu"
+      ],
+      "id": "27172891",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/27172891/",
+      "orig_title": "",
+      "playable": false,
+      "rating": 8,
+      "rating_count": 65387,
+      "rating_stats": [
+        0.015232385642405984,
+        0.0291189380152018,
+        0.1621117347484974,
+        0.42843378653249115,
+        0.3651031550614036
+      ],
+      "title": "大象席地而坐",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27172891/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

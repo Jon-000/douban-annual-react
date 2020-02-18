@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 38,
+    "id": 850,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(111, 63, 135, .8)",
+      "background_img": "/fakeApi/assets/images/p3631.jpg",
+      "description": "从Freddie第一次在钢琴上轻轻敲出Bohemian Rhapsody的旋律开始，我的泪腺和毛孔便会为每一缕熟悉旋律而收缩。而最后Live Aid如临现场的冲击力，莫名的痛苦卷着鼓点的狂骚将我击溃在影院最后一排的座椅之上，鼓膜轰鸣。",
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3677.jpg",
+      "subject_ids": "5300054, 26809592, 26791455, 4058933, 3095514, 26640371, 3026559, 26952704, 4920389, 6390825",
+      "title": "2018年度电影原声",
+      "user_id": "1237270"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.7967836257309941,
+          0.8085106382978723,
+          0.5529411764705883
+        ],
+        "_base_color": [
+          0.796875,
+          0.8767123287671234,
+          0.5725490196078431
+        ],
+        "is_dark": true,
+        "primary_color_dark": "670f7f",
+        "primary_color_light": "8514a5",
+        "secondary_color": "f8f4f9"
+      },
+      "cover": "/fakeApi/assets/images/p2550797099.jpg",
+      "directors": [
+        "布莱恩·辛格 Bryan Singer"
+      ],
+      "id": "5300054",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/5300054/",
+      "orig_title": "Bohemian Rhapsody",
+      "playable": false,
+      "rating": 8.6,
+      "rating_count": 113576,
+      "rating_stats": [
+        0.004067760794534057,
+        0.011912728041135452,
+        0.10234556596464042,
+        0.361141438332042,
+        0.5205325068676481
+      ],
+      "title": "波西米亚狂想曲",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/5300054/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.7967836257309941,
+            0.8085106382978723,
+            0.5529411764705883
+          ],
+          "_base_color": [
+            0.796875,
+            0.8767123287671234,
+            0.5725490196078431
+          ],
+          "is_dark": true,
+          "primary_color_dark": "670f7f",
+          "primary_color_light": "8514a5",
+          "secondary_color": "f8f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2550797099.jpg",
+        "id": "5300054",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/5300054/",
+        "orig_title": "Bohemian Rhapsody",
+        "playable": false,
+        "rating": 8.6,
+        "rating_count": 113575,
+        "rating_stats": [
+          0.004067796610169492,
+          0.011912832929782083,
+          0.1023464670922298,
+          0.36114461809377063,
+          0.5205282852740479
+        ],
+        "title": "波西米亚狂想曲",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/5300054/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08333333333333344,
+            0.12,
+            0.19607843137254902
+          ],
+          "_base_color": [
+            0.16666666666666666,
+            0.057142857142857134,
+            0.13725490196078433
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4c48",
+          "primary_color_light": "72726c",
+          "secondary_color": "f9f9f4"
+        },
+        "cover": "/fakeApi/assets/images/p2506487968.jpg",
+        "id": "26809592",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26809592/",
+        "orig_title": "Phantom Thread",
+        "playable": true,
+        "rating": 7.5,
+        "rating_count": 63155,
+        "rating_stats": [
+          0.008661230306389043,
+          0.04281529570105296,
+          0.3246932151056923,
+          0.44438286754809597,
+          0.1794473913387697
+        ],
+        "title": "魅影缝匠",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26809592/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0949820788530466,
+            0.788135593220339,
+            0.4627450980392157
+          ],
+          "_base_color": [
+            0.12333333333333334,
+            0.78125,
+            0.25098039215686274
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3c10",
+          "primary_color_light": "725b19",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2518558081.jpg",
+        "id": "26791455",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26791455/",
+        "orig_title": "You Were Never Really Here",
+        "playable": false,
+        "rating": 6.8,
+        "rating_count": 9775,
+        "rating_stats": [
+          0.02721227621483376,
+          0.10035805626598465,
+          0.4150383631713555,
+          0.3554987212276215,
+          0.1018925831202046
+        ],
+        "title": "你从未在此",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26791455/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.11666666666666681,
+            0.05882352941176466,
+            0.6666666666666666
+          ],
+          "_base_color": [
+            0.11111111111111112,
+            0.15384615384615383,
+            0.15294117647058825
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f786b",
+          "primary_color_light": "a59d8c",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2541979727.jpg",
+        "id": "4058933",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/4058933/",
+        "orig_title": "A Star Is Born",
+        "playable": true,
+        "rating": 7.1,
+        "rating_count": 46806,
+        "rating_stats": [
+          0.01461351108832201,
+          0.08567277699440243,
+          0.4001410075631329,
+          0.33807631500235014,
+          0.1614963893517925
+        ],
+        "title": "一个明星的诞生",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/4058933/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.029761904761904767,
+            0.5490196078431373,
+            0.6
+          ],
+          "_base_color": [
+            0.1074074074074074,
+            0.20642201834862378,
+            0.8549019607843137
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7665",
+          "primary_color_light": "a59983",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2532759044.jpg",
+        "id": "3095514",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3095514/",
+        "orig_title": "Suspiria",
+        "playable": false,
+        "rating": 6.8,
+        "rating_count": 15724,
+        "rating_stats": [
+          0.037458661918087,
+          0.12522258967183922,
+          0.3897227168659374,
+          0.3188120071228695,
+          0.12878402442126685
+        ],
+        "title": "阴风阵阵",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3095514/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08095238095238096,
+            0.16826923076923073,
+            0.8156862745098039
+          ],
+          "_base_color": [
+            0.07142857142857145,
+            0.4468085106382979,
+            0.1843137254901961
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f5e46",
+          "primary_color_light": "a57b5b",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2518856022.jpg",
+        "id": "26640371",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26640371/",
+        "orig_title": "Isle of Dogs",
+        "playable": true,
+        "rating": 8.3,
+        "rating_count": 156514,
+        "rating_stats": [
+          0.004370216082906321,
+          0.014937960821396168,
+          0.15916148076210435,
+          0.47726720932312766,
+          0.3442631330104655
+        ],
+        "title": "犬之岛",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26640371/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.7444444444444445,
+            0.3846153846153847,
+            0.15294117647058825
+          ],
+          "_base_color": [
+            0.7619047619047619,
+            0.56,
+            0.09803921568627451
+          ],
+          "is_dark": true,
+          "primary_color_dark": "3a214c",
+          "primary_color_light": "573272",
+          "secondary_color": "f7f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2532776305.jpg",
+        "id": "3026559",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3026559/",
+        "orig_title": "First Man",
+        "playable": false,
+        "rating": 7.7,
+        "rating_count": 25419,
+        "rating_stats": [
+          0.004366812227074236,
+          0.022109445690231717,
+          0.2889964200007868,
+          0.5129234037530981,
+          0.17160391832880917
+        ],
+        "title": "登月第一人",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3026559/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.013888888888888895,
+            0.6043165467625898,
+            0.5450980392156862
+          ],
+          "_base_color": [
+            0.003787878787878803,
+            0.676923076923077,
+            0.5098039215686274
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f2b29",
+          "primary_color_light": "a53835",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2539127687.jpg",
+        "id": "26952704",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26952704/",
+        "orig_title": "The Ballad of Buster Scruggs",
+        "playable": false,
+        "rating": 8.4,
+        "rating_count": 44330,
+        "rating_stats": [
+          0.0022332506203473945,
+          0.008323934130385744,
+          0.1265959846605008,
+          0.506993006993007,
+          0.35585382359575907
+        ],
+        "title": "巴斯特·斯克鲁格斯的歌谣",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26952704/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6515151515151515,
+            0.34375,
+            0.5019607843137255
+          ],
+          "_base_color": [
+            0.7285714285714285,
+            0.16203703703703698,
+            0.8470588235294118
+          ],
+          "is_dark": true,
+          "primary_color_dark": "726a7f",
+          "primary_color_light": "948aa5",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2516578307.jpg",
+        "id": "4920389",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/4920389/",
+        "orig_title": "Ready Player One",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 737344,
+        "rating_stats": [
+          0.00566628330874056,
+          0.010227248068744033,
+          0.0969696640916587,
+          0.3459986112316639,
+          0.5411381932991928
+        ],
+        "title": "头号玩家",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/4920389/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5,
+            0.17999999999999994,
+            0.39215686274509803
+          ],
+          "_base_color": [
+            0.18840579710144922,
+            0.1105769230769231,
+            0.8156862745098039
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4b4c44",
+          "primary_color_light": "717266",
+          "secondary_color": "f9f9f4"
+        },
+        "cover": "/fakeApi/assets/images/p2512123434.jpg",
+        "id": "6390825",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/6390825/",
+        "orig_title": "Black Panther",
+        "playable": true,
+        "rating": 6.4,
+        "rating_count": 296931,
+        "rating_stats": [
+          0.028306239496718094,
+          0.10373453765352894,
+          0.4702675032246549,
+          0.29949382179698314,
+          0.09819789782811494
+        ],
+        "title": "黑豹",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/6390825/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u1237270-133.jpg",
+      "id": "1237270",
+      "name": "私～川流",
+      "url": "https://www.douban.com/people/1237270/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

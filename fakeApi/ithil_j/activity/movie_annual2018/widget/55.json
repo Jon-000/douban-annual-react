@@ -1,0 +1,444 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 43,
+    "id": 868,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(160, 154, 122, .8)",
+      "background_img": "/fakeApi/assets/images/p3783.jpg",
+      "description": "龙猫真像童年时的一场梦，长大之后似乎忘记了，突然看见它毛茸茸的身躯，就想起了所有的奢望。这大概就是我们得以在孤独中相互告慰的东西吧。",
+      "has_barrage": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3806.jpg",
+      "subject_ids": "1291560, 1291828, 1293318, 1291870, 1306505, 1300960, 1304624, 1292697, 1291859, 1432972",
+      "title": "2018上映30周年的电影",
+      "user_id": "62675594"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.1423611111111111,
+          0.22966507177033493,
+          0.8196078431372549
+        ],
+        "_base_color": [
+          0.1405228758169935,
+          0.2318181818181819,
+          0.8627450980392157
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f7a61",
+        "primary_color_light": "a59f7f",
+        "secondary_color": "f9f9f4"
+      },
+      "cover": "/fakeApi/assets/images/p2540924496.jpg",
+      "directors": [
+        "宫崎骏 Hayao Miyazaki"
+      ],
+      "id": "1291560",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/1291560/",
+      "orig_title": "となりのトトロ",
+      "playable": true,
+      "rating": 9.2,
+      "rating_count": 660352,
+      "rating_stats": [
+        0.001720294630742392,
+        0.003445132293080054,
+        0.05734820217096336,
+        0.2820828891257996,
+        0.6554034817794147
+      ],
+      "title": "龙猫",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/1291560/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.1423611111111111,
+            0.22966507177033493,
+            0.8196078431372549
+          ],
+          "_base_color": [
+            0.1405228758169935,
+            0.2318181818181819,
+            0.8627450980392157
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7a61",
+          "primary_color_light": "a59f7f",
+          "secondary_color": "f9f9f4"
+        },
+        "cover": "/fakeApi/assets/images/p2540924496.jpg",
+        "id": "1291560",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1291560/",
+        "orig_title": "となりのトトロ",
+        "playable": true,
+        "rating": 9.2,
+        "rating_count": 660352,
+        "rating_stats": [
+          0.001720294630742392,
+          0.003445132293080054,
+          0.05734820217096336,
+          0.2820828891257996,
+          0.6554034817794147
+        ],
+        "title": "龙猫",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1291560/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.03999999999999987,
+            0.1515151515151515,
+            0.6470588235294118
+          ],
+          "_base_color": [
+            0.05555555555555556,
+            0.15428571428571422,
+            0.6862745098039216
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f726b",
+          "primary_color_light": "a5948c",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p1910901025.jpg",
+        "id": "1291828",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1291828/",
+        "orig_title": "Nuovo Cinema Paradiso",
+        "playable": false,
+        "rating": 9.2,
+        "rating_count": 391059,
+        "rating_stats": [
+          0.002055955750922495,
+          0.005771507624169243,
+          0.06312858162067617,
+          0.29159794302138553,
+          0.6374460119828466
+        ],
+        "title": "天堂电影院",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1291828/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.06862745098039214,
+            0.48571428571428577,
+            0.27450980392156865
+          ],
+          "_base_color": [
+            0.030303030303030293,
+            0.55,
+            0.0784313725490196
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c2a22",
+          "primary_color_light": "723f33",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2237136718.jpg",
+        "id": "1293318",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1293318/",
+        "orig_title": "火垂るの墓",
+        "playable": false,
+        "rating": 8.7,
+        "rating_count": 253271,
+        "rating_stats": [
+          0.013057160117028795,
+          0.016859411460451453,
+          0.10901761354438526,
+          0.33391900375487127,
+          0.5271468111232632
+        ],
+        "title": "萤火虫之墓",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1293318/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.11616161616161613,
+            0.27731092436974786,
+            0.4666666666666667
+          ],
+          "_base_color": [
+            0.12121212121212122,
+            0.3826086956521739,
+            0.45098039215686275
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c442f",
+          "primary_color_light": "726646",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p942376281.jpg",
+        "id": "1291870",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1291870/",
+        "orig_title": "Rain Man",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 251028,
+        "rating_stats": [
+          0.0009640358844431697,
+          0.004672785505999331,
+          0.10218382013161878,
+          0.4534593750497952,
+          0.4387199834281435
+        ],
+        "title": "雨人",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1291870/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.03571428571428572,
+            0.7974683544303798,
+            0.6196078431372549
+          ],
+          "_base_color": [
+            0.013227513227513235,
+            0.9064748201438849,
+            0.5450980392156862
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f150b",
+          "primary_color_light": "a51b0f",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2536679956.jpg",
+        "id": "1306505",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1306505/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 8.3,
+        "rating_count": 131284,
+        "rating_stats": [
+          0.002102312543798178,
+          0.008645379482648305,
+          0.15190731543828645,
+          0.5249002163249139,
+          0.3124447762103531
+        ],
+        "title": "红高粱",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1306505/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5738831615120276,
+            0.8083333333333333,
+            0.47058823529411764
+          ],
+          "_base_color": [
+            0.5777777777777778,
+            0.8898305084745763,
+            0.4627450980392157
+          ],
+          "is_dark": true,
+          "primary_color_dark": "082c4c",
+          "primary_color_light": "0c4372",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p455722535.jpg",
+        "id": "1300960",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1300960/",
+        "orig_title": "Le grand bleu",
+        "playable": false,
+        "rating": 8.7,
+        "rating_count": 119081,
+        "rating_stats": [
+          0.003291876957701061,
+          0.010866553018533603,
+          0.11818006231052813,
+          0.3659525868946347,
+          0.5017089208186024
+        ],
+        "title": "碧海蓝天",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1300960/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9791666666666667,
+            0.4444444444444444,
+            0.49411764705882355
+          ],
+          "_base_color": [
+            0.9509803921568627,
+            0.5573770491803279,
+            0.23921568627450981
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c212e",
+          "primary_color_light": "723245",
+          "secondary_color": "f9f4f6"
+        },
+        "cover": "/fakeApi/assets/images/p2530885114.jpg",
+        "id": "1304624",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1304624/",
+        "orig_title": "旺角卡門",
+        "playable": true,
+        "rating": 7.7,
+        "rating_count": 105235,
+        "rating_stats": [
+          0.002860265120919846,
+          0.02010737872380862,
+          0.2986553903169098,
+          0.48964698056730177,
+          0.18872998527106
+        ],
+        "title": "旺角卡门",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1304624/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.04761904761904776,
+            0.09722222222222227,
+            0.2823529411764706
+          ],
+          "_base_color": [
+            0.08333333333333333,
+            0.08,
+            0.09803921568627451
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4946",
+          "primary_color_light": "726e69",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p1617429340.jpg",
+        "id": "1292697",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1292697/",
+        "orig_title": "Die Hard",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 55759,
+        "rating_stats": [
+          0.001416811635789738,
+          0.008213920622679748,
+          0.1845980021162503,
+          0.5382270126795674,
+          0.2675442529457128
+        ],
+        "title": "虎胆龙威",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1292697/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.7857142857142859,
+            0.09090909090909077,
+            0.30196078431372547
+          ],
+          "_base_color": [
+            0.7291666666666666,
+            0.0808080808080808,
+            0.7764705882352941
+          ],
+          "is_dark": true,
+          "primary_color_dark": "48464c",
+          "primary_color_light": "6c6972",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p1910915447.jpg",
+        "id": "1291859",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1291859/",
+        "orig_title": "The Unbearable Lightness of Being",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 52016,
+        "rating_stats": [
+          0.003787296216548754,
+          0.015879729314057213,
+          0.19188326668717318,
+          0.48538911104275606,
+          0.3030605967394648
+        ],
+        "title": "布拉格之恋",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1291859/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.051282051282051246,
+            0.15853658536585377,
+            0.6431372549019608
+          ],
+          "_base_color": [
+            0.10000000000000005,
+            0.09803921568627458,
+            0.8
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7a72",
+          "primary_color_light": "a59f95",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2196346882.jpg",
+        "id": "1432972",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1432972/",
+        "orig_title": "媽媽再愛我一次",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 38746,
+        "rating_stats": [
+          0.009420327259588086,
+          0.02093119289733134,
+          0.18022505548959894,
+          0.38610437206421305,
+          0.40331905228926856
+        ],
+        "title": "妈妈再爱我一次",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1432972/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u62675594-4.jpg",
+      "id": "62675594",
+      "name": "赫恩曼尼",
+      "url": "https://www.douban.com/people/62675594/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 21,
+    "id": 869,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3508.jpg",
+      "description": "个人最喜欢的一部阿加莎·克里斯蒂小说，电影改编得也非常成功。高潮迭起的三重浪，每死一个受害者都把悬疑推高一丈，最后以酣畅淋漓的集中推理一次性解开谜团，看得过瘾极了！",
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3509.jpg",
+      "subject_ids": "1302100, 1296693, 1292403, 1299265, 1300916, 1498658, 1297268, 1299586, 1293232, 1308456",
+      "title": "2018上映40周年的电影",
+      "user_id": "3540441"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.10344827586206899,
+          0.3972602739726027,
+          0.28627450980392155
+        ],
+        "_base_color": [
+          0.10457516339869284,
+          0.5230769230769231,
+          0.7647058823529411
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4c3d24",
+        "primary_color_light": "725c36",
+        "secondary_color": "f9f8f4"
+      },
+      "cover": "/fakeApi/assets/images/p2366278130.jpg",
+      "directors": [
+        "约翰·古勒米 John Guillermin"
+      ],
+      "id": "1302100",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/1302100/",
+      "orig_title": "Death on the Nile",
+      "playable": true,
+      "rating": 8.5,
+      "rating_count": 52586,
+      "rating_stats": [
+        0.0009127904765526947,
+        0.004773133533640133,
+        0.12448180123987374,
+        0.5084052789715894,
+        0.36142699577834403
+      ],
+      "title": "尼罗河上的惨案",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/1302100/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.10344827586206899,
+            0.3972602739726027,
+            0.28627450980392155
+          ],
+          "_base_color": [
+            0.10457516339869284,
+            0.5230769230769231,
+            0.7647058823529411
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3d24",
+          "primary_color_light": "725c36",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2366278130.jpg",
+        "id": "1302100",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1302100/",
+        "orig_title": "Death on the Nile",
+        "playable": true,
+        "rating": 8.5,
+        "rating_count": 52586,
+        "rating_stats": [
+          0.0009127904765526947,
+          0.004773133533640133,
+          0.12448180123987374,
+          0.5084052789715894,
+          0.36142699577834403
+        ],
+        "title": "尼罗河上的惨案",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1302100/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.02976190476190484,
+            0.14358974358974352,
+            0.7647058823529411
+          ],
+          "_base_color": [
+            0.02109704641350209,
+            0.5602836879432624,
+            0.5529411764705883
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f4138",
+          "primary_color_light": "a55448",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p1387691770.jpg",
+        "id": "1296693",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1296693/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 7.4,
+        "rating_count": 38103,
+        "rating_stats": [
+          0.0035430281080229904,
+          0.022990315723171405,
+          0.3761908511140855,
+          0.46586882922604517,
+          0.13140697582867492
+        ],
+        "title": "醉拳",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1296693/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0,
+            0.08750000000000005,
+            0.3137254901960784
+          ],
+          "_base_color": [
+            0,
+            0.1,
+            0.0784313725490196
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4444",
+          "primary_color_light": "726767",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "/fakeApi/assets/images/p1611118474.jpg",
+        "id": "1292403",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1292403/",
+        "orig_title": "The Deer Hunter",
+        "playable": true,
+        "rating": 8.4,
+        "rating_count": 21834,
+        "rating_stats": [
+          0.0046258129522762665,
+          0.014564440780434186,
+          0.14921681780708987,
+          0.4617110927910598,
+          0.36988183566913985
+        ],
+        "title": "猎鹿人",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1292403/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.031746031746031654,
+            0.13636363636363624,
+            0.6039215686274509
+          ],
+          "_base_color": [
+            0.16666666666666666,
+            0.013100436681222785,
+            0.8980392156862745
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7f7d",
+          "primary_color_light": "a5a5a3",
+          "secondary_color": "f9f9f4"
+        },
+        "cover": "/fakeApi/assets/images/p750794965.jpg",
+        "id": "1299265",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1299265/",
+        "orig_title": "I Spit on Your Grave",
+        "playable": false,
+        "rating": 6.2,
+        "rating_count": 18920,
+        "rating_stats": [
+          0.04127906976744186,
+          0.1790169133192389,
+          0.5130021141649048,
+          0.19439746300211416,
+          0.07230443974630021
+        ],
+        "title": "我唾弃你的坟墓",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1299265/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5804597701149424,
+            0.29896907216494845,
+            0.3803921568627451
+          ],
+          "_base_color": [
+            0.11538461538461538,
+            0.12807881773399013,
+            0.796078431372549
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4942",
+          "primary_color_light": "726e64",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p726824081.jpg",
+        "id": "1300916",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1300916/",
+        "orig_title": "Superman",
+        "playable": true,
+        "rating": 7.6,
+        "rating_count": 13975,
+        "rating_stats": [
+          0.004865831842576028,
+          0.024686940966010734,
+          0.3251520572450805,
+          0.47348837209302325,
+          0.1718067978533095
+        ],
+        "title": "超人",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1300916/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0691056910569106,
+            0.34745762711864414,
+            0.4627450980392157
+          ],
+          "_base_color": [
+            0.07364341085271318,
+            0.3891402714932127,
+            0.8666666666666667
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3b2e",
+          "primary_color_light": "725946",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p1748545302.jpg",
+        "id": "1498658",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1498658/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 6.9,
+        "rating_count": 11047,
+        "rating_stats": [
+          0.005612383452521046,
+          0.047886303973929574,
+          0.5205033040644519,
+          0.345071060016294,
+          0.08092694849280348
+        ],
+        "title": "蛇形刁手",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1498658/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.06249999999999998,
+            0.22695035460992916,
+            0.5529411764705883
+          ],
+          "_base_color": [
+            0.025000000000000005,
+            0.7407407407407407,
+            0.10588235294117647
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f2f21",
+          "primary_color_light": "a53d2a",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2034707962.jpg",
+        "id": "1297268",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1297268/",
+        "orig_title": "Höstsonaten",
+        "playable": true,
+        "rating": 8.9,
+        "rating_count": 9943,
+        "rating_stats": [
+          0.002212611887760233,
+          0.006939555466157096,
+          0.07884944181836467,
+          0.3808709644976365,
+          0.5311274263300815
+        ],
+        "title": "秋日奏鸣曲",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1297268/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.033333333333333326,
+            0.32967032967032966,
+            0.3568627450980392
+          ],
+          "_base_color": [
+            0,
+            0.4090909090909091,
+            0.08627450980392157
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c2d2d",
+          "primary_color_light": "724343",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "/fakeApi/assets/images/p2177127286.jpg",
+        "id": "1299586",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1299586/",
+        "orig_title": "Halloween",
+        "playable": false,
+        "rating": 6.6,
+        "rating_count": 8215,
+        "rating_stats": [
+          0.023371880706025562,
+          0.12501521606816798,
+          0.4915398660986001,
+          0.2713329275715155,
+          0.08874010955569081
+        ],
+        "title": "月光光心慌慌",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1299586/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.12295081967213113,
+            0.34078212290502785,
+            0.7019607843137254
+          ],
+          "_base_color": [
+            0.11607142857142856,
+            0.6021505376344085,
+            0.7294117647058823
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f6832",
+          "primary_color_light": "a58741",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p1612319404.jpg",
+        "id": "1293232",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1293232/",
+        "orig_title": "Days of Heaven",
+        "playable": true,
+        "rating": 7.9,
+        "rating_count": 7514,
+        "rating_stats": [
+          0.003327122704285334,
+          0.019962736225712003,
+          0.21772690976843226,
+          0.49627362257120045,
+          0.26270960873036997
+        ],
+        "title": "天堂之日",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1293232/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0935672514619883,
+            0.6551724137931034,
+            0.3411764705882353
+          ],
+          "_base_color": [
+            0.11654135338345865,
+            0.6273584905660378,
+            0.8313725490196079
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3e1c",
+          "primary_color_light": "725d2a",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p1213955155.jpg",
+        "id": "1308456",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/1308456/",
+        "orig_title": "Game of Death",
+        "playable": true,
+        "rating": 7.7,
+        "rating_count": 8216,
+        "rating_stats": [
+          0.01192794547224927,
+          0.03931353456669912,
+          0.27069133398247325,
+          0.44997565725413824,
+          0.2280915287244401
+        ],
+        "title": "死亡游戏",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/1308456/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u3540441-63.jpg",
+      "id": "3540441",
+      "name": "同志亦凡人中文站",
+      "url": "https://www.douban.com/people/3540441/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

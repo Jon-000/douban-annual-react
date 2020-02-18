@@ -1,0 +1,446 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 52,
+    "id": 853,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3381.jpg",
+      "description": "每次更新都是值得庆祝的节日。它已经变成我的信仰，融入我的生活。愈挫愈勇，策马扬鞭。",
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3410.jpg",
+      "subject_ids": "27194302, 27077785, 26997533, 26961208, 27001001, 27055699, 27007669, 27036735, 26887174, 27016555",
+      "title": "2018评分最高的英美剧(非新剧)",
+      "user_id": "72719769"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.009803921568627416,
+          0.09770114942528733,
+          0.6823529411764706
+        ],
+        "_base_color": [
+          0.9935897435897436,
+          0.3999999999999999,
+          0.2549019607843137
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f4c4e",
+        "primary_color_light": "a56366",
+        "secondary_color": "f9f4f5"
+      },
+      "cover": "/fakeApi/assets/images/p2529096681.jpg",
+      "directors": [
+        "马克·米罗 Mark Mylod",
+        "伊恩·B·麦克唐纳 Iain B. MacDonald",
+        "约翰·威尔斯 John Wells"
+      ],
+      "id": "27194302",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/27194302/",
+      "orig_title": "Shameless",
+      "playable": false,
+      "rating": 9.7,
+      "rating_count": 17737,
+      "rating_stats": [
+        0.0042284490049050005,
+        0.0024243107628122004,
+        0.020803969104132604,
+        0.10937588092687602,
+        0.8631673902012742
+      ],
+      "title": "无耻之徒(美版) 第九季",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27194302/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.009803921568627416,
+            0.09770114942528733,
+            0.6823529411764706
+          ],
+          "_base_color": [
+            0.9935897435897436,
+            0.3999999999999999,
+            0.2549019607843137
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f4c4e",
+          "primary_color_light": "a56366",
+          "secondary_color": "f9f4f5"
+        },
+        "cover": "/fakeApi/assets/images/p2529096681.jpg",
+        "id": "27194302",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27194302/",
+        "orig_title": "Shameless",
+        "playable": false,
+        "rating": 9.7,
+        "rating_count": 17737,
+        "rating_stats": [
+          0.0042284490049050005,
+          0.0024243107628122004,
+          0.020803969104132604,
+          0.10937588092687602,
+          0.8631673902012742
+        ],
+        "title": "无耻之徒(美版) 第九季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27194302/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0555555555555556,
+            0.1636363636363637,
+            0.21568627450980393
+          ],
+          "_base_color": [
+            0.08333333333333333,
+            0.06896551724137931,
+            0.11372549019607843
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4947",
+          "primary_color_light": "726e6a",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2526785183.jpg",
+        "id": "27077785",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27077785/",
+        "orig_title": "Better Call Saul",
+        "playable": false,
+        "rating": 9.5,
+        "rating_count": 19612,
+        "rating_stats": [
+          0.006373648786457271,
+          0.0023455027534162757,
+          0.02564756271670406,
+          0.15521109524780746,
+          0.8104221904956149
+        ],
+        "title": "风骚律师 第四季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27077785/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.01576576576576577,
+            0.9487179487179487,
+            0.3058823529411765
+          ],
+          "_base_color": [
+            0.018115942028985515,
+            0.9583333333333334,
+            0.7529411764705882
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c0b03",
+          "primary_color_light": "721004",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2515458639.jpg",
+        "id": "26997533",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26997533/",
+        "orig_title": "The Good Fight",
+        "playable": false,
+        "rating": 9.5,
+        "rating_count": 28087,
+        "rating_stats": [
+          0.0025278598639940186,
+          0.0023498415637127497,
+          0.02755723288354043,
+          0.20076903905721508,
+          0.7667960266315377
+        ],
+        "title": "傲骨之战 第二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26997533/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.09677419354838708,
+            0.22627737226277364,
+            0.5372549019607843
+          ],
+          "_base_color": [
+            0.10119047619047616,
+            0.5283018867924528,
+            0.20784313725490197
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f653c",
+          "primary_color_light": "a5834e",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2511066066.jpg",
+        "id": "26961208",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26961208/",
+        "orig_title": "Inside No.9",
+        "playable": false,
+        "rating": 9.4,
+        "rating_count": 28575,
+        "rating_stats": [
+          0.0012248468941382328,
+          0.0029396325459317583,
+          0.04,
+          0.24346456692913385,
+          0.7123709536307962
+        ],
+        "title": "9号秘事 第四季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26961208/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.11363636363636366,
+            0.34108527131782945,
+            0.5058823529411764
+          ],
+          "_base_color": [
+            0.1309523809523809,
+            0.35443037974683544,
+            0.30980392156862746
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7552",
+          "primary_color_light": "a5996b",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2535085957.jpg",
+        "id": "27001001",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27001001/",
+        "orig_title": "The Big Bang Theory",
+        "playable": false,
+        "rating": 9.4,
+        "rating_count": 19149,
+        "rating_stats": [
+          0.00454331818893937,
+          0.003603321322262259,
+          0.037182098281894616,
+          0.2001148885059272,
+          0.7545563737009765
+        ],
+        "title": "生活大爆炸 第十二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27001001/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.030864197530864095,
+            0.11637931034482754,
+            0.9098039215686274
+          ],
+          "_base_color": [
+            0.047619047619048095,
+            0.029045643153526986,
+            0.9450980392156862
+          ],
+          "is_dark": false,
+          "primary_color_dark": "f2edeb",
+          "primary_color_light": "f2edeb",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2518967240.jpg",
+        "id": "27055699",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27055699/",
+        "orig_title": "Silicon Valley",
+        "playable": false,
+        "rating": 9.2,
+        "rating_count": 14142,
+        "rating_stats": [
+          0.003111299674727761,
+          0.005798331211992646,
+          0.05126573327676425,
+          0.2689152877952199,
+          0.6709093480412954
+        ],
+        "title": "硅谷 第五季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27055699/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.04687500000000013,
+            0.1641025641025641,
+            0.7647058823529411
+          ],
+          "_base_color": [
+            0.05555555555555556,
+            0.40588235294117647,
+            0.6666666666666666
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f5d4b",
+          "primary_color_light": "a57862",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2515774558.jpg",
+        "id": "27007669",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27007669/",
+        "orig_title": "Santa Clarita Diet",
+        "playable": false,
+        "rating": 9.1,
+        "rating_count": 11424,
+        "rating_stats": [
+          0.0016631652661064425,
+          0.0035014005602240898,
+          0.061274509803921566,
+          0.3229166666666667,
+          0.6106442577030813
+        ],
+        "title": "真爱不死 第二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27007669/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.03888888888888886,
+            0.39999999999999997,
+            0.29411764705882354
+          ],
+          "_base_color": [
+            0.011111111111111108,
+            0.3658536585365854,
+            0.1607843137254902
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3230",
+          "primary_color_light": "724b48",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2520829721.jpg",
+        "id": "27036735",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27036735/",
+        "orig_title": "The Handmaid's Tale",
+        "playable": false,
+        "rating": 9,
+        "rating_count": 28308,
+        "rating_stats": [
+          0.006817860675427441,
+          0.01169280768687297,
+          0.074501907587961,
+          0.2944397343507136,
+          0.612547689699025
+        ],
+        "title": "使女的故事 第二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27036735/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.7142857142857141,
+            0.04430379746835445,
+            0.6196078431372549
+          ],
+          "_base_color": [
+            0.6428571428571429,
+            0.034313725490196095,
+            0.8
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7b7b7f",
+          "primary_color_light": "a0a0a5",
+          "secondary_color": "f4f5f9"
+        },
+        "cover": "/fakeApi/assets/images/p2517077652.jpg",
+        "id": "26887174",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26887174/",
+        "orig_title": "Westworld",
+        "playable": true,
+        "rating": 8.9,
+        "rating_count": 68740,
+        "rating_stats": [
+          0.009892347977887692,
+          0.016467849869071866,
+          0.09201338376491126,
+          0.2958684899621763,
+          0.5857579284259529
+        ],
+        "title": "西部世界 第二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26887174/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.7000000000000001,
+            0.14150943396226418,
+            0.41568627450980394
+          ],
+          "_base_color": [
+            0.6333333333333333,
+            0.24096385542168675,
+            0.3254901960784314
+          ],
+          "is_dark": true,
+          "primary_color_dark": "3a3d4c",
+          "primary_color_light": "575c72",
+          "secondary_color": "f4f5f9"
+        },
+        "cover": "/fakeApi/assets/images/p2540377118.jpg",
+        "id": "27016555",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27016555/",
+        "orig_title": "The Marvelous Mrs. Maisel",
+        "playable": false,
+        "rating": 8.6,
+        "rating_count": 43110,
+        "rating_stats": [
+          0.0028299698445836234,
+          0.009603340292275574,
+          0.11254929250753885,
+          0.4174205520760844,
+          0.4575968452795175
+        ],
+        "title": "了不起的麦瑟尔夫人 第二季",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27016555/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u72719769-5.jpg",
+      "id": "72719769",
+      "name": "清久",
+      "url": "https://www.douban.com/people/72719769/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

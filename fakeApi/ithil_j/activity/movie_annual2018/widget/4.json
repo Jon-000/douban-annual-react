@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 118,
+    "id": 836,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(103, 64, 50, .8)",
+      "background_img": "/fakeApi/assets/images/p3203.jpg",
+      "description": "表面说的是药，深层说的是命。药能治病，命却不由自主，这是影片锲入中国现实的关键，也是引发大众共鸣的核心。盛世危言，却让人能看到希望，仅此一点，就足以让人忽略因商业和审查做出的种种妥协。",
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3344.jpg",
+      "subject_ids": "26752088, 4920389, 26861685, 26698897, 27605698, 26985127, 24773958, 6874741, 26611804, 26366496",
+      "title": "2018最受关注的院线电影",
+      "user_id": "2521825"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.052083333333333336,
+          0.4050632911392405,
+          0.30980392156862746
+        ],
+        "_base_color": [
+          0.033333333333333326,
+          0.5555555555555556,
+          0.1411764705882353
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4c2a22",
+        "primary_color_light": "723f32",
+        "secondary_color": "f9f5f4"
+      },
+      "cover": "/fakeApi/assets/images/p2519070834.jpg",
+      "directors": [
+        "文牧野 Muye Wen"
+      ],
+      "id": "26752088",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26752088/",
+      "orig_title": "",
+      "playable": true,
+      "rating": 9,
+      "rating_count": 1048281,
+      "rating_stats": [
+        0.0034981078546687384,
+        0.0035066933389043585,
+        0.04209462920724501,
+        0.25801192619154595,
+        0.6928886434076359
+      ],
+      "title": "我不是药神",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26752088/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.052083333333333336,
+            0.4050632911392405,
+            0.30980392156862746
+          ],
+          "_base_color": [
+            0.033333333333333326,
+            0.5555555555555556,
+            0.1411764705882353
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c2a22",
+          "primary_color_light": "723f32",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2519070834.jpg",
+        "id": "26752088",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26752088/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 9,
+        "rating_count": 1048285,
+        "rating_stats": [
+          0.003498094506741964,
+          0.0035066799582174693,
+          0.042095422523454974,
+          0.258010941680936,
+          0.6928888613306495
+        ],
+        "title": "我不是药神",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26752088/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6515151515151515,
+            0.34375,
+            0.5019607843137255
+          ],
+          "_base_color": [
+            0.7285714285714285,
+            0.16203703703703698,
+            0.8470588235294118
+          ],
+          "is_dark": true,
+          "primary_color_dark": "726a7f",
+          "primary_color_light": "948aa5",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2516578307.jpg",
+        "id": "4920389",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/4920389/",
+        "orig_title": "Ready Player One",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 737344,
+        "rating_stats": [
+          0.00566628330874056,
+          0.010227248068744033,
+          0.0969696640916587,
+          0.3459986112316639,
+          0.5411381932991928
+        ],
+        "title": "头号玩家",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/4920389/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.06481481481481488,
+            0.1384615384615384,
+            0.5098039215686274
+          ],
+          "_base_color": [
+            0.5833333333333334,
+            0.14705882352941177,
+            0.26666666666666666
+          ],
+          "is_dark": true,
+          "primary_color_dark": "6c767f",
+          "primary_color_light": "8d99a5",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p2514119443.jpg",
+        "id": "26861685",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26861685/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 8.3,
+        "rating_count": 629976,
+        "rating_stats": [
+          0.009632112969382961,
+          0.01619744244225177,
+          0.11620283947324977,
+          0.3717951160044192,
+          0.48617248911069627
+        ],
+        "title": "红海行动",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26861685/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0480225988700565,
+            0.401360544217687,
+            0.5764705882352941
+          ],
+          "_base_color": [
+            0.022988505747126447,
+            0.4233576642335766,
+            0.5372549019607843
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f5049",
+          "primary_color_light": "a5695f",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2511355624.jpg",
+        "id": "26698897",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26698897/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 6.7,
+        "rating_count": 553139,
+        "rating_stats": [
+          0.031203729984687394,
+          0.07742176921171713,
+          0.3711164824754718,
+          0.3662244029077682,
+          0.15403361542035546
+        ],
+        "title": "唐人街探案2",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26698897/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.1317829457364341,
+            0.6581632653061223,
+            0.7686274509803922
+          ],
+          "_base_color": [
+            0.12235067437379576,
+            0.7238493723849373,
+            0.9372549019607843
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f6623",
+          "primary_color_light": "a5852d",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2529206747.jpg",
+        "id": "27605698",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27605698/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 6.5,
+        "rating_count": 600629,
+        "rating_stats": [
+          0.03556438333813386,
+          0.09655877421836108,
+          0.3812286786019323,
+          0.32758158530473885,
+          0.1590665785368339
+        ],
+        "title": "西虹市首富",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27605698/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.16666666666666666,
+            0.1374045801526717,
+            0.5137254901960784
+          ],
+          "_base_color": [
+            0.45098039215686275,
+            0.2394366197183099,
+            0.2784313725490196
+          ],
+          "is_dark": true,
+          "primary_color_dark": "607f76",
+          "primary_color_light": "7ea59a",
+          "secondary_color": "f4f9f8"
+        },
+        "cover": "/fakeApi/assets/images/p2529571873.jpg",
+        "id": "26985127",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26985127/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 7.1,
+        "rating_count": 581233,
+        "rating_stats": [
+          0.020227688379703148,
+          0.05241443620716649,
+          0.297988930428933,
+          0.4308323856353648,
+          0.19853655934883258
+        ],
+        "title": "一出好戏",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26985127/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9710144927536232,
+            0.5542168674698795,
+            0.3254901960784314
+          ],
+          "_base_color": [
+            0.018018018018018018,
+            0.5522388059701492,
+            0.788235294117647
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c2622",
+          "primary_color_light": "723a33",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2517753454.jpg",
+        "id": "24773958",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/24773958/",
+        "orig_title": "Avengers: Infinity War",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 527141,
+        "rating_stats": [
+          0.010048544886472499,
+          0.018137462272902315,
+          0.15164443668771732,
+          0.40442879609060955,
+          0.4157407600622983
+        ],
+        "title": "复仇者联盟3：无限战争",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/24773958/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.10185185185185186,
+            0.72,
+            0.19607843137254902
+          ],
+          "_base_color": [
+            0.08333333333333333,
+            0.6956521739130435,
+            0.09019607843137255
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3117",
+          "primary_color_light": "724a22",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2507572275.jpg",
+        "id": "6874741",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/6874741/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 7.6,
+        "rating_count": 460376,
+        "rating_stats": [
+          0.018443619997567207,
+          0.04611013606269658,
+          0.21750699428293396,
+          0.39678219542287174,
+          0.32115705423393054
+        ],
+        "title": "无问西东",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/6874741/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9523809523809524,
+            0.13207547169811326,
+            0.20784313725490197
+          ],
+          "_base_color": [
+            0.7916666666666665,
+            0.1081081081081081,
+            0.1450980392156863
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4a444c",
+          "primary_color_light": "6f6672",
+          "secondary_color": "f8f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2510081688.jpg",
+        "id": "26611804",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26611804/",
+        "orig_title": "Three Billboards Outside Ebbing, Missouri",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 434773,
+        "rating_stats": [
+          0.0030360670970828456,
+          0.008050177908931788,
+          0.09448838819337907,
+          0.4259418133140742,
+          0.46848355348653203
+        ],
+        "title": "三块广告牌",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26611804/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.022012578616352214,
+            0.5145631067961165,
+            0.403921568627451
+          ],
+          "_base_color": [
+            0.02873563218390805,
+            0.725,
+            0.1568627450980392
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c1e15",
+          "primary_color_light": "722d1f",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2526297221.jpg",
+        "id": "26366496",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26366496/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 7,
+        "rating_count": 437016,
+        "rating_stats": [
+          0.03541289106119684,
+          0.08307704981053325,
+          0.3528520694894466,
+          0.3617441924323137,
+          0.1669137972065096
+        ],
+        "title": "邪不压正",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26366496/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u2521825-70.jpg",
+      "id": "2521825",
+      "name": "风间隼",
+      "url": "https://www.douban.com/people/fengjiansun/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

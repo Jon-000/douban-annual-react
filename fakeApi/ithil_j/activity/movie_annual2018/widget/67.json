@@ -1,0 +1,23 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 0,
+    "id": 920,
+    "kind": 9,
+    "kind_cn": "结束页",
+    "kind_str": "end_page",
+    "page_id": 15,
+    "payload": {
+      "background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3727.jpg",
+      "content": "又是与电影相伴的一年\n感谢你不吝与豆瓣分享评分与感悟\n让更多人在这里遇见好电影\n下一段光影之旅，愿继续与你同行",
+      "html": "<style>\n  .Epilogue {\n    padding: 2rem 1.5rem;\n  }\n  .EpilogueHTML {\n    display: flex;\n    flex-direction: column;\n    align-items: center;\n    flex: 1;\n    justify-content: space-between;\n    max-height: 30em;\n  }\n  .ExchangeLinks {\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: space-between;\n    width: 48rem;\n  }\n  .ExchangeLinks a {\n    font-size: 1.3rem;\n    width: 13em;\n    text-align: center;\n  }\n  .QRCode {\n    width: 20rem;\n  }\n  #QR {\n     position: absolute;\n     top: -9999px;\n     left: -9999px;\n     display: none;\n  }\n  @media (max-width: 36rem) {\n    .Epilogue {\n      padding: 0 1.5rem;\n    }\n    .Epilogue p {\n      font-size: 1.2rem;\n    }\n    .ExchangeLinks {\n      width: 100%;\n      justify-content: center;\n    }\n    .ExchangeLinks a {\n      font-size: 1.25rem;\n    }\n    #QR {\n      display: initial\n    }\n  }\n</style>\n<div class=\"ExchangeLinks\">\n  <a href=\"https://book.douban.com/annual/2018?source=movie_annual\" target=\"_blank\">豆瓣2018年度读书榜单</a>\n  <a href=\"https://music.douban.com/annual/2018?source=movie_annual\" target=\"_blank\">豆瓣2018年度音乐榜单</a>\n  <a href=\"https://movie.douban.com/annual/2017?source=movie_annual\" target=\"_blank\">豆瓣2017年度电影榜单</a>\n  <a href=\"https://movie.douban.com/annual2016/?source=movie_annual\" target=\"_blank\">豆瓣2016年度电影榜单</a>\n<a href=\"http://p.jimingkeji.com.cn/ctrip-db1215/\" target=\"_blank\" class=\"CtripAd\">\n<img src=\"https://img3.doubanio.com/view/activity_page/raw/public/p3452.jpg\" />\n<p>前往<span>#</span>电影中的旅行栖息地<span>#</span></p>\n</a>\n</div>\n<div class=\"QRCode\">\n  <a target=\"_blank\" id=\"ad\" href=\"https://www.douban.com/doubanapp/app?channel=movie_annual2017&direct_dl=1\">\n    <img src=\"https://img1.doubanio.com/view/activity_page/raw/public/p3138.jpg\" >\n  </a>\n</div>\n<div class=\"Brand\">\n  <a target=\"_blank\" id=\"ad\" href=\"https://www.douban.com/doubanapp/app?channel=movie_annual2017&direct_dl=1\"><img class=\"LogoDouban\" src=\"https://img3.doubanio.com/view/activity_page/raw/public/p3455.jpg\" ></a>\n<img class=\"IconUnion\" src=\"https://img1.doubanio.com/view/activity_page/raw/public/p3457.jpg\" >\n<img class=\"LogoCtrip\" src=\"https://img3.doubanio.com/view/activity_page/raw/public/p3456.jpg\" >\n</div>",
+      "mobile_background_img": "https://img1.doubanio.com/view/activity_page/raw/public/p3658.jpg"
+    },
+    "status": 0,
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

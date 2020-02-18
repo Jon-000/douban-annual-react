@@ -1,0 +1,448 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 65,
+    "id": 777,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(121, 92, 78, .8)",
+      "background_img": "/fakeApi/assets/images/p3715.jpg",
+      "description": "也曾经想成为看起来很酷的人，最后还是想做回自己。",
+      "extra": {
+        "showCover": "off"
+      },
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3717.jpg",
+      "subject_ids": "26588314, 26588308, 27113517, 27059130, 11584016, 26842702, 26654269, 26945085, 26654498, 26725678",
+      "title": "2018最受关注的非院线电影",
+      "user_id": "2762059"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.0357142857142857,
+          0.2727272727272727,
+          0.6039215686274509
+        ],
+        "_base_color": [
+          0.05555555555555538,
+          0.04225352112676054,
+          0.8352941176470589
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f7b7a",
+        "primary_color_light": "a5a19e",
+        "secondary_color": "f9f6f4"
+      },
+      "cover": "/fakeApi/assets/images/p2505925363.jpg",
+      "directors": [
+        "格蕾塔·葛韦格 Greta Gerwig"
+      ],
+      "id": "26588314",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26588314/",
+      "orig_title": "Lady Bird",
+      "playable": true,
+      "rating": 7.9,
+      "rating_count": 184468,
+      "rating_stats": [
+        0.0036862762105080555,
+        0.01839885508597697,
+        0.2523635535702669,
+        0.4989374850922653,
+        0.2266138300409827
+      ],
+      "title": "伯德小姐",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26588314/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0357142857142857,
+            0.2727272727272727,
+            0.6039215686274509
+          ],
+          "_base_color": [
+            0.05555555555555538,
+            0.04225352112676054,
+            0.8352941176470589
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7b7a",
+          "primary_color_light": "a5a19e",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2505925363.jpg",
+        "id": "26588314",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26588314/",
+        "orig_title": "Lady Bird",
+        "playable": true,
+        "rating": 7.9,
+        "rating_count": 184468,
+        "rating_stats": [
+          0.0036862762105080555,
+          0.01839885508597697,
+          0.2523635535702669,
+          0.4989374850922653,
+          0.2266138300409827
+        ],
+        "title": "伯德小姐",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26588314/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.0555555555555556,
+            0.24705882352941172,
+            0.6666666666666666
+          ],
+          "_base_color": [
+            0.10526315789473684,
+            0.16521739130434784,
+            0.9019607843137255
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f776a",
+          "primary_color_light": "a59b8a",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2545479945.jpg",
+        "id": "26588308",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26588308/",
+        "orig_title": "Deadpool 2",
+        "playable": false,
+        "rating": 7.3,
+        "rating_count": 247420,
+        "rating_stats": [
+          0.012355508851345889,
+          0.04192062080672541,
+          0.31926683372403203,
+          0.4399320992644087,
+          0.186524937353488
+        ],
+        "title": "死侍2：我爱我家",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26588308/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.05277777777777778,
+            0.5309734513274336,
+            0.44313725490196076
+          ],
+          "_base_color": [
+            0.225,
+            0.4081632653061225,
+            0.19215686274509805
+          ],
+          "is_dark": true,
+          "primary_color_dark": "414c2d",
+          "primary_color_light": "627243",
+          "secondary_color": "f8f9f4"
+        },
+        "cover": "/fakeApi/assets/images/p2518132366.jpg",
+        "id": "27113517",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27113517/",
+        "orig_title": "血觀音",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 157453,
+        "rating_stats": [
+          0.0028579957193575227,
+          0.011501844995014386,
+          0.1550240389195506,
+          0.5033946638044369,
+          0.3272214565616406
+        ],
+        "title": "血观音",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27113517/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.05079365079365078,
+            0.6687898089171975,
+            0.615686274509804
+          ],
+          "_base_color": [
+            0.04342723004694835,
+            0.7888888888888889,
+            0.7058823529411765
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f351a",
+          "primary_color_light": "a54522",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2505928032.jpg",
+        "id": "27059130",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27059130/",
+        "orig_title": "",
+        "playable": false,
+        "rating": 8.7,
+        "rating_count": 157530,
+        "rating_stats": [
+          0.0033390465308195264,
+          0.00878562813432362,
+          0.09521361010601155,
+          0.44286167714086205,
+          0.44980003808798324
+        ],
+        "title": "大佛普拉斯",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27059130/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5555555555555554,
+            0.06818181818181811,
+            0.34509803921568627
+          ],
+          "_base_color": [
+            0.5,
+            0.045454545454545456,
+            0.08627450980392157
+          ],
+          "is_dark": true,
+          "primary_color_dark": "494c4c",
+          "primary_color_light": "6d7272",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "/fakeApi/assets/images/p2500130777.jpg",
+        "id": "11584016",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/11584016/",
+        "orig_title": "신과함께-죄와 벌",
+        "playable": false,
+        "rating": 7.7,
+        "rating_count": 128686,
+        "rating_stats": [
+          0.010925819436457734,
+          0.044775655471457655,
+          0.27120277264038045,
+          0.42559408171829105,
+          0.24750167073341311
+        ],
+        "title": "与神同行：罪与罚",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/11584016/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.8833333333333334,
+            0.13157894736842096,
+            0.2980392156862745
+          ],
+          "_base_color": [
+            0.7424242424242423,
+            0.24999999999999992,
+            0.17254901960784313
+          ],
+          "is_dark": true,
+          "primary_color_dark": "42394c",
+          "primary_color_light": "635672",
+          "secondary_color": "f7f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2520095279.jpg",
+        "id": "26842702",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26842702/",
+        "orig_title": "버닝",
+        "playable": false,
+        "rating": 7.9,
+        "rating_count": 138870,
+        "rating_stats": [
+          0.012774537337077842,
+          0.03193634334269461,
+          0.22121408511557572,
+          0.477633758191114,
+          0.25644127601353783
+        ],
+        "title": "燃烧",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26842702/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9986559139784946,
+            0.8920863309352518,
+            0.5450980392156862
+          ],
+          "_base_color": [
+            0,
+            0.9597989949748744,
+            0.7803921568627451
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f0505",
+          "primary_color_light": "a50606",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "/fakeApi/assets/images/p2508259902.jpg",
+        "id": "26654269",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26654269/",
+        "orig_title": "Ocean's Eight",
+        "playable": true,
+        "rating": 6.7,
+        "rating_count": 143422,
+        "rating_stats": [
+          0.007502335764387611,
+          0.06957788902678808,
+          0.4914866617394821,
+          0.3364058512641017,
+          0.09502726220524048
+        ],
+        "title": "瞒天过海：美人计",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26654269/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6666666666666666,
+            0.06896551724137939,
+            0.3411764705882353
+          ],
+          "_base_color": [
+            0.6190476190476191,
+            0.14893617021276603,
+            0.1843137254901961
+          ],
+          "is_dark": true,
+          "primary_color_dark": "41444c",
+          "primary_color_light": "616672",
+          "secondary_color": "f4f6f9"
+        },
+        "cover": "/fakeApi/assets/images/p2513360824.jpg",
+        "id": "26945085",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26945085/",
+        "orig_title": "곤지암",
+        "playable": false,
+        "rating": 6.1,
+        "rating_count": 107238,
+        "rating_stats": [
+          0.05031798429661127,
+          0.18743355899960834,
+          0.48854883530091947,
+          0.213375855573584,
+          0.06032376582927693
+        ],
+        "title": "昆池岩",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26945085/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.959349593495935,
+            0.6612903225806451,
+            0.7294117647058823
+          ],
+          "_base_color": [
+            0.706989247311828,
+            0.6326530612244898,
+            0.3843137254901961
+          ],
+          "is_dark": true,
+          "primary_color_dark": "422e7f",
+          "primary_color_light": "563ca5",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2523592367.jpg",
+        "id": "26654498",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26654498/",
+        "orig_title": "Love, Simon",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 117968,
+        "rating_stats": [
+          0.0032466431574664314,
+          0.013308693883086939,
+          0.1691899498168995,
+          0.46683846466838463,
+          0.34741624847416247
+        ],
+        "title": "爱你，西蒙",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26654498/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5606060606060606,
+            0.6179775280898876,
+            0.34901960784313724
+          ],
+          "_base_color": [
+            0.5633333333333334,
+            0.7042253521126761,
+            0.2784313725490196
+          ],
+          "is_dark": true,
+          "primary_color_dark": "16384c",
+          "primary_color_light": "215472",
+          "secondary_color": "f4f8f9"
+        },
+        "cover": "/fakeApi/assets/images/p2525020357.jpg",
+        "id": "26725678",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26725678/",
+        "orig_title": "Unfriended: Dark Web",
+        "playable": true,
+        "rating": 7.9,
+        "rating_count": 96123,
+        "rating_stats": [
+          0.008145813176867139,
+          0.026871820480009988,
+          0.22771865214360767,
+          0.5041353266127774,
+          0.23312838758673782
+        ],
+        "title": "解除好友2：暗网",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26725678/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img1.doubanio.com/icon/u2762059-208.jpg",
+      "id": "2762059",
+      "name": "西米仔",
+      "url": "https://www.douban.com/people/kekeximi/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

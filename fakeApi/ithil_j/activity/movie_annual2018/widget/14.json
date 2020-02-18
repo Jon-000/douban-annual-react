@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 21,
+    "id": 841,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(129, 153, 148, .8)",
+      "background_img": "/fakeApi/assets/images/p3733.jpg",
+      "description": "拉扎罗无疑是本世纪最伟大的银幕形象之一，他对世间一切都不清楚不明白，但却从不困惑不迷惘。他的淳朴成为他蠢笨的罪证，却又如镜子一般照出旁人的丑恶。",
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3734.jpg",
+      "subject_ids": "27072795, 26781703, 26346327, 3036465, 27098888, 26872545, 26894602, 26979199, 26610229, 30162520",
+      "title": "2018评分最高的欧洲电影",
+      "user_id": "duduxiongzhifu"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.31250000000000006,
+          0.12307692307692297,
+          0.5098039215686274
+        ],
+        "_base_color": [
+          0.46236559139784944,
+          0.20129870129870123,
+          0.6039215686274509
+        ],
+        "is_dark": true,
+        "primary_color_dark": "657f79",
+        "primary_color_light": "84a59e",
+        "secondary_color": "f4f9f8"
+      },
+      "cover": "/fakeApi/assets/images/p2521583093.jpg",
+      "directors": [
+        "爱丽丝·洛尔瓦彻 Alice Rohrwacher"
+      ],
+      "id": "27072795",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/27072795/",
+      "orig_title": "Lazzaro felice",
+      "playable": true,
+      "rating": 8.6,
+      "rating_count": 49079,
+      "rating_stats": [
+        0.006031092728050694,
+        0.01395708959025245,
+        0.11059720043195664,
+        0.4193646977322276,
+        0.4500499195175126
+      ],
+      "title": "幸福的拉扎罗",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/27072795/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.31250000000000006,
+            0.12307692307692297,
+            0.5098039215686274
+          ],
+          "_base_color": [
+            0.46236559139784944,
+            0.20129870129870123,
+            0.6039215686274509
+          ],
+          "is_dark": true,
+          "primary_color_dark": "657f79",
+          "primary_color_light": "84a59e",
+          "secondary_color": "f4f9f8"
+        },
+        "cover": "/fakeApi/assets/images/p2521583093.jpg",
+        "id": "27072795",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27072795/",
+        "orig_title": "Lazzaro felice",
+        "playable": true,
+        "rating": 8.6,
+        "rating_count": 49075,
+        "rating_stats": [
+          0.006031584309730005,
+          0.013958227203260317,
+          0.11058583800305655,
+          0.41935812531839023,
+          0.45006622516556294
+        ],
+        "title": "幸福的拉扎罗",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27072795/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.4930555555555556,
+            0.18461538461538451,
+            0.5098039215686274
+          ],
+          "_base_color": [
+            0.5158730158730159,
+            0.24137931034482754,
+            0.6823529411764706
+          ],
+          "is_dark": true,
+          "primary_color_dark": "607c7f",
+          "primary_color_light": "7da1a5",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "/fakeApi/assets/images/p2510209986.jpg",
+        "id": "26781703",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26781703/",
+        "orig_title": "God's Own Country",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 25210,
+        "rating_stats": [
+          0.0033716779055930186,
+          0.013566045220150733,
+          0.16937723125743753,
+          0.4573185243950813,
+          0.3563665212217374
+        ],
+        "title": "上帝之国",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26781703/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.043478260869565154,
+            0.23469387755102042,
+            0.3843137254901961
+          ],
+          "_base_color": [
+            0.9333333333333333,
+            0.08474576271186446,
+            0.23137254901960785
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4648",
+          "primary_color_light": "72696c",
+          "secondary_color": "f9f4f6"
+        },
+        "cover": "/fakeApi/assets/images/p2544510784.jpg",
+        "id": "26346327",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26346327/",
+        "orig_title": "The Breadwinner",
+        "playable": true,
+        "rating": 8.4,
+        "rating_count": 43163,
+        "rating_stats": [
+          0.0025716470124875473,
+          0.007622269073048676,
+          0.12288302481291848,
+          0.48821907652387464,
+          0.3787039825776707
+        ],
+        "title": "养家之人",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26346327/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.16091954022988508,
+            0.277511961722488,
+            0.8196078431372549
+          ],
+          "_base_color": [
+            0.4385964912280704,
+            0.09004739336492887,
+            0.8274509803921568
+          ],
+          "is_dark": true,
+          "primary_color_dark": "747f7b",
+          "primary_color_light": "96a5a0",
+          "secondary_color": "f4f9f8"
+        },
+        "cover": "/fakeApi/assets/images/p2513341534.jpg",
+        "id": "3036465",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3036465/",
+        "orig_title": "The Leisure Seeker",
+        "playable": true,
+        "rating": 8.2,
+        "rating_count": 24266,
+        "rating_stats": [
+          0.002390175554273469,
+          0.010467320530783813,
+          0.1494683919887909,
+          0.5016896068573312,
+          0.33598450506882055
+        ],
+        "title": "爱在记忆消逝前",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3036465/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.07575757575757579,
+            0.42857142857142855,
+            0.6039215686274509
+          ],
+          "_base_color": [
+            0.07142857142857141,
+            0.48611111111111105,
+            0.5647058823529412
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f5c41",
+          "primary_color_light": "a57755",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2505204599.jpg",
+        "id": "27098888",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27098888/",
+        "orig_title": "قضية رقم ٢٣",
+        "playable": false,
+        "rating": 8.2,
+        "rating_count": 9361,
+        "rating_stats": [
+          0.005554962076701207,
+          0.012712317060143146,
+          0.1569276786668091,
+          0.5224869137912617,
+          0.30231812840508493
+        ],
+        "title": "羞辱",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27098888/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0,
+            0,
+            0.7333333333333333
+          ],
+          "_base_color": [
+            0,
+            0,
+            0.7176470588235294
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7f7f",
+          "primary_color_light": "a5a5a5",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "/fakeApi/assets/images/p2512322320.jpg",
+        "id": "26872545",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26872545/",
+        "orig_title": "24 فریم",
+        "playable": false,
+        "rating": 8.2,
+        "rating_count": 3587,
+        "rating_stats": [
+          0.017005854474491218,
+          0.02899358795650962,
+          0.16922219124616672,
+          0.4206858098689713,
+          0.3640925564538612
+        ],
+        "title": "24帧",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26872545/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.16666666666666666,
+            0.05,
+            0.1568627450980392
+          ],
+          "_base_color": [
+            0.12121212121212133,
+            0.05913978494623651,
+            0.7294117647058823
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4b47",
+          "primary_color_light": "72706b",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2526989708.jpg",
+        "id": "26894602",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26894602/",
+        "orig_title": "Zimna wojna",
+        "playable": false,
+        "rating": 7.8,
+        "rating_count": 17066,
+        "rating_stats": [
+          0.00351576233446619,
+          0.024375952185632252,
+          0.24774405250205087,
+          0.5166412750498066,
+          0.20772295792804407
+        ],
+        "title": "冷战",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26894602/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9027777777777779,
+            0.08823529411764706,
+            0.5333333333333333
+          ],
+          "_base_color": [
+            0.7878787878787877,
+            0.08661417322834648,
+            0.4980392156862745
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7c747f",
+          "primary_color_light": "a197a5",
+          "secondary_color": "f8f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2527725378.jpg",
+        "id": "26979199",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26979199/",
+        "orig_title": "Plaire, aimer et courir vite",
+        "playable": false,
+        "rating": 7.8,
+        "rating_count": 12315,
+        "rating_stats": [
+          0.0048721071863581,
+          0.02630937880633374,
+          0.25432399512789283,
+          0.4860738936256598,
+          0.2284206252537556
+        ],
+        "title": "喜欢，轻吻，快跑",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26979199/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.07520325203252032,
+            0.5093167701863354,
+            0.6313725490196078
+          ],
+          "_base_color": [
+            0.08472222222222221,
+            0.6122448979591837,
+            0.7686274509803922
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f5931",
+          "primary_color_light": "a57340",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2495377597.jpg",
+        "id": "26610229",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26610229/",
+        "orig_title": "The Square",
+        "playable": true,
+        "rating": 7.7,
+        "rating_count": 24957,
+        "rating_stats": [
+          0.012020675561966582,
+          0.041551468525864485,
+          0.24670433145009416,
+          0.48527467243659095,
+          0.21444885202548383
+        ],
+        "title": "方形",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26610229/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9404761904761905,
+            0.12844036697247702,
+            0.42745098039215684
+          ],
+          "_base_color": [
+            0.042483660130718914,
+            0.23502304147465433,
+            0.8509803921568627
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3f3a",
+          "primary_color_light": "725e57",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2524209517.jpg",
+        "id": "30162520",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30162520/",
+        "orig_title": "Лето",
+        "playable": false,
+        "rating": 7.8,
+        "rating_count": 5450,
+        "rating_stats": [
+          0.006422018348623854,
+          0.031376146788990825,
+          0.258348623853211,
+          0.4836697247706422,
+          0.22018348623853212
+        ],
+        "title": "盛夏",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30162520/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u2201715-15.jpg",
+      "id": "2201715",
+      "name": "嘟嘟熊之父 🧸",
+      "url": "https://www.douban.com/people/duduxiongzhifu/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

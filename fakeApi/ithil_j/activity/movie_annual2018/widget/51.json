@@ -1,0 +1,509 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 76,
+    "id": 865,
+    "kind": 23,
+    "kind_cn": "每月热门条目",
+    "kind_str": "top_subjects",
+    "page_id": 15,
+    "payload": {
+      "has_barrage": "on",
+      "show_divider": "on",
+      "show_divider_txt": "回顾",
+      "subject_ids": "6874741, 26861685, 26611804, 4920389, 24773958, 26416062, 26752088, 26985127, 26336252, 26425063, 3168101, 3878007",
+      "title": "2018每月最热门电影"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.10185185185185186,
+          0.72,
+          0.19607843137254902
+        ],
+        "_base_color": [
+          0.08333333333333333,
+          0.6956521739130435,
+          0.09019607843137255
+        ],
+        "is_dark": true,
+        "primary_color_dark": "4c3117",
+        "primary_color_light": "724a22",
+        "secondary_color": "f9f7f4"
+      },
+      "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507572275.jpg",
+      "directors": [
+        "李芳芳 Fangfang Li"
+      ],
+      "id": "6874741",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/6874741/",
+      "orig_title": "",
+      "playable": true,
+      "rating": 7.6,
+      "rating_count": 460382,
+      "rating_stats": [
+        0.01844337962822178,
+        0.04611170723442706,
+        0.21751067591695591,
+        0.3967813685157109,
+        0.32115286870468435
+      ],
+      "title": "无问西东",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/6874741/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.10185185185185186,
+            0.72,
+            0.19607843137254902
+          ],
+          "_base_color": [
+            0.08333333333333333,
+            0.6956521739130435,
+            0.09019607843137255
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3117",
+          "primary_color_light": "724a22",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507572275.jpg",
+        "id": "6874741",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/6874741/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 7.6,
+        "rating_count": 460376,
+        "rating_stats": [
+          0.018443619997567207,
+          0.04611013606269658,
+          0.21750699428293396,
+          0.39678219542287174,
+          0.32115705423393054
+        ],
+        "title": "无问西东",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/6874741/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.06481481481481488,
+            0.1384615384615384,
+            0.5098039215686274
+          ],
+          "_base_color": [
+            0.5833333333333334,
+            0.14705882352941177,
+            0.26666666666666666
+          ],
+          "is_dark": true,
+          "primary_color_dark": "6c767f",
+          "primary_color_light": "8d99a5",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2514119443.jpg",
+        "id": "26861685",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26861685/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 8.3,
+        "rating_count": 629976,
+        "rating_stats": [
+          0.009632112969382961,
+          0.01619744244225177,
+          0.11620283947324977,
+          0.3717951160044192,
+          0.48617248911069627
+        ],
+        "title": "红海行动",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26861685/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9523809523809524,
+            0.13207547169811326,
+            0.20784313725490197
+          ],
+          "_base_color": [
+            0.7916666666666665,
+            0.1081081081081081,
+            0.1450980392156863
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4a444c",
+          "primary_color_light": "6f6672",
+          "secondary_color": "f8f4f9"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2510081688.jpg",
+        "id": "26611804",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26611804/",
+        "orig_title": "Three Billboards Outside Ebbing, Missouri",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 434773,
+        "rating_stats": [
+          0.0030360670970828456,
+          0.008050177908931788,
+          0.09448838819337907,
+          0.4259418133140742,
+          0.46848355348653203
+        ],
+        "title": "三块广告牌",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26611804/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6515151515151515,
+            0.34375,
+            0.5019607843137255
+          ],
+          "_base_color": [
+            0.7285714285714285,
+            0.16203703703703698,
+            0.8470588235294118
+          ],
+          "is_dark": true,
+          "primary_color_dark": "726a7f",
+          "primary_color_light": "948aa5",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2516578307.jpg",
+        "id": "4920389",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/4920389/",
+        "orig_title": "Ready Player One",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 737344,
+        "rating_stats": [
+          0.00566628330874056,
+          0.010227248068744033,
+          0.0969696640916587,
+          0.3459986112316639,
+          0.5411381932991928
+        ],
+        "title": "头号玩家",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/4920389/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9710144927536232,
+            0.5542168674698795,
+            0.3254901960784314
+          ],
+          "_base_color": [
+            0.018018018018018018,
+            0.5522388059701492,
+            0.788235294117647
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c2622",
+          "primary_color_light": "723a33",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2517753454.jpg",
+        "id": "24773958",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/24773958/",
+        "orig_title": "Avengers: Infinity War",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 527141,
+        "rating_stats": [
+          0.010048544886472499,
+          0.018137462272902315,
+          0.15164443668771732,
+          0.40442879609060955,
+          0.4157407600622983
+        ],
+        "title": "复仇者联盟3：无限战争",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/24773958/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.25,
+            0.06382978723404262,
+            0.3686274509803922
+          ],
+          "_base_color": [
+            0.3055555555555553,
+            0.08000000000000008,
+            0.29411764705882354
+          ],
+          "is_dark": true,
+          "primary_color_dark": "474c46",
+          "primary_color_light": "6b7269",
+          "secondary_color": "f5f9f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2522069454.jpg",
+        "id": "26416062",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26416062/",
+        "orig_title": "Jurassic World: Fallen Kingdom",
+        "playable": true,
+        "rating": 6.7,
+        "rating_count": 263383,
+        "rating_stats": [
+          0.014556748157625967,
+          0.07535793881913411,
+          0.4654172820569285,
+          0.3426492977906699,
+          0.10201873317564156
+        ],
+        "title": "侏罗纪世界2",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26416062/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.052083333333333336,
+            0.4050632911392405,
+            0.30980392156862746
+          ],
+          "_base_color": [
+            0.033333333333333326,
+            0.5555555555555556,
+            0.1411764705882353
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c2a22",
+          "primary_color_light": "723f32",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2519070834.jpg",
+        "id": "26752088",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26752088/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 9,
+        "rating_count": 1048285,
+        "rating_stats": [
+          0.003498094506741964,
+          0.0035066799582174693,
+          0.042095422523454974,
+          0.258010941680936,
+          0.6928888613306495
+        ],
+        "title": "我不是药神",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26752088/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.16666666666666666,
+            0.1374045801526717,
+            0.5137254901960784
+          ],
+          "_base_color": [
+            0.45098039215686275,
+            0.2394366197183099,
+            0.2784313725490196
+          ],
+          "is_dark": true,
+          "primary_color_dark": "607f76",
+          "primary_color_light": "7ea59a",
+          "secondary_color": "f4f9f8"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529571873.jpg",
+        "id": "26985127",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26985127/",
+        "orig_title": "",
+        "playable": true,
+        "rating": 7.1,
+        "rating_count": 581233,
+        "rating_stats": [
+          0.020227688379703148,
+          0.05241443620716649,
+          0.297988930428933,
+          0.4308323856353648,
+          0.19853655934883258
+        ],
+        "title": "一出好戏",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26985127/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0,
+            0.21714285714285717,
+            0.6862745098039216
+          ],
+          "_base_color": [
+            0.7692307692307692,
+            0.5531914893617021,
+            0.1843137254901961
+          ],
+          "is_dark": true,
+          "primary_color_dark": "64387f",
+          "primary_color_light": "824aa5",
+          "secondary_color": "f7f4f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529365085.jpg",
+        "id": "26336252",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26336252/",
+        "orig_title": "Mission: Impossible - Fallout",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 355125,
+        "rating_stats": [
+          0.003086237240408307,
+          0.011821189721928898,
+          0.16031819781766984,
+          0.4721407954945442,
+          0.3526335797254488
+        ],
+        "title": "碟中谍6：全面瓦解",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26336252/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5476190476190478,
+            0.20388349514563103,
+            0.403921568627451
+          ],
+          "_base_color": [
+            0.04761904761904765,
+            0.10714285714285719,
+            0.7686274509803922
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4644",
+          "primary_color_light": "726966",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2535260806.jpg",
+        "id": "26425063",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26425063/",
+        "orig_title": "無雙",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 535271,
+        "rating_stats": [
+          0.003861595341425185,
+          0.012358226020090757,
+          0.14097158261889772,
+          0.5032647014316113,
+          0.33954389458797507
+        ],
+        "title": "无双",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26425063/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5512820512820512,
+            0.2574257425742574,
+            0.396078431372549
+          ],
+          "_base_color": [
+            0.561904761904762,
+            0.5555555555555556,
+            0.24705882352941178
+          ],
+          "is_dark": true,
+          "primary_color_dark": "223c4c",
+          "primary_color_light": "325b72",
+          "secondary_color": "f4f8f9"
+        },
+        "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537158013.jpg",
+        "id": "3168101",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3168101/",
+        "orig_title": "Venom",
+        "playable": true,
+        "rating": 7.2,
+        "rating_count": 485146,
+        "rating_stats": [
+          0.0066763407304192965,
+          0.03479158851149963,
+          0.319582146405412,
+          0.45077976526653835,
+          0.18817015908613077
+        ],
+        "title": "毒液：致命守护者",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3168101/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5625,
+            0.5,
+            0.4392156862745098
+          ],
+          "_base_color": [
+            0.5777777777777778,
+            0.6,
+            0.19607843137254902
+          ],
+          "is_dark": true,
+          "primary_color_dark": "1e374c",
+          "primary_color_light": "2d5272",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541280047.jpg",
+        "id": "3878007",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/3878007/",
+        "orig_title": "Aquaman",
+        "playable": true,
+        "rating": 7.7,
+        "rating_count": 511615,
+        "rating_stats": [
+          0.008887542390273936,
+          0.030665637246757815,
+          0.219041662187387,
+          0.42242115653372164,
+          0.3189840016418596
+        ],
+        "title": "海王",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/3878007/"
+      }
+    ]
+  },
+  "status": {
+    "code": 200
+  }
+}

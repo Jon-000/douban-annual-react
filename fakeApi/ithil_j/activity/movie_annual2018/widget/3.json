@@ -1,0 +1,64 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 1,
+    "id": 878,
+    "kind": 2,
+    "kind_cn": "台词",
+    "kind_str": "dialogue",
+    "page_id": 15,
+    "payload": {
+      "background_img": "/fakeApi/assets/images/p3713.jpg",
+      "has_barrage": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3785.jpg",
+      "subject_id": "4920389",
+      "text": "谢谢你玩我的游戏。"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.6515151515151515,
+          0.34375,
+          0.5019607843137255
+        ],
+        "_base_color": [
+          0.7285714285714285,
+          0.16203703703703698,
+          0.8470588235294118
+        ],
+        "is_dark": true,
+        "primary_color_dark": "726a7f",
+        "primary_color_light": "948aa5",
+        "secondary_color": "f6f4f9"
+      },
+      "cover": "/fakeApi/assets/images/p2516578307.jpg",
+      "directors": [
+        "史蒂文·斯皮尔伯格 Steven Spielberg"
+      ],
+      "id": "4920389",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/4920389/",
+      "orig_title": "Ready Player One",
+      "playable": true,
+      "rating": 8.7,
+      "rating_count": 737340,
+      "rating_stats": [
+        0.00566631404779342,
+        0.010227303550600808,
+        0.09697019014294626,
+        0.3459964195622101,
+        0.5411397726964494
+      ],
+      "title": "头号玩家",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/4920389/"
+    },
+    "subjects": []
+  },
+  "status": {
+    "code": 200
+  }
+}

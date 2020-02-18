@@ -1,0 +1,446 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 220,
+    "id": 834,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(67, 57, 94, .8)",
+      "background_img": "/fakeApi/assets/images/p3765.jpg",
+      "description": "斯皮尔伯格把他对电影的梦想、热心、爱与情怀，浓缩到这部片子，通过极具年代感的经典电影和角色，又并茂高科技的现代游戏闯关，他拿手的、专注的、想诉说的都在这里给影迷情倾盆呈现。",
+      "has_barrage": "on",
+      "left": "on",
+      "mobile_background_img": "/fakeApi/assets/images/p3809.jpg",
+      "show_divider": "off",
+      "subject_ids": "4920389, 26611804, 27622447, 26787574, 27072795, 27615441, 26654498, 26683421, 26336252, 26990609",
+      "title": "2018评分最高的外语电影",
+      "user_id": "1005928"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.6515151515151515,
+          0.34375,
+          0.5019607843137255
+        ],
+        "_base_color": [
+          0.7285714285714285,
+          0.16203703703703698,
+          0.8470588235294118
+        ],
+        "is_dark": true,
+        "primary_color_dark": "726a7f",
+        "primary_color_light": "948aa5",
+        "secondary_color": "f6f4f9"
+      },
+      "cover": "/fakeApi/assets/images/p2516578307.jpg",
+      "directors": [
+        "史蒂文·斯皮尔伯格 Steven Spielberg"
+      ],
+      "id": "4920389",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/4920389/",
+      "orig_title": "Ready Player One",
+      "playable": true,
+      "rating": 8.7,
+      "rating_count": 737340,
+      "rating_stats": [
+        0.00566631404779342,
+        0.010227303550600808,
+        0.09697019014294626,
+        0.3459964195622101,
+        0.5411397726964494
+      ],
+      "title": "头号玩家",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/4920389/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.6515151515151515,
+            0.34375,
+            0.5019607843137255
+          ],
+          "_base_color": [
+            0.7285714285714285,
+            0.16203703703703698,
+            0.8470588235294118
+          ],
+          "is_dark": true,
+          "primary_color_dark": "726a7f",
+          "primary_color_light": "948aa5",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2516578307.jpg",
+        "id": "4920389",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/4920389/",
+        "orig_title": "Ready Player One",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 737344,
+        "rating_stats": [
+          0.00566628330874056,
+          0.010227248068744033,
+          0.0969696640916587,
+          0.3459986112316639,
+          0.5411381932991928
+        ],
+        "title": "头号玩家",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/4920389/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9523809523809524,
+            0.13207547169811326,
+            0.20784313725490197
+          ],
+          "_base_color": [
+            0.7916666666666665,
+            0.1081081081081081,
+            0.1450980392156863
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4a444c",
+          "primary_color_light": "6f6672",
+          "secondary_color": "f8f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2510081688.jpg",
+        "id": "26611804",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26611804/",
+        "orig_title": "Three Billboards Outside Ebbing, Missouri",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 434773,
+        "rating_stats": [
+          0.0030360670970828456,
+          0.008050177908931788,
+          0.09448838819337907,
+          0.4259418133140742,
+          0.46848355348653203
+        ],
+        "title": "三块广告牌",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26611804/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.24074074074074106,
+            0.06666666666666664,
+            0.5294117647058824
+          ],
+          "_base_color": [
+            0.1049382716049383,
+            0.11946902654867253,
+            0.8862745098039215
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7970",
+          "primary_color_light": "a59e91",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2530599636.jpg",
+        "id": "27622447",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27622447/",
+        "orig_title": "万引き家族",
+        "playable": true,
+        "rating": 8.7,
+        "rating_count": 310914,
+        "rating_stats": [
+          0.00367625774329879,
+          0.007445788867661154,
+          0.0889345606823752,
+          0.42507896074155554,
+          0.4748644319651093
+        ],
+        "title": "小偷家族",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27622447/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.10360360360360356,
+            0.23270440251572325,
+            0.6235294117647059
+          ],
+          "_base_color": [
+            0.11437908496732026,
+            0.27419354838709675,
+            0.7294117647058823
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f745c",
+          "primary_color_light": "a59778",
+          "secondary_color": "f9f8f4"
+        },
+        "cover": "/fakeApi/assets/images/p2507709428.jpg",
+        "id": "26787574",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26787574/",
+        "orig_title": "Wonder",
+        "playable": true,
+        "rating": 8.6,
+        "rating_count": 277715,
+        "rating_stats": [
+          0.0013683092378877627,
+          0.00513836126964694,
+          0.08905172569000594,
+          0.402506166393605,
+          0.5019354374088544
+        ],
+        "title": "奇迹男孩",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26787574/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.31250000000000006,
+            0.12307692307692297,
+            0.5098039215686274
+          ],
+          "_base_color": [
+            0.46236559139784944,
+            0.20129870129870123,
+            0.6039215686274509
+          ],
+          "is_dark": true,
+          "primary_color_dark": "657f79",
+          "primary_color_light": "84a59e",
+          "secondary_color": "f4f9f8"
+        },
+        "cover": "/fakeApi/assets/images/p2521583093.jpg",
+        "id": "27072795",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27072795/",
+        "orig_title": "Lazzaro felice",
+        "playable": true,
+        "rating": 8.6,
+        "rating_count": 49075,
+        "rating_stats": [
+          0.006031584309730005,
+          0.013958227203260317,
+          0.11058583800305655,
+          0.41935812531839023,
+          0.45006622516556294
+        ],
+        "title": "幸福的拉扎罗",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27072795/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.5925925925925926,
+            0.46956521739130436,
+            0.45098039215686275
+          ],
+          "_base_color": [
+            0.6016260162601625,
+            0.7192982456140351,
+            0.2235294117647059
+          ],
+          "is_dark": true,
+          "primary_color_dark": "152a4c",
+          "primary_color_light": "204072",
+          "secondary_color": "f4f6f9"
+        },
+        "cover": "/fakeApi/assets/images/p2542848758.jpg",
+        "id": "27615441",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/27615441/",
+        "orig_title": "Searching",
+        "playable": true,
+        "rating": 8.6,
+        "rating_count": 246389,
+        "rating_stats": [
+          0.0016518594580115183,
+          0.00522344747533372,
+          0.09318191964738685,
+          0.45564128268713294,
+          0.444301490732135
+        ],
+        "title": "网络谜踪",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/27615441/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.959349593495935,
+            0.6612903225806451,
+            0.7294117647058823
+          ],
+          "_base_color": [
+            0.706989247311828,
+            0.6326530612244898,
+            0.3843137254901961
+          ],
+          "is_dark": true,
+          "primary_color_dark": "422e7f",
+          "primary_color_light": "563ca5",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2523592367.jpg",
+        "id": "26654498",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26654498/",
+        "orig_title": "Love, Simon",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 117968,
+        "rating_stats": [
+          0.0032466431574664314,
+          0.013308693883086939,
+          0.1691899498168995,
+          0.46683846466838463,
+          0.34741624847416247
+        ],
+        "title": "爱你，西蒙",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26654498/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08333333333333338,
+            0.19230769230769232,
+            0.20392156862745098
+          ],
+          "_base_color": [
+            0.08333333333333333,
+            0.20689655172413793,
+            0.11372549019607843
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c443c",
+          "primary_color_light": "72665b",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2528281606.jpg",
+        "id": "26683421",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26683421/",
+        "orig_title": "공작",
+        "playable": false,
+        "rating": 8.5,
+        "rating_count": 65769,
+        "rating_stats": [
+          0.0025695996594140096,
+          0.009183657954355395,
+          0.13364959175295352,
+          0.47210691967340235,
+          0.3824902309598747
+        ],
+        "title": "特工",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26683421/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0,
+            0.21714285714285717,
+            0.6862745098039216
+          ],
+          "_base_color": [
+            0.7692307692307692,
+            0.5531914893617021,
+            0.1843137254901961
+          ],
+          "is_dark": true,
+          "primary_color_dark": "64387f",
+          "primary_color_light": "824aa5",
+          "secondary_color": "f7f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2529365085.jpg",
+        "id": "26336252",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26336252/",
+        "orig_title": "Mission: Impossible - Fallout",
+        "playable": true,
+        "rating": 8.1,
+        "rating_count": 355125,
+        "rating_stats": [
+          0.003086237240408307,
+          0.011821189721928898,
+          0.16031819781766984,
+          0.4721407954945442,
+          0.3526335797254488
+        ],
+        "title": "碟中谍6：全面瓦解",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26336252/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0,
+            0.041666666666666664,
+            0.18823529411764706
+          ],
+          "_base_color": [
+            0,
+            0,
+            0.07058823529411765
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c4c4c",
+          "primary_color_light": "727272",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "/fakeApi/assets/images/p2505577378.jpg",
+        "id": "26990609",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26990609/",
+        "orig_title": "The Post",
+        "playable": false,
+        "rating": 8.2,
+        "rating_count": 66600,
+        "rating_stats": [
+          0.003303303303303303,
+          0.011411411411411412,
+          0.1656906906906907,
+          0.5136936936936937,
+          0.3059009009009009
+        ],
+        "title": "华盛顿邮报",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26990609/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img1.doubanio.com/icon/u1005928-127.jpg",
+      "id": "1005928",
+      "name": "影志",
+      "url": "https://www.douban.com/people/tjz230/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

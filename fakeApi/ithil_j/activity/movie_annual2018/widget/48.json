@@ -1,0 +1,185 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 43,
+    "id": 863,
+    "kind": 4,
+    "kind_cn": "人物",
+    "kind_str": "person",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(52, 87, 139, .8)",
+      "background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3354.jpg",
+      "has_barrage": "on",
+      "mobile_background_img": "https://img3.doubanio.com/view/activity_page/raw/public/p3485.jpg",
+      "subject_ids": "1274351, 1054440, 1044872, 1021999, 1000304, 1274261, 1341214, 1103667, 1027182, 1274263",
+      "title": "2018最受关注的导演"
+    },
+    "people": [
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1363134033.35.jpg",
+        "id": "1274351",
+        "name": "是枝裕和",
+        "name_en": "Hirokazu Koreeda",
+        "profession": "导演",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1274351/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p34602.jpg",
+        "id": "1054440",
+        "name": "史蒂文·斯皮尔伯格",
+        "name_en": "Steven Spielberg",
+        "profession": "制片人",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1054440/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1372326428.67.jpg",
+        "id": "1044872",
+        "name": "韦斯·安德森",
+        "name_en": "Wes Anderson",
+        "profession": "导演",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1044872/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1517818343.94.jpg",
+        "id": "1021999",
+        "name": "姜文",
+        "name_en": "Wen Jiang",
+        "profession": "演员",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1021999/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1406649730.61.jpg",
+        "id": "1000304",
+        "name": "马丁·麦克唐纳",
+        "name_en": "Martin McDonagh",
+        "profession": "编剧",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1000304/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p38530.jpg",
+        "id": "1274261",
+        "name": "贾樟柯",
+        "name_en": "Zhangke Jia",
+        "profession": "导演",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1274261/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1513848601.01.jpg",
+        "id": "1341214",
+        "name": "忻钰坤",
+        "name_en": "Yukun Xin",
+        "profession": "导演",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1341214/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1362368817.32.jpg",
+        "id": "1103667",
+        "name": "李沧东",
+        "name_en": "Chang-dong Lee",
+        "profession": "制片人",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1103667/"
+      },
+      {
+        "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p4294.jpg",
+        "id": "1027182",
+        "name": "吉尔莫·德尔·托罗",
+        "name_en": "Guillermo del Toro",
+        "profession": "制片人",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1027182/"
+      },
+      {
+        "avatar": "https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p45669.jpg",
+        "id": "1274263",
+        "name": "娄烨",
+        "name_en": "Ye Lou",
+        "profession": "导演",
+        "type": "celebrity",
+        "url": "https://movie.douban.com/celebrity/1274263/"
+      }
+    ],
+    "status": 0,
+    "subject": {
+      "avatar": "https://img3.doubanio.com/view/celebrity/s_ratio_celebrity/public/p1363134033.35.jpg",
+      "color_scheme": {
+        "_avg_color": [
+          0.06547619047619037,
+          0.1555555555555556,
+          0.7058823529411765
+        ],
+        "_base_color": [
+          0.07407407407407436,
+          0.04639175257731957,
+          0.7607843137254902
+        ],
+        "is_dark": true,
+        "primary_color_dark": "7f7c79",
+        "primary_color_light": "a5a19e",
+        "secondary_color": "f9f7f4"
+      },
+      "id": "1274351",
+      "interest": {},
+      "name": "是枝裕和",
+      "name_en": "Hirokazu Koreeda",
+      "playable": false,
+      "profession": "导演",
+      "type": "celebrity",
+      "url": "https://movie.douban.com/celebrity/1274351/",
+      "works": [
+        {
+          "id": 27622447,
+          "title": "小偷家族"
+        },
+        {
+          "id": 25895901,
+          "title": "海街日记"
+        },
+        {
+          "id": 2222996,
+          "title": "步履不停"
+        },
+        {
+          "id": 1292337,
+          "title": "无人知晓"
+        },
+        {
+          "id": 26694988,
+          "title": "比海更深"
+        },
+        {
+          "id": 10571509,
+          "title": "如父如子"
+        },
+        {
+          "id": 4832288,
+          "title": "奇迹"
+        },
+        {
+          "id": 3534824,
+          "title": "空气人偶"
+        },
+        {
+          "id": 26952153,
+          "title": "第三度嫌疑人"
+        },
+        {
+          "id": 1306885,
+          "title": "幻之光"
+        }
+      ]
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}

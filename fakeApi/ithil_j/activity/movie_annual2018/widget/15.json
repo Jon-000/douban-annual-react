@@ -1,0 +1,445 @@
+{
+  "r": 0,
+  "res": {
+    "TYPE": "ActivityPageWidget",
+    "comment_count": 77,
+    "id": 842,
+    "kind": 1,
+    "kind_cn": "Top 10",
+    "kind_str": "top10",
+    "page_id": 15,
+    "payload": {
+      "background_color": "rgba(73, 61, 102, .85)",
+      "background_img": "/fakeApi/assets/images/p3735.jpg",
+      "description": "可爱、风趣、感人，主流银幕上独一无二的出柜故事。它没有负面挣扎，也没有安利说教，而是带着气势如虹的青春气息，让男主的一封封信和旁白见证成长。",
+      "has_barrage": "on",
+      "left": "off",
+      "mobile_background_img": "/fakeApi/assets/images/p3736.jpg",
+      "subject_ids": "26654498, 26781703, 26979199, 26870023, 30172472, 30159390, 26656655, 11524958, 28461121, 26929023",
+      "title": "2018年度LGBT电影",
+      "user_id": "3540441"
+    },
+    "status": 0,
+    "subject": {
+      "color_scheme": {
+        "_avg_color": [
+          0.959349593495935,
+          0.6612903225806451,
+          0.7294117647058823
+        ],
+        "_base_color": [
+          0.706989247311828,
+          0.6326530612244898,
+          0.3843137254901961
+        ],
+        "is_dark": true,
+        "primary_color_dark": "422e7f",
+        "primary_color_light": "563ca5",
+        "secondary_color": "f6f4f9"
+      },
+      "cover": "/fakeApi/assets/images/p2523592367.jpg",
+      "directors": [
+        "格里格·伯兰蒂 Greg Berlanti"
+      ],
+      "id": "26654498",
+      "interest": {},
+      "is_released": true,
+      "m_url": "https://m.douban.com/movie/subject/26654498/",
+      "orig_title": "Love, Simon",
+      "playable": false,
+      "rating": 8.3,
+      "rating_count": 117971,
+      "rating_stats": [
+        0.0032465605954005647,
+        0.013316832102804927,
+        0.1691941239796221,
+        0.46683506963575794,
+        0.3474074136864145
+      ],
+      "title": "爱你，西蒙",
+      "type": "movie",
+      "url": "https://movie.douban.com/subject/26654498/"
+    },
+    "subjects": [
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.959349593495935,
+            0.6612903225806451,
+            0.7294117647058823
+          ],
+          "_base_color": [
+            0.706989247311828,
+            0.6326530612244898,
+            0.3843137254901961
+          ],
+          "is_dark": true,
+          "primary_color_dark": "422e7f",
+          "primary_color_light": "563ca5",
+          "secondary_color": "f6f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2523592367.jpg",
+        "id": "26654498",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26654498/",
+        "orig_title": "Love, Simon",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 117968,
+        "rating_stats": [
+          0.0032466431574664314,
+          0.013308693883086939,
+          0.1691899498168995,
+          0.46683846466838463,
+          0.34741624847416247
+        ],
+        "title": "爱你，西蒙",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26654498/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.4930555555555556,
+            0.18461538461538451,
+            0.5098039215686274
+          ],
+          "_base_color": [
+            0.5158730158730159,
+            0.24137931034482754,
+            0.6823529411764706
+          ],
+          "is_dark": true,
+          "primary_color_dark": "607c7f",
+          "primary_color_light": "7da1a5",
+          "secondary_color": "f4f9f9"
+        },
+        "cover": "/fakeApi/assets/images/p2510209986.jpg",
+        "id": "26781703",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26781703/",
+        "orig_title": "God's Own Country",
+        "playable": false,
+        "rating": 8.3,
+        "rating_count": 25210,
+        "rating_stats": [
+          0.0033716779055930186,
+          0.013566045220150733,
+          0.16937723125743753,
+          0.4573185243950813,
+          0.3563665212217374
+        ],
+        "title": "上帝之国",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26781703/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.9027777777777779,
+            0.08823529411764706,
+            0.5333333333333333
+          ],
+          "_base_color": [
+            0.7878787878787877,
+            0.08661417322834648,
+            0.4980392156862745
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7c747f",
+          "primary_color_light": "a197a5",
+          "secondary_color": "f8f4f9"
+        },
+        "cover": "/fakeApi/assets/images/p2527725378.jpg",
+        "id": "26979199",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26979199/",
+        "orig_title": "Plaire, aimer et courir vite",
+        "playable": false,
+        "rating": 7.8,
+        "rating_count": 12315,
+        "rating_stats": [
+          0.0048721071863581,
+          0.02630937880633374,
+          0.25432399512789283,
+          0.4860738936256598,
+          0.2284206252537556
+        ],
+        "title": "喜欢，轻吻，快跑",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26979199/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.08333333333333333,
+            0.18478260869565213,
+            0.7215686274509804
+          ],
+          "_base_color": [
+            0.0813008130081301,
+            0.22777777777777788,
+            0.7058823529411765
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f7062",
+          "primary_color_light": "a5927f",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2512189868.jpg",
+        "id": "26870023",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26870023/",
+        "orig_title": "환절기",
+        "playable": false,
+        "rating": 7.6,
+        "rating_count": 3056,
+        "rating_stats": [
+          0.004908376963350785,
+          0.03174083769633508,
+          0.3056282722513089,
+          0.46695026178010474,
+          0.19077225130890052
+        ],
+        "title": "换季期",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26870023/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.07083333333333332,
+            0.3448275862068966,
+            0.4549019607843137
+          ],
+          "_base_color": [
+            0.07175925925925926,
+            0.33488372093023255,
+            0.8431372549019608
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3d32",
+          "primary_color_light": "725c4c",
+          "secondary_color": "f9f7f4"
+        },
+        "cover": "/fakeApi/assets/images/p2516560274.jpg",
+        "id": "30172472",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30172472/",
+        "orig_title": "Gewoon Vrienden",
+        "playable": false,
+        "rating": 7.5,
+        "rating_count": 3887,
+        "rating_stats": [
+          0.008747105737072292,
+          0.04888088500128634,
+          0.3393362490352457,
+          0.39979418574736303,
+          0.20324157447903268
+        ],
+        "title": "好朋友",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30172472/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.061111111111111116,
+            0.3846153846153847,
+            0.611764705882353
+          ],
+          "_base_color": [
+            0.0672043010752688,
+            0.3297872340425532,
+            0.7372549019607844
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f6655",
+          "primary_color_light": "a5856f",
+          "secondary_color": "f9f6f4"
+        },
+        "cover": "/fakeApi/assets/images/p2515187596.jpg",
+        "id": "30159390",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/30159390/",
+        "orig_title": "Mario",
+        "playable": false,
+        "rating": 7.3,
+        "rating_count": 6061,
+        "rating_stats": [
+          0.008084474509156905,
+          0.03877247978881373,
+          0.3878897871638344,
+          0.426497277676951,
+          0.13875598086124402
+        ],
+        "title": "我的冠军男友",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/30159390/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.02910052910052911,
+            0.7078651685393258,
+            0.34901960784313724
+          ],
+          "_base_color": [
+            0.009803921568627453,
+            0.6538461538461539,
+            0.10196078431372549
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c1d1a",
+          "primary_color_light": "722c27",
+          "secondary_color": "f9f5f4"
+        },
+        "cover": "/fakeApi/assets/images/p2425765403.jpg",
+        "id": "26656655",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26656655/",
+        "orig_title": "Freak Show",
+        "playable": false,
+        "rating": 7.4,
+        "rating_count": 3193,
+        "rating_stats": [
+          0.013780144065142498,
+          0.05324146570623239,
+          0.3504541183839649,
+          0.39711869715001563,
+          0.18540557469464453
+        ],
+        "title": "怪奇秀",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26656655/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.16666666666666666,
+            0.03750000000000005,
+            0.3137254901960784
+          ],
+          "_base_color": [
+            0.5714285714285713,
+            0.12962962962962957,
+            0.21176470588235294
+          ],
+          "is_dark": true,
+          "primary_color_dark": "42484c",
+          "primary_color_light": "636c72",
+          "secondary_color": "f4f7f9"
+        },
+        "cover": "/fakeApi/assets/images/p2510857223.jpg",
+        "id": "11524958",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/11524958/",
+        "orig_title": "The Happy Prince",
+        "playable": false,
+        "rating": 7.2,
+        "rating_count": 3497,
+        "rating_stats": [
+          0.005433228481555619,
+          0.04718329997140406,
+          0.4252216185301687,
+          0.3920503288533028,
+          0.13011152416356878
+        ],
+        "title": "快乐王子",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/11524958/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.014367816091954033,
+            0.6744186046511628,
+            0.6745098039215687
+          ],
+          "_base_color": [
+            0.9166666666666666,
+            0.17647058823529413,
+            0.13333333333333333
+          ],
+          "is_dark": true,
+          "primary_color_dark": "7f6974",
+          "primary_color_light": "a58897",
+          "secondary_color": "f9f4f7"
+        },
+        "cover": "/fakeApi/assets/images/p2512596311.jpg",
+        "id": "28461121",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/28461121/",
+        "orig_title": "Nina",
+        "playable": false,
+        "rating": 7.1,
+        "rating_count": 2168,
+        "rating_stats": [
+          0.013376383763837638,
+          0.060424354243542436,
+          0.4455719557195572,
+          0.3533210332103321,
+          0.12730627306273062
+        ],
+        "title": "妮娜",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/28461121/"
+      },
+      {
+        "color_scheme": {
+          "_avg_color": [
+            0.16666666666666666,
+            0.2222222222222222,
+            0.17647058823529413
+          ],
+          "_base_color": [
+            0,
+            0.23076923076923078,
+            0.050980392156862744
+          ],
+          "is_dark": true,
+          "primary_color_dark": "4c3a3a",
+          "primary_color_light": "725858",
+          "secondary_color": "f9f4f4"
+        },
+        "cover": "/fakeApi/assets/images/p2403100627.jpg",
+        "id": "26929023",
+        "interest": {},
+        "is_released": true,
+        "m_url": "https://m.douban.com/movie/subject/26929023/",
+        "orig_title": "Sueño en otro idioma",
+        "playable": false,
+        "rating": 7.4,
+        "rating_count": 1522,
+        "rating_stats": [
+          0.003942181340341655,
+          0.049277266754270695,
+          0.35742444152431013,
+          0.44743758212877793,
+          0.14191852825229961
+        ],
+        "title": "梦呓雨林",
+        "type": "movie",
+        "url": "https://movie.douban.com/subject/26929023/"
+      }
+    ],
+    "user": {
+      "avatar": "https://img3.doubanio.com/icon/u3540441-63.jpg",
+      "id": "3540441",
+      "name": "同志亦凡人中文站",
+      "url": "https://www.douban.com/people/3540441/"
+    }
+  },
+  "status": {
+    "code": 200
+  }
+}
