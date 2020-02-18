@@ -4,7 +4,7 @@ import StartPage from './StartPage';
 import Top10Page from './Top10Page/Top10Page';
 import DialoguePage from './Dialogue/DialoguePage';
 import { api_movie2018 } from '../../services/doubanApi';
-import Loading from '../../common/Loading/Loading';
+import Loading from '../common/Loading/Loading';
 import { PageDataContext } from '../pages/Pages';
 
 let _numOfPageRun = 1

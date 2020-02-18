@@ -28,6 +28,7 @@ function reducer(state, action) {
 const Pages =
   (props) => {
     const {
+      innerWidth,
       menuItems
     } = props;
     const [state, dispatch] = useReducer(reducer, pages)
@@ -56,7 +57,7 @@ const Pages =
                   index={index}
                   key={`page-${index}`}
                 // pageData={state.pages[index]}
-                // innerWidth={this.state.innerWidth}
+                innerWidth={innerWidth}
                 ></Page>
                 // </Slide>
               )

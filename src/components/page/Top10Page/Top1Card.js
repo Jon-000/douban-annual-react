@@ -1,8 +1,8 @@
 
 import React from 'react';
 import styled from '@emotion/styled';
-import StarRating, { SvgLinearGradient } from '../../../common/rating/StarRating';
-import { BarRating } from '../../../common/rating/BarRating';
+import StarRating, { SvgLinearGradient } from '../../common/rating/StarRating';
+import { BarRating } from '../../common/rating/BarRating';
 import TopLeftNum from './TopLeftNum';
 
 import hexToRgbA from '../../../utils/hexToRgbA';
