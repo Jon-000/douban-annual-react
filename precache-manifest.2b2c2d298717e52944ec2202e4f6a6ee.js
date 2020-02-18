@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5c61ad9bdd29bb96b16cfb081cbf618",
+    "revision": "ae3cdf16a43ba6309c276f8465b0189c",
     "url": "/douban-annual-react/index.html"
   },
   {
-    "revision": "cd7c23b4f6a151b7978e",
+    "revision": "1667e6ddb3c5b9311455",
     "url": "/douban-annual-react/static/css/main.9e816f58.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/douban-annual-react/static/js/2.01baa67a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cd7c23b4f6a151b7978e",
-    "url": "/douban-annual-react/static/js/main.6e8a270f.chunk.js"
+    "revision": "1667e6ddb3c5b9311455",
+    "url": "/douban-annual-react/static/js/main.a27601d4.chunk.js"
   },
   {
     "revision": "fdeab5dea96608557d73",
