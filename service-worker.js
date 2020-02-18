@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/douban-annual-react/precache-manifest.3e52a8d8ce45a7fa21e6517533390f1b.js"
+  "/douban-annual-react/precache-manifest.64b89508e99308a137aa6a3d35a53bec.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/douban-annual-react/static/css/main.9e816f58.chunk.css",
-    "main.js": "/douban-annual-react/static/js/main.3d6c066c.chunk.js",
-    "main.js.map": "/douban-annual-react/static/js/main.3d6c066c.chunk.js.map",
+    "main.js": "/douban-annual-react/static/js/main.6e8a270f.chunk.js",
+    "main.js.map": "/douban-annual-react/static/js/main.6e8a270f.chunk.js.map",
     "runtime-main.js": "/douban-annual-react/static/js/runtime-main.f97e1c42.js",
     "runtime-main.js.map": "/douban-annual-react/static/js/runtime-main.f97e1c42.js.map",
     "static/js/2.01baa67a.chunk.js": "/douban-annual-react/static/js/2.01baa67a.chunk.js",
     "static/js/2.01baa67a.chunk.js.map": "/douban-annual-react/static/js/2.01baa67a.chunk.js.map",
     "index.html": "/douban-annual-react/index.html",
-    "precache-manifest.3e52a8d8ce45a7fa21e6517533390f1b.js": "/douban-annual-react/precache-manifest.3e52a8d8ce45a7fa21e6517533390f1b.js",
+    "precache-manifest.64b89508e99308a137aa6a3d35a53bec.js": "/douban-annual-react/precache-manifest.64b89508e99308a137aa6a3d35a53bec.js",
     "service-worker.js": "/douban-annual-react/service-worker.js",
     "static/css/main.9e816f58.chunk.css.map": "/douban-annual-react/static/css/main.9e816f58.chunk.css.map",
     "static/js/2.01baa67a.chunk.js.LICENSE.txt": "/douban-annual-react/static/js/2.01baa67a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.f97e1c42.js",
     "static/js/2.01baa67a.chunk.js",
     "static/css/main.9e816f58.chunk.css",
-    "static/js/main.3d6c066c.chunk.js"
+    "static/js/main.6e8a270f.chunk.js"
   ]
 }
